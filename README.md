@@ -42,4 +42,4 @@
 
 # Translating
 
-It is recommended to use **default.lang** contents when creating new language translations but you can also use other available languages.
+It is recommended to use **en_English.lang** contents when creating new language translations but you can also use other available languages.

@@ -2871,3 +2871,105 @@ plugins_btn_pluginsdefopagegeneric === Plugins
 tables_plugins_detailsauthor === Marubuci
 tables_plugins_detailsdesc === Bayani
 tables_plugins_detailsver === Sigar
+form_waserver_secretkeydesc_386 === Ƙirƙiri amintaccen maɓalli na sirri na musamman. Sabar ta WhatsApp za ta yi amfani da wannan don tabbatar da haɗin kai tare da Zender. Don Allah kar a yi amfani da haruffa na musamman!
+system_settings_adminapitoken_title === API ɗin Admin
+system_settings_adminapitoken_desc === Wannan shine alamar tabbatarwa tare da API Admin.
+system_settings_systokenregen_desc === Wannan alamar tana da mahimmanci don tsaron cronjobs, buƙatun WhatsApp, da sauran fasalulluka na tsarin. Kada a raba shi da kowa. Idan kun yi imani da alamar an daidaita, ya kamata ku sake haifar da sabo nan da nan. Bayan sabuntawa, kuna buƙatar sake saita cronjobs ɗin ku kuma sabunta kowane saitunan haɗin gwiwa. Bugu da ƙari, tsarin WhatsApp zai shafi, kuma duk asusun da aka haɗa za su daina aiki har sai an sake haɗa su.
+system_settings_aimod_title === AI Moderation
+system_settings_aimod_desc === Idan an kunna, duk saƙonni da hotuna za su tafi ta hanyar ƙirar daidaita AI na OpenAI don bincika abun ciki mai alamar.
+system_settings_aimod_apikey_title === Buɗe API Key
+system_settings_aimod_apikey_desc === Shigar da OpenAI Apkey. Tsarin AI Moderation na OpenAI kyauta ne.
+response_addaikey_promptshort === Sautin AI ɗin ku ya yi guntu sosai!
+response_addaikey_modelinval === Samfurin ku na AI ba shi da inganci!
+response_addaikey_histothres === Ƙofar tarihin ku na AI ba shi da inganci!
+response_addaikey_histothresless === Ƙofar tarihin AI ɗin ku ba zai iya zama ƙasa da 5 ba!
+response_addaikey_apikeyshort === AI apikey ɗinku gajere ne sosai!
+response_addaikey_success === An ƙara maɓallin AI!
+response_addaiplugin_endpointshort === Ƙarshen plugin ɗin ku ya yi guntu sosai!
+response_addaiplugin_endpointinval === Ƙarshen plugin ɗin ku ba daidai ba ne!
+response_addaiplugin_schemainval === Tsarin plugin ɗin ku ba daidai bane!
+response_addaiplugin_success === AI plugin an ƙara!
+response_editaikey_promptshort === Sautin AI ɗin ku ya yi guntu sosai!
+response_editaikey_modelinval === Samfurin ku na AI ba shi da inganci!
+response_editaikey_histothres === Ƙofar tarihin ku na AI ba shi da inganci!
+response_editaikey_histothresless === Ƙofar tarihin AI ɗin ku ba zai iya zama ƙasa da 5 ba!
+response_editaikey_apikeyshort === AI apikey ɗinku gajere ne sosai!
+response_editaikey_success === An sabunta maɓallin AI!
+response_editaiplugin_endpointshort === Ƙarshen plugin ɗin ku ya yi guntu sosai!
+response_editaiplugin_endpointinval === Ƙarshen plugin ɗin ku ba daidai ba ne!
+response_editaiplugin_schemainval === Tsarin plugin ɗin ku ba daidai bane!
+response_editaiplugin_success === AI plugin an sabunta!
+template_sidebar_ai === Sirrin Artificial
+template_sidebar_ai_keys === Maɓallan API
+template_sidebar_ai_plugins === Plugins
+dashboard_title_aikeys === API Keys
+dashboard_title_aiplugins === AI Plugins
+dasboard_aipage_addkeybtn === Ƙara Maɓallin API
+dasboard_aipage_addpluginbtn === Ƙara Plugin
+form_addautoreply_aiapikey === API Key
+form_addautoreply_aiapikey_desc === Zaɓi apikey AI da kuke son amfani da ita don wannan amsa ta atomatik.
+form_addautoreply_aiplugin === AI Plugins
+form_addautoreply_aiplugin_desc === Zaɓi plugins AI da kuke son amfani da su don wannan amsa ta atomatik.
+form_autoreplymatch_ai === Sirrin Artificial
+widgets_addaikey_title === Ƙara AI API Key
+widgets_addaikey_loader === Ƙara AI API Key
+widgets_addaikey_requirename === Suna
+widgets_addaikey_requiremprompt === Saurin Farko
+widgets_addaikey_requireapikey === Makulli na API
+widgets_editaikey_title === Shirya: Gyara AI API Makullin
+widgets_editaikey_loader === Sabunta AI API Makulli
+widgets_addaiplugin_title === Ƙara Plugin na AI
+widgets_addaiplugin_loader === Fara da kyau AI Plugin
+widgets_addaiplugin_requirename === Suna
+widgets_editaiplugin_title === Gyara Plug-in na AI
+widgets_editaiplugin_loader === Sabunta Plugin AI
+form_addaikey_initailprompt_title === Bayanin Farko
+form_addaikey_initailprompt_desc === Shigar da tambayar farko ga AI. Waɗannan su ne umarnin da AI ya kamata ya bi kafin fara tattaunawa.
+form_addaikey_initailprompt_placeholder === Yi aiki a matsayin wakilin kamfani. Amsar tambayoyin gama gari na masu amfani game da kamfaninmu ta amfani da kayan aikin da ake da su.
+form_addaikey_postprompt_title === Ba a bayar da umarni ba
+form_addaikey_postprompt_desc === Wannan umarni za a haɗa shi da kowane saƙo ta atomatik, yana tabbatar da cewa amsoshin AI suna kasancewa cikin tsari daidai da khararrakin da aka tanada ko batun. Yi amfani da shi don kiyaye tattaunawa mai ma'ana da mai kyau. Bar filin komai don kashe wannan fasalin.
+form_addaikey_postprompt_placeholder === Kada ku ba ni wani bayani game da hanyoyi da fasalulluka na sabis da ba a ambata a cikin ABINDA AKA BAYAR BA.
+form_addaikey_vision_title === Gani
+form_addaikey_vision_desc === Idan an kunna, AI zai amsa hotunan da aka karɓa.
+form_addaikey_model_title === Samfurin
+form_addaikey_model_desc === Zabi samfurin da kake so AI ya yi amfani da shi wajen amsa sakonni.
+form_addaikey_modelsmartest === Mafi wayo
+form_addaikey_modelcheapest === Mafi arha
+form_addaikey_historythreshold_title === Irin Tarihi
+form_addaikey_historythreshold_desc === Shigar da mafi girman adadin saƙonnin tattaunawa kafin AI ta taƙaita shi don adana tokens. An ba da shawarar kimar shine 50.
+form_addaikey_historythreshold_placeholder === 50
+form_addaikey_apikey_title === Mabuɗin API
+form_addaikey_apikey_desc === Mabudin API da ka kirkira daga shafin duba mai ba da sabis na AI naka.
+form_addaiplugin_banner_title === Hankali!
+form_addaiplugin_banner_desc === Kirkirar plugin yana buƙatar wata ƙwarewar lamba mai faɗi. Idan ba kwa da tabbacin abin da kuke yi, don Allah ku tuntubi wani mai haɓaka.
+form_addaiplugin_endpoint_title === Tashar Plugin
+form_addaiplugin_endpoint_desc === Wannan shine URL ɗin da AI zai kira. Dole ne hanyar haɗinku ta yi amfani da hanyar POST kawai don kama bayanan AI!
+form_addaiplugin_schema_title === Tsarin Plugin
+form_addaiplugin_schema_desc === Wannan shine umarni da AI za ta bi lokacin da take amfani da plug-in. Dole ne a kiyaye tsari sosai!
+form_addaiplugin_sample_schema === Misalin Tsari:
+tables_aikeys_created === An kirkira
+tables_aikeys_name === Suna
+tables_aikeys_model === Samfurin
+tables_aikeys_options === Zaɓuɓɓuka
+tables_aiplugins_created === An ƙirƙira
+tables_aiplugins_name === Suna
+tables_aiplugins_options === Zabuka
+js_regenerate_admintoken === Sake Haskaka Maɓallin API na Admin?
+js_regenerate_admintoken_desc === Shin ka tabbata kana son sake ɗaukar maɓallin API admin? Wannan aikin ba ya dawowa baya kuma zai buƙaci ka sabunta maɓallin a cikin aikace-aikacenka!
+form_aikey_provider_title === Mai bayarwa
+form_aikey_provider_desc === Zaɓi mai bayar da AI da kake son amfani da shi don wannan mabuɗin.
+form_aikey_provider_visionoff === Hangen Nesa Ba a Tallafa Masa ba
+response_aimoderation_detected === Mun gano abun cikin da ba daidai ba a cikin saƙonka!
+response_externalcall_failed === Ba za mu iya sarrafa bukatarku a wannan lokacin ba. Don Allah a gwada sake nan gaba.
+form_addaiplugin_pluginname_desc === Sunan plugin.
+form_addaiplugin_pluginname_placeholder === samuLokaci
+response_aiautoreply_mustselaikey === Dole ne ku zaɓi maɓallin API na AI!
+response_autoreply_added_2025 === An ƙara aikin amsa kai tsaye!
+response_hook_updated_2025 === An sabunta aikin hook!
+response_autoreply_updated_2025 === An sabunta aikin amsar ta atomatik!
+response_action_deleted_2025 === An goge aikin!
+form_autoreplymatch_aiplugin_global === Duniya
+form_autoreplymatch_aiplugin_warningsave === Gargadi
+form_autoreplymatch_aiplugin_warningdesc === Tattaunawar AI da ta shafi wannan amsar ta atomatik za ta sake farawa bayan ka ajiye canje-canje!
+form_addaiapikey_transcriptiontitle === Rubutawa
+form_addaiapikey_transcriptiondesc === Idan an kunna, AI za ta fara fassara abin da ke cikin fayilolin sauti ko bidiyo sannan ta bayar da amsa bisa ga fassarar.

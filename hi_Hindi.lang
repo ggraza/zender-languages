@@ -2873,3 +2873,104 @@ plugins_btn_pluginsdefopagegeneric === प्लग-इन
 tables_plugins_detailsauthor === लेखक
 tables_plugins_detailsdesc === विवरण
 tables_plugins_detailsver === संस्करण
+system_settings_adminapitoken_title === एडमिन एपीआई टोकन
+system_settings_adminapitoken_desc === यह एडमिन एपीआई के साथ प्रमाणित करने के लिए टोकन है।
+system_settings_systokenregen_desc === यह टोकन आपके क्रॉनजॉब्स, व्हाट्सएप अनुरोधों और अन्य सिस्टम सुविधाओं की सुरक्षा के लिए महत्वपूर्ण है। इसे किसी के साथ साझा नहीं किया जाना चाहिए। अगर आपको लगता है कि टोकन से समझौता किया गया है, तो आपको तुरंत एक नया टोकन पुनः उत्पन्न करना चाहिए। पुनरुत्पन्न करने के बाद, आपको अपने क्रॉनजॉब्स को फिर से कॉन्फ़िगर करने की आवश्यकता होगी और किसी भी संबंधित सेटिंग्स को अपडेट करना होगा। इसके अतिरिक्त, व्हाट्सएप सिस्टम प्रभावित होगा, और सभी जुड़े खाते तब तक काम नहीं करेंगे जब तक उन्हें फिर से लिंक नहीं किया जाता।
+system_settings_aimod_title === एआई moderation
+system_settings_aimod_desc === यदि सक्षम किया गया, तो सभी संदेशों और छवियों को फ्लैग किए गए सामग्री की जांच के लिए OpenAI के AI मॉडरेशन मॉडल के माध्यम से जाना होगा।
+system_settings_aimod_apikey_title === ओपनएआई एपीआई कुंजी
+system_settings_aimod_apikey_desc === अपने OpenAI API कीवर्ड दर्ज करें। OpenAI का AI मॉडरेशन मॉडल मुफ्त है।
+response_addaikey_promptshort === आपका एआई प्रॉम्प्ट बहुत छोटा है!
+response_addaikey_modelinval === आपका एआई मॉडल अमान्य है!
+response_addaikey_histothres === आपका एआई इतिहास थ्रेशोल्ड अमान्य है!
+response_addaikey_histothresless === आपका एआई इतिहास सीमा 5 से कम नहीं हो सकती!
+response_addaikey_apikeyshort === आपकी AI एपीकी बहुत छोटी है!
+response_addaikey_success === एआई कुंजी जोड़ी गई है!
+response_addaiplugin_endpointshort === आपका प्लगइन एंडपॉइंट बहुत छोटा है!
+response_addaiplugin_endpointinval === आपका प्लगइन एंडपॉइंट अमान्य है!
+response_addaiplugin_schemainval === आपका प्लगइन स्कीमा अमान्य है!
+response_addaiplugin_success === एआई प्लगइन जोड़ा गया है!
+response_editaikey_promptshort === आपका एआई प्रॉम्प्ट बहुत छोटा है!
+response_editaikey_modelinval === आपका एआई मॉडल अमान्य है!
+response_editaikey_histothres === आपका एआई इतिहास सीमा अमान्य है!
+response_editaikey_histothresless === आपका एआई इतिहास थ्रेशोल्ड 5 से कम नहीं हो सकता!
+response_editaikey_apikeyshort === आपकी एआई एपीआई कुंजी बहुत छोटी है!
+response_editaikey_success === AI कुंजी अपडेट की गई है!
+response_editaiplugin_endpointshort === आपका प्लगइन एंडपॉइंट बहुत छोटा है!
+response_editaiplugin_endpointinval === आपका प्लगइन अंत बिंदु अमान्य है!
+response_editaiplugin_schemainval === आपका प्लगइन स्कीमा अमान्य है!
+response_editaiplugin_success === एआई प्लगइन को अपडेट कर दिया गया है!
+template_sidebar_ai === कृत्रिम बुद्धिमत्ता
+template_sidebar_ai_keys === एपीआई कुंजियाँ
+template_sidebar_ai_plugins === प्लगइन्स
+dashboard_title_aikeys === एआई एपीआई कुंजी
+dashboard_title_aiplugins === एआई प्लगइन
+dasboard_aipage_addkeybtn === एपीआई कुंजी जोड़ें
+dasboard_aipage_addpluginbtn === प्लगइन जोड़ें
+form_addautoreply_aiapikey === एआई एपीआई कुंजी
+form_addautoreply_aiapikey_desc === इस ऑटो-रिप्लाई के लिए आप जिस AI एपीआई की कुंजी का उपयोग करना चाहते हैं, उसे चुनें।
+form_addautoreply_aiplugin === एआई प्लगइन्स
+form_addautoreply_aiplugin_desc === उस स्वचालित उत्तर के लिए AI प्लगइन्स का चयन करें जिन्हें आप उपयोग करना चाहते हैं।
+form_autoreplymatch_ai === कृत्रिम बुद्धिमत्ता
+widgets_addaikey_title === एआई एपीआई कुंजी जोड़ें
+widgets_addaikey_loader === एआई एपीआई कुंजी जोड़ना
+widgets_addaikey_requirename === नाम
+widgets_addaikey_requiremprompt === शुरुआती संकेत
+widgets_addaikey_requireapikey === एपीआई कुंजी
+widgets_editaikey_title === एडिट एआई एपीआई कुंजी
+widgets_editaikey_loader === एआई एपीआई कुंजी अपडेट करना
+widgets_addaiplugin_title === एआई प्लगइन जोड़ें
+widgets_addaiplugin_loader === एआई प्लगइन जोड़ना
+widgets_addaiplugin_requirename === नाम
+widgets_editaiplugin_title === एडिट एआई प्लगिन
+widgets_editaiplugin_loader === एआई प्लगइन अपडेट कर रहे हैं
+form_addaikey_initailprompt_title === प्रारंभिक संकेत
+form_addaikey_initailprompt_desc === प्रारंभिक संकेत दर्ज करें जो एआई का अनुसरण करना है। ये वे निर्देश हैं जिनका एआई बातचीत शुरू करने से पहले पालन करना चाहिए।
+form_addaikey_initailprompt_placeholder === उदाहरण के लिए, एक कंपनी के प्रतिनिधि के रूप में कार्य करें। हमारे कंपनी के बारे में उपयोगकर्ताओं के सामान्य प्रश्नों के जवाब दें जो उपलब्ध साधनों का उपयोग करके।
+form_addaikey_postprompt_title === पोस्ट प्रॉम्प्ट
+form_addaikey_postprompt_desc === इस प्रॉम्प्ट को प्रत्येक संदेश में स्वचालित रूप से जोड़ा जाएगा, यह सुनिश्चित करते हुए कि एआई के उत्तर निर्दिष्ट संदर्भ या विषय के साथ सख्ती से गठबंधन में रहें। इसका उपयोग लगातार और केंद्रित संवाद बनाए रखने के लिए करें। इस क्षेत्र को खाली छोड़ने पर इस सुविधा को बंद कर दिया जाएगा।
+form_addaikey_postprompt_placeholder === उदाहरण: मुझे उन प्रक्रियाओं और सेवा सुविधाओं के बारे में कोई जानकारी न दें जो दिए गए संदर्भ में नहीं उल्लिखित हैं।
+form_addaikey_vision_title === दृष्टि
+form_addaikey_vision_desc === यदि सक्षम किया गया, तो एआई प्राप्त छवियों का उत्तर देगा।
+form_addaikey_model_title === मॉडल
+form_addaikey_model_desc === आप उस मॉडल का चयन करें जिसे आप AI द्वारा संदेशों का उत्तर देने के लिए उपयोग में लाना चाहते हैं।
+form_addaikey_modelsmartest === सबसे बुद्धिमान
+form_addaikey_modelcheapest === सस्ता
+form_addaikey_historythreshold_title === इतिहास threshold
+form_addaikey_historythreshold_desc === AI द्वारा संक्षेपित किए जाने से पहले अधिकतम वार्तालाप संदेशों की संख्या दर्ज करें ताकि टोकन बच सकें। अनुशंसित मान 50 है।
+form_addaikey_historythreshold_placeholder === उदाहरण: 50
+form_addaikey_apikey_title === एपीआई कुंजी
+form_addaikey_apikey_desc === आपके एआई प्रदाता डैशबोर्ड से बनाई गई एपीआई कुंजी।
+form_addaiplugin_banner_title === सावधान!
+form_addaiplugin_banner_desc === एक प्लगइन बनाने के लिए कुछ व्यापक कोडिंग ज्ञान की आवश्यकता होती है। यदि आप सुनिश्चित नहीं हैं कि आप क्या कर रहे हैं, तो कृपया एक डेवलपर से परामर्श करें।
+form_addaiplugin_endpoint_title === प्लगइन एंडपॉइंट
+form_addaiplugin_endpoint_desc === यह वह यूआरएल है जिसे एआई द्वारा आमंत्रित किया जाएगा। आपका एंडपॉइंट एआई मापदंडों को कैप्चर करने के लिए सख्ती से POST विधि का उपयोग करना चाहिए!
+form_addaiplugin_schema_title === प्लगइन स्कीमा
+form_addaiplugin_schema_desc === यह वो निर्देश हैं जिनका एआई प्लगइन का उपयोग करते समय पालन करेगा। प्रारूप का सख्ती से पालन किया जाना चाहिए!
+form_addaiplugin_sample_schema === नमूना स्कीमा:
+tables_aikeys_created === बनाया गया
+tables_aikeys_name === नाम
+tables_aikeys_model === मॉडल
+tables_aikeys_options === विकल्प
+tables_aiplugins_created === निर्मित
+tables_aiplugins_name === नाम
+tables_aiplugins_options === विकल्प
+js_regenerate_admintoken === ऐडमिन एपीआई टोकन को फिर से उत्पन्न करें?
+js_regenerate_admintoken_desc === क्या आप सुनिश्चित हैं कि आप प्रशासनिक एपीआई टोकन को पुनः उत्पन्न करना चाहते हैं? यह क्रिया अपरिवर्तनीय है और आपको अपने अनुप्रयोगों में टोकन को अपडेट करने की आवश्यकता पड़ेगी!
+form_aikey_provider_title === प्रदाता
+form_aikey_provider_desc === इस कुंजी के लिए आप जिस एआई प्रदाता का उपयोग करना चाहते हैं, उसे चुनें।
+form_aikey_provider_visionoff === दृष्टि असमर्थित
+response_aimoderation_detected === हमने आपके संदेश में अनुपयुक्त सामग्री का पता लगाया है!
+response_externalcall_failed === हम इस समय आपके अनुरोध को प्रक्रिया में नहीं ला पा रहे हैं। कृपया बाद में पुनः प्रयास करें।
+form_addaiplugin_pluginname_desc === प्लगइन नाम।
+form_addaiplugin_pluginname_placeholder === उदाहरण: getTime
+response_aiautoreply_mustselaikey === आपको एक AI API कुंजी का चयन करना होगा!
+response_autoreply_added_2025 === ऑटोरेप्लाई क्रिया जोड़ दी गई है!
+response_hook_updated_2025 === हुक क्रिया को अपडेट किया गया है!
+response_autoreply_updated_2025 === ऑटोरिप्लाई क्रिया को अपडेट किया गया है!
+response_action_deleted_2025 === क्रिया हटा दी गई है!
+form_autoreplymatch_aiplugin_global === वैश्विक
+form_autoreplymatch_aiplugin_warningsave === चेतावनी
+form_autoreplymatch_aiplugin_warningdesc === इस ऑटो-उत्तर से संबंधित AI वार्तालाप आपके द्वारा परिवर्तन सहेजने के बाद रीसेट हो जाएंगे!
+form_addaiapikey_transcriptiontitle === लिप्यंतरण
+form_addaiapikey_transcriptiondesc === अगर सक्षम किया गया, तो एआई पहले ऑडियो या वीडियो फ़ाइलों की सामग्री को ट्रांसक्राइब करेगा और फिर ट्रांसक्रिप्शन के आधार पर एक उत्तर प्रदान करेगा।

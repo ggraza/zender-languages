@@ -2872,3 +2872,104 @@ plugins_btn_pluginsdefopagegeneric === 플러그인
 tables_plugins_detailsauthor === 작가
 tables_plugins_detailsdesc === 설명
 tables_plugins_detailsver === 버전
+system_settings_adminapitoken_title === 관리자 API 토큰
+system_settings_adminapitoken_desc === 이것은 관리자 API에 인증하기 위한 토큰입니다.
+system_settings_systokenregen_desc === 이 토큰은 크론 작업, WhatsApp 요청 및 기타 시스템 기능의 보안에 매우 중요합니다. 누구와도 공유해서는 안 됩니다. 만약 이 토큰이 유출되었다고 생각되면 즉시 새 토큰을 생성해야 합니다. 새 토큰을 생성한 후에는 크론 작업을 다시 구성하고 관련 설정을 업데이트해야 합니다. 또한 WhatsApp 시스템에도 영향을 미치며, 모든 연결된 계정은 다시 연결될 때까지 작동을 중지합니다.
+system_settings_aimod_title === AI 조정
+system_settings_aimod_desc === 활성화되면 모든 메시지와 이미지가 OpenAI의 AI 모더레이션 모델을 통해 플래그가 표시된 콘텐츠를 확인합니다.
+system_settings_aimod_apikey_title === OpenAI API 키
+system_settings_aimod_apikey_desc === OpenAI API 키를 입력하세요. OpenAI의 AI Moderation 모델은 비용이 무료입니다.
+response_addaikey_promptshort === 당신의 AI 프롬프트가 너무 짧습니다!
+response_addaikey_modelinval === 당신의 AI 모델이 유효하지 않습니다!
+response_addaikey_histothres === 당신의 AI 역사 임계값이 유효하지 않습니다!
+response_addaikey_histothresless === 당신의 AI 역사 기준은 5보다 작을 수 없습니다!
+response_addaikey_apikeyshort === 당신의 AI API 키가 너무 짧습니다!
+response_addaikey_success === AI 키가 추가되었습니다!
+response_addaiplugin_endpointshort === 당신의 플러그인 엔드포인트가 너무 짧습니다!
+response_addaiplugin_endpointinval === 플러그인 엔드포인트가 유효하지 않습니다!
+response_addaiplugin_schemainval === 당신의 플러그인 스키마가 유효하지 않습니다!
+response_addaiplugin_success === AI 플러그인이 추가되었습니다!
+response_editaikey_promptshort === 당신의 AI 프롬프트가 너무 짧습니다!
+response_editaikey_modelinval === 당신의 AI 모델은 유효하지 않습니다!
+response_editaikey_histothres === 귀하의 AI 역사 기준이 유효하지 않습니다!
+response_editaikey_histothresless === 당신의 AI 역사 기준은 5보다 적을 수 없습니다!
+response_editaikey_apikeyshort === 귀하의 AI API 키가 너무 짧습니다!
+response_editaikey_success === AI 키가 업데이트되었습니다!
+response_editaiplugin_endpointshort === 귀하의 플러그인 엔드포인트가 너무 짧습니다!
+response_editaiplugin_endpointinval === 귀하의 플러그인 엔드포인트가 유효하지 않습니다!
+response_editaiplugin_schemainval === 당신의 플러그인 스키마가 유효하지 않습니다!
+response_editaiplugin_success === AI 플러그인이 업데이트되었습니다!
+template_sidebar_ai === 인공지능
+template_sidebar_ai_keys === API 키
+template_sidebar_ai_plugins === 플러그인
+dashboard_title_aikeys === AI API 키
+dashboard_title_aiplugins === AI 플러그인
+dasboard_aipage_addkeybtn === API 키 추가
+dasboard_aipage_addpluginbtn === 플러그인 추가
+form_addautoreply_aiapikey === AI API 키
+form_addautoreply_aiapikey_desc === 자동 응답에 사용할 AI API 키를 선택하세요.
+form_addautoreply_aiplugin === AI 플러그인
+form_addautoreply_aiplugin_desc === 자동 응답에 사용할 AI 플러그인을 선택하세요.
+form_autoreplymatch_ai === 인공지능
+widgets_addaikey_title === AI API 키 추가
+widgets_addaikey_loader === AI API 키 추가하기
+widgets_addaikey_requirename === 이름
+widgets_addaikey_requiremprompt === 초기 프롬프트
+widgets_addaikey_requireapikey === API 키
+widgets_editaikey_title === AI API 키 편집
+widgets_editaikey_loader === AI API 키 업데이트
+widgets_addaiplugin_title === AI 플러그인 추가
+widgets_addaiplugin_loader === AI 플러그인 추가하기
+widgets_addaiplugin_requirename === 이름
+widgets_editaiplugin_title === AI 플러그인 수정
+widgets_editaiplugin_loader === AI 플러그인 업데이트 중
+form_addaikey_initailprompt_title === 초기 프롬프트
+form_addaikey_initailprompt_desc === AI를 위한 초기 프롬프트를 입력하세요. 이것들은 AI가 대화를 시작하기 전에 따라야 할 지침입니다.
+form_addaikey_initailprompt_placeholder === 예: 회사 대표로서 행동하세요. 사용 가능한 도구를 사용하여 사용자들이 우리 회사에 대해 하는 일반적인 질문에 답변하세요.
+form_addaikey_postprompt_title === 포스트 프롬프트
+form_addaikey_postprompt_desc === 이 프롬프트는 각 메시지에 자동으로 추가되어 AI의 응답이 지정된 맥락이나 주제와 엄격하게 일치하도록 보장합니다. 일관되고 집중된 대화를 유지하는 데 사용하세요. 이 기능을 비활성화하려면 필드를 비워 두세요.
+form_addaikey_postprompt_placeholder === 예: 제공된 맥락에 언급되지 않은 절차 및 서비스 기능에 대한 정보를 주지 마십시오.
+form_addaikey_vision_title === 비전
+form_addaikey_vision_desc === 활성화되면 AI는 수신한 이미지에 응답합니다.
+form_addaikey_model_title === 모델
+form_addaikey_model_desc === 응답 메시지에 사용할 AI 모델을 선택하세요.
+form_addaikey_modelsmartest === 가장 똑똑한
+form_addaikey_modelcheapest === 가장 저렴한
+form_addaikey_historythreshold_title === 역사 임계점
+form_addaikey_historythreshold_desc === AI가 토큰을 절약하기 위해 요약하기 전에 최대 대화 메시지 수를 입력하세요. 추천 값은 50입니다.
+form_addaikey_historythreshold_placeholder === 예: 50
+form_addaikey_apikey_title === API 키
+form_addaikey_apikey_desc === AI 제공자 대시보드에서 생성한 API 키입니다.
+form_addaiplugin_banner_title === 주의하세요!
+form_addaiplugin_banner_desc === 플러그인을 만드는 것은 상당한 코딩 지식이 필요합니다. 자신이 하는 일에 대해 확신이 없다면 개발자와 상담하세요.
+form_addaiplugin_endpoint_title === 플러그인 엔드포인트
+form_addaiplugin_endpoint_desc === 이것은 AI에 의해 호출될 URL입니다. 귀하의 엔드포인트는 AI 매개변수를 캡처하기 위해 POST 방법만을 엄격히 사용해야 합니다!
+form_addaiplugin_schema_title === 플러그인 스키마
+form_addaiplugin_schema_desc === 이것은 AI가 플러그인을 호출할 때 따라야 할 지침입니다. 형식을 엄격히 준수해야 합니다!
+form_addaiplugin_sample_schema === 샘플 스키마:
+tables_aikeys_created === 생성됨
+tables_aikeys_name === 이름
+tables_aikeys_model === 모델
+tables_aikeys_options === 옵션들
+tables_aiplugins_created === 생성됨
+tables_aiplugins_name === 이름
+tables_aiplugins_options === 옵션
+js_regenerate_admintoken === 관리자 API 토큰 재생성하기?
+js_regenerate_admintoken_desc === 관리 API 토큰을 재생성하시겠습니까? 이 작업은 되돌릴 수 없으며, 애플리케이션에서 토큰을 업데이트해야 합니다!
+form_aikey_provider_title === 제공자
+form_aikey_provider_desc === 이 키에 사용할 AI 제공업체를 선택하세요.
+form_aikey_provider_visionoff === 비전 지원되지 않음
+response_aimoderation_detected === 귀하의 메시지에서 부적절한 내용이 감지되었습니다!
+response_externalcall_failed === 현재 요청을 처리할 수 없습니다. 나중에 다시 시도해 주세요.
+form_addaiplugin_pluginname_desc === 플러그인 이름.
+form_addaiplugin_pluginname_placeholder === 예: getTime
+response_aiautoreply_mustselaikey === AI API 키를 선택해야 합니다!
+response_autoreply_added_2025 === 자동 회신 기능이 추가되었습니다!
+response_hook_updated_2025 === 훅 액션이 업데이트되었습니다!
+response_autoreply_updated_2025 === 자동 응답 동작이 업데이트되었습니다!
+response_action_deleted_2025 === 동작이 삭제되었습니다!
+form_autoreplymatch_aiplugin_global === 글로벌
+form_autoreplymatch_aiplugin_warningsave === 경고
+form_autoreplymatch_aiplugin_warningdesc === 이 자동 응답과 관련된 AI 대화는 변경 사항을 저장한 후 초기화됩니다!
+form_addaiapikey_transcriptiontitle === 전사
+form_addaiapikey_transcriptiondesc === 활성화되면 AI는 먼저 오디오 또는 비디오 파일의 내용을 필사한 다음 해당 필사를 기반으로 응답을 제공합니다.

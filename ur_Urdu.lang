@@ -2871,3 +2871,104 @@ plugins_btn_pluginsdefopagegeneric === پلگ انز
 tables_plugins_detailsauthor === مصنف
 tables_plugins_detailsdesc === تفصیل
 tables_plugins_detailsver === ورژن
+system_settings_adminapitoken_title === ایڈمن API ٹوکن
+system_settings_adminapitoken_desc === یہ ایڈمن API کے ساتھ تصدیق کرنے کے لیے ٹوکن ہے۔
+system_settings_systokenregen_desc === یہ ٹوکن آپ کے کرون جابز، واٹس ایپ درخواستوں، اور دیگر سسٹم کی خصوصیات کے لئے اہم ہے۔ اسے کسی کے ساتھ بھی شیئر نہیں کرنا چاہئے۔ اگر آپ سمجھتے ہیں کہ یہ ٹوکن خطرے میں ہے تو آپ کو فوری طور پر ایک نیا ٹوکن دوبارہ تخلیق کرنا چاہئے۔ دوبارہ تخلیق کرنے کے بعد، آپ کو اپنے کرون جابز کی دوبارہ ترتیب اور متعلقہ ترتیبات کو اپ ڈیٹ کرنے کی ضرورت ہوگی۔ اس کے علاوہ، واٹس ایپ سسٹم متاثر ہوگا، اور تمام جڑے ہوئے اکاؤنٹس اس وقت تک کام کرنا بند کر دیں گے جب تک کہ انہیں دوبارہ لنک نہیں کیا جاتا۔
+system_settings_aimod_title === AI کی نگرانی
+system_settings_aimod_desc === اگر فعال کیا گیا تو تمام پیغامات اور تصاویر اوپن اے آئی کے AI ماڈریشن ماڈل کے ذریعے گزریں گی تاکہ نشان زدہ مواد کی جانچ کی جا سکے۔
+system_settings_aimod_apikey_title === اوپن اے آئی اے پی آئی کلید
+system_settings_aimod_apikey_desc === اپنا اوپن اے آئی اے پیکی داخل کریں۔ اوپن اے آئی کا اے آئی موڈریشن ماڈل مفت ہے۔
+response_addaikey_promptshort === آپ کا AI پیغام بہت مختصر ہے!
+response_addaikey_modelinval === آپ کا AI ماڈل غلط ہے!
+response_addaikey_histothres === آپ کی AI تاریخ کی حد درست نہیں ہے!
+response_addaikey_histothresless === آپ کی AI تاریخ کی حد 5 سے کم نہیں ہو سکتی!
+response_addaikey_apikeyshort === آپ کا AI API کلید بہت چھوٹا ہے!
+response_addaikey_success === AI کی چابی شامل کر دی گئی ہے!
+response_addaiplugin_endpointshort === آپ کا پلگ ان اینڈپوائنٹ بہت چھوٹا ہے!
+response_addaiplugin_endpointinval === آپ کا پلگ ان اینڈ پوائنٹ ناقابلِ اعتبار ہے!
+response_addaiplugin_schemainval === آپ کا پلگ ان اسکیمہ درست نہیں ہے!
+response_addaiplugin_success === AI پلگ ان شامل کر دیا گیا ہے!
+response_editaikey_promptshort === آپ کی اے آئی پرامپٹ بہت چھوٹی ہے!
+response_editaikey_modelinval === آپ کا AI ماڈل غیر موزوں ہے!
+response_editaikey_histothres === آپ کی AI تاریخ کی حد درست نہیں ہے!
+response_editaikey_histothresless === آپ کی اے آئی تاریخ کی حد 5 سے کم نہیں ہوسکتی!
+response_editaikey_apikeyshort === آپ کا AI ایپی کی شارٹ ہے!
+response_editaikey_success === AI کی کلید کو اپ ڈیٹ کر دیا گیا ہے!
+response_editaiplugin_endpointshort === آپ کا پلگ ان اینڈپوائنٹ بہت چھوٹا ہے!
+response_editaiplugin_endpointinval === آپ کا پلگ ان اینڈ پوائنٹ غلط ہے!
+response_editaiplugin_schemainval === آپ کا پلگ ان اسکیما درست نہیں ہے!
+response_editaiplugin_success === اے آئی پلگ ان کو اپ ڈیٹ کیا گیا ہے!
+template_sidebar_ai === مصنوعی ذہانت
+template_sidebar_ai_keys === API کیز
+template_sidebar_ai_plugins === پلاگ انز
+dashboard_title_aikeys === اے آئی اے پی آئی کیز
+dashboard_title_aiplugins === اے آئی پلگ انز
+dasboard_aipage_addkeybtn === API چابی شامل کریں
+dasboard_aipage_addpluginbtn === پلاگ ان شامل کریں
+form_addautoreply_aiapikey === AI API کی کلید
+form_addautoreply_aiapikey_desc === اس خودکار جواب کے لیے جس AI API کی کلید کو آپ استعمال کرنا چاہتے ہیں، اسے منتخب کریں۔
+form_addautoreply_aiplugin === AI پلگ انز
+form_addautoreply_aiplugin_desc === ان AI پلگ انز کا انتخاب کریں جو آپ اس خودکار جواب کے لیے استعمال کرنا چاہتے ہیں۔
+form_autoreplymatch_ai === مصنوعی ذہانت
+widgets_addaikey_title === AI API کی کلید شامل کریں
+widgets_addaikey_loader === AI API کی چابی شامل کرنا
+widgets_addaikey_requirename === نام
+widgets_addaikey_requiremprompt === ابتدائی حکم
+widgets_addaikey_requireapikey === ایپی آئی کلید
+widgets_editaikey_title === AI API کلید میں ترمیم کریں
+widgets_editaikey_loader === AI API کی چابی کو اپ ڈیٹ کرنا
+widgets_addaiplugin_title === AI پلگ اِن شامل کریں
+widgets_addaiplugin_loader === AI پلگ ان شامل کرنا
+widgets_addaiplugin_requirename === نام
+widgets_editaiplugin_title === AI پلگ ان ایڈٹ کریں
+widgets_editaiplugin_loader === AI پلگ ان کو اپڈیٹ کرنا
+form_addaikey_initailprompt_title === ابتدائی پروپmt
+form_addaikey_initailprompt_desc === ابتدائی ہدایت کو AI میں داخل کریں۔ یہ وہ ہدایات ہیں جن کی پیروی AI گفتگو شروع کرنے سے پہلے کرے گا۔
+form_addaikey_initailprompt_placeholder === مثال کے طور پر، ایک کمپنی کے نمائندے کے طور پر عمل کریں۔ صارفین کے عمومی سوالات کا جواب دیں ہماری کمپنی کے بارے میں دستیاب ٹولز کا استعمال کرتے ہوئے۔
+form_addaikey_postprompt_title === پوسٹ پرامپٹ
+form_addaikey_postprompt_desc === یہ پرامپٹ ہر پیغام کے ساتھ خود بخود شامل کیا جائے گا، اس بات کو یقینی بناتے ہوئے کہ AI کے جوابات طے شدہ سیاق و سباق یا موضوع کے ساتھ سختی سے ہم آہنگ رہیں۔ اسے مستقل اور مرکوز گفتگو برقرار رکھنے کے لیے استعمال کریں۔ اس خصوصیت کو غیر فعال کرنے کے لیے اس میدان کو خالی چھوڑ دیں۔
+form_addaikey_postprompt_placeholder === مثال: مجھے فراہم کردہ سیاق و سباق میں ذکر نہ کیے گئے طریقوں اور خدمات کی خصوصیات کے بارے میں کوئی معلومات نہ دیں۔
+form_addaikey_vision_title === نظریہ
+form_addaikey_vision_desc === اگر فعال کیا جائے تو AI موصول ہونے والی تصاویر کا جواب دے گا۔
+form_addaikey_model_title === ماڈل
+form_addaikey_model_desc === اس ماڈل کا انتخاب کریں جسے آپ چاہتے ہیں کہ AI پیغامات کا جواب دینے کے لیے استعمال کرے۔
+form_addaikey_modelsmartest === سب سے ہوشیار
+form_addaikey_modelcheapest === سب سے سستا
+form_addaikey_historythreshold_title === تاریخی حد
+form_addaikey_historythreshold_desc === بات چیت کے پیغامات کی زیادہ سے زیادہ تعداد درج کریں جس کے بعد AI اسے ٹوکن بچانے کے لیے خلاصہ کرے گا۔ تجویز کردہ قیمت 50 ہے۔
+form_addaikey_historythreshold_placeholder === مثلاً 50
+form_addaikey_apikey_title === ای پی آئی کلید
+form_addaikey_apikey_desc === آپ کی ای آئی فراہم کنندہ کے ڈیش بورڈ سے بنائی گئی ای پی آئی کی۔
+form_addaiplugin_banner_title === خبردار!
+form_addaiplugin_banner_desc === پلاگ ان بنانے کے لیے کچھ وسیع کوڈنگ کی معلومات کی ضرورت ہوتی ہے۔ اگر آپ کو جو کر رہے ہیں اس کے بارے میں یقین نہیں ہے، تو براہ کرم کسی ڈویلپر سے مشورہ کریں۔
+form_addaiplugin_endpoint_title === پلاگ ان اینڈ پوائنٹ
+form_addaiplugin_endpoint_desc === یہ وہ یو آر ایل ہے جو اے آئی کے ذریعے فعال کیا جائے گا۔ آپ کا اینڈ پوائنٹ سختی سے پوسٹ میتھڈ کا استعمال کرنا چاہئے تاکہ اے آئی پیرامیٹرز کو حاصل کیا جا سکے!
+form_addaiplugin_schema_title === پلاگ ان اسکیمہ
+form_addaiplugin_schema_desc === یہ ہدایات ہیں جو اے آئی پلگ ان کو متحرک کرتے وقت پیروی کرے گا۔ شکل کی سختی سے پیروی کی جانی چاہیے!
+form_addaiplugin_sample_schema === نمونہ اسکیما:
+tables_aikeys_created === بنایا گیا
+tables_aikeys_name === نام
+tables_aikeys_model === ماڈل
+tables_aikeys_options === اختیارات
+tables_aiplugins_created === تخلیق کیا گیا
+tables_aiplugins_name === نام
+tables_aiplugins_options === انتخاب ہيں
+js_regenerate_admintoken === ایڈمن API ٹوکن کو دوبارہ تیار کرنا؟
+js_regenerate_admintoken_desc === کیا آپ کو یقین ہے کہ آپ ایڈمن API ٹوکن کو دوبارہ تخلیق کرنا چاہتے ہیں؟ یہ عمل ناقابل واپسی ہے اور آپ کو اپنے ایپلیکیشنز میں ٹوکن کو اپ ڈیٹ کرنے کی ضرورت ہوگی!
+form_aikey_provider_title === فراہمی کرنے والا
+form_aikey_provider_desc === اس کلید کے لیے آپ جس AI فراہم کنندہ کو استعمال کرنا چاہتے ہیں اسے منتخب کریں۔
+form_aikey_provider_visionoff === نظریہ غیر موزوں
+response_aimoderation_detected === ہم نے آپ کے پیغام میں نامناسب مواد کا پتہ لگایا ہے!
+response_externalcall_failed === ہم اس وقت آپ کی درخواست پر عمل کرنے سے قاصر ہیں۔ براہ کرم بعد میں دوبارہ کوشش کریں۔
+form_addaiplugin_pluginname_desc === پلاگ ان کا نام۔
+form_addaiplugin_pluginname_placeholder === ٹائم حاصل کریں
+response_aiautoreply_mustselaikey === آپ کو ایک AI API کلید منتخب کرنی ہوگی!
+response_autoreply_added_2025 === مہیا کردہ جوابی کارروائی شامل کی گئی ہے!
+response_hook_updated_2025 === ہیوک ایکشن کو اپ ڈیٹ کر دیا گیا ہے!
+response_autoreply_updated_2025 === خودکار جواب کا عمل اپ ڈیٹ کر دیا گیا ہے!
+response_action_deleted_2025 === عمل حذف کر دیا گیا ہے!
+form_autoreplymatch_aiplugin_global === عالمی
+form_autoreplymatch_aiplugin_warningsave === خبردار
+form_autoreplymatch_aiplugin_warningdesc === اس خودکار جواب سے متعلق AI گفتگوئیں آپ کے تبدیلیاں محفوظ کرنے کے بعد دوبارہ شروع ہوں گی!
+form_addaiapikey_transcriptiontitle === تحریر
+form_addaiapikey_transcriptiondesc === اگر فعال ہو تو AI پہلے آڈیو یا ویڈیو فائلوں کے مواد کو تحریر کرے گا اور پھر تحریر کی بنیاد پر جواب فراہم کرے گا۔

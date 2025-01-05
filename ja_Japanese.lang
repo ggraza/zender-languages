@@ -2872,3 +2872,104 @@ plugins_btn_pluginsdefopagegeneric === プラグイン
 tables_plugins_detailsauthor === 著者
 tables_plugins_detailsdesc === 説明
 tables_plugins_detailsver === バージョン
+system_settings_adminapitoken_title === 管理者APIトークン
+system_settings_adminapitoken_desc === これはAdmin APIに対して認証を行うためのトークンです。
+system_settings_systokenregen_desc === このトークンは、あなたのcronジョブ、WhatsAppリクエスト、およびその他のシステム機能のセキュリティにとって重要です。他の人と共有してはいけません。もしトークンが侵害されたと考える場合は、直ちに新しいものを再生成するべきです。再生成後は、cronジョブを再構成し、関連する設定を更新する必要があります。さらに、WhatsAppシステムにも影響があり、すべての接続されたアカウントは再リンクされるまで機能しなくなります。
+system_settings_aimod_title === AIモデレーション
+system_settings_aimod_desc === 有効にすると、すべてのメッセージと画像がOpenAIのAIモデレーションモデルを通過し、フラグが付けられたコンテンツをチェックします。
+system_settings_aimod_apikey_title === OpenAI APIキー
+system_settings_aimod_apikey_desc === OpenAIのAPIキーを入力してください。OpenAIのAIモデレーションモデルは無料です。
+response_addaikey_promptshort === あなたのAIプロンプトは短すぎます！
+response_addaikey_modelinval === あなたのAIモデルは無効です！
+response_addaikey_histothres === あなたのAIの履歴閾値が無効です！
+response_addaikey_histothresless === あなたのAIの履歴の閾値は5未満にはできません！
+response_addaikey_apikeyshort === あなたのAI APIキーは短すぎます！
+response_addaikey_success === AIキーが追加されました！
+response_addaiplugin_endpointshort === あなたのプラグインのエンドポイントが短すぎます！
+response_addaiplugin_endpointinval === あなたのプラグインエンドポイントは無効です!
+response_addaiplugin_schemainval === あなたのプラグインスキーマは無効です！
+response_addaiplugin_success === AIプラグインが追加されました！
+response_editaikey_promptshort === あなたのAIプロンプトは短すぎます！
+response_editaikey_modelinval === あなたのAIモデルは無効です！
+response_editaikey_histothres === あなたのAI履歴の閾値が無効です！
+response_editaikey_histothresless === あなたのAIの履歴のしきい値は5未満にすることはできません！
+response_editaikey_apikeyshort === あなたのAIのAPIキーは短すぎます！
+response_editaikey_success === AIキーが更新されました！
+response_editaiplugin_endpointshort === あなたのプラグインエンドポイントは短すぎます！
+response_editaiplugin_endpointinval === プラグインのエンドポイントが無効です！
+response_editaiplugin_schemainval === あなたのプラグインスキーマは無効です！
+response_editaiplugin_success === AIプラグインが更新されました！
+template_sidebar_ai === 人工知能
+template_sidebar_ai_keys === APIキー
+template_sidebar_ai_plugins === プラグイン
+dashboard_title_aikeys === AI APIキー
+dashboard_title_aiplugins === AIプラグイン
+dasboard_aipage_addkeybtn === APIキーを追加する
+dasboard_aipage_addpluginbtn === プラグインを追加する
+form_addautoreply_aiapikey === AI APIキー
+form_addautoreply_aiapikey_desc === この自動応答に使用するAIのAPIキーを選択してください。
+form_addautoreply_aiplugin === AIプラグイン
+form_addautoreply_aiplugin_desc === 自動返信に使用したいAIプラグインを選択してください。
+form_autoreplymatch_ai === 人工知能
+widgets_addaikey_title === AI APIキーを追加してください。
+widgets_addaikey_loader === AI APIキーの追加
+widgets_addaikey_requirename === 名前
+widgets_addaikey_requiremprompt === 初期プロンプト
+widgets_addaikey_requireapikey === APIキー
+widgets_editaikey_title === AI APIキーを編集する
+widgets_editaikey_loader === AI APIキーの更新
+widgets_addaiplugin_title === AIプラグインを追加する
+widgets_addaiplugin_loader === AIプラグインの追加
+widgets_addaiplugin_requirename === 名前
+widgets_editaiplugin_title === AIプラグインを編集する
+widgets_editaiplugin_loader === AIプラグインの更新
+form_addaikey_initailprompt_title === 初めのプロンプト
+form_addaikey_initailprompt_desc === 最初のプロンプトをAIに入力してください。これらは、会話を始める前にAIが従うべき指示です。
+form_addaikey_initailprompt_placeholder === 会社の代表として行動します。当社に関する一般的な質問に、利用可能なツールを使ってお答えします。
+form_addaikey_postprompt_title === ポストプロンプト
+form_addaikey_postprompt_desc === このプロンプトは各メッセージに自動的に追加され、AIの応答が指定された文脈またはトピックに厳密に従うようになります。これを使用して、一貫した焦点を絞った対話を維持します。この機能を無効にするには、フィールドを空白のままにしてください。
+form_addaikey_postprompt_placeholder === 提供された文脈に記載されていない手続きやサービス機能に関する情報を提供しないでください。
+form_addaikey_vision_title === ビジョン
+form_addaikey_vision_desc === 有効にすると、AIは受信した画像に応答します。
+form_addaikey_model_title === モデル
+form_addaikey_model_desc === メッセージに応じてAIが使用するモデルを選択してください。
+form_addaikey_modelsmartest === 最も賢い
+form_addaikey_modelcheapest === 最も安い
+form_addaikey_historythreshold_title === 歴史の閾値
+form_addaikey_historythreshold_desc === AIがトークンを節約するために要約する前の最大会話メッセージ数を入力してください。推奨値は50です。
+form_addaikey_historythreshold_placeholder === 例: 50
+form_addaikey_apikey_title === APIキー
+form_addaikey_apikey_desc === あなたのAIプロバイダーのダッシュボードから作成したAPIキー。
+form_addaiplugin_banner_title === お知らせ！
+form_addaiplugin_banner_desc === プラグインを作成するには、かなりのコーディング知識が必要です。自分が何をしているかわからない場合は、開発者に相談してください。
+form_addaiplugin_endpoint_title === プラグインエンドポイント
+form_addaiplugin_endpoint_desc === これはAIによって呼び出されるURLです。あなたのエンドポイントは、AIのパラメータを取得するためにPOSTメソッドを厳格に使用しなければなりません！
+form_addaiplugin_schema_title === プラグインスキーマ
+form_addaiplugin_schema_desc === これらは、プラグインを呼び出す際にAIが従うべき指示です。フォーマットは厳密に遵守されなければなりません！
+form_addaiplugin_sample_schema === サンプルスキーマ：
+tables_aikeys_created === 作成された
+tables_aikeys_name === 名前
+tables_aikeys_model === モデル
+tables_aikeys_options === オプション
+tables_aiplugins_created === 作成された
+tables_aiplugins_name === 名前
+tables_aiplugins_options === オプション
+js_regenerate_admintoken === 管理者APIトークンを再生成しますか？
+js_regenerate_admintoken_desc === 管理者APIトークンを再生成してもよろしいですか？この行動は元に戻すことができず、アプリケーション内でトークンを更新する必要があります！
+form_aikey_provider_title === プロバイダー
+form_aikey_provider_desc === このキーに使用するAIプロバイダーを選択してください。
+form_aikey_provider_visionoff === ビジョンがサポートされていません
+response_aimoderation_detected === メッセージに不適切なコンテンツが検出されました！
+response_externalcall_failed === 現在、リクエストを処理できません。後でもう一度お試しください。
+form_addaiplugin_pluginname_desc === プラグイン名。
+form_addaiplugin_pluginname_placeholder === 取得時間
+response_aiautoreply_mustselaikey === AI APIキーを選択する必要があります！
+response_autoreply_added_2025 === 自動応答アクションが追加されました！
+response_hook_updated_2025 === フックアクションが更新されました！
+response_autoreply_updated_2025 === 自動返信アクションが更新されました！
+response_action_deleted_2025 === アクションが削除されました！
+form_autoreplymatch_aiplugin_global === グローバル
+form_autoreplymatch_aiplugin_warningsave === 警告
+form_autoreplymatch_aiplugin_warningdesc === この自動返信に関連するAIの会話は、変更を保存するとリセットされます！
+form_addaiapikey_transcriptiontitle === トランスクリプション
+form_addaiapikey_transcriptiondesc === 有効にすると、AIは最初に音声またはビデオファイルの内容を文字起こしし、その後文字起こしに基づいて応答を提供します。

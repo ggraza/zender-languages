@@ -2872,3 +2872,104 @@ plugins_btn_pluginsdefopagegeneric === Plugin
 tables_plugins_detailsauthor === Pengarang
 tables_plugins_detailsdesc === Keterangan
 tables_plugins_detailsver === Versi
+system_settings_adminapitoken_title === Token API Admin
+system_settings_adminapitoken_desc === Ini adalah token untuk mengautentikasi dengan Admin API.
+system_settings_systokenregen_desc === Token ini sangat penting untuk keamanan cronjob Anda, permintaan WhatsApp, dan fitur sistem lainnya. Token ini tidak boleh dibagikan kepada siapa pun. Jika Anda yakin token telah terkompromi, Anda harus segera membuat yang baru. Setelah membuat ulang, Anda perlu mengonfigurasi ulang cronjob Anda dan memperbarui pengaturan terkait. Selain itu, sistem WhatsApp akan terpengaruh, dan semua akun yang terhubung akan berhenti berfungsi sampai mereka dihubungkan kembali.
+system_settings_aimod_title === Moderasi AI
+system_settings_aimod_desc === Jika diaktifkan, semua pesan dan gambar akan melalui model moderasi AI dari OpenAI untuk memeriksa konten yang ditandai.
+system_settings_aimod_apikey_title === Kunci API OpenAI
+system_settings_aimod_apikey_desc === Masukkan kunci API OpenAI Anda. Model Moderasi AI dari OpenAI gratis biaya.
+response_addaikey_promptshort === Prompt AI Anda terlalu singkat!
+response_addaikey_modelinval === Model AI Anda tidak valid!
+response_addaikey_histothres === Ambang batas riwayat AI Anda tidak valid!
+response_addaikey_histothresless === Ambang batas sejarah AI Anda tidak boleh kurang dari 5!
+response_addaikey_apikeyshort === API key AI Anda terlalu pendek!
+response_addaikey_success === Kunci AI telah ditambahkan!
+response_addaiplugin_endpointshort === Titik akhir plugin Anda terlalu pendek!
+response_addaiplugin_endpointinval === Endpoint plugin Anda tidak valid!
+response_addaiplugin_schemainval === Skema plugin Anda tidak valid!
+response_addaiplugin_success === Plugin AI telah ditambahkan!
+response_editaikey_promptshort === Prompt AI Anda terlalu pendek!
+response_editaikey_modelinval === Model AI Anda tidak valid!
+response_editaikey_histothres === Ambang batas sejarah AI Anda tidak valid!
+response_editaikey_histothresless === Ambang batas riwayat AI Anda tidak boleh kurang dari 5!
+response_editaikey_apikeyshort === API kunci AI Anda terlalu pendek!
+response_editaikey_success === Kunci AI telah diperbarui!
+response_editaiplugin_endpointshort === Titik akhir plugin Anda terlalu pendek!
+response_editaiplugin_endpointinval === Endpoint plugin Anda tidak valid!
+response_editaiplugin_schemainval === Skema plugin Anda tidak valid!
+response_editaiplugin_success === Plugin AI telah diperbarui!
+template_sidebar_ai === Kecerdasan Buatan
+template_sidebar_ai_keys === Kunci API
+template_sidebar_ai_plugins === Plugin
+dashboard_title_aikeys === Kunci API AI
+dashboard_title_aiplugins === Plugin AI
+dasboard_aipage_addkeybtn === Tambahkan Kunci API
+dasboard_aipage_addpluginbtn === Tambah Plugin
+form_addautoreply_aiapikey === Kunci API AI
+form_addautoreply_aiapikey_desc === Pilih kunci API AI yang ingin Anda gunakan untuk balasan otomatis ini.
+form_addautoreply_aiplugin === Plugin AI
+form_addautoreply_aiplugin_desc === Pilih plugin AI yang ingin Anda gunakan untuk balasan otomatis ini.
+form_autoreplymatch_ai === Kecerdasan Buatan
+widgets_addaikey_title === Tambahkan Kunci API AI
+widgets_addaikey_loader === Menambahkan Kunci API AI
+widgets_addaikey_requirename === Nama
+widgets_addaikey_requiremprompt === Permintaan Awal
+widgets_addaikey_requireapikey === Kunci API
+widgets_editaikey_title === Edit Kunci API AI
+widgets_editaikey_loader === Memperbarui Kunci API AI
+widgets_addaiplugin_title === Tambahkan Plugin AI
+widgets_addaiplugin_loader === Menambahkan Plugin AI
+widgets_addaiplugin_requirename === Nama
+widgets_editaiplugin_title === Edit Plugin AI
+widgets_editaiplugin_loader === Memperbarui Plugin AI
+form_addaikey_initailprompt_title === Teks Awal
+form_addaikey_initailprompt_desc === Masukkan prompt awal untuk AI. Ini adalah instruksi yang harus diikuti AI sebelum memulai percakapan.
+form_addaikey_initailprompt_placeholder === Misalnya, bertindak sebagai perwakilan perusahaan. Jawab pertanyaan umum dari pengguna tentang perusahaan kami menggunakan alat yang tersedia.
+form_addaikey_postprompt_title === Pos Permintaan
+form_addaikey_postprompt_desc === Teks ini akan secara otomatis ditambahkan ke setiap pesan, memastikan bahwa tanggapan AI tetap tegas sesuai dengan konteks atau topik yang ditentukan. Gunakan ini untuk menjaga dialog yang konsisten dan terfokus. Biarkan kolom kosong untuk menonaktifkan fitur ini.
+form_addaikey_postprompt_placeholder === mis. Jangan berikan saya informasi tentang prosedur dan fitur layanan yang tidak disebutkan dalam KONTEKS YANG DITERA.
+form_addaikey_vision_title === Visi
+form_addaikey_vision_desc === Jika diaktifkan, AI akan merespons gambar yang diterima.
+form_addaikey_model_title === Model
+form_addaikey_model_desc === Pilih model yang ingin Anda gunakan AI untuk merespons pesan.
+form_addaikey_modelsmartest === Paling pintar
+form_addaikey_modelcheapest === Termurah
+form_addaikey_historythreshold_title === Ambang Sejarah
+form_addaikey_historythreshold_desc === Masukkan jumlah maksimum pesan percakapan sebelum AI merangkum untuk menghemat token. Nilai yang disarankan adalah 50.
+form_addaikey_historythreshold_placeholder === 50
+form_addaikey_apikey_title === Kunci API
+form_addaikey_apikey_desc === Kunci API yang Anda buat dari dasbor penyedia AI Anda.
+form_addaiplugin_banner_title === Siap-siap!
+form_addaiplugin_banner_desc === Membuat plugin memerlukan pengetahuan pemrograman yang cukup luas. Jika Anda tidak yakin dengan apa yang Anda lakukan, harap berkonsultasi dengan seorang pengembang.
+form_addaiplugin_endpoint_title === Titik Akhir Plugin
+form_addaiplugin_endpoint_desc === Ini adalah URL yang akan dipanggil oleh AI. Endpoint Anda harus secara ketat menggunakan metode POST untuk menangkap parameter AI!
+form_addaiplugin_schema_title === Plugin Skema
+form_addaiplugin_schema_desc === Ini adalah instruksi yang akan diikuti AI saat memanggil plugin. Formatnya harus diikuti dengan ketat!
+form_addaiplugin_sample_schema === Skema Contoh:
+tables_aikeys_created === Diciptakan
+tables_aikeys_name === Nama
+tables_aikeys_model === Model
+tables_aikeys_options === Opsi
+tables_aiplugins_created === Dibuat
+tables_aiplugins_name === Nama
+tables_aiplugins_options === Pilihan
+js_regenerate_admintoken === Regenerasi Token API Admin?
+js_regenerate_admintoken_desc === Apakah Anda yakin ingin membuat ulang token API admin? Tindakan ini tidak dapat dibatalkan dan akan memerlukan Anda untuk memperbarui token di aplikasi Anda!
+form_aikey_provider_title === Penyedia
+form_aikey_provider_desc === Pilih penyedia AI yang ingin Anda gunakan untuk kunci ini.
+form_aikey_provider_visionoff === Visi Tidak Didukung
+response_aimoderation_detected === Kami telah mendeteksi konten yang tidak pantas dalam pesan Anda!
+response_externalcall_failed === Kami tidak dapat memproses permintaan Anda saat ini. Silakan coba lagi nanti.
+form_addaiplugin_pluginname_desc === Nama plugin.
+form_addaiplugin_pluginname_placeholder === ambilWaktu
+response_aiautoreply_mustselaikey === Anda harus memilih Kunci API AI!
+response_autoreply_added_2025 === Tindakan balasan otomatis telah ditambahkan!
+response_hook_updated_2025 === Aksi hook telah diperbarui!
+response_autoreply_updated_2025 === Tindakan balasan otomatis telah diperbarui!
+response_action_deleted_2025 === Aksi telah dihapus!
+form_autoreplymatch_aiplugin_global === Global
+form_autoreplymatch_aiplugin_warningsave === Peringatan
+form_autoreplymatch_aiplugin_warningdesc === Percakapan AI yang terkait dengan balasan otomatis ini akan diatur ulang setelah Anda menyimpan perubahan!
+form_addaiapikey_transcriptiontitle === Transkripsi
+form_addaiapikey_transcriptiondesc === Jika diaktifkan, AI akan terlebih dahulu mentranskripsikan konten dari file audio atau video dan kemudian memberikan respons berdasarkan transkripsi.

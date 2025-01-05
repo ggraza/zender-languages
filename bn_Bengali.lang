@@ -2871,3 +2871,105 @@ plugins_btn_pluginsdefopagegeneric === প্লাগইন
 tables_plugins_detailsauthor === লেখক
 tables_plugins_detailsdesc === বর্ণনা
 tables_plugins_detailsver === সংস্করণ
+form_waserver_secretkeydesc_386 === একটি অনন্য সুরক্ষিত গোপন কী তৈরি করুন। এটি জেন্ডারের সাথে পিয়ার সংযোগ যাচাই করতে WhatsApp সার্ভার ব্যবহার করবে। বিশেষ অক্ষর ব্যবহার করবেন না দয়া করে!
+system_settings_adminapitoken_title === অ্যাডমিন API টোকেন
+system_settings_adminapitoken_desc === এটি অ্যাডমিন API এর সাথে প্রমাণীকরণের টোকেন।
+system_settings_systokenregen_desc === এই টোকেনটি আপনার ক্রোনজব, WhatsApp অনুরোধ এবং অন্যান্য সিস্টেম বৈশিষ্ট্যগুলির নিরাপত্তার জন্য গুরুত্বপূর্ণ। এটা কারো সাথে শেয়ার করা উচিত নয়। আপনি যদি বিশ্বাস করেন যে টোকেনটি আপস করা হয়েছে, আপনার অবিলম্বে একটি নতুন পুনরুত্পাদন করা উচিত। পুনরুত্পাদন করার পরে, আপনাকে আপনার ক্রোনজবগুলি পুনরায় কনফিগার করতে হবে এবং যেকোনো সংশ্লিষ্ট সেটিংস আপডেট করতে হবে। উপরন্তু, হোয়াটসঅ্যাপ সিস্টেম প্রভাবিত হবে, এবং সমস্ত সংযুক্ত অ্যাকাউন্টগুলি পুনরায় লিঙ্ক না হওয়া পর্যন্ত কাজ করা বন্ধ করবে।
+system_settings_aimod_title === এআই মডারেশন
+system_settings_aimod_desc === যদি সক্ষম করা থাকে, সমস্ত বার্তা এবং চিত্রগুলি পতাকাঙ্কিত সামগ্রী পরীক্ষা করার জন্য OpenAI-এর AI মডারেশন মডেলের মাধ্যমে যাবে৷
+system_settings_aimod_apikey_title === OpenAI API কী
+system_settings_aimod_apikey_desc === আপনার OpenAI Apikey লিখুন। OpenAI-এর AI মডারেশন মডেল বিনামূল্যে।
+response_addaikey_promptshort === আপনার AI প্রম্পট খুব ছোট!
+response_addaikey_modelinval === আপনার AI মডেলটি অবৈধ!
+response_addaikey_histothres === আপনার AI ইতিহাসের থ্রেশহোল্ড অবৈধ!
+response_addaikey_histothresless === আপনার AI ইতিহাস থ্রেশহোল্ড 5 এর কম হতে পারে না!
+response_addaikey_apikeyshort === আপনার AI apikey খুব ছোট!
+response_addaikey_success === এআই কী যোগ করা হয়েছে!
+response_addaiplugin_endpointshort === আপনার প্লাগইন শেষ পয়েন্ট খুব ছোট!
+response_addaiplugin_endpointinval === আপনার প্লাগইন শেষ পয়েন্ট অবৈধ!
+response_addaiplugin_schemainval === আপনার প্লাগইন স্কিমা অবৈধ!
+response_addaiplugin_success === এআই প্লাগইন যোগ করা হয়েছে!
+response_editaikey_promptshort === আপনার AI প্রম্পট খুব ছোট!
+response_editaikey_modelinval === আপনার AI মডেলটি অবৈধ!
+response_editaikey_histothres === আপনার AI ইতিহাসের থ্রেশহোল্ড অবৈধ!
+response_editaikey_histothresless === আপনার AI ইতিহাস থ্রেশহোল্ড 5 এর কম হতে পারে না!
+response_editaikey_apikeyshort === আপনার AI apikey খুব ছোট!
+response_editaikey_success === এআই কী আপডেট করা হয়েছে!
+response_editaiplugin_endpointshort === আপনার প্লাগইন শেষ পয়েন্ট খুব ছোট!
+response_editaiplugin_endpointinval === আপনার প্লাগইন শেষ পয়েন্ট অবৈধ!
+response_editaiplugin_schemainval === আপনার প্লাগইন স্কিমা অবৈধ!
+response_editaiplugin_success === এআই প্লাগইন আপডেট করা হয়েছে!
+template_sidebar_ai === কৃত্রিম বুদ্ধিমত্তা
+template_sidebar_ai_keys === API কী
+template_sidebar_ai_plugins === প্লাগইন
+dashboard_title_aikeys === AI API কী
+dashboard_title_aiplugins === এআই প্লাগইন
+dasboard_aipage_addkeybtn === API কী যোগ করুন
+dasboard_aipage_addpluginbtn === প্লাগইন যোগ করুন
+form_addautoreply_aiapikey === AI API কী
+form_addautoreply_aiapikey_desc === এই স্বয়ংক্রিয় উত্তরের জন্য আপনি যে AI apikey ব্যবহার করতে চান সেটি নির্বাচন করুন।
+form_addautoreply_aiplugin === এআই প্লাগইন
+form_addautoreply_aiplugin_desc === এই স্বয়ংক্রিয় জবাবের জন্য আপনি যে AI প্লাগইনগুলি ব্যবহার করতে চান তা নির্বাচন করুন৷
+form_autoreplymatch_ai === কৃত্রিম বুদ্ধিমত্তা
+widgets_addaikey_title === AI API কী যোগ করুন
+widgets_addaikey_loader === AI API কী যোগ করা হচ্ছে
+widgets_addaikey_requirename === নাম
+widgets_addaikey_requiremprompt === প্রাথমিক প্রম্পট
+widgets_addaikey_requireapikey === API কী
+widgets_editaikey_title === এআই এপিআই কী সম্পাদনা করুন
+widgets_editaikey_loader === AI API কী আপডেট করা হচ্ছে
+widgets_addaiplugin_title === এআই প্লাগইন যোগ করুন
+widgets_addaiplugin_loader === এআই প্লাগইন যোগ করা হচ্ছে
+widgets_addaiplugin_requirename === নাম
+widgets_editaiplugin_title === এআই প্লাগইন সম্পাদনা করুন
+widgets_editaiplugin_loader === এআই প্লাগইন আপডেট করা হচ্ছে
+form_addaikey_initailprompt_title === প্রাথমিক প্রম্পট
+form_addaikey_initailprompt_desc === AI এর জন্য প্রাথমিক প্রম্পট লিখুন। কথোপকথন শুরু করার আগে এআইকে অনুসরণ করা উচিত এই নির্দেশাবলী।
+form_addaikey_initailprompt_placeholder === যেমন কোম্পানির প্রতিনিধি হিসাবে কাজ করুন। উপলব্ধ সরঞ্জাম ব্যবহার করে আমাদের কোম্পানি সম্পর্কে ব্যবহারকারীদের সাধারণ প্রশ্নের উত্তর দিন।
+form_addaikey_postprompt_title === পোস্ট প্রম্পট
+form_addaikey_postprompt_desc === এই প্রম্পটটি স্বয়ংক্রিয়ভাবে প্রতিটি বার্তার সাথে যুক্ত হবে, নিশ্চিত করে যে AI এর প্রতিক্রিয়াগুলি নির্দিষ্ট প্রসঙ্গ বা বিষয়ের সাথে কঠোরভাবে সারিবদ্ধ থাকে। একটি সামঞ্জস্যপূর্ণ এবং ফোকাসড কথোপকথন বজায় রাখতে এটি ব্যবহার করুন। এই বৈশিষ্ট্যটি নিষ্ক্রিয় করতে ক্ষেত্রটি খালি রাখুন।
+form_addaikey_postprompt_placeholder === যেমন প্রদত্ত প্রসঙ্গে উল্লেখ করা নেই এমন পদ্ধতি এবং পরিষেবা বৈশিষ্ট্য সম্পর্কে আমাকে কোনো তথ্য দেবেন না।
+form_addaikey_vision_title === দৃষ্টি
+form_addaikey_vision_desc === সক্ষম হলে, AI প্রাপ্ত চিত্রগুলিতে প্রতিক্রিয়া জানাবে।
+form_addaikey_model_title === মডেল
+form_addaikey_model_desc === বার্তাগুলির প্রতিক্রিয়া জানাতে আপনি যে মডেলটি AI ব্যবহার করতে চান তা নির্বাচন করুন৷
+form_addaikey_modelsmartest === সবচেয়ে স্মার্ট
+form_addaikey_modelcheapest === সবচেয়ে সস্তা
+form_addaikey_historythreshold_title === ইতিহাস থ্রেশহোল্ড
+form_addaikey_historythreshold_desc === টোকেন সংরক্ষণ করতে AI সংক্ষিপ্ত করার আগে সর্বাধিক সংখ্যক কথোপকথন বার্তা লিখুন। প্রস্তাবিত মান হল 50।
+form_addaikey_historythreshold_placeholder === যেমন 50
+form_addaikey_apikey_title === API কী
+form_addaikey_apikey_desc === আপনার AI প্রদানকারী ড্যাশবোর্ড থেকে আপনি যে API কী তৈরি করেছেন।
+form_addaiplugin_banner_title === মাথা আপ!
+form_addaiplugin_banner_desc === একটি প্লাগইন তৈরি করতে কিছু বিস্তৃত কোডিং জ্ঞান প্রয়োজন। আপনি কি করছেন সে সম্পর্কে নিশ্চিত না হলে, একজন ডেভেলপারের সাথে পরামর্শ করুন।
+form_addaiplugin_endpoint_title === প্লাগইন এন্ডপয়েন্ট
+form_addaiplugin_endpoint_desc === এটি সেই URL যা AI দ্বারা আহ্বান করা হবে৷ AI পরামিতি ক্যাপচার করতে আপনার এন্ডপয়েন্টকে কঠোরভাবে POST পদ্ধতি ব্যবহার করতে হবে!
+form_addaiplugin_schema_title === প্লাগইন স্কিমা
+form_addaiplugin_schema_desc === এগুলি এমন নির্দেশাবলী যা AI প্লাগইন চালু করার সময় অনুসরণ করবে। বিন্যাস কঠোরভাবে অনুসরণ করা আবশ্যক!
+form_addaiplugin_sample_schema === নমুনা স্কিমা:
+tables_aikeys_created === তৈরি হয়েছে
+tables_aikeys_name === নাম
+tables_aikeys_model === মডেল
+tables_aikeys_options === অপশন
+tables_aiplugins_created === তৈরি হয়েছে
+tables_aiplugins_name === নাম
+tables_aiplugins_options === অপশন
+js_regenerate_admintoken === অ্যাডমিন এপিআই টোকেন পুনরায় তৈরি করবেন?
+js_regenerate_admintoken_desc === আপনি কি প্রশাসক API টোকেন পুনরায় তৈরি করতে চান? এই ক্রিয়াটি অপরিবর্তনীয় এবং এর জন্য আপনাকে আপনার অ্যাপ্লিকেশনগুলিতে টোকেন আপডেট করতে হবে!
+form_aikey_provider_title === প্রদানকারী
+form_aikey_provider_desc === আপনি এই কীটির জন্য যে AI প্রদানকারী ব্যবহার করতে চান তা নির্বাচন করুন।
+form_aikey_provider_visionoff === দৃষ্টি অসমর্থিত
+response_aimoderation_detected === আমরা আপনার বার্তায় অনুপযুক্ত বিষয়বস্তু সনাক্ত করেছি!
+response_externalcall_failed === আমরা এই মুহূর্তে আপনার অনুরোধ প্রক্রিয়া করতে অক্ষম. পরে আবার চেষ্টা করুন.
+form_addaiplugin_pluginname_desc === প্লাগইন নাম।
+form_addaiplugin_pluginname_placeholder === যেমন getTime
+response_aiautoreply_mustselaikey === আপনাকে অবশ্যই একটি AI API কী নির্বাচন করতে হবে!
+response_autoreply_added_2025 === অটোরিপ্লাই অ্যাকশন যোগ করা হয়েছে!
+response_hook_updated_2025 === হুক কর্ম আপডেট করা হয়েছে!
+response_autoreply_updated_2025 === স্বয়ংক্রিয় উত্তর ক্রিয়া আপডেট করা হয়েছে!
+response_action_deleted_2025 === কর্ম মুছে ফেলা হয়েছে!
+form_autoreplymatch_aiplugin_global === গ্লোবাল
+form_autoreplymatch_aiplugin_warningsave === সতর্কতা
+form_autoreplymatch_aiplugin_warningdesc === আপনি পরিবর্তনগুলি সংরক্ষণ করার পরে এই অটোরিপ্লাই সম্পর্কিত AI কথোপকথনগুলি পুনরায় সেট করা হবে!
+form_addaiapikey_transcriptiontitle === প্রতিলিপি
+form_addaiapikey_transcriptiondesc === সক্ষম হলে, AI প্রথমে অডিও বা ভিডিও ফাইলের বিষয়বস্তু প্রতিলিপি করবে এবং তারপর ট্রান্সক্রিপশনের উপর ভিত্তি করে একটি প্রতিক্রিয়া প্রদান করবে।

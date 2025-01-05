@@ -2872,3 +2872,104 @@ plugins_btn_pluginsdefopagegeneric === الإضافات
 tables_plugins_detailsauthor === مؤلف
 tables_plugins_detailsdesc === وصف
 tables_plugins_detailsver === إصدار
+system_settings_adminapitoken_title === الرمز المميز لواجهة برمجة تطبيقات المشرف
+system_settings_adminapitoken_desc === هذا هو الرمز المميز للمصادقة باستخدام Admin API.
+system_settings_systokenregen_desc === يعد هذا الرمز أمرًا بالغ الأهمية لأمن وظائف cronjobs وطلبات WhatsApp وميزات النظام الأخرى. ولا يجب مشاركتها مع أي شخص. إذا كنت تعتقد أن الرمز المميز قد تم اختراقه، فيجب عليك إعادة إنشاء رمز جديد على الفور. بعد التجديد، سوف تحتاج إلى إعادة تكوين cronjobs وتحديث أي إعدادات مرتبطة بها. بالإضافة إلى ذلك، سيتأثر نظام واتساب، وستتوقف جميع الحسابات المرتبطة عن العمل حتى يتم إعادة ربطها مرة أخرى.
+system_settings_aimod_title === اعتدال الذكاء الاصطناعي
+system_settings_aimod_desc === في حالة التمكين، ستنتقل جميع الرسائل والصور إلى نموذج الإشراف على الذكاء الاصطناعي الخاص بـ OpenAI للتحقق من المحتوى الذي تم الإبلاغ عنه.
+system_settings_aimod_apikey_title === مفتاح واجهة برمجة تطبيقات OpenAI
+system_settings_aimod_apikey_desc === أدخل OpenAI Apikey الخاص بك. نموذج الاعتدال AI الخاص بـ OpenAI مجاني.
+response_addaikey_promptshort === مطالبة الذكاء الاصطناعي الخاصة بك قصيرة جدًا!
+response_addaikey_modelinval === نموذج الذكاء الاصطناعي الخاص بك غير صالح!
+response_addaikey_histothres === حد سجل الذكاء الاصطناعي الخاص بك غير صالح!
+response_addaikey_histothresless === لا يمكن أن تكون عتبة سجل الذكاء الاصطناعي لديك أقل من 5!
+response_addaikey_apikeyshort === apikey الخاص بالذكاء الاصطناعي الخاص بك قصير جدًا!
+response_addaikey_success === تمت إضافة مفتاح الذكاء الاصطناعي!
+response_addaiplugin_endpointshort === نقطة نهاية المكون الإضافي قصيرة جدًا!
+response_addaiplugin_endpointinval === نقطة نهاية المكون الإضافي غير صالحة!
+response_addaiplugin_schemainval === مخطط البرنامج المساعد الخاص بك غير صالح!
+response_addaiplugin_success === تمت إضافة البرنامج المساعد لمنظمة العفو الدولية!
+response_editaikey_promptshort === مطالبة الذكاء الاصطناعي الخاصة بك قصيرة جدًا!
+response_editaikey_modelinval === نموذج الذكاء الاصطناعي الخاص بك غير صالح!
+response_editaikey_histothres === حد سجل الذكاء الاصطناعي الخاص بك غير صالح!
+response_editaikey_histothresless === لا يمكن أن تكون عتبة سجل الذكاء الاصطناعي لديك أقل من 5!
+response_editaikey_apikeyshort === apikey الخاص بالذكاء الاصطناعي الخاص بك قصير جدًا!
+response_editaikey_success === تم تحديث مفتاح الذكاء الاصطناعي!
+response_editaiplugin_endpointshort === نقطة نهاية المكون الإضافي قصيرة جدًا!
+response_editaiplugin_endpointinval === نقطة نهاية المكون الإضافي غير صالحة!
+response_editaiplugin_schemainval === مخطط البرنامج المساعد الخاص بك غير صالح!
+response_editaiplugin_success === تم تحديث البرنامج المساعد لمنظمة العفو الدولية!
+template_sidebar_ai === الذكاء الاصطناعي
+template_sidebar_ai_keys === مفاتيح واجهة برمجة التطبيقات
+template_sidebar_ai_plugins === الإضافات
+dashboard_title_aikeys === مفاتيح واجهة برمجة تطبيقات الذكاء الاصطناعي
+dashboard_title_aiplugins === إضافات الذكاء الاصطناعي
+dasboard_aipage_addkeybtn === إضافة مفتاح API
+dasboard_aipage_addpluginbtn === إضافة البرنامج المساعد
+form_addautoreply_aiapikey === مفتاح واجهة برمجة تطبيقات الذكاء الاصطناعي
+form_addautoreply_aiapikey_desc === حدد AI APIkey الذي تريد استخدامه لهذا الرد التلقائي.
+form_addautoreply_aiplugin === إضافات الذكاء الاصطناعي
+form_addautoreply_aiplugin_desc === حدد مكونات الذكاء الاصطناعي الإضافية التي تريد استخدامها لهذا الرد التلقائي.
+form_autoreplymatch_ai === الذكاء الاصطناعي
+widgets_addaikey_title === أضف مفتاح AI API
+widgets_addaikey_loader === إضافة مفتاح API API
+widgets_addaikey_requirename === اسم
+widgets_addaikey_requiremprompt === موجه الأولي
+widgets_addaikey_requireapikey === مفتاح واجهة برمجة التطبيقات
+widgets_editaikey_title === تحرير مفتاح API API
+widgets_editaikey_loader === تحديث مفتاح AI API
+widgets_addaiplugin_title === إضافة البرنامج المساعد لمنظمة العفو الدولية
+widgets_addaiplugin_loader === إضافة البرنامج المساعد لمنظمة العفو الدولية
+widgets_addaiplugin_requirename === اسم
+widgets_editaiplugin_title === تحرير البرنامج المساعد لمنظمة العفو الدولية
+widgets_editaiplugin_loader === تحديث البرنامج المساعد للذكاء الاصطناعي
+form_addaikey_initailprompt_title === موجه الأولي
+form_addaikey_initailprompt_desc === أدخل المطالبة الأولية للذكاء الاصطناعي. هذه هي التعليمات التي يجب على الذكاء الاصطناعي اتباعها قبل بدء المحادثة.
+form_addaikey_initailprompt_placeholder === على سبيل المثال. العمل كممثل للشركة. الإجابة على الأسئلة العامة للمستخدمين حول شركتنا باستخدام الأدوات المتاحة.
+form_addaikey_postprompt_title === نشر المطالبة
+form_addaikey_postprompt_desc === سيتم إلحاق هذه المطالبة تلقائيًا بكل رسالة، مما يضمن بقاء استجابات الذكاء الاصطناعي متوافقة تمامًا مع السياق أو الموضوع المحدد. استخدمه للحفاظ على حوار متسق ومركّز. اترك الحقل فارغًا لتعطيل هذه الميزة.
+form_addaikey_postprompt_placeholder === على سبيل المثال. لا تزودني بأي معلومات حول الإجراءات وميزات الخدمة غير المذكورة في السياق المقدم.
+form_addaikey_vision_title === رؤية
+form_addaikey_vision_desc === إذا تم تمكينه، فسوف يستجيب الذكاء الاصطناعي للصور المستلمة.
+form_addaikey_model_title === نموذج
+form_addaikey_model_desc === حدد النموذج الذي تريد أن يستخدمه الذكاء الاصطناعي للرد على الرسائل.
+form_addaikey_modelsmartest === أذكى
+form_addaikey_modelcheapest === أرخص
+form_addaikey_historythreshold_title === عتبة التاريخ
+form_addaikey_historythreshold_desc === أدخل الحد الأقصى لعدد رسائل المحادثة قبل أن يقوم الذكاء الاصطناعي بتلخيصها لحفظ الرموز المميزة. القيمة الموصى بها هي 50.
+form_addaikey_historythreshold_placeholder === على سبيل المثال. 50
+form_addaikey_apikey_title === مفتاح واجهة برمجة التطبيقات
+form_addaikey_apikey_desc === مفتاح واجهة برمجة التطبيقات (API) الذي قمت بإنشائه من لوحة معلومات موفر الذكاء الاصطناعي لديك.
+form_addaiplugin_banner_title === انتباه!
+form_addaiplugin_banner_desc === يتطلب إنشاء مكون إضافي بعض المعرفة الواسعة بالبرمجة. إذا لم تكن متأكدًا مما تفعله، فيرجى استشارة أحد المطورين.
+form_addaiplugin_endpoint_title === نقطة نهاية البرنامج المساعد
+form_addaiplugin_endpoint_desc === هذا هو عنوان URL الذي سيتم استدعاؤه بواسطة الذكاء الاصطناعي. يجب أن تستخدم نقطة النهاية الخاصة بك طريقة POST بشكل صارم لالتقاط معلمات الذكاء الاصطناعي!
+form_addaiplugin_schema_title === مخطط البرنامج المساعد
+form_addaiplugin_schema_desc === هذه هي التعليمات التي سيتبعها الذكاء الاصطناعي عند استدعاء المكون الإضافي. يجب اتباع التنسيق بدقة!
+form_addaiplugin_sample_schema === نموذج المخطط:
+tables_aikeys_created === مخلوق
+tables_aikeys_name === اسم
+tables_aikeys_model === نموذج
+tables_aikeys_options === خيارات
+tables_aiplugins_created === مخلوق
+tables_aiplugins_name === اسم
+tables_aiplugins_options === خيارات
+js_regenerate_admintoken === هل تريد إعادة إنشاء الرمز المميز لواجهة برمجة تطبيقات المشرف؟
+js_regenerate_admintoken_desc === هل أنت متأكد أنك تريد إعادة إنشاء الرمز المميز لواجهة برمجة تطبيقات المشرف؟ لا يمكن التراجع عن هذا الإجراء وسيتطلب منك تحديث الرمز المميز في تطبيقاتك!
+form_aikey_provider_title === مزود
+form_aikey_provider_desc === حدد موفر الذكاء الاصطناعي الذي تريد استخدامه لهذا المفتاح.
+form_aikey_provider_visionoff === الرؤية غير مدعومة
+response_aimoderation_detected === لقد اكتشفنا محتوى غير لائق في رسالتك!
+response_externalcall_failed === نحن غير قادرين على معالجة طلبك في الوقت الراهن. يرجى المحاولة مرة أخرى في وقت لاحق.
+form_addaiplugin_pluginname_desc === اسم البرنامج المساعد.
+form_addaiplugin_pluginname_placeholder === على سبيل المثال. getTime
+response_aiautoreply_mustselaikey === يجب عليك تحديد مفتاح AI API!
+response_autoreply_added_2025 === تمت إضافة إجراء الرد التلقائي!
+response_hook_updated_2025 === تم تحديث عمل الخطاف!
+response_autoreply_updated_2025 === تم تحديث إجراء الرد التلقائي!
+response_action_deleted_2025 === تم حذف الإجراء!
+form_autoreplymatch_aiplugin_global === عالمي
+form_autoreplymatch_aiplugin_warningsave === تحذير
+form_autoreplymatch_aiplugin_warningdesc === سيتم إعادة تعيين محادثات الذكاء الاصطناعي المتعلقة بهذا الرد التلقائي بعد حفظ التغييرات!
+form_addaiapikey_transcriptiontitle === النسخ
+form_addaiapikey_transcriptiondesc === إذا تم تمكينه، فسيقوم الذكاء الاصطناعي أولاً بنسخ محتوى ملفات الصوت أو الفيديو ثم تقديم استجابة بناءً على النسخ.

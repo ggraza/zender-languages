@@ -2872,3 +2872,104 @@ plugins_btn_pluginsdefopagegeneric === प्लगइन
 tables_plugins_detailsauthor === लेखक
 tables_plugins_detailsdesc === वर्णन
 tables_plugins_detailsver === आवृत्ती
+system_settings_adminapitoken_title === व्यवस्थापक API टोकन
+system_settings_adminapitoken_desc === हे प्रशासक API सह प्रमाणीकरण करण्यासाठीचा टोकन आहे.
+system_settings_systokenregen_desc === हा टोकन तुमच्या क्रोनजॉबच्या, व्हॉट्सअॅपच्या विनंत्या आणि इतर प्रणाली वैशिष्ट्यांच्या सुरक्षा साठी अत्यंत महत्त्वाचा आहे. तो कोणाबरोबरही सामायिक केला पाहिजे. जर तुम्हाला वाटत असेल की हा टोकन समर्पित झाला आहे, तर तुम्हाला तात्काळ नवीन एक पुनःजनरेट करावा लागेल. पुनःजनरेट केल्यानंतर, तुम्हाला तुमच्या क्रोनजॉबची पुन्हा कॉन्फिगर करणे आणि कोणत्याही संबंधित सेटिंग्ज अद्यतनित करणे आवश्यक आहे. याव्यतिरिक्त, व्हॉट्सअॅप प्रणालीवर परिणाम होईल, आणि सर्व जोडलेले खात्ये काम करणे थांबवेल जोपर्यंत ती पुन्हा लिंक केली जात नाहीत.
+system_settings_aimod_title === एआय मॉडरेशन
+system_settings_aimod_desc === जर सक्षम केले तर सर्व संदेश आणि प्रतिमा OpenAI च्या एआय मॉडरेशन मॉडेलद्वारे सिग्नल केलेल्या सामग्रीसाठी तपासल्या जातील.
+system_settings_aimod_apikey_title === OpenAI API की शुभंकर
+system_settings_aimod_apikey_desc === तुमचा OpenAI API की प्रविष्ट करा. OpenAI चे AI मॉडरेशन मॉडेल मोफत आहे.
+response_addaikey_promptshort === तुमचा AI प्रॉम्प्ट खूप छोटा आहे!
+response_addaikey_modelinval === तुमचा AI मॉडेल अमान्य आहे!
+response_addaikey_histothres === तुमचा एआय इतिहास थ्रेशोल्ड वैध नाही!
+response_addaikey_histothresless === तुमचा एआय इतिहास थRESHOLD 5 च्या खाली असू शकत नाही!
+response_addaikey_apikeyshort === तुमचा एआय एपीकी खूप लहान आहे!
+response_addaikey_success === AI की जोड़ी आहे!
+response_addaiplugin_endpointshort === तुमचा प्लगइन समाप्त स्थान खूपच लहान आहे!
+response_addaiplugin_endpointinval === तुमचा प्लगइन शेवट पुर्ननिर्धारित आहे!
+response_addaiplugin_schemainval === तुमचा प्लगइन स्कीमा अमान्य आहे!
+response_addaiplugin_success === AI प्लगइन जोडला गेला आहे!
+response_editaikey_promptshort === तुमचा एआय प्रॉम्प्ट खूप छोटा आहे!
+response_editaikey_modelinval === तुमचा एआय मॉडेल अमान्य आहे!
+response_editaikey_histothres === तुमचा एआय इतिहास पातळी अमान्य आहे!
+response_editaikey_histothresless === तुमची एआय इतिहास मर्यादा 5 पेक्षा कमी असू शकत नाही!
+response_editaikey_apikeyshort === तुमचा AI अपकी दाई खूप लहान आहे!
+response_editaikey_success === AI की अपडेट करण्यात आली आहे!
+response_editaiplugin_endpointshort === तुमचा प्लगइन एंडपॉइंट खूप छोटा आहे!
+response_editaiplugin_endpointinval === तुमचा प्लगइन टोकण अवैध आहे!
+response_editaiplugin_schemainval === तुमची प्लगइन स्कीमा अमान्य आहे!
+response_editaiplugin_success === एआय प्लगइन अपडेट केला गेला आहे!
+template_sidebar_ai === कृत्रिम बुद्धिमत्ता
+template_sidebar_ai_keys === एपीआय कीज
+template_sidebar_ai_plugins === प्लगइन्स
+dashboard_title_aikeys === एआय एपीआय कीज
+dashboard_title_aiplugins === एआय प्लगइनस
+dasboard_aipage_addkeybtn === API की जोडा
+dasboard_aipage_addpluginbtn === प्लगइन जोडा
+form_addautoreply_aiapikey === एआय एपीआय की
+form_addautoreply_aiapikey_desc === तुम्हाला या ऑटोरेप्लीसाठी वापरायचा AI API की निवडा.
+form_addautoreply_aiplugin === एआय प्लगिन्स
+form_addautoreply_aiplugin_desc === आपला ऑटो रिप्लायसाठी कोणते AI प्लगइन्स वापरायचे आहेत ते निवडा.
+form_autoreplymatch_ai === कृत्रिम बुद्धिमत्ता
+widgets_addaikey_title === एआय एपीआय की जोडा
+widgets_addaikey_loader === AI API की जोडणे
+widgets_addaikey_requirename === नाव
+widgets_addaikey_requiremprompt === प्रारंभिक संकेत
+widgets_addaikey_requireapikey === एपीआय की
+widgets_editaikey_title === एडिट एआय एपीआय की
+widgets_editaikey_loader === AI API कीन अद्यतन करणे
+widgets_addaiplugin_title === एआय प्लगइन जोडा
+widgets_addaiplugin_loader === AI प्लगइन समाविष्ट करणे
+widgets_addaiplugin_requirename === नाव
+widgets_editaiplugin_title === एडिट एआय प्लगइन
+widgets_editaiplugin_loader === AI प्लगइन अद्यतनित करणे
+form_addaikey_initailprompt_title === प्रारंभिक सूचना
+form_addaikey_initailprompt_desc === प्राथमिक प्रॉम्प्ट प्रविष्ट करा. हे आहेत निर्देशे ज्या निगडीत AI संवाद सुरू करण्यापूर्वी पाळाव्यात.
+form_addaikey_initailprompt_placeholder === उदाहरणार्थ, कंपनीचा प्रतिनिधी म्हणून काम करा. उपलब्ध साधनांचा वापर करून वापरकर्त्यांच्या आमच्या कंपनीविषयी सामान्य प्रश्नांची उत्तरे द्या.
+form_addaikey_postprompt_title === पद चिठ्ठी
+form_addaikey_postprompt_desc === हा प्रॉम्प्ट प्रत्येक संदेशात स्वयंचलितपणे जोडले जाईल, त्यामुळे एआयच्या प्रतिक्रियांचा संदर्भ किंवा विषयाशी खूपच संरेखित राहील. याचा उपयोग एकसारखे आणि लक्ष केंद्रित संवाद राखण्यासाठी करा. ह्याला अक्षम करण्यासाठी फील्ड रिक्त ठेवा.
+form_addaikey_postprompt_placeholder === उदाहरण: मला दिलेल्या संदर्भात नोंदवलेले नसेल तर काही प्रक्रिया आणि सेवांच्या वैशिष्ट्यांबद्दल माहिती देऊ नका.
+form_addaikey_vision_title === दृष्टी
+form_addaikey_vision_desc === जर सक्षम केले तर, AI प्राप्त झालेल्या प्रतिमांना प्रतिसाद देईल.
+form_addaikey_model_title === मॉडेल
+form_addaikey_model_desc === आपण संदेशांना प्रतिसाद देण्यासाठी एआयला वापरायला हवे असलेले मॉडेल निवडा.
+form_addaikey_modelsmartest === स्मार्टेस्ट
+form_addaikey_modelcheapest === सर्वात स्वस्त
+form_addaikey_historythreshold_title === इतिहासाची थ्रेशोल्ड
+form_addaikey_historythreshold_desc === AI चा टोकन्स वाचवण्यासाठी संवाद संदेशांची कमाल संख्या सुमारे ५० पर्यंत असावी, हे शिफारस केले आहे.
+form_addaikey_historythreshold_placeholder === उदाहरणार्थ 50
+form_addaikey_apikey_title === API की
+form_addaikey_apikey_desc === तुमच्या एआय प्रदात्याच्या डॅशबोर्डवरून तुम्ही तयार केलेला API की.
+form_addaiplugin_banner_title === सुचना!
+form_addaiplugin_banner_desc === प्लगइन तयार करण्यासाठी काही विस्तृत कोडिंग ज्ञानाची आवश्यकता असते. जर तुम्हाला तुमच्या कामाबद्दल निश्चितता नसेल, तर कृपया एक विकासकाशी सल्ला करा.
+form_addaiplugin_endpoint_title === प्लगइन अंतिम बिंदू
+form_addaiplugin_endpoint_desc === हे URL आहे जे AI द्वारे वापरले जाईल. तुमचा एंडपॉइंट AI पॅरामीटर्स कॅप्चर करण्यासाठी फक्त POST पद्धत वापरावा!
+form_addaiplugin_schema_title === प्लगइन योजना
+form_addaiplugin_schema_desc === हे त्या सूचना आहेत ज्या एआय प्लगइन सक्रिय करताना पालन करेल. प्रमाण खूप कठोरपणे पाळावे लागेल!
+form_addaiplugin_sample_schema === नमुना esquema:
+tables_aikeys_created === तयार केलेले
+tables_aikeys_name === नाव
+tables_aikeys_model === मॉडेल
+tables_aikeys_options === पर्याय
+tables_aiplugins_created === निर्मित
+tables_aiplugins_name === नाव
+tables_aiplugins_options === पर्याय
+js_regenerate_admintoken === अॅडमिन API टोकन पुन्हा जनरेट करणे?
+js_regenerate_admintoken_desc === तुम्हाला खात्री आहे का की तुम्ही अ‍ॅडमिन API टोकन पुनःनिर्मित करू इच्छिता? ही कृती मागे घेतली जात नाही आणि तुम्हाला तुमच्या अनुप्रयोगांमध्ये टोकन अद्यतनित करण्याची आवश्यकता असेल!
+form_aikey_provider_title === पुरवठादार
+form_aikey_provider_desc === या कीसाठी आपण वापरू इच्छित AI प्रदाता निवडा.
+form_aikey_provider_visionoff === दृष्टी समर्थन नाही
+response_aimoderation_detected === आम्हाला तुमच्या संदेशामध्ये अनुचित सामग्री आढळली आहे!
+response_externalcall_failed === आम्ही सध्या तुमच्या विनंतीची प्रक्रिया करू शकत नाही. कृपया नंतर पुन्हा प्रयत्न करा.
+form_addaiplugin_pluginname_desc === प्लगइन नाव.
+form_addaiplugin_pluginname_placeholder === उदाहरण: मिळवा वेळ
+response_aiautoreply_mustselaikey === तुम्ही एक AI API की निवडली पाहिजे!
+response_autoreply_added_2025 === स्वयंप्रतिसाद क्रिया जोडली गेली आहे!
+response_hook_updated_2025 === हुक क्रिया अद्यतनित केली गेली आहे!
+response_autoreply_updated_2025 === ऑटोरेप्लाय क्रिया अद्यतनित करण्यात आली आहे!
+response_action_deleted_2025 === क्रिया हटवली गेली आहे!
+form_autoreplymatch_aiplugin_global === जागतिक
+form_autoreplymatch_aiplugin_warningsave === चेतावणी
+form_autoreplymatch_aiplugin_warningdesc === या स्वयंचलित उत्तराशी संबंधित AI संवाद तुम्ही बदल साठवल्यानंतर पुन्हा सेट होतील!
+form_addaiapikey_transcriptiontitle === ट्रान्स्क्रिप्शन
+form_addaiapikey_transcriptiondesc === जर सक्षम असेल, तर एआय प्रथम ऑडिओ किंवा व्हिडिओ फाईल्सचा सामग्री भाषांतर करेल आणि नंतर भाषांतरावर आधारित प्रतिक्रिया प्रदान करेल.

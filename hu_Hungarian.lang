@@ -2864,10 +2864,112 @@ plugin_paymentpage_processingtagline === Kérjük, kattintson az alábbi gombra 
 plugin_paymentpage_processingbutton === Fizess most
 plugin_generic_downloadstitle === Plugin letöltések
 table_waservers_detailsid === ID
-table_waservers_detailsversion === Változatform_waserver_secretkeydesc_386 === Hozzon létre egy egyedi titkos titkos kulcsot. Ezt fogja használni a WhatsApp szerver a Zenderrel való peer kapcsolat ellenőrzésére. Kérjük, ne használjon speciális karaktereket!
+table_waservers_detailsversion === Változat
+form_waserver_secretkeydesc_386 === Hozzon létre egy egyedi titkos titkos kulcsot. Ezt fogja használni a WhatsApp szerver a Zenderrel való peer kapcsolat ellenőrzésére. Kérjük, ne használjon speciális karaktereket!
 form_package_enabledservicestitle === Engedélyezett szolgáltatások
 form_package_enabledservicesdesc === Válassza ki a csomaghoz engedélyezni kívánt szolgáltatásokat. A letiltott szolgáltatások rejtettek, és a felhasználóra korlátozódnak.
 plugins_btn_pluginsdefopagegeneric === Beépülő modulok
 tables_plugins_detailsauthor === Szerző
 tables_plugins_detailsdesc === Leírás
 tables_plugins_detailsver === Változat
+system_settings_adminapitoken_title === Admin API Token
+system_settings_adminapitoken_desc === Ez a token az Admin API-val való hitelesítéshez.
+system_settings_systokenregen_desc === Ez a token kritikus fontosságú a cronjobok, WhatsApp kérések és más rendszerfunkciók biztonságához. Ezt senkivel sem szabad megosztani. Ha úgy gondolja, hogy a token kompromittálódott, azonnal újra kell generálni egy újat. Az újragenerálás után újra kell konfigurálni a cronjobokat és frissíteni a kapcsolódó beállításokat. Ezenkívül a WhatsApp rendszer is érintett lesz, és minden csatlakoztatott fiók leáll, amíg újra nem kapcsolják őket.
+system_settings_aimod_title === AI moderálás
+system_settings_aimod_desc === Ha engedélyezve van, akkor az összes üzenet és kép az OpenAI AI moderációs modelljén fog áthaladni, hogy ellenőrizzék a problémás tartalmat.
+system_settings_aimod_apikey_title === OpenAI API kulcs
+system_settings_aimod_apikey_desc === Írd be az OpenAI Apikey-edet. Az OpenAI AI Moderation modellje ingyenes.
+response_addaikey_promptshort === AI bejegyzésed túl rövid!
+response_addaikey_modelinval === Az AI modelled érvénytelen!
+response_addaikey_histothres === Az ön mesterséges intelligencia történeti küszöbe érvénytelen!
+response_addaikey_histothresless === Az AI történeti küszöbértéked nem lehet kevesebb mint 5!
+response_addaikey_apikeyshort === Az AI apikey-ed túl rövid!
+response_addaikey_success === Az AI kulcs hozzáadva!
+response_addaiplugin_endpointshort === A plugin végpontja túl rövid!
+response_addaiplugin_endpointinval === A plugin végpontja érvénytelen!
+response_addaiplugin_schemainval === A bővítmény sémája érvénytelen!
+response_addaiplugin_success === AI bővítmény hozzáadva!
+response_editaikey_promptshort === Az AI kérésed túl rövid!
+response_editaikey_modelinval === Az ön AI modellje érvénytelen!
+response_editaikey_histothres === Az AI történeti küszöbértéked érvénytelen!
+response_editaikey_histothresless === Az AI történeti küszöböd nem lehet kevesebb mint 5!
+response_editaikey_apikeyshort === Az AI apikeyje túl rövid!
+response_editaikey_success === Az AI kulcs frissítve lett!
+response_editaiplugin_endpointshort === A plugin végpontod túl rövid!
+response_editaiplugin_endpointinval === A bővítmény végpontja érvénytelen!
+response_editaiplugin_schemainval === A bővítmény sémája érvénytelen!
+response_editaiplugin_success === Az AI bővítmény frissítve lett!
+template_sidebar_ai === Mesterséges intelligencia
+template_sidebar_ai_keys === API kulcsok
+template_sidebar_ai_plugins === Bővítmények
+dashboard_title_aikeys === AI API kulcsok
+dashboard_title_aiplugins === AI bővítmények
+dasboard_aipage_addkeybtn === API kulcs hozzáadása
+dasboard_aipage_addpluginbtn === Plugin hozzáadása
+form_addautoreply_aiapikey === AI API Kulcs
+form_addautoreply_aiapikey_desc === Válaszd ki azt az AI API kulcsot, amelyet az automatikus válaszhoz szeretnél használni.
+form_addautoreply_aiplugin === AI bővítmények
+form_addautoreply_aiplugin_desc === Válaszd ki azokat az AI bővítményeket, amelyeket használni szeretnél ehhez az automatikus válaszhoz.
+form_autoreplymatch_ai === Mesterséges intelligencia
+widgets_addaikey_title === Adjon hozzá AI API kulcsot
+widgets_addaikey_loader === AI API kulcs hozzáadása
+widgets_addaikey_requirename === Név
+widgets_addaikey_requiremprompt === Kezdeti üzenet
+widgets_addaikey_requireapikey === API kulcs
+widgets_editaikey_title === API kulcs szerkesztése
+widgets_editaikey_loader === AI API kulcs frissítése
+widgets_addaiplugin_title === AI Plugint hozzáadása
+widgets_addaiplugin_loader === AI bővítmény hozzáadása
+widgets_addaiplugin_requirename === Név
+widgets_editaiplugin_title === Szerkesztő AI Bővítmény
+widgets_editaiplugin_loader === AI Plug-in frissítése
+form_addaikey_initailprompt_title === Kezdeti felkérés
+form_addaikey_initailprompt_desc === Kérlek, add meg az AI kezdeti kérését. Ezek azok az utasítások, amelyeket az AI-nak követnie kell a beszélgetés megkezdése előtt.
+form_addaikey_initailprompt_placeholder === pl. Képviselje a vállalatot. Válaszoljon a felhasználók által a vállalatunkkal kapcsolatos általános kérdésekre a rendelkezésre álló eszközök segítségével.
+form_addaikey_postprompt_title === Kérlek, írd le, mit szeretnél, hogy fordítsak le!
+form_addaikey_postprompt_desc === Ez a kérés automatikusan hozzá lesz adva minden üzenethez, biztosítva, hogy az AI válaszai szigorúan illeszkedjenek a megadott kontextushoz vagy témához. Használja ezt a következetes és fókuszált párbeszéd fenntartására. Hagyja üresen a mezőt ezen funkció letiltásához.
+form_addaikey_postprompt_placeholder === Pl. Ne adjon olyan információt az eljárásokról és szolgáltatási jellemzőkről, amelyek nem szerepelnek a MEGADOTT KONTEXTUSBAN.
+form_addaikey_vision_title === Látomás
+form_addaikey_vision_desc === Ha engedélyezve van, az AI válaszolni fog a kapott képekre.
+form_addaikey_model_title === Model
+form_addaikey_model_desc === Válaszd ki a modellt, amelyet szeretnél, hogy az AI használjon az üzenetek megválaszolásához.
+form_addaikey_modelsmartest === Legokosabb
+form_addaikey_modelcheapest === Legolcsóbb
+form_addaikey_historythreshold_title === Történelmi Küszöb
+form_addaikey_historythreshold_desc === Írd be a maximális beszélgetési üzenetek számát, mielőtt az AI összefoglalja, hogy tokenokat takarítson meg. A javasolt érték 50.
+form_addaikey_historythreshold_placeholder === például 50
+form_addaikey_apikey_title === API kulcs
+form_addaikey_apikey_desc === Az API kulcs, amelyet az AI szolgáltatód irányítópultján hoztál létre.
+form_addaiplugin_banner_title === Figyelem!
+form_addaiplugin_banner_desc === A bővítmény létrehozása kiterjedt programozási ismereteket igényel. Ha nem biztos abban, hogy mit csinál, kérjük, konzultáljon egy fejlesztővel.
+form_addaiplugin_endpoint_title === Bővítmény végpont
+form_addaiplugin_endpoint_desc === Ez az az URL, amelyet az AI fog hívni. Az Ön végpontjának szigorúan POST módszert kell használnia az AI paraméterek rögzítésére!
+form_addaiplugin_schema_title === Plugin séma
+form_addaiplugin_schema_desc === Ezek olyan utasítások, amelyeket az AI követni fog a plug-in hívásakor. A formátumot szigorúan be kell tartani!
+form_addaiplugin_sample_schema === Minta séma:
+tables_aikeys_created === Létrehozva
+tables_aikeys_name === Név
+tables_aikeys_model === Modell
+tables_aikeys_options === Választási lehetőségek
+tables_aiplugins_created === Létrehozva
+tables_aiplugins_name === Név
+tables_aiplugins_options === Opciók
+js_regenerate_admintoken === Admin API tokent újragenerálni?
+js_regenerate_admintoken_desc === Biztos benne, hogy meg akarja regenerálni az admin API tokent? Ez a művelet visszafordíthatatlan, és szükség lesz a token frissítésére az alkalmazásaiban!
+form_aikey_provider_title === Szolgáltató
+form_aikey_provider_desc === Válaszd ki az AI szolgáltatót, amelyet használni szeretnél ehhez a kulcshoz.
+form_aikey_provider_visionoff === A látás nem támogatott
+response_aimoderation_detected === A üzenetében nem megfelelő tartalmat észleltünk!
+response_externalcall_failed === Jelenleg nem tudjuk feldolgozni a kérését. Kérjük, próbálja meg később.
+form_addaiplugin_pluginname_desc === Bővítmény neve.
+form_addaiplugin_pluginname_placeholder === pl. getTime
+response_aiautoreply_mustselaikey === Ki kell választania egy AI API kulcsot!
+response_autoreply_added_2025 === Automatikus válasz akció hozzáadva!
+response_hook_updated_2025 === A horgolt művelet frissítve lett!
+response_autoreply_updated_2025 === Az automatikus válasz funkció frissítve lett!
+response_action_deleted_2025 === A művelet törölve lett!
+form_autoreplymatch_aiplugin_global === Globális
+form_autoreplymatch_aiplugin_warningsave === Figyelmeztetés
+form_autoreplymatch_aiplugin_warningdesc === Az erre az automatikus válaszra vonatkozó AI beszélgetések a módosítások elmentése után visszaállnak!
+form_addaiapikey_transcriptiontitle === Átirat
+form_addaiapikey_transcriptiondesc === Ha engedélyezve van, az AI először átírja a hang- vagy videófájlok tartalmát, majd a transzkripció alapján nyújt választ.

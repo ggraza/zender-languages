@@ -2872,3 +2872,104 @@ plugins_btn_pluginsdefopagegeneric === Плугинс
 tables_plugins_detailsauthor === Аутор
 tables_plugins_detailsdesc === Опис
 tables_plugins_detailsver === Верзија
+system_settings_adminapitoken_title === API token za administraciju
+system_settings_adminapitoken_desc === Ovo je token za autentifikaciju sa Admin API-jem.
+system_settings_systokenregen_desc === Ova oznaka je ključna za bezbednost vaših cron poslova, WhatsApp zahteva i drugih sistemskih funkcija. Ne sme se deliti s nikim. Ako verujete da je oznaka kompromitovana, odmah treba da generišete novu. Nakon regeneracije, bićete u obavezi da ponovo konfigurišete svoje cron poslove i ažurirate sve povezane postavke. Pored toga, WhatsApp sistem će biti pogođen, i svi povezani nalozi će prestati da rade dok se ponovo ne povežu.
+system_settings_aimod_title === AI Moderacija
+system_settings_aimod_desc === Ako je omogućeno, sve poruke i slike će prolaziti kroz AI model za moderaciju OpenAI-a kako bi se proverio sadržaj na označene sadržaje.
+system_settings_aimod_apikey_title === OpenAI API ključ
+system_settings_aimod_apikey_desc === Unesite svoj OpenAI Apikey. AI model za moderaciju OpenAI je besplatan.
+response_addaikey_promptshort === Vaš AI upit je prekratak!
+response_addaikey_modelinval === Vaš AI model je neispravan!
+response_addaikey_histothres === Vaš prag istorije AI je nevažeći!
+response_addaikey_histothresless === Vaš prag veštačke inteligencije ne može biti manji od 5!
+response_addaikey_apikeyshort === Vaš AI apikey je prekratak!
+response_addaikey_success === AI ključ je dodat!
+response_addaiplugin_endpointshort === Vaša tačka krajnjeg dodatka je prekratka!
+response_addaiplugin_endpointinval === Vaša tačka za dodatak je nevažeća!
+response_addaiplugin_schemainval === Vaš plugin šema je nevalidna!
+response_addaiplugin_success === AI dodatak je dodat!
+response_editaikey_promptshort === Vaš AI upit je prekratak!
+response_editaikey_modelinval === Vaš AI model je nevažeći!
+response_editaikey_histothres === Vaš prag istorije veštačke inteligencije je nevažeći!
+response_editaikey_histothresless === Vaš AI istorijski prag ne može biti manji od 5!
+response_editaikey_apikeyshort === Vaš AI apikey je prekratak!
+response_editaikey_success === AI ključ je ažuriran!
+response_editaiplugin_endpointshort === Vaša tačka ekstenzije je prekratka!
+response_editaiplugin_endpointinval === Vaš plugin endpoint je nevažeći!
+response_editaiplugin_schemainval === Vaš plugin shema je nevažeća!
+response_editaiplugin_success === AI dodatak je ažuriran!
+template_sidebar_ai === Veštačka inteligencija
+template_sidebar_ai_keys === API ključevi
+template_sidebar_ai_plugins === Dodaci
+dashboard_title_aikeys === Ključevi API za veštačku inteligenciju
+dashboard_title_aiplugins === AI dodaci
+dasboard_aipage_addkeybtn === Dodajte API ključ
+dasboard_aipage_addpluginbtn === Dodajte dodatak
+form_addautoreply_aiapikey === AI API ključ
+form_addautoreply_aiapikey_desc === Izaberite AI apikey koji želite da koristite za ovu automatsku odgovor.
+form_addautoreply_aiplugin === AI Dodaci
+form_addautoreply_aiplugin_desc === Izaberite AI dodatke koje želite da koristite za ovu automatsku poruku.
+form_autoreplymatch_ai === Veštačka inteligencija
+widgets_addaikey_title === Dodajte AI API ključ
+widgets_addaikey_loader === Dodavanje AI API ključa
+widgets_addaikey_requirename === Ime
+widgets_addaikey_requiremprompt === Početna uputstva
+widgets_addaikey_requireapikey === API ključ
+widgets_editaikey_title === Izmeni AI API ključ
+widgets_editaikey_loader === Ažuriranje AI API ključa
+widgets_addaiplugin_title === Dodajte AI dodatak
+widgets_addaiplugin_loader === Dodavanje AI dodatka
+widgets_addaiplugin_requirename === Ime
+widgets_editaiplugin_title === Uredi AI dodatak
+widgets_editaiplugin_loader === Ažuriranje AI dodatka
+form_addaikey_initailprompt_title === Inicijalni upit
+form_addaikey_initailprompt_desc === Unesite inicijalnu uputu za veštačku inteligenciju. Ovo su uputstva koja bi AI trebalo da prati pre nego što započne razgovor.
+form_addaikey_initailprompt_placeholder === npr. Ponašajte se kao predstavnik kompanije. Odgovarajte na opšta pitanja korisnika o našoj kompaniji koristeći dostupne alate.
+form_addaikey_postprompt_title === Postavi prompt
+form_addaikey_postprompt_desc === Ova uputa će biti automatski dodata svakoj poruci, osiguravajući da odgovori AI ostanu strogo u skladu sa određenim kontekstom ili temom. Koristite je za održavanje doslednog i fokusiranog dijaloga. Ostavite polje prazno da biste onemogućili ovu funkciju.
+form_addaikey_postprompt_placeholder === npr. Ne daj mi nikakve informacije o procedurama i karakteristikama usluga koje nisu pomenute u PRUŽENOM KONTEKSTU.
+form_addaikey_vision_title === Vizija
+form_addaikey_vision_desc === Ako je omogućeno, AI će odgovoriti na primljene slike.
+form_addaikey_model_title === Model
+form_addaikey_model_desc === Izaberite model koji želite da veštačka inteligencija koristi za odgovaranje na poruke.
+form_addaikey_modelsmartest === Najpametniji
+form_addaikey_modelcheapest === Najjeftinije
+form_addaikey_historythreshold_title === Prag istorije
+form_addaikey_historythreshold_desc === Unesite maksimalan broj poruka u razgovoru pre nego što veštačka inteligencija sažme, kako bi uštedela tokene. Preporučena vrednost je 50.
+form_addaikey_historythreshold_placeholder === npr. 50
+form_addaikey_apikey_title === API ključ
+form_addaikey_apikey_desc === API ključ koji ste kreirali iz vašeg AI provajder kontrolnog panela.
+form_addaiplugin_banner_title === Pažnja!
+form_addaiplugin_banner_desc === Kreiranje plugina zahteva opširno znanje kodiranja. Ako niste sigurni u ono što radite, molimo vas da se konsultujete sa programerom.
+form_addaiplugin_endpoint_title === Plugin Krajna tačka
+form_addaiplugin_endpoint_desc === Ovo je URL koji će biti pozvan od strane veštačke inteligencije. Vaša tačka krajnjeg odredišta mora strogo koristiti POST metodu za prikupljanje parametara veštačke inteligencije!
+form_addaiplugin_schema_title === Dodatak Šema
+form_addaiplugin_schema_desc === Ovo su uputstva koja će AI slediti prilikom korišćenja dodatka. Format se mora strogo poštovati!
+form_addaiplugin_sample_schema === Primer šeme:
+tables_aikeys_created === Kreirano
+tables_aikeys_name === Ime
+tables_aikeys_model === Model
+tables_aikeys_options === Opcije
+tables_aiplugins_created === Stvoreno
+tables_aiplugins_name === Ime
+tables_aiplugins_options === Opcije
+js_regenerate_admintoken === Ponovo generiši Admin API token?
+js_regenerate_admintoken_desc === Da li ste sigurni da želite da regenerišete admin API token? Ova akcija je nepovratna i biće potrebno da ažurirate token u vašim aplikacijama!
+form_aikey_provider_title === Pružalac
+form_aikey_provider_desc === Odaberite AI provajdera kojeg želite da koristite za ovu ključ.
+form_aikey_provider_visionoff === Vizija nije podržana
+response_aimoderation_detected === Otkrili smo neprimeren sadržaj u vašoj poruci!
+response_externalcall_failed === Trenutno nismo u mogućnosti da obradimo vaš zahtev. Molimo vas da pokušate ponovo kasnije.
+form_addaiplugin_pluginname_desc === Naziv dodatka.
+form_addaiplugin_pluginname_placeholder === npr. getTime
+response_aiautoreply_mustselaikey === Morate odabrati AI API ključ!
+response_autoreply_added_2025 === Dodata je akcija automatskog odgovora!
+response_hook_updated_2025 === Akcija kuka je ažurirana!
+response_autoreply_updated_2025 === Akcija automatskog odgovora je ažurirana!
+response_action_deleted_2025 === Akcija je obrisana!
+form_autoreplymatch_aiplugin_global === Globalni
+form_autoreplymatch_aiplugin_warningsave === Upozorenje
+form_autoreplymatch_aiplugin_warningdesc === Razgovori sa veštačkom inteligencijom vezani za ovu automatsku poruku će se resetovati nakon što sačuvate promene!
+form_addaiapikey_transcriptiontitle === Transkripcija
+form_addaiapikey_transcriptiondesc === Ako je omogućeno, AI će najpre transkribovati sadržaj audio ili video datoteka, a zatim pružiti odgovor na osnovu transkripcije.

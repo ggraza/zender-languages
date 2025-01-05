@@ -2872,3 +2872,104 @@ plugins_btn_pluginsdefopagegeneric === Плагины
 tables_plugins_detailsauthor === Автор
 tables_plugins_detailsdesc === Описание
 tables_plugins_detailsver === Версия
+system_settings_adminapitoken_title === Токен API администратора
+system_settings_adminapitoken_desc === Это токен для аутентификации с Административным API.
+system_settings_systokenregen_desc === Этот токен критически важен для безопасности ваших cronjob'ов, запросов WhatsApp и других системных функций. Его не нужно делиться с кем-либо. Если вы считаете, что токен был скомпрометирован, вам следует немедленно сгенерировать новый. После регенерации вам нужно будет перенастроить ваши cronjob'ы и обновить любые связанные параметры. Кроме того, на систему WhatsApp это повлияет, и все подключенные аккаунты перестанут работать, пока они не будут повторно связаны.
+system_settings_aimod_title === Модерация ИИ
+system_settings_aimod_desc === Если включено, все сообщения и изображения будут проходить через модель модерации ИИ от OpenAI для проверки на наличие помеченного контента.
+system_settings_aimod_apikey_title === Ключ API OpenAI
+system_settings_aimod_apikey_desc === Введите свой OpenAI Apikey. Модель модерации AI от OpenAI бесплатна.
+response_addaikey_promptshort === Ваш запрос к ИИ слишком короткий!
+response_addaikey_modelinval === Ваш ИИ-модель недействительна!
+response_addaikey_histothres === Ваш порог истории ИИ недействителен!
+response_addaikey_histothresless === Ваш порог истории ИИ не может быть меньше 5!
+response_addaikey_apikeyshort === Ваш API-ключ слишком короткий!
+response_addaikey_success === Ключ ИИ был добавлен!
+response_addaiplugin_endpointshort === Ваш конечный пункт плагина слишком короткий!
+response_addaiplugin_endpointinval === Ваш конечный пункт плагина недействителен!
+response_addaiplugin_schemainval === Ваша схема плагина недействительна!
+response_addaiplugin_success === Плагин ИИ был добавлен!
+response_editaikey_promptshort === Ваш запрос к ИИ слишком короткий!
+response_editaikey_modelinval === Ваш ИИ-модель недействительна!
+response_editaikey_histothres === Ваш порог истории ИИ недействителен!
+response_editaikey_histothresless === Ваш порог истории ИИ не может быть менее 5!
+response_editaikey_apikeyshort === Ваш AI ключ доступа слишком короткий!
+response_editaikey_success === Ключ ИИ был обновлён!
+response_editaiplugin_endpointshort === Ваш конечный пункт плагина слишком короткий!
+response_editaiplugin_endpointinval === Ваш конечный пункт плагина недействителен!
+response_editaiplugin_schemainval === Схема вашего плагина недействительна!
+response_editaiplugin_success === Плагин ИИ был обновлён!
+template_sidebar_ai === Искусственный интеллект
+template_sidebar_ai_keys === Ключи API
+template_sidebar_ai_plugins === Плагины
+dashboard_title_aikeys === Ключи API ИИ
+dashboard_title_aiplugins === Плагины ИИ
+dasboard_aipage_addkeybtn === Добавить ключ API
+dasboard_aipage_addpluginbtn === Добавить плагин
+form_addautoreply_aiapikey === Ключ API для ИИ
+form_addautoreply_aiapikey_desc === Выберите API-ключ ИИ, который вы хотите использовать для этого автоответа.
+form_addautoreply_aiplugin === Плагины ИИ
+form_addautoreply_aiplugin_desc === Выберите плагины ИИ, которые вы хотите использовать для этого автоответчика.
+form_autoreplymatch_ai === Искусственный интеллект
+widgets_addaikey_title === Добавить ключ API ИИ
+widgets_addaikey_loader === Добавление ключа API ИИ
+widgets_addaikey_requirename === Имя
+widgets_addaikey_requiremprompt === Начальный запрос
+widgets_addaikey_requireapikey === Ключ API
+widgets_editaikey_title === Редактировать ключ API ИИ
+widgets_editaikey_loader === Обновление ключа API для ИИ
+widgets_addaiplugin_title === Добавить плагин ИИ
+widgets_addaiplugin_loader === Добавление плагина ИИ
+widgets_addaiplugin_requirename === Имя
+widgets_editaiplugin_title === Редактировать плагин ИИ
+widgets_editaiplugin_loader === Обновление плагина ИИ
+form_addaikey_initailprompt_title === Начальный запрос
+form_addaikey_initailprompt_desc === Введите начальный запрос для ИИ. Это инструкции, которые ИИ должен выполнять перед началом беседы.
+form_addaikey_initailprompt_placeholder === Например, выступайте в качестве представителя компании. Ответьте на общие вопросы пользователей о нашей компании, используя доступные инструменты.
+form_addaikey_postprompt_title === Пост-запрос
+form_addaikey_postprompt_desc === Этот запрос будет автоматически добавлен к каждому сообщению, чтобы гарантировать, что ответы ИИ останутся строго в соответствии с указанным контекстом или темой. Используйте это, чтобы поддерживать последовательный и сосредоточенный диалог. Оставьте поле пустым, чтобы отключить эту функцию.
+form_addaikey_postprompt_placeholder === Например, не давайте мне никакой информации о процедурах и характеристиках услуг, которые не упомянуты в ПРЕДОСТАВЛЕННОМ КОНТЕКСТЕ.
+form_addaikey_vision_title === Видение
+form_addaikey_vision_desc === Если включено, ИИ будет реагировать на полученные изображения.
+form_addaikey_model_title === Модель
+form_addaikey_model_desc === Выберите модель, которую вы хотите, чтобы ИИ использовал для ответов на сообщения.
+form_addaikey_modelsmartest === Самый умный
+form_addaikey_modelcheapest === Самый дешевый
+form_addaikey_historythreshold_title === Исторический порог
+form_addaikey_historythreshold_desc === Введите максимальное количество сообщений в разговоре, прежде чем ИИ сделает его резюме для экономии токенов. Рекомендуемое значение - 50.
+form_addaikey_historythreshold_placeholder === например, 50
+form_addaikey_apikey_title === Ключ API
+form_addaikey_apikey_desc === Ключ API, который вы создали на панели управления вашего поставщика ИИ.
+form_addaiplugin_banner_title === Внимание!
+form_addaiplugin_banner_desc === Создание плагина требует обширных знаний в программировании. Если вы не уверены в своих действиях, пожалуйста, проконсультируйтесь с разработчиком.
+form_addaiplugin_endpoint_title === Конечная точка плагина
+form_addaiplugin_endpoint_desc === Это URL, который будет вызываться ИИ. Ваша конечная точка должна строго использовать метод POST для захвата параметров ИИ!
+form_addaiplugin_schema_title === Схема плагина
+form_addaiplugin_schema_desc === Это инструкции, которые ИИ будет выполнять при вызове плагина. Формат должен строго соблюдаться!
+form_addaiplugin_sample_schema === Пример схемы:
+tables_aikeys_created === Создано
+tables_aikeys_name === Имя
+tables_aikeys_model === Модель
+tables_aikeys_options === Опции
+tables_aiplugins_created === Создано
+tables_aiplugins_name === Имя
+tables_aiplugins_options === Варианты
+js_regenerate_admintoken === Сгенерировать токен API администратора?
+js_regenerate_admintoken_desc === Вы уверены, что хотите сгенерировать новый токен для администратора API? Это действие необратимо и потребует обновления токена в ваших приложениях!
+form_aikey_provider_title === Поставщик
+form_aikey_provider_desc === Выберите поставщика ИИ, которого вы хотите использовать для этого ключа.
+form_aikey_provider_visionoff === Видение не поддерживается
+response_aimoderation_detected === Мы обнаружили неподобающий контент в вашем сообщении!
+response_externalcall_failed === Мы не можем обработать ваш запрос в данный момент. Пожалуйста, попробуйте позже.
+form_addaiplugin_pluginname_desc === Имя плагина.
+form_addaiplugin_pluginname_placeholder === например, получитьВремя
+response_aiautoreply_mustselaikey === Вы должны выбрать ключ API для ИИ!
+response_autoreply_added_2025 === Добавлено действие автоматического ответа!
+response_hook_updated_2025 === Действие крючка было обновлено!
+response_autoreply_updated_2025 === Функция автоматического ответа была обновлена!
+response_action_deleted_2025 === Действие было удалено!
+form_autoreplymatch_aiplugin_global === Глобальный
+form_autoreplymatch_aiplugin_warningsave === Предупреждение
+form_autoreplymatch_aiplugin_warningdesc === AI-беседы, связанные с этой автоответной записью, будут сброшены после того, как вы сохраните изменения!
+form_addaiapikey_transcriptiontitle === Транскрипция
+form_addaiapikey_transcriptiondesc === Если включено, ИИ сначала расшифрует содержимое аудио или видеофайлов, а затем предоставит ответ на основе расшифровки.

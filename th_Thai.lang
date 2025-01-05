@@ -2872,3 +2872,104 @@ plugins_btn_pluginsdefopagegeneric === ปลั๊กอิน
 tables_plugins_detailsauthor === ผู้เขียน
 tables_plugins_detailsdesc === คำอธิบาย
 tables_plugins_detailsver === เวอร์ชัน
+system_settings_adminapitoken_title === โทเค็น API ของผู้ดูแลระบบ
+system_settings_adminapitoken_desc === นี่คือโทเค็นสำหรับการตรวจสอบสิทธิ์กับ Admin API.
+system_settings_systokenregen_desc === โทเค็นนี้มีความสำคัญต่อความปลอดภัยของครอนจ็อบส์ของคุณ คำขอ WhatsApp และฟีเจอร์อื่น ๆ ของระบบ ต้องไม่แชร์ให้กับใคร หากคุณคิดว่าโทเค็นถูกบุกรุกแล้ว ให้คุณสร้างโทเค็นใหม่ทันที หลังจากสร้างใหม่แล้ว คุณจะต้องตั้งค่าครอนจ็อบส์ใหม่และอัปเดตการตั้งค่าที่เกี่ยวข้อง นอกจากนี้ ระบบ WhatsApp จะได้รับผลกระทบ และบัญชีที่เชื่อมต่อทั้งหมดจะหยุดทำงานจนกว่าจะถูกเชื่อมต่ออีกครั้ง
+system_settings_aimod_title === การตรวจสอบด้วย AI
+system_settings_aimod_desc === หากเปิดใช้งาน ข้อความและภาพทั้งหมดจะถูกส่งผ่านโมเดลการควบคุมของ AI ของ OpenAI เพื่อตรวจสอบเนื้อหาที่ถูกตั้งธง
+system_settings_aimod_apikey_title === คีย์ API ของ OpenAI
+system_settings_aimod_apikey_desc === กรอกคีย์ API ของคุณ OpenAI โมเดลการควบคุมเนื้อหาของ OpenAI ไม่มีค่าใช้จ่าย
+response_addaikey_promptshort === คำสั่ง AI ของคุณสั้นเกินไป!
+response_addaikey_modelinval === โมเดล AI ของคุณไม่ถูกต้อง!
+response_addaikey_histothres === เกณฑ์ประวัติศาสตร์ AI ของคุณไม่ถูกต้อง!
+response_addaikey_histothresless === ค่าต่ำสุดของประวัติ AI ของคุณต้องไม่น้อยกว่า 5!
+response_addaikey_apikeyshort === รหัส API ของคุณสั้นเกินไป!
+response_addaikey_success === ได้เพิ่มกุญแจ AI แล้ว!
+response_addaiplugin_endpointshort === จุดสิ้นสุดของปลั๊กอินของคุณสั้นเกินไป!
+response_addaiplugin_endpointinval === จุดสิ้นสุดของปลั๊กอินของคุณไม่ถูกต้อง!
+response_addaiplugin_schemainval === สคีมาของปลั๊กอินของคุณไม่ถูกต้อง!
+response_addaiplugin_success === ได้เพิ่มปลั๊กอิน AI แล้ว!
+response_editaikey_promptshort === ข้อความโปรแกรม AI ของคุณสั้นเกินไป!
+response_editaikey_modelinval === โมเดล AI ของคุณไม่ถูกต้อง!
+response_editaikey_histothres === เกณฑ์ประวัติศาสตร์ AI ของคุณไม่ถูกต้อง!
+response_editaikey_histothresless === เกณฑ์ประวัติศาสตร์ AI ของคุณต้องไม่ต่ำกว่า 5!
+response_editaikey_apikeyshort === คีย์ API ของคุณสั้นเกินไป!
+response_editaikey_success === AI คีย์ได้รับการอัปเดตแล้ว!
+response_editaiplugin_endpointshort === จุดสิ้นสุดของปลั๊กอินของคุณสั้นเกินไป!
+response_editaiplugin_endpointinval === จุดสิ้นสุดของปลั๊กอินของคุณไม่ถูกต้อง!
+response_editaiplugin_schemainval === สคีมาของปลั๊กอินของคุณไม่ถูกต้อง!
+response_editaiplugin_success === ปลั๊กอิน AI ได้รับการอัปเดตแล้ว!
+template_sidebar_ai === ปัญญาประดิษฐ์
+template_sidebar_ai_keys === คีย์ API
+template_sidebar_ai_plugins === ปลั๊กอิน
+dashboard_title_aikeys === คีย์ API ของ AI
+dashboard_title_aiplugins === ปลั๊กอิน AI
+dasboard_aipage_addkeybtn === เพิ่มคีย์ API
+dasboard_aipage_addpluginbtn === เพิ่มปลั๊กอิน
+form_addautoreply_aiapikey === คีย์ API AI
+form_addautoreply_aiapikey_desc === เลือก API key ของ AI ที่คุณต้องการใช้สำหรับการตอบกลับอัตโนมัตินี้。
+form_addautoreply_aiplugin === ปลั๊กอิน AI
+form_addautoreply_aiplugin_desc === เลือกปลั๊กอิน AI ที่คุณต้องการใช้สำหรับการตอบกลับอัตโนมัตินี้
+form_autoreplymatch_ai === ปัญญาประดิษฐ์
+widgets_addaikey_title === เพิ่มคีย์ API ของ AI
+widgets_addaikey_loader === การเพิ่มคีย์ API ของ AI
+widgets_addaikey_requirename === ชื่อ
+widgets_addaikey_requiremprompt === คำแนะนำเบื้องต้น
+widgets_addaikey_requireapikey === คีย์ API
+widgets_editaikey_title === แก้ไข API Key ของ AI
+widgets_editaikey_loader === การอัปเดตคีย์ API AI
+widgets_addaiplugin_title === เพิ่มปลั๊กอิน AI
+widgets_addaiplugin_loader === เพิ่มปลั๊กอิน AI
+widgets_addaiplugin_requirename === ชื่อ
+widgets_editaiplugin_title === แก้ไขปลั๊กอิน AI
+widgets_editaiplugin_loader === การอัปเดตปลั๊กอิน AI
+form_addaikey_initailprompt_title === ข้อความเริ่มต้น
+form_addaikey_initailprompt_desc === ป้อนข้อความเริ่มต้นสำหรับ AI ซึ่งเป็นคำแนะนำที่ AI ควรปฏิบัติตามก่อนเริ่มการสนทนา
+form_addaikey_initailprompt_placeholder === ทำหน้าที่เป็นตัวแทนบริษัท ตอบคำถามทั่วไปของผู้ใช้เกี่ยวกับบริษัทของเราโดยใช้เครื่องมือที่มีอยู่
+form_addaikey_postprompt_title === โพสต์กระตุ้น
+form_addaikey_postprompt_desc === ข้อความนี้จะถูกเพิ่มโดยอัตโนมัติในแต่ละข้อความ เพื่อให้แน่ใจว่าการตอบสนองของ AI ยังคงสอดคล้องกับบริบทหรือหัวข้อที่กำหนด ใช้มันเพื่อรักษาบทสนทนาที่สอดคล้องและมุ่งเน้น ปล่อยให้ช่องว่างว่างเพื่อปิดการใช้งานคุณสมบัตินี้.
+form_addaikey_postprompt_placeholder === อย่าให้ข้อมูลเกี่ยวกับขั้นตอนและคุณสมบัติของบริการที่ไม่ได้กล่าวถึงในบริบทที่ให้มา
+form_addaikey_vision_title === วิสัยทัศน์
+form_addaikey_vision_desc === หากเปิดใช้งาน AI จะตอบสนองต่อภาพที่ได้รับ
+form_addaikey_model_title === แบบจำลอง
+form_addaikey_model_desc === เลือกโมเดลที่คุณต้องการให้ AI ใช้ในการตอบข้อความ
+form_addaikey_modelsmartest === ฉลาดที่สุด
+form_addaikey_modelcheapest === ถูกที่สุด
+form_addaikey_historythreshold_title === ประวัติศาสตร์เกณฑ์
+form_addaikey_historythreshold_desc === กรอกจำนวนข้อความสนทนาสูงสุดก่อนที่จะให้ AI สรุปเพื่อลดการใช้โทเคน แนะนำค่าเป็น 50
+form_addaikey_historythreshold_placeholder === เช่น 50
+form_addaikey_apikey_title === คีย์ API
+form_addaikey_apikey_desc === คีย์ API ที่คุณสร้างจากแดชบอร์ดผู้ให้บริการ AI ของคุณ
+form_addaiplugin_banner_title === ระวัง!
+form_addaiplugin_banner_desc === การสร้างปลั๊กอินต้องใช้ความรู้ด้านการเขียนโค้ดอย่างลึกซึ้ง หากคุณไม่แน่ใจว่าได้ทำอะไรอยู่ กรุณาปรึกษานักพัฒนาซอฟต์แวร์
+form_addaiplugin_endpoint_title === ปลั๊กอินเอนด์พอยต์
+form_addaiplugin_endpoint_desc === นี่คือ URL ที่จะถูกเรียกโดย AI. จุดจบของคุณต้องใช้วิธี POST อย่างเคร่งครัดเพื่อจับพารามิเตอร์ AI!
+form_addaiplugin_schema_title === สคีมาปลั๊กอิน
+form_addaiplugin_schema_desc === นี่คือคำแนะนำที่ AI จะทำตามเมื่อเรียกใช้ปลั๊กอิน รูปแบบต้องปฏิบัติตามอย่างเคร่งครัด!
+form_addaiplugin_sample_schema === ตัวอย่างสคีมา:
+tables_aikeys_created === สร้างขึ้น
+tables_aikeys_name === ชื่อ
+tables_aikeys_model === แบบจำลอง
+tables_aikeys_options === ตัวเลือก
+tables_aiplugins_created === สร้างเสร็จแล้ว
+tables_aiplugins_name === ชื่อ
+tables_aiplugins_options === ตัวเลือก
+js_regenerate_admintoken === สร้างโทเค็น API ของผู้ดูแลระบบใหม่?
+js_regenerate_admintoken_desc === คุณแน่ใจหรือว่าต้องการสร้างโทเค็น API แอดมินใหม่? การดำเนินการนี้ไม่สามารถย้อนกลับได้และจะต้องให้คุณอัปเดตโทเค็นในแอปพลิเคชันของคุณ!
+form_aikey_provider_title === ผู้ให้บริการ
+form_aikey_provider_desc === เลือกผู้ให้บริการ AI ที่คุณต้องการใช้สำหรับคีย์นี้
+form_aikey_provider_visionoff === วิสัยทัศน์ที่ไม่ได้รับการสนับสนุน
+response_aimoderation_detected === เราได้ตรวจพบเนื้อหาที่ไม่เหมาะสมในข้อความของคุณ!
+response_externalcall_failed === เราไม่สามารถดำเนินการตามคำขอของคุณในขณะนี้ กรุณาลองอีกครั้งในภายหลัง
+form_addaiplugin_pluginname_desc === ชื่อปลั๊กอิน
+form_addaiplugin_pluginname_placeholder === เช่น getTime
+response_aiautoreply_mustselaikey === คุณต้องเลือกคีย์ API AI!
+response_autoreply_added_2025 === ได้เพิ่มการตอบกลับอัตโนมัติแล้ว!
+response_hook_updated_2025 === การดำเนินการ Hook ได้รับการปรับปรุงแล้ว!
+response_autoreply_updated_2025 === การตอบกลับอัตโนมัติได้รับการอัปเดตแล้ว!
+response_action_deleted_2025 === การกระทำถูกลบออกแล้ว!
+form_autoreplymatch_aiplugin_global === ทั่วโลก
+form_autoreplymatch_aiplugin_warningsave === คำเตือน
+form_autoreplymatch_aiplugin_warningdesc === การสนทนา AI ที่เกี่ยวข้องกับการตอบกลับอัตโนมัตินี้จะถูกตั้งค่าใหม่หลังจากที่คุณบันทึกการเปลี่ยนแปลง!
+form_addaiapikey_transcriptiontitle === การถอดเสียง
+form_addaiapikey_transcriptiondesc === หากเปิดใช้งาน AI จะทำการถอดความเนื้อหาจากไฟล์เสียงหรือวิดีโอ

@@ -2872,3 +2872,104 @@ plugins_btn_pluginsdefopagegeneric === תוספים
 tables_plugins_detailsauthor === מְחַבֵּר
 tables_plugins_detailsdesc === תֵאוּר
 tables_plugins_detailsver === גִרְסָה
+system_settings_adminapitoken_title === אסימון API של מנהל מערכת
+system_settings_adminapitoken_desc === זהו הטוקן עבור אימות עם ממשק ה-API של המנהל.
+system_settings_systokenregen_desc === האסימון הזה קריטי לאבטחת ה-cronjobs שלך, בקשות WhatsApp ותכונות מערכת אחרות. אסור לשתף אותו עם אף אחד. אם אתה מאמין שהאסימון נחשף, עליך לחדש אותו מיד. לאחר החידוש, תצטרך לשנות מחדש את ה-cronjobs שלך ולעדכן כל הגדרה קשורה. בנוסף, מערכת WhatsApp תושפע, וכל החשבונות המחוברים יפסיקו לעבוד עד שהם יחוברו מחדש.
+system_settings_aimod_title === מודרציה של בינה מלאכותית
+system_settings_aimod_desc === אם מופעל, כל ההודעות והתמונות יעברו דרך מודל המודרציה של AI של OpenAI כדי לבדוק תוכן שהודגש.
+system_settings_aimod_apikey_title === מפתח API של OpenAI
+system_settings_aimod_apikey_desc === הכנס את מפתח ה-API שלך מ-OpenAI. מודל המודרציה של הבינה המלאכותית של OpenAI הוא ללא עלות.
+response_addaikey_promptshort === ההנחיה שלך לאי היא קצרה מדי!
+response_addaikey_modelinval === המודל AI שלך אינו תקף!
+response_addaikey_histothres === סף ההיסטוריה של הבינה המלאכותית שלך אינו תקין!
+response_addaikey_histothresless === סף ההיסטוריה של ה-AI שלך לא יכול להיות פחות מ-5!
+response_addaikey_apikeyshort === מפתח ה-API של ה-AI שלך קצר מדי!
+response_addaikey_success === המפתח של ה-AI נוסף!
+response_addaiplugin_endpointshort === נקודת הקצה של התוסף שלך קצרה מדי!
+response_addaiplugin_endpointinval === נקודת הקצה של התוסף שלך אינה תקפה!
+response_addaiplugin_schemainval === הסכמה של התוסף שלך אינה תקפה!
+response_addaiplugin_success === הוסף תוסף בינה מלאכותית!
+response_editaikey_promptshort === ההנחיה שלך ל-AI קצרה מדי!
+response_editaikey_modelinval === מודל ה-AI שלך אינו תקף!
+response_editaikey_histothres === סף ההיסטוריה של ה-AI שלך אינו תקין!
+response_editaikey_histothresless === סף היסטוריית ה-AI שלך לא יכול להיות פחות מ-5!
+response_editaikey_apikeyshort === מפתח ה-API של ה-AI שלך קצר מדי!
+response_editaikey_success === המפתח של AI עודכן!
+response_editaiplugin_endpointshort === נקודת הקצה של התוסף שלך קצרה מדי!
+response_editaiplugin_endpointinval === נקודת הקצה של התוסף שלך אינה תקינה!
+response_editaiplugin_schemainval === הסכמת פלאגין שלך אינה תקפה!
+response_editaiplugin_success === התוסף של AI עודכן!
+template_sidebar_ai === בינה מלאכותית
+template_sidebar_ai_keys === מפתחות API
+template_sidebar_ai_plugins === תוספים
+dashboard_title_aikeys === מפתחות API של AI
+dashboard_title_aiplugins === תוספי AI
+dasboard_aipage_addkeybtn === הוסף מפתח API
+dasboard_aipage_addpluginbtn === הוסף תוסף
+form_addautoreply_aiapikey === מפתח API של בינה מלאכותית
+form_addautoreply_aiapikey_desc === בחר את מפתח ה-API של ה-AI שברצונך להשתמש בו עבור התגובה האוטומטית הזו.
+form_addautoreply_aiplugin === תוספי AI
+form_addautoreply_aiplugin_desc === בחר את תוספי הבינה המלאכותית שברצונך להשתמש בהם עבור התגובה האוטומטית הזו.
+form_autoreplymatch_ai === בינה מלאכותית
+widgets_addaikey_title === הוסף מפתח API של בינה מלאכותית
+widgets_addaikey_loader === הוספת מפתח API של AI
+widgets_addaikey_requirename === שם
+widgets_addaikey_requiremprompt === הנחיה ראשונית
+widgets_addaikey_requireapikey === מפתח API
+widgets_editaikey_title === ערוך מפתח API של AI
+widgets_editaikey_loader === עדכון מפתח API של AI
+widgets_addaiplugin_title === הוסף תוסף בינה מלאכותית
+widgets_addaiplugin_loader === הוספת תוסף AI
+widgets_addaiplugin_requirename === שם
+widgets_editaiplugin_title === תוסף עריכת בינה מלאכותית
+widgets_editaiplugin_loader === עדכון תוסף AI
+form_addaikey_initailprompt_title === בְּקָרוּב
+form_addaikey_initailprompt_desc === הזן את ההנחיה הראשונית עבור ה-AI. אלה ההוראות שה-AI צריך לפעול לפיהן לפני תחילת השיחה.
+form_addaikey_initailprompt_placeholder === שחק כנציג של החברה. השב על שאלות כלליות של המשתמשים לגבי החברה שלנו באמצעות הכלים העומדים לרשותך.
+form_addaikey_postprompt_title === פוסט פקודה
+form_addaikey_postprompt_desc === ההנחיה הזו תתוסף אוטומטית לכל הודעה, מה שמוודא שהתשובות של ה-AI יישארו תואמות לחלוטין להקשר או לנושא שנבחר. השתמש בה לשמירה על שיחה עקבית וממוקדת. השאר את השדה ריק כדי לבטל את הפונקציה הזו.
+form_addaikey_postprompt_placeholder === אל תספק לי מידע על הליכים ותכונות שירות שאינם מוזכרים בהקשר שניתן.
+form_addaikey_vision_title === חזון
+form_addaikey_vision_desc === אם זה מופעל, ה-AI יגיב לתמונות שהתקבלו.
+form_addaikey_model_title === מודל
+form_addaikey_model_desc === בחר את המודל שתרצה שה-AI ישתמש בו כדי להשיב להודעות.
+form_addaikey_modelsmartest === החכם ביותר
+form_addaikey_modelcheapest === הזול ביותר
+form_addaikey_historythreshold_title === סף ההיסטוריה
+form_addaikey_historythreshold_desc === כנס את המספר המקסימלי של הודעות שיחה לפני שה-AI יסכם אותן כדי לחסוך בטוקנים. ערך מומלץ הוא 50.
+form_addaikey_historythreshold_placeholder === למשל 50
+form_addaikey_apikey_title === מפתח API
+form_addaikey_apikey_desc === מפתח ה-API שיצרת ממרכז השליטה של ספק ה-AI שלך.
+form_addaiplugin_banner_title === שים לב!
+form_addaiplugin_banner_desc === יצירת פלאגין דורשת ידע מתקדם בקידוד. אם אינך בטוח מה אתה עושה, אנא התייעץ עם מפתח.
+form_addaiplugin_endpoint_title === נקודת פלגין
+form_addaiplugin_endpoint_desc === זו ה-URL שתופעל על ידי ה-AI. הנקודת קצה שלך חייבת להשתמש בשיטת POST כדי ללכוד את פרמטרי ה-AI!
+form_addaiplugin_schema_title === סכמת תוסף
+form_addaiplugin_schema_desc === אלו הן ההנחיות שהבינה המלאכותית תעקוב אחריהן בעת הפעלת התוסף. הפורמט חייב להתקיים באופן מדויק!
+form_addaiplugin_sample_schema === סכמת דוגמה:
+tables_aikeys_created === נוצר
+tables_aikeys_name === שם
+tables_aikeys_model === מודל
+tables_aikeys_options === אפשרויות
+tables_aiplugins_created === יצרתי
+tables_aiplugins_name === שֵׁם
+tables_aiplugins_options === אפשרויות
+js_regenerate_admintoken === לְחַדֵּשׁ טוֹקֵן API לניהול?
+js_regenerate_admintoken_desc === האם אתה בטוח שברצונך לחדש את אסימון ה-API של המנהל? פעולה זו אינה ניתנת לביטול ותדרוש ממך לעדכן את האסימון ביישומים שלך!
+form_aikey_provider_title === ספק
+form_aikey_provider_desc === בחר את ספק ה-AI שברצונך להשתמש בו עבור מפתח זה.
+form_aikey_provider_visionoff === חזון לא נתמך
+response_aimoderation_detected === זיהינו תוכן לא הולם בהודעה שלך!
+response_externalcall_failed === אנו בלתי יכולים לעבד את בקשתך ברגע זה. אנא נסה שוב מאוחר יותר.
+form_addaiplugin_pluginname_desc === שם תוסף.
+form_addaiplugin_pluginname_placeholder === קבל זמן
+response_aiautoreply_mustselaikey === עליך לבחור מפתח API של בינה מלאכותית!
+response_autoreply_added_2025 === פעולת התגובה האוטומטית נוספה!
+response_hook_updated_2025 === פעולת ההוק עודכנה!
+response_autoreply_updated_2025 === פעולת תגובה אוטומטית עודכנה!
+response_action_deleted_2025 === הפעולה נמחקה!
+form_autoreplymatch_aiplugin_global === גלובלי
+form_autoreplymatch_aiplugin_warningsave === אזהרה
+form_autoreplymatch_aiplugin_warningdesc === השיחות עם ה-AI הקשורות להשבה אוטומטית זו יתחדשו לאחר שתשמור את השינויים!
+form_addaiapikey_transcriptiontitle === הֶעָתָקָה
+form_addaiapikey_transcriptiondesc === אם הוא מופעל, הבינה המלאכותית תחילה תעתיק את תוכן הקבצים האודיו או הווידאו ולאחר מכן תספק תגובה על סמך ההעתקה.

@@ -2872,3 +2872,104 @@ plugins_btn_pluginsdefopagegeneric === Plugins
 tables_plugins_detailsauthor === Auteur
 tables_plugins_detailsdesc === Description
 tables_plugins_detailsver === Version
+system_settings_adminapitoken_title === Jeton API d'administration
+system_settings_adminapitoken_desc === Il s'agit du jeton d'authentification auprès de l'API Admin.
+system_settings_systokenregen_desc === Ce jeton est essentiel pour la sécurité de vos tâches cron, de vos requêtes WhatsApp et d'autres fonctionnalités du système. Il ne doit être partagé avec personne. Si vous pensez que le jeton a été compromis, vous devez en régénérer un nouveau immédiatement. Après la régénération, vous devrez reconfigurer vos tâches cron et mettre à jour tous les paramètres associés. De plus, le système WhatsApp sera affecté et tous les comptes connectés cesseront de fonctionner jusqu'à ce qu'ils soient à nouveau liés.
+system_settings_aimod_title === Modération de l'IA
+system_settings_aimod_desc === Si cette option est activée, tous les messages et images passeront par le modèle de modération IA d'OpenAI pour vérifier le contenu signalé.
+system_settings_aimod_apikey_title === Clé API OpenAI
+system_settings_aimod_apikey_desc === Entrez votre clé OpenAI Apikey. Le modèle de modération IA d’OpenAI est gratuit.
+response_addaikey_promptshort === Votre invite IA est trop courte !
+response_addaikey_modelinval === Votre modèle d'IA n'est pas valide !
+response_addaikey_histothres === Votre seuil d'historique d'IA n'est pas valide !
+response_addaikey_histothresless === Votre seuil d’historique IA ne peut pas être inférieur à 5 !
+response_addaikey_apikeyshort === Votre clé API IA est trop courte !
+response_addaikey_success === La clé AI a été ajoutée !
+response_addaiplugin_endpointshort === Le point de terminaison de votre plugin est trop court !
+response_addaiplugin_endpointinval === Le point de terminaison de votre plugin n'est pas valide !
+response_addaiplugin_schemainval === Le schéma de votre plugin n'est pas valide !
+response_addaiplugin_success === Le plugin IA a été ajouté !
+response_editaikey_promptshort === Votre invite IA est trop courte !
+response_editaikey_modelinval === Votre modèle d'IA n'est pas valide !
+response_editaikey_histothres === Votre seuil d'historique d'IA n'est pas valide !
+response_editaikey_histothresless === Votre seuil d’historique IA ne peut pas être inférieur à 5 !
+response_editaikey_apikeyshort === Votre clé API IA est trop courte !
+response_editaikey_success === La clé AI a été mise à jour !
+response_editaiplugin_endpointshort === Le point de terminaison de votre plugin est trop court !
+response_editaiplugin_endpointinval === Le point de terminaison de votre plugin n'est pas valide !
+response_editaiplugin_schemainval === Le schéma de votre plugin n'est pas valide !
+response_editaiplugin_success === Le plugin IA a été mis à jour !
+template_sidebar_ai === Intelligence artificielle
+template_sidebar_ai_keys === Clés API
+template_sidebar_ai_plugins === Plugins
+dashboard_title_aikeys === Clés API IA
+dashboard_title_aiplugins === Plugins d'IA
+dasboard_aipage_addkeybtn === Ajouter une clé API
+dasboard_aipage_addpluginbtn === Ajouter un plugin
+form_addautoreply_aiapikey === Clé API IA
+form_addautoreply_aiapikey_desc === Sélectionnez l'apikey AI que vous souhaitez utiliser pour cette réponse automatique.
+form_addautoreply_aiplugin === Plugins d'IA
+form_addautoreply_aiplugin_desc === Sélectionnez les plugins IA que vous souhaitez utiliser pour cette réponse automatique.
+form_autoreplymatch_ai === Intelligence artificielle
+widgets_addaikey_title === Ajouter une clé API IA
+widgets_addaikey_loader === Ajout d'une clé API IA
+widgets_addaikey_requirename === Nom
+widgets_addaikey_requiremprompt === Invite initiale
+widgets_addaikey_requireapikey === Clé API
+widgets_editaikey_title === Modifier la clé API IA
+widgets_editaikey_loader === Mise à jour de la clé API IA
+widgets_addaiplugin_title === Ajouter un plugin IA
+widgets_addaiplugin_loader === Ajout d'un plugin IA
+widgets_addaiplugin_requirename === Nom
+widgets_editaiplugin_title === Modifier le plugin IA
+widgets_editaiplugin_loader === Mise à jour du plugin IA
+form_addaikey_initailprompt_title === Invite initiale
+form_addaikey_initailprompt_desc === Entrez l'invite initiale pour l'IA. Ce sont les instructions que l’IA doit suivre avant de démarrer la conversation.
+form_addaikey_initailprompt_placeholder === par exemple. Agir à titre de représentant de l'entreprise. Répondez aux questions générales des utilisateurs sur notre entreprise en utilisant les outils disponibles.
+form_addaikey_postprompt_title === Publier une invite
+form_addaikey_postprompt_desc === Cette invite sera automatiquement ajoutée à chaque message, garantissant que les réponses de l'IA restent strictement alignées sur le contexte ou le sujet spécifié. Utilisez-le pour maintenir un dialogue cohérent et ciblé. Laissez le champ vide pour désactiver cette fonctionnalité.
+form_addaikey_postprompt_placeholder === par exemple. Ne me donnez aucune information sur les procédures et fonctionnalités du service qui ne sont pas mentionnées dans le CONTEXTE FOURNI.
+form_addaikey_vision_title === Vision
+form_addaikey_vision_desc === Si elle est activée, l'IA répondra aux images reçues.
+form_addaikey_model_title === Modèle
+form_addaikey_model_desc === Sélectionnez le modèle que vous souhaitez que l'IA utilise pour répondre aux messages.
+form_addaikey_modelsmartest === Le plus intelligent
+form_addaikey_modelcheapest === Le moins cher
+form_addaikey_historythreshold_title === Seuil d'historique
+form_addaikey_historythreshold_desc === Entrez le nombre maximum de messages de conversation avant que l'IA ne les résume pour enregistrer les jetons. La valeur recommandée est 50.
+form_addaikey_historythreshold_placeholder === par exemple. 50
+form_addaikey_apikey_title === Clé API
+form_addaikey_apikey_desc === La clé API que vous avez créée à partir du tableau de bord de votre fournisseur d'IA.
+form_addaiplugin_banner_title === Attention !
+form_addaiplugin_banner_desc === La création d'un plugin nécessite des connaissances approfondies en codage. Si vous n'êtes pas sûr de ce que vous faites, veuillez consulter un développeur.
+form_addaiplugin_endpoint_title === Point de terminaison du plugin
+form_addaiplugin_endpoint_desc === Il s'agit de l'URL qui sera invoquée par l'IA. Votre point de terminaison doit strictement utiliser la méthode POST pour capturer les paramètres d'IA !
+form_addaiplugin_schema_title === Schéma du plugin
+form_addaiplugin_schema_desc === Ce sont des instructions que l’IA suivra lors de l’appel du plugin. Le format doit être strictement respecté !
+form_addaiplugin_sample_schema === Exemple de schéma :
+tables_aikeys_created === Créé
+tables_aikeys_name === Nom
+tables_aikeys_model === Modèle
+tables_aikeys_options === Possibilités
+tables_aiplugins_created === Créé
+tables_aiplugins_name === Nom
+tables_aiplugins_options === Possibilités
+js_regenerate_admintoken === Régénérer le jeton API d'administration ?
+js_regenerate_admintoken_desc === Êtes-vous sûr de vouloir régénérer le jeton de l'API d'administration ? Cette action est irréversible et vous demandera de mettre à jour le token dans vos applications !
+form_aikey_provider_title === Fournisseur
+form_aikey_provider_desc === Sélectionnez le fournisseur d'IA que vous souhaitez utiliser pour cette clé.
+form_aikey_provider_visionoff === Vision non prise en charge
+response_aimoderation_detected === Nous avons détecté du contenu inapproprié dans votre message !
+response_externalcall_failed === Nous ne sommes pas en mesure de traiter votre demande pour le moment. Veuillez réessayer plus tard.
+form_addaiplugin_pluginname_desc === Nom du plugin.
+form_addaiplugin_pluginname_placeholder === par exemple. obtenirHeure
+response_aiautoreply_mustselaikey === Vous devez sélectionner une clé API AI !
+response_autoreply_added_2025 === L'action de réponse automatique a été ajoutée !
+response_hook_updated_2025 === L'action du crochet a été mise à jour !
+response_autoreply_updated_2025 === L'action de réponse automatique a été mise à jour !
+response_action_deleted_2025 === L'action a été supprimée !
+form_autoreplymatch_aiplugin_global === Mondial
+form_autoreplymatch_aiplugin_warningsave === Avertissement
+form_autoreplymatch_aiplugin_warningdesc === Les conversations IA liées à cette réponse automatique seront réinitialisées une fois les modifications enregistrées !
+form_addaiapikey_transcriptiontitle === Transcription
+form_addaiapikey_transcriptiondesc === Si elle est activée, l'IA transcrira d'abord le contenu des fichiers audio ou vidéo, puis fournira une réponse basée sur la transcription.

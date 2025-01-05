@@ -2872,3 +2872,104 @@ plugins_btn_pluginsdefopagegeneric === Pluginuri
 tables_plugins_detailsauthor === Autor
 tables_plugins_detailsdesc === Descriere
 tables_plugins_detailsver === Versiune
+system_settings_adminapitoken_title === Token API Admin
+system_settings_adminapitoken_desc === Acesta este tokenul pentru autentificarea cu API-ul Admin.
+system_settings_systokenregen_desc === Acest token este critic pentru securitatea sarcinilor cron, a solicitărilor WhatsApp și a altor caracteristici ale sistemului. Nu trebuie să fie împărtășit cu nimeni. Dacă credeți că tokenul a fost compromis, ar trebui să generați imediat unul nou. După regenerare, va trebui să reconfigurați sarcinile cron și să actualizați orice setări asociate. În plus, sistemul WhatsApp va fi afectat, iar toate conturile conectate vor înceta să funcționeze până când vor fi reconectate din nou.
+system_settings_aimod_title === Moderarea AI
+system_settings_aimod_desc === Dacă este activat, toate mesajele și imaginile vor trece prin modelul de moderare AI de la OpenAI pentru a verifica conținutul semnalat.
+system_settings_aimod_apikey_title === Cheia API OpenAI
+system_settings_aimod_apikey_desc === Introduceți cheia dvs. de acces OpenAI. Modelul de moderare AI al OpenAI este gratuit.
+response_addaikey_promptshort === Promptul tău AI este prea scurt!
+response_addaikey_modelinval === Modelul tău AI este invalid!
+response_addaikey_histothres === Pragul tău de istorie AI este invalid!
+response_addaikey_histothresless === Pragul tău de istorie AI nu poate fi mai mic de 5!
+response_addaikey_apikeyshort === API-ul tău de cheie AI este prea scurt!
+response_addaikey_success === Cheia AI a fost adăugată!
+response_addaiplugin_endpointshort === Endpoint-ul pluginului tău este prea scurt!
+response_addaiplugin_endpointinval === Endpointul dvs. de plugin este invalid!
+response_addaiplugin_schemainval === Schema pluginului tău este invalid!
+response_addaiplugin_success === Pluginul AI a fost adăugat!
+response_editaikey_promptshort === Promptul tău AI este prea scurt!
+response_editaikey_modelinval === Modelul tău AI este invalid!
+response_editaikey_histothres === Pragul tău de istorie AI este invalid!
+response_editaikey_histothresless === Pragului tău de istorie AI nu poate fi mai mic de 5!
+response_editaikey_apikeyshort === Cheia ta API AI este prea scurtă!
+response_editaikey_success === Cheia AI a fost actualizată!
+response_editaiplugin_endpointshort === Punctul de finalizare al plugin-ului tău este prea scurt!
+response_editaiplugin_endpointinval === Punctul de finalizare al plugin-ului dumneavoastră este invalid!
+response_editaiplugin_schemainval === Schema pluginului tău este invalidă!
+response_editaiplugin_success === Pluginul AI a fost actualizat!
+template_sidebar_ai === Inteligență Artificială
+template_sidebar_ai_keys === Chei API
+template_sidebar_ai_plugins === Pluginuri
+dashboard_title_aikeys === Chei API AI
+dashboard_title_aiplugins === Pluginuri AI
+dasboard_aipage_addkeybtn === Adăugați cheia API
+dasboard_aipage_addpluginbtn === Adaugă pluginul
+form_addautoreply_aiapikey === Cheia API AI
+form_addautoreply_aiapikey_desc === Selectați cheia API AI pe care doriți să o utilizați pentru acest răspuns automat.
+form_addautoreply_aiplugin === Pluginuri AI
+form_addautoreply_aiplugin_desc === Selectați plugin-urile AI pe care doriți să le utilizați pentru acest răspuns automat.
+form_autoreplymatch_ai === Inteligenta Artificială
+widgets_addaikey_title === Adăugați cheia API AI
+widgets_addaikey_loader === Adăugarea cheii API pentru AI
+widgets_addaikey_requirename === Nume
+widgets_addaikey_requiremprompt === Prompt inițial
+widgets_addaikey_requireapikey === Cheia API
+widgets_editaikey_title === Modificați cheia API AI
+widgets_editaikey_loader === Actualizarea cheii API AI
+widgets_addaiplugin_title === Adaugă plugin AI
+widgets_addaiplugin_loader === Adăugarea plugin-ului AI
+widgets_addaiplugin_requirename === Nume
+widgets_editaiplugin_title === Plugin AI de editare
+widgets_editaiplugin_loader === Actualizarea pluginului AI
+form_addaikey_initailprompt_title === Prompt inițial
+form_addaikey_initailprompt_desc === Introduceți promptul inițial pentru AI. Acestea sunt instrucțiunile pe care AI ar trebui să le urmeze înainte de a începe conversația.
+form_addaikey_initailprompt_placeholder === Acționați ca un reprezentant al companiei. Răspundeți la întrebările generale ale utilizatorilor despre compania noastră folosind uneltele disponibile.
+form_addaikey_postprompt_title === Puneți un mesaj
+form_addaikey_postprompt_desc === Această instrucțiune va fi adăugată automat fiecărui mesaj, asigurându-se că răspunsurile AI-ului rămân strict aliniate cu contextul sau subiectul specificat. Folosește-o pentru a menține un dialog coerent și concentrat. Lasă câmpul gol pentru a dezactiva această caracteristică.
+form_addaikey_postprompt_placeholder === nu-mi oferi nicio informație despre proceduri și caracteristici ale serviciului care nu sunt menționate în CONTEXTUL FURNIZAT.
+form_addaikey_vision_title === Viziune
+form_addaikey_vision_desc === Dacă este activat, AI-ul va răspunde la imaginile primite.
+form_addaikey_model_title === Model
+form_addaikey_model_desc === Selectați modelul pe care doriți ca AI-ul să-l folosească pentru a răspunde la mesaje.
+form_addaikey_modelsmartest === Cel mai inteligent
+form_addaikey_modelcheapest === Cel mai ieftin
+form_addaikey_historythreshold_title === Prag istoric
+form_addaikey_historythreshold_desc === Introduceți numărul maxim de mesaje de conversație înainte ca AI-ul să le rezume pentru a economisi token-uri. Valoarea recomandată este 50.
+form_addaikey_historythreshold_placeholder === de ex. 50
+form_addaikey_apikey_title === Cheia API
+form_addaikey_apikey_desc === Cheia API pe care ai creat-o din tabloul de bord al furnizorului tău de AI.
+form_addaiplugin_banner_title === Atenție!
+form_addaiplugin_banner_desc === Crearea unui plugin necesită o cunoaștere extinsă a programării. Dacă nu ești sigur de ceea ce faci, te rugăm să consulți un dezvoltator.
+form_addaiplugin_endpoint_title === Endpointul pluginului
+form_addaiplugin_endpoint_desc === Aceasta este adresa URL care va fi invocată de AI. Punctul dumneavoastră final trebuie să folosească strict metoda POST pentru a captura parametrii AI!
+form_addaiplugin_schema_title === Schema de Plugin
+form_addaiplugin_schema_desc === Acestea sunt instrucțiunile pe care AI-ul le va urma când va invoca pluginul. Formatul trebuie respectat cu strictețe!
+form_addaiplugin_sample_schema === Schema Exemplu:
+tables_aikeys_created === Creat
+tables_aikeys_name === Nume
+tables_aikeys_model === Model
+tables_aikeys_options === Opțiuni
+tables_aiplugins_created === Creat
+tables_aiplugins_name === Nume
+tables_aiplugins_options === Opțiuni
+js_regenerate_admintoken === Regenerare token API Admin?
+js_regenerate_admintoken_desc === Ești sigur că vrei să regenerezi tokenul API de administrator? Această acțiune este ireversibilă și va necesita să actualizezi tokenul în aplicațiile tale!
+form_aikey_provider_title === Furnizor
+form_aikey_provider_desc === Selectați furnizorul de AI pe care doriți să-l folosiți pentru această cheie.
+form_aikey_provider_visionoff === Viziune nesuportată
+response_aimoderation_detected === Am detectat conținut inadecvat în mesajul tău!
+response_externalcall_failed === Nu putem procesa cererea dumneavoastră în acest moment. Vă rugăm să încercați din nou mai târziu.
+form_addaiplugin_pluginname_desc === Numele pluginului.
+form_addaiplugin_pluginname_placeholder === eg. obtineTimp
+response_aiautoreply_mustselaikey === Trebuie să selectezi o cheie API pentru AI!
+response_autoreply_added_2025 === Acțiunea de răspuns automat a fost adăugată!
+response_hook_updated_2025 === Acțiunea de hook a fost actualizată!
+response_autoreply_updated_2025 === Acțiunea de răspuns automat a fost actualizată!
+response_action_deleted_2025 === Acțiunea a fost ștearsă!
+form_autoreplymatch_aiplugin_global === Global
+form_autoreplymatch_aiplugin_warningsave === Avertisment
+form_autoreplymatch_aiplugin_warningdesc === Conversațiile AI legate de acest răspuns automat se vor reseta după ce salvezi modificările!
+form_addaiapikey_transcriptiontitle === Transcriere
+form_addaiapikey_transcriptiondesc === Dacă este activat, AI-ul va transcrie mai întâi conținutul fișierelor audio sau video și apoi va oferi un răspuns pe baza transcrierii.

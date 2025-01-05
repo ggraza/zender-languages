@@ -2872,3 +2872,104 @@ plugins_btn_pluginsdefopagegeneric === Plugins
 tables_plugins_detailsauthor === Author
 tables_plugins_detailsdesc === Description
 tables_plugins_detailsver === Version
+system_settings_adminapitoken_title === Admin API Token
+system_settings_adminapitoken_desc === This is the token for authenticating with the Admin API.
+system_settings_systokenregen_desc === This token is critical for the security of your cronjobs, WhatsApp requests, and other system features. It must not be shared with anyone. If you believe the token has been compromised, you should regenerate a new one immediately. After regenerating, you will need to reconfigure your cronjobs and update any associated settings. Additionally, the WhatsApp system will be affected, and all connected accounts will stop working until they are re-linked again.
+system_settings_aimod_title === AI Moderation
+system_settings_aimod_desc === If enabled, all messages and images will go thru AI moderation model of OpenAI to check for flagged content.
+system_settings_aimod_apikey_title === OpenAI API Key
+system_settings_aimod_apikey_desc === Enter your OpenAI Apikey. The AI Moderation model of OpenAI is free of costs.
+response_addaikey_promptshort === Your AI prompt is too short!
+response_addaikey_modelinval === Your AI model is invalid!
+response_addaikey_histothres === Your AI history threshold is invalid!
+response_addaikey_histothresless === Your AI history threshold cannot be less than 5!
+response_addaikey_apikeyshort === Your AI apikey is too short!
+response_addaikey_success === AI key has been added!
+response_addaiplugin_endpointshort === Your plugin endpoint is too short!
+response_addaiplugin_endpointinval === Your plugin endpoint is invalid!
+response_addaiplugin_schemainval === Your plugin schema is invalid!
+response_addaiplugin_success === AI plugin has been added!
+response_editaikey_promptshort === Your AI prompt is too short!
+response_editaikey_modelinval === Your AI model is invalid!
+response_editaikey_histothres === Your AI history threshold is invalid!
+response_editaikey_histothresless === Your AI history threshold cannot be less than 5!
+response_editaikey_apikeyshort === Your AI apikey is too short!
+response_editaikey_success === AI key has been updated!
+response_editaiplugin_endpointshort === Your plugin endpoint is too short!
+response_editaiplugin_endpointinval === Your plugin endpoint is invalid!
+response_editaiplugin_schemainval === Your plugin schema is invalid!
+response_editaiplugin_success === AI plugin has been updated!
+template_sidebar_ai === Artificial Intelligence
+template_sidebar_ai_keys === API Keys
+template_sidebar_ai_plugins === Plugins
+dashboard_title_aikeys === AI API Keys
+dashboard_title_aiplugins === AI Plugins
+dasboard_aipage_addkeybtn === Add API Key
+dasboard_aipage_addpluginbtn === Add Plugin
+form_addautoreply_aiapikey === AI API Key
+form_addautoreply_aiapikey_desc === Select the AI apikey you want to use for this autoreply.
+form_addautoreply_aiplugin === AI Plugins
+form_addautoreply_aiplugin_desc === Select the AI plugins you want to use for this autoreply.
+form_autoreplymatch_ai === Artificial Intelligence
+widgets_addaikey_title === Add AI API Key
+widgets_addaikey_loader === Adding AI API Key
+widgets_addaikey_requirename === Name
+widgets_addaikey_requiremprompt === Initial Prompt
+widgets_addaikey_requireapikey === API Key
+widgets_editaikey_title === Edit AI API Key
+widgets_editaikey_loader === Updating AI API Key
+widgets_addaiplugin_title === Add AI Plugin
+widgets_addaiplugin_loader === Adding AI Plugin
+widgets_addaiplugin_requirename === Name
+widgets_editaiplugin_title === Edit AI Plugin
+widgets_editaiplugin_loader === Updating AI Plugin
+form_addaikey_initailprompt_title === Initial Prompt
+form_addaikey_initailprompt_desc === Enter the initial prompt for the AI. These are the intructions the AI should follow before starting the conversation.
+form_addaikey_initailprompt_placeholder === eg. Act as a company representative. Answer general questions of the users about our company using the available tools.
+form_addaikey_postprompt_title === Post Prompt
+form_addaikey_postprompt_desc === This prompt will be automatically appended to each message, ensuring that the AI's responses remain strictly aligned with the specified context or topic. Use it to maintain a consistent and focused dialogue. Leave the field empty to disable this feature.
+form_addaikey_postprompt_placeholder === eg. Do not give me any information about procedures and service features that are not mentioned in the PROVIDED CONTEXT.
+form_addaikey_vision_title === Vision
+form_addaikey_vision_desc === If enabled, the AI will respond to the received images.
+form_addaikey_model_title === Model
+form_addaikey_model_desc === Select the model you want the AI to use for responding to messages.
+form_addaikey_modelsmartest === Smartest
+form_addaikey_modelcheapest === Cheapest
+form_addaikey_historythreshold_title === History Threshold
+form_addaikey_historythreshold_desc === Enter the maximum number of conversation messages before the AI summarizes it to save tokens. Recommended value is 50.
+form_addaikey_historythreshold_placeholder === eg. 50
+form_addaikey_apikey_title === API Key
+form_addaikey_apikey_desc === The API key you created from your AI provider dashboard.
+form_addaiplugin_banner_title === Heads Up!
+form_addaiplugin_banner_desc === Creating a plugin requires some extensive coding knowledge. If you are not sure about what you are doing, please consult with a developer.
+form_addaiplugin_endpoint_title === Plugin Endpoint
+form_addaiplugin_endpoint_desc === This is the URL that will be invoked by the AI. Your endpoint must strictly use POST method to capture AI parameters!
+form_addaiplugin_schema_title === Plugin Schema
+form_addaiplugin_schema_desc === These are instructions that the AI will follow whenn invoking the plugin. The format must be strictly followed!
+form_addaiplugin_sample_schema === Sample Schema:
+tables_aikeys_created === Created
+tables_aikeys_name === Name
+tables_aikeys_model === Model
+tables_aikeys_options === Options
+tables_aiplugins_created === Created
+tables_aiplugins_name === Name
+tables_aiplugins_options === Options
+js_regenerate_admintoken === Regenerate Admin API Token?
+js_regenerate_admintoken_desc === Are you sure you want to regenerate the admin API token? This action is irreversible and will require you to update the token in your applications!
+form_aikey_provider_title === Provider
+form_aikey_provider_desc === Select the AI provider you want to use for this key.
+form_aikey_provider_visionoff === Vision Unsupported
+response_aimoderation_detected === We have detected inappropriate content in your message!
+response_externalcall_failed === We are unable to process your request at the moment. Please try again later.
+form_addaiplugin_pluginname_desc === Plugin name.
+form_addaiplugin_pluginname_placeholder === eg. getTime
+response_aiautoreply_mustselaikey === You must select an AI API Key!
+response_autoreply_added_2025 === Autoreply action has been added!
+response_hook_updated_2025 === Hook action has been updated!
+response_autoreply_updated_2025 === Autoreply action has been updated!
+response_action_deleted_2025 === Action has been deleted!
+form_autoreplymatch_aiplugin_global === Global
+form_autoreplymatch_aiplugin_warningsave === Warning
+form_autoreplymatch_aiplugin_warningdesc === The AI conversations related to this autoreply will reset after you save the changes!
+form_addaiapikey_transcriptiontitle === Transcription
+form_addaiapikey_transcriptiondesc === If enabled, the AI will first transcribe the content of audio or video files and then provide a response based on the transcription.

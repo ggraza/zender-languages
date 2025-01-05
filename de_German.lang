@@ -2872,3 +2872,104 @@ plugins_btn_pluginsdefopagegeneric === Plugins
 tables_plugins_detailsauthor === Autor
 tables_plugins_detailsdesc === Beschreibung
 tables_plugins_detailsver === Version
+system_settings_adminapitoken_title === Admin-API-Token
+system_settings_adminapitoken_desc === Dies ist das Token für die Authentifizierung mit der Admin-API.
+system_settings_systokenregen_desc === Dieses Token ist entscheidend für die Sicherheit Ihrer Cronjobs, WhatsApp-Anfragen und anderer Systemfunktionen. Es darf mit niemandem geteilt werden. Wenn Sie glauben, dass der Token kompromittiert wurde, sollten Sie sofort einen neuen generieren. Nach der Neugenerierung müssen Sie Ihre Cronjobs neu konfigurieren und alle zugehörigen Einstellungen aktualisieren. Darüber hinaus ist das WhatsApp-System betroffen und alle verbundenen Konten funktionieren nicht mehr, bis sie erneut verknüpft werden.
+system_settings_aimod_title === KI-Moderation
+system_settings_aimod_desc === Wenn diese Option aktiviert ist, durchlaufen alle Nachrichten und Bilder das KI-Moderationsmodell von OpenAI, um nach gekennzeichneten Inhalten zu suchen.
+system_settings_aimod_apikey_title === OpenAI-API-Schlüssel
+system_settings_aimod_apikey_desc === Geben Sie Ihren OpenAI-Apikey ein. Das KI-Moderationsmodell von OpenAI ist kostenlos.
+response_addaikey_promptshort === Ihr KI-Prompt ist zu kurz!
+response_addaikey_modelinval === Ihr KI-Modell ist ungültig!
+response_addaikey_histothres === Ihr KI-Verlaufsschwellenwert ist ungültig!
+response_addaikey_histothresless === Ihr KI-Verlaufsschwellenwert darf nicht unter 5 liegen!
+response_addaikey_apikeyshort === Ihr KI-Apikey ist zu kurz!
+response_addaikey_success === KI-Schlüssel wurde hinzugefügt!
+response_addaiplugin_endpointshort === Ihr Plugin-Endpunkt ist zu kurz!
+response_addaiplugin_endpointinval === Ihr Plugin-Endpunkt ist ungültig!
+response_addaiplugin_schemainval === Ihr Plugin-Schema ist ungültig!
+response_addaiplugin_success === AI-Plugin wurde hinzugefügt!
+response_editaikey_promptshort === Ihr KI-Prompt ist zu kurz!
+response_editaikey_modelinval === Ihr KI-Modell ist ungültig!
+response_editaikey_histothres === Ihr KI-Verlaufsschwellenwert ist ungültig!
+response_editaikey_histothresless === Ihr KI-Verlaufsschwellenwert darf nicht unter 5 liegen!
+response_editaikey_apikeyshort === Ihr KI-Apikey ist zu kurz!
+response_editaikey_success === Der KI-Schlüssel wurde aktualisiert!
+response_editaiplugin_endpointshort === Ihr Plugin-Endpunkt ist zu kurz!
+response_editaiplugin_endpointinval === Ihr Plugin-Endpunkt ist ungültig!
+response_editaiplugin_schemainval === Ihr Plugin-Schema ist ungültig!
+response_editaiplugin_success === Das AI-Plugin wurde aktualisiert!
+template_sidebar_ai === Künstliche Intelligenz
+template_sidebar_ai_keys === API-Schlüssel
+template_sidebar_ai_plugins === Plugins
+dashboard_title_aikeys === AI-API-Schlüssel
+dashboard_title_aiplugins === KI-Plugins
+dasboard_aipage_addkeybtn === API-Schlüssel hinzufügen
+dasboard_aipage_addpluginbtn === Plugin hinzufügen
+form_addautoreply_aiapikey === AI-API-Schlüssel
+form_addautoreply_aiapikey_desc === Wählen Sie den AI-Apikey aus, den Sie für diese automatische Antwort verwenden möchten.
+form_addautoreply_aiplugin === KI-Plugins
+form_addautoreply_aiplugin_desc === Wählen Sie die AI-Plugins aus, die Sie für diese automatische Antwort verwenden möchten.
+form_autoreplymatch_ai === Künstliche Intelligenz
+widgets_addaikey_title === AI-API-Schlüssel hinzufügen
+widgets_addaikey_loader === AI-API-Schlüssel hinzufügen
+widgets_addaikey_requirename === Name
+widgets_addaikey_requiremprompt === Erste Aufforderung
+widgets_addaikey_requireapikey === API-Schlüssel
+widgets_editaikey_title === Bearbeiten Sie den AI-API-Schlüssel
+widgets_editaikey_loader === AI-API-Schlüssel wird aktualisiert
+widgets_addaiplugin_title === AI-Plugin hinzufügen
+widgets_addaiplugin_loader === AI-Plugin hinzufügen
+widgets_addaiplugin_requirename === Name
+widgets_editaiplugin_title === AI-Plugin bearbeiten
+widgets_editaiplugin_loader === AI-Plugin wird aktualisiert
+form_addaikey_initailprompt_title === Erste Aufforderung
+form_addaikey_initailprompt_desc === Geben Sie die erste Eingabeaufforderung für die KI ein. Dies sind die Anweisungen, die die KI befolgen sollte, bevor sie mit dem Gespräch beginnt.
+form_addaikey_initailprompt_placeholder === z.B. Handeln Sie als Unternehmensvertreter. Beantworten Sie allgemeine Fragen der Benutzer zu unserem Unternehmen mithilfe der verfügbaren Tools.
+form_addaikey_postprompt_title === Post-Eingabeaufforderung
+form_addaikey_postprompt_desc === Diese Aufforderung wird automatisch an jede Nachricht angehängt und stellt so sicher, dass die Antworten der KI strikt auf den angegebenen Kontext oder das angegebene Thema abgestimmt bleiben. Nutzen Sie es, um einen konsistenten und fokussierten Dialog aufrechtzuerhalten. Lassen Sie das Feld leer, um diese Funktion zu deaktivieren.
+form_addaikey_postprompt_placeholder === z.B. Geben Sie mir keine Informationen über Verfahren und Leistungsmerkmale, die nicht im bereitgestellten Kontext erwähnt werden.
+form_addaikey_vision_title === Vision
+form_addaikey_vision_desc === Wenn aktiviert, reagiert die KI auf die empfangenen Bilder.
+form_addaikey_model_title === Modell
+form_addaikey_model_desc === Wählen Sie das Modell aus, das die KI zum Beantworten von Nachrichten verwenden soll.
+form_addaikey_modelsmartest === Am klügsten
+form_addaikey_modelcheapest === Günstigstes
+form_addaikey_historythreshold_title === Geschichtsschwelle
+form_addaikey_historythreshold_desc === Geben Sie die maximale Anzahl an Konversationsnachrichten ein, bevor die KI diese zusammenfasst, um Token zu speichern. Der empfohlene Wert ist 50.
+form_addaikey_historythreshold_placeholder === z.B. 50
+form_addaikey_apikey_title === API-Schlüssel
+form_addaikey_apikey_desc === Der API-Schlüssel, den Sie über das Dashboard Ihres KI-Anbieters erstellt haben.
+form_addaiplugin_banner_title === Kopf hoch!
+form_addaiplugin_banner_desc === Das Erstellen eines Plugins erfordert umfangreiche Programmierkenntnisse. Wenn Sie sich nicht sicher sind, was Sie tun, wenden Sie sich bitte an einen Entwickler.
+form_addaiplugin_endpoint_title === Plugin-Endpunkt
+form_addaiplugin_endpoint_desc === Dies ist die URL, die von der KI aufgerufen wird. Ihr Endpunkt muss unbedingt die POST-Methode verwenden, um KI-Parameter zu erfassen!
+form_addaiplugin_schema_title === Plugin-Schema
+form_addaiplugin_schema_desc === Dabei handelt es sich um Anweisungen, denen die KI folgt, wenn sie das Plugin aufruft. Das Format ist unbedingt einzuhalten!
+form_addaiplugin_sample_schema === Beispielschema:
+tables_aikeys_created === Erstellt
+tables_aikeys_name === Name
+tables_aikeys_model === Modell
+tables_aikeys_options === Optionen
+tables_aiplugins_created === Erstellt
+tables_aiplugins_name === Name
+tables_aiplugins_options === Optionen
+js_regenerate_admintoken === Admin-API-Token neu generieren?
+js_regenerate_admintoken_desc === Sind Sie sicher, dass Sie das Admin-API-Token neu generieren möchten? Diese Aktion ist irreversibel und erfordert eine Aktualisierung des Tokens in Ihren Anwendungen!
+form_aikey_provider_title === Anbieter
+form_aikey_provider_desc === Wählen Sie den KI-Anbieter aus, den Sie für diesen Schlüssel verwenden möchten.
+form_aikey_provider_visionoff === Vision wird nicht unterstützt
+response_aimoderation_detected === Wir haben unangemessenen Inhalt in Ihrer Nachricht entdeckt!
+response_externalcall_failed === Wir können Ihre Anfrage derzeit nicht bearbeiten. Bitte versuchen Sie es später noch einmal.
+form_addaiplugin_pluginname_desc === Plugin-Name.
+form_addaiplugin_pluginname_placeholder === z.B. getTime
+response_aiautoreply_mustselaikey === Sie müssen einen AI API Key auswählen!
+response_autoreply_added_2025 === Autoreply-Aktion wurde hinzugefügt!
+response_hook_updated_2025 === Hook-Aktion wurde aktualisiert!
+response_autoreply_updated_2025 === Die Aktion „Autoreply“ wurde aktualisiert!
+response_action_deleted_2025 === Aktion wurde gelöscht!
+form_autoreplymatch_aiplugin_global === Global
+form_autoreplymatch_aiplugin_warningsave === Warnung
+form_autoreplymatch_aiplugin_warningdesc === Die KI-Konversationen im Zusammenhang mit dieser automatischen Antwort werden zurückgesetzt, nachdem Sie die Änderungen gespeichert haben!
+form_addaiapikey_transcriptiontitle === Transkription
+form_addaiapikey_transcriptiondesc === Wenn aktiviert, transkribiert die KI zunächst den Inhalt von Audio- oder Videodateien und gibt dann eine Antwort basierend auf der Transkription.

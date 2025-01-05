@@ -2872,3 +2872,104 @@ plugins_btn_pluginsdefopagegeneric === Eklentiler
 tables_plugins_detailsauthor === Yazar
 tables_plugins_detailsdesc === Tanım
 tables_plugins_detailsver === Sürüm
+system_settings_adminapitoken_title === Yönetici API Tokenı
+system_settings_adminapitoken_desc === Bu, Yönetici API'si ile kimlik doğrulama için kullanılan jetondur.
+system_settings_systokenregen_desc === Bu token, cronjob'larınızın, WhatsApp taleplerinizin ve diğer sistem özelliklerinizin güvenliği için kritiktir. Hiç kimseyle paylaşılmamalıdır. Token'ın tehlikeye girdiğini düşünüyorsanız, derhal yeni bir tane oluşturmalısınız. Yeniden oluşturduktan sonra, cronjob'larınızı yeniden yapılandırmanız ve ilgili ayarları güncellemeniz gerekecektir. Ayrıca, WhatsApp sistemi de etkilenecek ve bağlantılı tüm hesaplar, yeniden bağlantı kurulana kadar çalışmayı durduracaktır.
+system_settings_aimod_title === Yapay Zeka Moderasyonu
+system_settings_aimod_desc === Eğer etkinleştirilirse, tüm mesajlar ve görüntüler, işaretlenmiş içerikler için kontrol etmek amacıyla OpenAI'nin yapay zeka moderasyon modeli üzerinden geçecektir.
+system_settings_aimod_apikey_title === OpenAI API Anahtarı
+system_settings_aimod_apikey_desc === OpenAI API anahtarınızı girin. OpenAI'nin AI Moderasyon modeli ücretsizdir.
+response_addaikey_promptshort === Yapay zeka isteğiniz çok kısa!
+response_addaikey_modelinval === AI modeliniz geçersiz!
+response_addaikey_histothres === Yapay zeka tarih eşiğiniz geçersiz!
+response_addaikey_histothresless === Yapay zeka tarih eşiğiniz 5'ten az olamaz!
+response_addaikey_apikeyshort === AI apikey'iniz çok kısa!
+response_addaikey_success === AI anahtarı eklendi!
+response_addaiplugin_endpointshort === Eklenti uç noktanız çok kısa!
+response_addaiplugin_endpointinval === Eklenti uç noktanız geçersiz!
+response_addaiplugin_schemainval === Eklenti şemanız geçersiz!
+response_addaiplugin_success === AI eklentisi eklenmiştir!
+response_editaikey_promptshort === Yapay zeka isteminiz çok kısa!
+response_editaikey_modelinval === Yapay zeka modeliniz geçersiz!
+response_editaikey_histothres === Yapay zeka geçmiş eşiğiniz geçersiz!
+response_editaikey_histothresless === Yapay zeka geçmişinizin eşiği 5'ten az olamaz!
+response_editaikey_apikeyshort === AI apikey'iniz çok kısa!
+response_editaikey_success === AI anahtarı güncellendi!
+response_editaiplugin_endpointshort === Eklenti uç noktanız çok kısa!
+response_editaiplugin_endpointinval === Eklenti uç noktanız geçersiz!
+response_editaiplugin_schemainval === Eklenti şemanız geçersiz!
+response_editaiplugin_success === Yapay zeka eklentisi güncellendi!
+template_sidebar_ai === Yapay Zeka
+template_sidebar_ai_keys === API Anahtarları
+template_sidebar_ai_plugins === Eklentiler
+dashboard_title_aikeys === Yapay Zeka API Anahtarları
+dashboard_title_aiplugins === Yapay Zeka Eklentileri
+dasboard_aipage_addkeybtn === API Anahtarını ekle
+dasboard_aipage_addpluginbtn === Eklenti Ekle
+form_addautoreply_aiapikey === Yapay Zeka API Anahtarı
+form_addautoreply_aiapikey_desc === Bu otomatik yanıt için kullanmak istediğiniz AI apikey'i seçin.
+form_addautoreply_aiplugin === Yapay Zeka Eklentileri
+form_addautoreply_aiplugin_desc === Bu otomatik yanıtta kullanmak istediğiniz AI eklentilerini seçin.
+form_autoreplymatch_ai === Yapay Zeka
+widgets_addaikey_title === AI API Anahtarını ekle
+widgets_addaikey_loader === AI API Anahtarı Eklemek
+widgets_addaikey_requirename === İsim
+widgets_addaikey_requiremprompt === Başlangıç Talimatı
+widgets_addaikey_requireapikey === API Anahtarı
+widgets_editaikey_title === AI API Anahtarını Düzenle
+widgets_editaikey_loader === AI API Anahtarını Güncelleme
+widgets_addaiplugin_title === AI Eklentisi Ekle
+widgets_addaiplugin_loader === Yapay Zeka Eklentisi Ekleme
+widgets_addaiplugin_requirename === İsim
+widgets_editaiplugin_title === AI Eklentisini Düzenle
+widgets_editaiplugin_loader === AI Eklentisini Güncelleme
+form_addaikey_initailprompt_title === Başlangıç İsteği
+form_addaikey_initailprompt_desc === TRANSLATION: AI için başlangıç istemini girin. Bu, AI'nin konuşmaya başlamadan önce uyması gereken talimatlardır.
+form_addaikey_initailprompt_placeholder === Örnek: Bir şirket temsilcisi olarak hareket edin. Kullanıcıların şirketimizle ilgili genel sorularını mevcut araçları kullanarak yanıtlayın.
+form_addaikey_postprompt_title === Gönderi İsteği
+form_addaikey_postprompt_desc === Bu isteğin her mesaja otomatik olarak eklenmesi sağlanacak ve AI'nin yanıtlarının belirtilen bağlam veya konu ile sıkı bir şekilde uyumlu kalması sağlanacaktır. Bunu, tutarlı ve odaklanmış bir diyalog sürdürmek için kullanın. Bu özelliği devre dışı bırakmak için alanı boş bırakın.
+form_addaikey_postprompt_placeholder === VERİLEN KAPSAMDA BELİRTİLMİŞ OLMAYAN PROSEDÜRLER VE HİZMET ÖZELLİKLERİ HAKKINDA BANA HİÇBİR BİLGİ VERMEYİN.
+form_addaikey_vision_title === Vizyon
+form_addaikey_vision_desc === Eğer etkinleştirilirse, yapay zeka alınan görüntülere yanıt verecektir.
+form_addaikey_model_title === Model
+form_addaikey_model_desc === Yanıtlar için AI'nın kullanmasını istediğiniz modeli seçin.
+form_addaikey_modelsmartest === En zeki
+form_addaikey_modelcheapest === En ucuz
+form_addaikey_historythreshold_title === Tarih Eşiği
+form_addaikey_historythreshold_desc === AI'nin token tasarrufu yapmak için özetlemeye başlamadan önceki maksimum konuşma mesajı sayısını girin. Tavsiye edilen değer 50'dir.
+form_addaikey_historythreshold_placeholder === ör. 50
+form_addaikey_apikey_title === API Anahtarı
+form_addaikey_apikey_desc === AI sağlayıcı kontrol panelinizden oluşturduğunuz API anahtarı.
+form_addaiplugin_banner_title === Dikkat!
+form_addaiplugin_banner_desc === Bir eklenti oluşturmak, bazı kapsamlı kodlama bilgisi gerektirir. Ne yaptığınızdan emin değilseniz, lütfen bir geliştirici ile danışın.
+form_addaiplugin_endpoint_title === Eklenti Uç Noktası
+form_addaiplugin_endpoint_desc === Bu, AI tarafından çağrılacak URL'dir. Son noktanız, AI parametrelerini yakalamak için yalnızca POST metodunu kullanmalıdır!
+form_addaiplugin_schema_title === Eklenti Şeması
+form_addaiplugin_schema_desc === Bunlar, eklentiyi çağırırken AI'nın takip etmesi gereken talimatlardır. Format kesinlikle takip edilmelidir!
+form_addaiplugin_sample_schema === Örnek Şema:
+tables_aikeys_created === Oluşturuldu
+tables_aikeys_name === İsim
+tables_aikeys_model === Model
+tables_aikeys_options === Seçenekler
+tables_aiplugins_created === Oluşturuldu
+tables_aiplugins_name === İsim
+tables_aiplugins_options === Seçenekler
+js_regenerate_admintoken === Yönetici API Token'ını Yenile?
+js_regenerate_admintoken_desc === Admin API tokenunu yeniden oluşturmak istediğinizden emin misiniz? Bu eylem geri alınamaz ve uygulamalarınızdaki tokeni güncellemenizi gerektirecektir!
+form_aikey_provider_title === Sağlayıcı
+form_aikey_provider_desc === Bu anahtar için kullanmak istediğiniz yapay zeka sağlayıcısını seçin.
+form_aikey_provider_visionoff === Görüş Desteklenmiyor
+response_aimoderation_detected === Mesajınızda uygun olmayan içerik tespit ettik!
+response_externalcall_failed === Şu anda talebinizi işleme alamıyoruz. Lütfen daha sonra tekrar deneyin.
+form_addaiplugin_pluginname_desc === Eklenti adı.
+form_addaiplugin_pluginname_placeholder === ör. getTime
+response_aiautoreply_mustselaikey === Bir AI API Anahtarı seçmelisiniz!
+response_autoreply_added_2025 === Otomatik yanıt eylemi eklendi!
+response_hook_updated_2025 === Kanca eylemi güncellendi!
+response_autoreply_updated_2025 === Otomatik yanıt eylemi güncellendi!
+response_action_deleted_2025 === Eylem silindi!
+form_autoreplymatch_aiplugin_global === Küresel
+form_autoreplymatch_aiplugin_warningsave === Uyarı
+form_autoreplymatch_aiplugin_warningdesc === Bu otomatik yanıtla ilgili AI sohbetleri, değişiklikleri kaydettikten sonra sıfırlanacaktır!
+form_addaiapikey_transcriptiontitle === Transkripsiyon
+form_addaiapikey_transcriptiondesc === Eğer etkinleştirilirse, yapay zeka öncelikle ses veya video dosyalarının içeriğini yazıya dökecek ve ardından transkripsiyona dayalı olarak bir yanıt verecektir.

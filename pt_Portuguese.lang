@@ -2872,3 +2872,104 @@ plugins_btn_pluginsdefopagegeneric === Plug-ins
 tables_plugins_detailsauthor === Autor
 tables_plugins_detailsdesc === Descrição
 tables_plugins_detailsver === Versão
+system_settings_adminapitoken_title === Token da API Admin
+system_settings_adminapitoken_desc === Este é o token para autenticar-se com a API Admin.
+system_settings_systokenregen_desc === Este token é crítico para a segurança dos seus cronjobs, solicitações do WhatsApp e outras funcionalidades do sistema. Não deve ser compartilhado com ninguém. Se você suspeitar que o token foi comprometido, deve regenerar um novo imediatamente. Após a regeneração, você precisará reconfigurar seus cronjobs e atualizar quaisquer configurações associadas. Além disso, o sistema do WhatsApp será afetado e todas as contas conectadas deixarão de funcionar até que sejam re-ligadas novamente.
+system_settings_aimod_title === Moderação de IA
+system_settings_aimod_desc === Se ativado, todas as mensagens e imagens passarão pelo modelo de moderação de IA da OpenAI para verificar conteúdo sinalizado.
+system_settings_aimod_apikey_title === Chave da API OpenAI
+system_settings_aimod_apikey_desc === Digite sua chave de API da OpenAI. O modelo de moderação de IA da OpenAI é gratuito.
+response_addaikey_promptshort === Seu prompt de IA é muito curto!
+response_addaikey_modelinval === Seu modelo de IA é inválido!
+response_addaikey_histothres === Seu limite de histórico de IA é inválido!
+response_addaikey_histothresless === Seu limite de histórico de IA não pode ser inferior a 5!
+response_addaikey_apikeyshort === Sua chave de API de IA é muito curta!
+response_addaikey_success === A chave da IA foi adicionada!
+response_addaiplugin_endpointshort === Seu endpoint de plugin é muito curto!
+response_addaiplugin_endpointinval === Seu endpoint de plugin é inválido!
+response_addaiplugin_schemainval === O seu esquema de plugin é inválido!
+response_addaiplugin_success === O plugin de IA foi adicionado!
+response_editaikey_promptshort === Seu prompt de IA é muito curto!
+response_editaikey_modelinval === Seu modelo de IA é inválido!
+response_editaikey_histothres === Seu limite de histórico de IA é inválido!
+response_editaikey_histothresless === Seu limite de histórico de IA não pode ser menor que 5!
+response_editaikey_apikeyshort === Sua chave de API de IA é muito curta!
+response_editaikey_success === A chave da IA foi atualizada!
+response_editaiplugin_endpointshort === Seu endpoint de plugin é muito curto!
+response_editaiplugin_endpointinval === Seu endpoint de plugin é inválido!
+response_editaiplugin_schemainval === Seu esquema de plugin é inválido!
+response_editaiplugin_success === O plugin de IA foi atualizado!
+template_sidebar_ai === Inteligência Artificial
+template_sidebar_ai_keys === Chaves de API
+template_sidebar_ai_plugins === Plugins
+dashboard_title_aikeys === Chaves de API de IA
+dashboard_title_aiplugins === Plugins de IA
+dasboard_aipage_addkeybtn === Adicionar chave da API
+dasboard_aipage_addpluginbtn === Adicionar Plugin
+form_addautoreply_aiapikey === Chave da API de IA
+form_addautoreply_aiapikey_desc === Selecione a chave de API de IA que você deseja usar para esta resposta automática.
+form_addautoreply_aiplugin === Plugins de IA
+form_addautoreply_aiplugin_desc === Selecione os plugins de IA que você deseja usar para esta resposta automática.
+form_autoreplymatch_ai === Inteligência Artificial
+widgets_addaikey_title === Adicionar chave da API de IA
+widgets_addaikey_loader === Adicionando a chave da API de IA
+widgets_addaikey_requirename === Nome
+widgets_addaikey_requiremprompt === Prompt Inicial
+widgets_addaikey_requireapikey === Chave de API
+widgets_editaikey_title === Editar a chave da API de IA
+widgets_editaikey_loader === Atualizando a chave da API de IA
+widgets_addaiplugin_title === Adicionar Plugin de IA
+widgets_addaiplugin_loader === Adicionando Plugin de IA
+widgets_addaiplugin_requirename === Nome
+widgets_editaiplugin_title === Editar Plugin de IA
+widgets_editaiplugin_loader === Atualizando o Plugin de IA
+form_addaikey_initailprompt_title === Prompt inicial
+form_addaikey_initailprompt_desc === Insira o prompt inicial para a IA. Estas são as instruções que a IA deve seguir antes de iniciar a conversa.
+form_addaikey_initailprompt_placeholder === Aja como um representante da empresa. Responda perguntas gerais dos usuários sobre nossa empresa usando as ferramentas disponíveis.
+form_addaikey_postprompt_title === Postar Prompt
+form_addaikey_postprompt_desc === Este prompt será automaticamente anexado a cada mensagem, garantindo que as respostas da IA permaneçam estritamente alinhadas com o contexto ou tópico especificado. Use-o para manter um diálogo consistente e focado. Deixe o campo vazio para desativar este recurso.
+form_addaikey_postprompt_placeholder === por exemplo. Não me forneça informações sobre procedimentos e características de serviços que não estão mencionados no CONTEXTO FORNECIDO.
+form_addaikey_vision_title === Visão
+form_addaikey_vision_desc === Se ativado, a IA responderá às imagens recebidas.
+form_addaikey_model_title === Modelo
+form_addaikey_model_desc === Selecione o modelo que você deseja que a IA use para responder a mensagens.
+form_addaikey_modelsmartest === Mais inteligente
+form_addaikey_modelcheapest === Mais barato
+form_addaikey_historythreshold_title === Limiar da História
+form_addaikey_historythreshold_desc === Insira o número máximo de mensagens de conversa antes que a IA faça um resumo para economizar tokens. O valor recomendado é 50.
+form_addaikey_historythreshold_placeholder === ex. 50
+form_addaikey_apikey_title === Chave da API
+form_addaikey_apikey_desc === A chave de API que você criou a partir do seu painel de provedor de IA.
+form_addaiplugin_banner_title === Atenção!
+form_addaiplugin_banner_desc === Criar um plugin requer um conhecimento extenso de programação. Se você não tem certeza do que está fazendo, consulte um desenvolvedor.
+form_addaiplugin_endpoint_title === Endpoint do Plugin
+form_addaiplugin_endpoint_desc === Esta é a URL que será invocada pela IA. Seu endpoint deve usar estritamente o método POST para capturar os parâmetros da IA!
+form_addaiplugin_schema_title === Esquema de Plugin
+form_addaiplugin_schema_desc === Estas são instruções que a IA seguirá ao invocar o plugin. O formato deve ser rigidamente seguido!
+form_addaiplugin_sample_schema === Esquema de Amostra:
+tables_aikeys_created === Criado
+tables_aikeys_name === Nome
+tables_aikeys_model === Modelo
+tables_aikeys_options === Opções
+tables_aiplugins_created === Criado
+tables_aiplugins_name === Nome
+tables_aiplugins_options === Opções
+js_regenerate_admintoken === Regenerar Token da API de Admin?
+js_regenerate_admintoken_desc === Você tem certeza de que deseja regenerar o token da API de administrador? Esta ação é irreversível e exigirá que você atualize o token em suas aplicações!
+form_aikey_provider_title === Provedor
+form_aikey_provider_desc === Selecione o provedor de IA que deseja usar para esta chave.
+form_aikey_provider_visionoff === Visão Não Suportada
+response_aimoderation_detected === Detectamos conteúdo inadequado em sua mensagem!
+response_externalcall_failed === Não podemos processar sua solicitação no momento. Por favor, tente novamente mais tarde.
+form_addaiplugin_pluginname_desc === Nome do plugin.
+form_addaiplugin_pluginname_placeholder === ex. obterTempo
+response_aiautoreply_mustselaikey === Você deve selecionar uma chave de API de IA!
+response_autoreply_added_2025 === Ação de resposta automática foi adicionada!
+response_hook_updated_2025 === A ação de hook foi atualizada!
+response_autoreply_updated_2025 === A ação de resposta automática foi atualizada!
+response_action_deleted_2025 === A ação foi deletada!
+form_autoreplymatch_aiplugin_global === Global
+form_autoreplymatch_aiplugin_warningsave === Aviso
+form_autoreplymatch_aiplugin_warningdesc === As conversas de IA relacionadas a esta resposta automática serão redefinidas após você salvar as alterações!
+form_addaiapikey_transcriptiontitle === Transcrição
+form_addaiapikey_transcriptiondesc === Se ativado, a IA irá primeiro transcrever o conteúdo de arquivos de áudio ou vídeo e, em seguida, fornecer uma resposta com base na transcrição.

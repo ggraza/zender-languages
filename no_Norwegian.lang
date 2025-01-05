@@ -2872,3 +2872,104 @@ plugins_btn_pluginsdefopagegeneric === Plugins
 tables_plugins_detailsauthor === Forfatter
 tables_plugins_detailsdesc === Beskrivelse
 tables_plugins_detailsver === Versjon
+system_settings_adminapitoken_title === Admin API-token
+system_settings_adminapitoken_desc === Dette er tokenet for autentisering med Admin API.
+system_settings_systokenregen_desc === Denne tokenen er kritisk for sikkerheten til cronjobbene dine, WhatsApp-forespørslene og andre systemfunksjoner. Den må ikke deles med noen. Hvis du tror tokenen har blitt kompromittert, bør du umiddelbart regenerere en ny. Etter regenerering må du re-konfigurere cronjobbene dine og oppdatere eventuelle tilknyttede innstillinger. I tillegg vil WhatsApp-systemet bli påvirket, og alle tilkoblede kontoer vil slutte å fungere inntil de blir koblet til igjen.
+system_settings_aimod_title === AI-moderering
+system_settings_aimod_desc === Hvis aktivert, vil alle meldinger og bilder gå gjennom AI-moderasjonsmodellen til OpenAI for å sjekke for flagget innhold.
+system_settings_aimod_apikey_title === OpenAI API-nøkkel
+system_settings_aimod_apikey_desc === Skriv inn din OpenAI API-nøkkel. AI Moderation-modellen til OpenAI er gratis.
+response_addaikey_promptshort === Din AI-prompt er for kort!
+response_addaikey_modelinval === Din AI-modell er ugyldig!
+response_addaikey_histothres === Din AI-historiske terskel er ugyldig!
+response_addaikey_histothresless === Din AI-historikkgrense kan ikke være mindre enn 5!
+response_addaikey_apikeyshort === Din AI api-nøkkel er for kort!
+response_addaikey_success === AI-nøkkel har blitt lagt til!
+response_addaiplugin_endpointshort === Plugin-endepunktet ditt er for kort!
+response_addaiplugin_endpointinval === Pluginkoblingen din er ugyldig!
+response_addaiplugin_schemainval === Pluginnskjemaet ditt er ugyldig!
+response_addaiplugin_success === AI-pluginet har blitt lagt til!
+response_editaikey_promptshort === Din AI-forespørsel er for kort!
+response_editaikey_modelinval === Din AI-modell er ugyldig!
+response_editaikey_histothres === Din AI-historiske terskel er ugyldig!
+response_editaikey_histothresless === Ditt AI-historiske terskel kan ikke være mindre enn 5!
+response_editaikey_apikeyshort === Din AI apikey er for kort!
+response_editaikey_success === AI-nøkkelen har blitt oppdatert!
+response_editaiplugin_endpointshort === Plugin-endepunktet ditt er for kort!
+response_editaiplugin_endpointinval === Din plugin-endepunkt er ugyldig!
+response_editaiplugin_schemainval === Plugin-skjemaet ditt er ugyldig!
+response_editaiplugin_success === AI-pluginet har blitt oppdatert!
+template_sidebar_ai === Kunstig intelligens
+template_sidebar_ai_keys === API-nøkler
+template_sidebar_ai_plugins === Plugins
+dashboard_title_aikeys === AI API-nøkler
+dashboard_title_aiplugins === AI-tillegg
+dasboard_aipage_addkeybtn === Legg til API-nøkkel
+dasboard_aipage_addpluginbtn === Legg til plugin
+form_addautoreply_aiapikey === AI API-nøkkel
+form_addautoreply_aiapikey_desc === Velg AI-apikeyen du ønsker å bruke for dette autoreplyet.
+form_addautoreply_aiplugin === AI-plugins
+form_addautoreply_aiplugin_desc === Velg AI-pluginene du ønsker å bruke for dette automatiske svaret.
+form_autoreplymatch_ai === Kunstig intelligens
+widgets_addaikey_title === Legg til AI API-nøkkel
+widgets_addaikey_loader === Legge til AI API-nøkkel
+widgets_addaikey_requirename === Navn
+widgets_addaikey_requiremprompt === Initial Prompt
+widgets_addaikey_requireapikey === API-nøkkel
+widgets_editaikey_title === Rediger AI API-nøkkel
+widgets_editaikey_loader === Oppdatering av AI API-nøkkel
+widgets_addaiplugin_title === Legg til AI-plugin
+widgets_addaiplugin_loader === Legge til AI-plugin
+widgets_addaiplugin_requirename === Navn
+widgets_editaiplugin_title === Rediger AI-plugin
+widgets_editaiplugin_loader === Oppdatering av AI-plugin
+form_addaikey_initailprompt_title === Første prompt
+form_addaikey_initailprompt_desc === Vennligst skriv inn den innledende forespørselen for AI. Dette er instruksjonene AI skal følge før den starter samtalen.
+form_addaikey_initailprompt_placeholder === Vær så snill å handle som en representant for selskapet. Svar på generelle spørsmål fra brukerne om vårt selskap ved å bruke de tilgjengelige verktøyene.
+form_addaikey_postprompt_title === Postprompt
+form_addaikey_postprompt_desc === Denne meldingen vil automatisk bli lagt til hver melding, og sørge for at AI-ens svar forblir strengt tilpasset den spesifiserte konteksten eller emnet. Bruk det for å opprettholde en konsekvent og fokusert dialog. La feltet stå tomt for å deaktivere denne funksjonen.
+form_addaikey_postprompt_placeholder === Ikke gi meg noen informasjon om prosedyrer og tjenestefunksjoner som ikke er nevnt i DEN GIVNE KONTEXT.
+form_addaikey_vision_title === Visjon
+form_addaikey_vision_desc === Hvis aktivert, vil AI-en svare på de mottatte bildene.
+form_addaikey_model_title === Modell
+form_addaikey_model_desc === Velg modellen du ønsker at AI-en skal bruke for å svare på meldinger.
+form_addaikey_modelsmartest === Smarteste
+form_addaikey_modelcheapest === Billigste
+form_addaikey_historythreshold_title === Historisk terskel
+form_addaikey_historythreshold_desc === Angi maksimalt antall samtalemeldinger før AI oppsummerer det for å spare tokens. Anbefalt verdi er 50.
+form_addaikey_historythreshold_placeholder === TRANSLATION: for eksempel 50
+form_addaikey_apikey_title === API-nøkkel
+form_addaikey_apikey_desc === API-nøkkelen du opprettet fra dashbordet til AI-leverandøren din.
+form_addaiplugin_banner_title === Vær oppmerksom!
+form_addaiplugin_banner_desc === Å lage en plugin krever omfattende programmeringskunnskaper. Hvis du er usikker på hva du gjør, vennligst rådfør deg med en utvikler.
+form_addaiplugin_endpoint_title === Plugin-endepunkt
+form_addaiplugin_endpoint_desc === Dette er URL-en som vil bli kalt av AI. Ditt sluttpunkt må strengt bruke POST-metoden for å fange AI-parametere!
+form_addaiplugin_schema_title === Plugin-skjema
+form_addaiplugin_schema_desc === Dette er instruksjoner som AI-en vil følge når den aktiverer pluginen. Formatet må følges strengt!
+form_addaiplugin_sample_schema === Prøveskjema:
+tables_aikeys_created === Opprettet
+tables_aikeys_name === Navn
+tables_aikeys_model === Modell
+tables_aikeys_options === Alternativer
+tables_aiplugins_created === Opprettet
+tables_aiplugins_name === Navn
+tables_aiplugins_options === Alternativer
+js_regenerate_admintoken === Regenerere admin API-nøkkel?
+js_regenerate_admintoken_desc === Er du sikker på at du vil regenerere admin API-tokenet? Denne handlingen er irreversibel og vil kreve at du oppdaterer tokenet i applikasjonene dine!
+form_aikey_provider_title === Leverandør
+form_aikey_provider_desc === Velg AI-leverandøren du ønsker å bruke for denne nøkkelen.
+form_aikey_provider_visionoff === Visjon ikke støttet
+response_aimoderation_detected === Vi har oppdaget upassende innhold i meldingen din!
+response_externalcall_failed === Vi kan ikke behandle forespørselen din akkurat nå. Vennligst prøv igjen senere.
+form_addaiplugin_pluginname_desc === Pluginnavn.
+form_addaiplugin_pluginname_placeholder === TRANSLATION: f.eks. fåTid
+response_aiautoreply_mustselaikey === Du må velge en AI API-nøkkel!
+response_autoreply_added_2025 === Automatisk svar-funksjonen har blitt lagt til!
+response_hook_updated_2025 === Handlingen for krok er blitt oppdatert!
+response_autoreply_updated_2025 === Autoreply-handlingen har blitt oppdatert!
+response_action_deleted_2025 === Handling har blitt slettet!
+form_autoreplymatch_aiplugin_global === Global
+form_autoreplymatch_aiplugin_warningsave === Advarsel
+form_autoreplymatch_aiplugin_warningdesc === AI-samtalene relatert til dette automatiske svaret vil nullstilles etter at du har lagret endringene!
+form_addaiapikey_transcriptiontitle === Transkripsjon
+form_addaiapikey_transcriptiondesc === Hvis aktivert, vil AI først transkribere innholdet i lyd- eller videofiler, og deretter gi et svar basert på transkripsjonen.

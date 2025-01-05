@@ -2872,3 +2872,104 @@ plugins_btn_pluginsdefopagegeneric === Awọn afikun
 tables_plugins_detailsauthor === Onkọwe
 tables_plugins_detailsdesc === Apejuwe
 tables_plugins_detailsver === Ẹya
+system_settings_adminapitoken_title === Asopọ API Alakoso
+system_settings_adminapitoken_desc === Eyi ni akọtọ fun ifọwọsi pẹlu API Alakoso.
+system_settings_systokenregen_desc === Iwọnyi ti won jẹ pataki fun aabo awọn cronjobs rẹ, awọn requests WhatsApp, ati awọn ẹya miiran ti eto. Ko gbọdọ pin pẹlu ẹnikẹni. Ti o ba gbagbọ pe a ti fọ token naa, o yẹ ki o tun ṣẹda tuntun lẹsẹkẹsẹ. Lẹhin ti o tun ṣẹda, iwọ yoo nilo lati tunto awọn cronjobs rẹ ati mu eyikeyi awọn eto ti o ni ibatan ṣẹ. Pẹlupẹlu, eto WhatsApp yoo ni ipa, ati gbogbo awọn akọọlẹ ti o so pọ yoo da iṣẹ duro titi wọn o fi tun sopọ.
+system_settings_aimod_title === Iṣakoso AI
+system_settings_aimod_desc === Ti o ba mu ṣiṣẹ, gbogbo awọn ifiranṣẹ ati awọn aworan yoo kọja nipasẹ awoṣe idari AI ti OpenAI lati ṣayẹwo fun akoonu ti a ti sọ silẹ.
+system_settings_aimod_apikey_title === OpenAI API Bọtini
+system_settings_aimod_apikey_desc === Tẹ bọtini Apikey rẹ ti OpenAI. Àwọn àpẹẹrẹ ìṣàkóso AI ti OpenAI jẹ òfẹ.
+response_addaikey_promptshort === Ìbéèrè AI rẹ kì í gùn!
+response_addaikey_modelinval === Ẹrọ AI rẹ ko tọ!
+response_addaikey_histothres === Ihistọ́rí AI rẹ̀ ni aláìlò!
+response_addaikey_histothresless === Ihistory AI rẹ ko le jẹ kere ju 5!
+response_addaikey_apikeyshort === Bọtini apẹẹrẹ AI rẹ kuru pupọ!
+response_addaikey_success === Akọkọ AI ti wa ni afikun!
+response_addaiplugin_endpointshort === Ibi ipari plugin rẹ jẹ kéré pupọ!
+response_addaiplugin_endpointinval === Ipò ìdíhẹ rẹ jẹ́ aláìtọ́!
+response_addaiplugin_schemainval === Ìtòlẹ́sè àfikún rẹ̀ kò tọ́!
+response_addaiplugin_success === A ti fi afikun AI kun!
+response_editaikey_promptshort === Iwe akọsilẹ AI rẹ gunjulo!
+response_editaikey_modelinval === Awoṣe AI rẹ ko tọ!
+response_editaikey_histothres === Iṣẹ́ ìtàn AI rẹ ko wúlò!
+response_editaikey_histothresless === Iṣẹ́ àkókò AI rẹ kò lè bẹ́ẹ̀rè ju 5 lọ!
+response_editaikey_apikeyshort === Bọtini apẹẹrẹ AI rẹ jẹ ki o kuru ju!
+response_editaikey_success === Bọtini AI ti ni imudojuiwọn!
+response_editaiplugin_endpointshort === Ipele afikun rẹ jẹ kẹkẹ ju!
+response_editaiplugin_endpointinval === Ẹgbẹ amugbo yín jẹ aṣiṣe!
+response_editaiplugin_schemainval === Àkọsílẹ̀ àfikún rẹ jẹ́ aláìdá!
+response_editaiplugin_success === Àwọn àfikún AI ti ni imudojuiwọn!
+template_sidebar_ai === Intelligence Artificial
+template_sidebar_ai_keys === Awon bọtini API
+template_sidebar_ai_plugins === Awọn afikun
+dashboard_title_aikeys === Bọtini API AI
+dashboard_title_aiplugins === Awọn afikun AI
+dasboard_aipage_addkeybtn === Fi bọtini API kun
+dasboard_aipage_addpluginbtn === Fi Plugin kun
+form_addautoreply_aiapikey === ẹya bọtini AI
+form_addautoreply_aiapikey_desc === Yan apikey AI ti o fẹ lo fun idahun aifọwọyi yii.
+form_addautoreply_aiplugin === Awọn afikun AI
+form_addautoreply_aiplugin_desc === Yan awọn afikun AI ti o fẹ lo fun idahun aifọwọyi yii.
+form_autoreplymatch_ai === Intelligence Atẹnudẹrọ
+widgets_addaikey_title === Fi bọtini APi AI kun.
+widgets_addaikey_loader === Fifi bọtini API AI kun
+widgets_addaikey_requirename === Orukọ
+widgets_addaikey_requiremprompt === Ibeere Ibẹrẹ
+widgets_addaikey_requireapikey === KẸ́Y API
+widgets_editaikey_title === Ṣatunkọ bọtini API AI
+widgets_editaikey_loader === Imudojuiwọn bọtini API AI
+widgets_addaiplugin_title === Fi afikun AI kun
+widgets_addaiplugin_loader === Fifi afikun AI
+widgets_addaiplugin_requirename === Oruko
+widgets_editaiplugin_title === Ṣatunkọ Ẹgbẹ AI
+widgets_editaiplugin_loader === Imudojuiwọn Àwọn Ẹ̀rọ Amíìkàn AI
+form_addaikey_initailprompt_title === Ibeere gbogbogbo
+form_addaikey_initailprompt_desc === Tẹ àṣẹ ìbẹ̀rẹ̀ fún AI. Èyí ni àwọn ìtọ́nisọ́nà tí AI yẹ kí o tẹ̀lé kí ó tó bẹ̀rẹ̀ ìjíròrò.
+form_addaikey_initailprompt_placeholder === ṣe. Ṣe aṣoju ile-iṣẹ kan. Dahun awọn ibeere gbogbogbo ti awọn olumulo nipa ile-iṣẹ wa nipa lilo awọn irinṣẹ ti o wa.
+form_addaikey_postprompt_title === Gbe Ifiranṣẹ naa silẹ
+form_addaikey_postprompt_desc === Ibeere yii yoo ṣe afikun laifọwọyi si gbogbo ifiranṣẹ, ni idaniloju pe awọn idahun AI duro ni ibamu pẹkipẹki pẹlu akori tabi akọle ti a sọ. Lo o lati pa ibaraẹnisọrọ ti o ni idasilẹ ati idojukọ. Fi aaye silẹ lati mu ẹya yii ṣiṣẹ.
+form_addaikey_postprompt_placeholder === Ma fi mi awọn alaye eyikeyi nipa awọn ilana ati awọn ẹya iṣẹ ti ko ṣe iṣafihan ni IBI TI A FUNNI.
+form_addaikey_vision_title === Iranlọwọ
+form_addaikey_vision_desc === Ti a ba mu ṣiṣẹ, AI yóò fèsì sí àwọn àwòrán tí a gba.
+form_addaikey_model_title === Àmọ̀ràn
+form_addaikey_model_desc === Yan awoṣe ti o fẹ ki AI lo fun fifi awọn ifiranṣẹ ranṣẹ.
+form_addaikey_modelsmartest === Ọmọ ẹgbẹ ọlọgbọn julọ
+form_addaikey_modelcheapest === Ti o din owo julọ
+form_addaikey_historythreshold_title === Ìtàn Ipele
+form_addaikey_historythreshold_desc === Tẹ nọmba ti o pọ ju awọn ifọrọranṣẹ ibaraẹnisọrọ lọ ṣaaju ki AI to ṣe akopọ rẹ lati fipamọ awọn tokun. Iye ti a ṣeduro ni 50.
+form_addaikey_historythreshold_placeholder === eg. 50
+form_addaikey_apikey_title === Ẹ̀rọ ìkọ́kọ́ API
+form_addaikey_apikey_desc === Kìýìrẹ API tí o dá silẹ láti inú àgbègbè alátagbá AI rẹ.
+form_addaiplugin_banner_title === Ika wa!
+form_addaiplugin_banner_desc === Ṣiṣe afikun kan nilo imọ kọnputa to gbooro. Ti o ba ni idaniloju nipa ohun ti o n ṣe, jọwọ ba olugbasilẹ kan sọrọ.
+form_addaiplugin_endpoint_title === Ibi ipari ṣiṣan.
+form_addaiplugin_endpoint_desc === Eyi ni URL ti yoo jẹ ki AI pe. Iwọn ibudo rẹ gbọdọ lo ọna POST ni pẹkipẹki lati gba awọn paramita AI!
+form_addaiplugin_schema_title === Amọran Plugin
+form_addaiplugin_schema_desc === Eyi ni awọn ilana ti AI yoo tẹle nigbati o ba n pe ẹrọ afikun naa. Fọọmu naa gbọdọ jẹ pẹpẹ!
+form_addaiplugin_sample_schema === Apẹrẹ Àtẹjáde:
+tables_aikeys_created === Ti ṣẹda
+tables_aikeys_name === Orukọ
+tables_aikeys_model === Àwòrán
+tables_aikeys_options === Àṣayan
+tables_aiplugins_created === Daada
+tables_aiplugins_name === Orukọ
+tables_aiplugins_options === Yiyan
+js_regenerate_admintoken === Tunṣe Token API Alakoso?
+js_regenerate_admintoken_desc === Ṣe o dájú pé o fẹ lati tun ṣẹda token API iṣakoso? Iṣẹ yii jẹ eyi ti ko le yipada ati pe yoo nilo ki o ṣe imudojuiwọn token naa ninu awọn ohun elo rẹ!
+form_aikey_provider_title === Oludari
+form_aikey_provider_desc === Yan olupese AI ti o fẹ lati lo fun awọn bọtini yii.
+form_aikey_provider_visionoff === Ibi Afihan ti ko ni Atilẹyin
+response_aimoderation_detected === A ti ṣe awari akoonu to yẹ ko wulo ninu ifiranṣẹ rẹ!
+response_externalcall_failed === A ko le ṣe ilana ibeere rẹ ni akoko yii. Jọwọ tun gbiyanju nigbamii.
+form_addaiplugin_pluginname_desc === Orukọ amuṣiṣẹpọ.
+form_addaiplugin_pluginname_placeholder === gbaÀkókò
+response_aiautoreply_mustselaikey === O gbọdọ yan kóòdù API AI kan!
+response_autoreply_added_2025 === Aṣẹ esi aiyipada ti wa ni afikun!
+response_hook_updated_2025 === Iṣe okun ti ni imudojuiwọn!
+response_autoreply_updated_2025 === Ìṣe ìdáhùn ara ti ni imudojuiwọn!
+response_action_deleted_2025 === Iṣe ti paarẹ!
+form_autoreplymatch_aiplugin_global === Agbaye
+form_autoreplymatch_aiplugin_warningsave === Ikilọ
+form_autoreplymatch_aiplugin_warningdesc === Ibi ibaraẹnisọrọ AI ti o ni ibatan si eyi yoo tunṣe lẹẹkan ti o ba fipamọ awọn ayipada!
+form_addaiapikey_transcriptiontitle === Ikọwe ọrọ
+form_addaiapikey_transcriptiondesc === Ti a ba mu u ṣiṣẹ, AI yoo kọkọ ṣe ite afọwọkọ ak المحتوى ti awọn faili ohun tabi fidio lẹhinna pese idahun kan da lori afọwọkọ naa.

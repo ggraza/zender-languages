@@ -2872,3 +2872,104 @@ plugins_btn_pluginsdefopagegeneric === Pluginy
 tables_plugins_detailsauthor === Autor
 tables_plugins_detailsdesc === Popis
 tables_plugins_detailsver === Verzia
+system_settings_adminapitoken_title === Token API administrátora
+system_settings_adminapitoken_desc === Toto je token na autentifikáciu s Admin API.
+system_settings_systokenregen_desc === Tento token je kľúčový pre bezpečnosť vašich cronjobov, požiadaviek na WhatsApp a ďalších systémových funkcií. Nemal by byť zdieľaný s nikým. Ak sa domnievate, že bol token kompromitovaný, mali by ste okamžite vygenerovať nový. Po vygenerovaní budete musieť znovu nakonfigurovať svoje cronjoby a aktualizovať všetky súvisiace nastavenia. Okrem toho bude systém WhatsApp ovplyvnený a všetky pripojené účty prestanú fungovať, kým nebudú znova prepojené.
+system_settings_aimod_title === AI moderovanie
+system_settings_aimod_desc === Ak je to povolené, všetky správy a obrázky prejdú modelom moderovania AI od OpenAI na kontrolu označeného obsahu.
+system_settings_aimod_apikey_title === Kľúč API OpenAI
+system_settings_aimod_apikey_desc === Zadajte svoj OpenAI Apikey. Model moderovania AI od OpenAI je bez nákladov.
+response_addaikey_promptshort === Váš AI príkaz je príliš krátky!
+response_addaikey_modelinval === Váš AI model je neplatný!
+response_addaikey_histothres === Váš prah histórie AI je neplatný!
+response_addaikey_histothresless === Tvoj prah histórie AI nemôže byť nižší ako 5!
+response_addaikey_apikeyshort === Váš AI apikey je príliš krátky!
+response_addaikey_success === Kľúč AI bol pridaný!
+response_addaiplugin_endpointshort === Vaša koncová adresa pluginu je príliš krátka!
+response_addaiplugin_endpointinval === Váš koncový bod zásuvného modulu je neplatný!
+response_addaiplugin_schemainval === Váš schéma pluginu je neplatné!
+response_addaiplugin_success === Bola pridaná AI plugin!
+response_editaikey_promptshort === Váš AI pokyn je príliš krátky!
+response_editaikey_modelinval === Váš model AI je neplatný!
+response_editaikey_histothres === Váš prah histórie AI je neplatný!
+response_editaikey_histothresless === Tvoja prahová hodnota histórie AI nemôže byť menej ako 5!
+response_editaikey_apikeyshort === Váš AI apikey je príliš krátky!
+response_editaikey_success === Kľúč AI bol aktualizovaný!
+response_editaiplugin_endpointshort === Vaša koncová adresa pluginu je príliš krátka!
+response_editaiplugin_endpointinval === Váš koncový bod pluginu je neplatný!
+response_editaiplugin_schemainval === Váš schéma pluginu je neplatné!
+response_editaiplugin_success === Plugin AI bol aktualizovaný!
+template_sidebar_ai === Umelá inteligencia
+template_sidebar_ai_keys === API kľúče
+template_sidebar_ai_plugins === Pluginy
+dashboard_title_aikeys === Kľúče API AI
+dashboard_title_aiplugins === AI pluginy
+dasboard_aipage_addkeybtn === Pridajte API kľúč
+dasboard_aipage_addpluginbtn === Pridať plugin
+form_addautoreply_aiapikey === Kľúč API AI
+form_addautoreply_aiapikey_desc === Vyberte API kľúč AI, ktorý chcete použiť pre túto automatickú odpoveď.
+form_addautoreply_aiplugin === Pluginy AI
+form_addautoreply_aiplugin_desc === Vyberte AI pluginy, ktoré chcete použiť pre túto automatickú odpoveď.
+form_autoreplymatch_ai === Umelá inteligencia
+widgets_addaikey_title === Pridajte API kľúč AI
+widgets_addaikey_loader === Pridanie kľúča API AI
+widgets_addaikey_requirename === Názov
+widgets_addaikey_requiremprompt === Počiatočný podnet
+widgets_addaikey_requireapikey === API kľúč
+widgets_editaikey_title === Upraviť API kľúč AI
+widgets_editaikey_loader === Aktualizácia kľúča API AI
+widgets_addaiplugin_title === Pridať AI Plugin
+widgets_addaiplugin_loader === Pridávanie AI pluginu
+widgets_addaiplugin_requirename === Názov
+widgets_editaiplugin_title === Upraviť AI plugin
+widgets_editaiplugin_loader === Aktualizácia AI pluginu
+form_addaikey_initailprompt_title === Počiatočný Podnet
+form_addaikey_initailprompt_desc === Zadajte počiatočný pokyn pre AI. Toto sú pokyny, ktoré by mala AI dodržiavať pred začiatkom konverzácie.
+form_addaikey_initailprompt_placeholder === Jako zástupca spoločnosti odpovedajte na všeobecné otázky používateľov o našej spoločnosti pomocou dostupných nástrojov.
+form_addaikey_postprompt_title === Prejdite na výzvu
+form_addaikey_postprompt_desc === Tento pokyn bude automaticky pridaný k každej správe, čím sa zabezpečí, že odpovede AI zostanú striktne v súlade s určeným kontextom alebo témou. Použite ho na udržanie konzistentného a zameraného dialógu. Nechajte pole prázdne, aby ste túto funkciu deaktivovali.
+form_addaikey_postprompt_placeholder === Např. Neposkytujte mi žiadne informácie o postupoch a vlastnostiach služieb, ktoré nie sú uvedené v POSKYTNUTOM KONTEKSTE.
+form_addaikey_vision_title === Vízia
+form_addaikey_vision_desc === Ak je to povolené, AI bude reagovať na prijaté obrázky.
+form_addaikey_model_title === Model
+form_addaikey_model_desc === Vyberte model, ktorý chcete, aby AI použila na odpovedanie na správy.
+form_addaikey_modelsmartest === Najinteligentnejší
+form_addaikey_modelcheapest === Najlacnejší
+form_addaikey_historythreshold_title === Historický prah
+form_addaikey_historythreshold_desc === Zadajte maximálny počet konverzačných správ predtým, ako AI zhrnie obsah, aby ušetrila tokeny. Odporúčaná hodnota je 50.
+form_addaikey_historythreshold_placeholder === napr. 50
+form_addaikey_apikey_title === Kľúč API
+form_addaikey_apikey_desc === Kľúč API, ktorý ste vytvorili z jeho ovládacieho panela poskytovateľa AI.
+form_addaiplugin_banner_title === Buďte na pozore!
+form_addaiplugin_banner_desc === Vytvorenie plug-inu si vyžaduje rozsiahle znalosti v programovaní. Ak si nie ste istí tým, čo robíte, prosím, poraďte sa s vývojárom.
+form_addaiplugin_endpoint_title === Koncový bod pluginu
+form_addaiplugin_endpoint_desc === Toto je URL, ktorá bude vyvolaná umelou inteligenciou. Vaša koncová adresa musí striktne používať metódu POST na zaznamenanie parametrov AI!
+form_addaiplugin_schema_title === Schéma pluginu
+form_addaiplugin_schema_desc === Toto sú pokyny, ktoré AI bude dodržiavať pri používaní pluginu. Formát musí byť prísne dodržiavaný!
+form_addaiplugin_sample_schema === Vzorová schéma:
+tables_aikeys_created === Vytvorené
+tables_aikeys_name === Meno
+tables_aikeys_model === Model
+tables_aikeys_options === Možnosti
+tables_aiplugins_created === Vytvorené
+tables_aiplugins_name === Meno
+tables_aiplugins_options === Možnosti
+js_regenerate_admintoken === Obnoviť token API administrátora?
+js_regenerate_admintoken_desc === Ste si istí, že chcete regenerovať admin API token? Táto akcia je nezvratná a bude vyžadovať, aby ste aktualizovali token vo vašich aplikáciách!
+form_aikey_provider_title === Poskytovateľ
+form_aikey_provider_desc === Vyberte poskytovateľa AI, ktorého chcete použiť pre tento kľúč.
+form_aikey_provider_visionoff === Vízia nepodporovaná
+response_aimoderation_detected === Zistili sme nevhodný obsah vo vašej správe!
+response_externalcall_failed === Momentálne nemôžeme spracovať vašu žiadosť. Skúste to prosím neskôr.
+form_addaiplugin_pluginname_desc === Názov pluginu.
+form_addaiplugin_pluginname_placeholder === TRANSLATION: napr. získaťČas
+response_aiautoreply_mustselaikey === Musíte si vybrať API kľúč AI!
+response_autoreply_added_2025 === Akcia automatickej odpovede bola pridaná!
+response_hook_updated_2025 === Akcia háčika bola aktualizovaná!
+response_autoreply_updated_2025 === Akcia automatickej odpovede bola aktualizovaná!
+response_action_deleted_2025 === Akcia bola odstránená!
+form_autoreplymatch_aiplugin_global === Globálny
+form_autoreplymatch_aiplugin_warningsave === Upozornenie
+form_autoreplymatch_aiplugin_warningdesc === Konverzácie s AI týkajúce sa tejto automatickej odpovede sa po uložení zmien resetujú!
+form_addaiapikey_transcriptiontitle === Prepisovanie
+form_addaiapikey_transcriptiondesc === Ak je povolené, AI najprv prepisuje obsah audio alebo video súborov a potom poskytne odpoveď na základe prepisu.

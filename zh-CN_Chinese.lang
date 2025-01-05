@@ -2872,3 +2872,104 @@ plugins_btn_pluginsdefopagegeneric === 插件
 tables_plugins_detailsauthor === 作者
 tables_plugins_detailsdesc === 描述
 tables_plugins_detailsver === 版本
+system_settings_adminapitoken_title === 管理员 API 令牌
+system_settings_adminapitoken_desc === 这是用于通过管理 API 进行身份验证的令牌。
+system_settings_systokenregen_desc === 此令牌对于 cronjobs、WhatsApp 请求和其他系统功能的安全至关重要。不得与任何人共享。如果您认为令牌已被泄露，您应该立即重新生成一个新令牌。重新生成后，您将需要重新配置您的 cronjobs 并更新任何相关设置。此外，WhatsApp 系统将受到影响，所有连接的帐户将停止工作，直到再次重新连接。
+system_settings_aimod_title === 人工智能审核
+system_settings_aimod_desc === 如果启用，所有消息和图像都将通过 OpenAI 的 AI 审核模型来检查标记的内容。
+system_settings_aimod_apikey_title === OpenAI API 密钥
+system_settings_aimod_apikey_desc === 输入您的 OpenAI APIkey。 OpenAI 的 AI 审核模型是免费的。
+response_addaikey_promptshort === 你的AI提示太短了！
+response_addaikey_modelinval === 你的AI模型无效！
+response_addaikey_histothres === 您的AI历史阈值无效！
+response_addaikey_histothresless === 你的AI历史阈值不能低于5！
+response_addaikey_apikeyshort === 您的 AI apikey 太短了！
+response_addaikey_success === AI键已添加！
+response_addaiplugin_endpointshort === 您的插件端点太短！
+response_addaiplugin_endpointinval === 您的插件端点无效！
+response_addaiplugin_schemainval === 您的插件架构无效！
+response_addaiplugin_success === AI插件已添加！
+response_editaikey_promptshort === 你的AI提示太短了！
+response_editaikey_modelinval === 你的AI模型无效！
+response_editaikey_histothres === 您的AI历史阈值无效！
+response_editaikey_histothresless === 你的AI历史阈值不能低于5！
+response_editaikey_apikeyshort === 您的 AI apikey 太短了！
+response_editaikey_success === AI密钥已更新！
+response_editaiplugin_endpointshort === 您的插件端点太短！
+response_editaiplugin_endpointinval === 您的插件端点无效！
+response_editaiplugin_schemainval === 您的插件架构无效！
+response_editaiplugin_success === AI插件已更新！
+template_sidebar_ai === 人工智能
+template_sidebar_ai_keys === API 密钥
+template_sidebar_ai_plugins === 插件
+dashboard_title_aikeys === 人工智能 API 密钥
+dashboard_title_aiplugins === 人工智能插件
+dasboard_aipage_addkeybtn === 添加API密钥
+dasboard_aipage_addpluginbtn === 添加插件
+form_addautoreply_aiapikey === 人工智能API密钥
+form_addautoreply_aiapikey_desc === 选择您要用于此自动回复的 AI apikey。
+form_addautoreply_aiplugin === 人工智能插件
+form_addautoreply_aiplugin_desc === 选择您想要用于此自动回复的 AI 插件。
+form_autoreplymatch_ai === 人工智能
+widgets_addaikey_title === 添加AI API密钥
+widgets_addaikey_loader === 添加AI API密钥
+widgets_addaikey_requirename === 姓名
+widgets_addaikey_requiremprompt === 初始提示
+widgets_addaikey_requireapikey === API密钥
+widgets_editaikey_title === 编辑AI API密钥
+widgets_editaikey_loader === 更新AI API密钥
+widgets_addaiplugin_title === 添加AI插件
+widgets_addaiplugin_loader === 添加AI插件
+widgets_addaiplugin_requirename === 姓名
+widgets_editaiplugin_title === 编辑AI插件
+widgets_editaiplugin_loader === 更新AI插件
+form_addaikey_initailprompt_title === 初始提示
+form_addaikey_initailprompt_desc === 输入 AI 的初始提示。这些是人工智能在开始对话之前应遵循的说明。
+form_addaikey_initailprompt_placeholder === 例如。担任公司代表。使用可用的工具回答用户关于我们公司的一般问题。
+form_addaikey_postprompt_title === 发布提示
+form_addaikey_postprompt_desc === 该提示将自动附加到每条消息中，确保人工智能的响应与指定的上下文或主题严格一致。用它来保持一致和集中的对话。将该字段留空以禁用此功能。
+form_addaikey_postprompt_placeholder === 例如。不要向我提供有关所提供上下文中未提及的程序和服务功能的任何信息。
+form_addaikey_vision_title === 想象
+form_addaikey_vision_desc === 如果启用，AI 将响应接收到的图像。
+form_addaikey_model_title === 模型
+form_addaikey_model_desc === 选择您希望 AI 用于响应消息的模型。
+form_addaikey_modelsmartest === 最聪明
+form_addaikey_modelcheapest === 最便宜
+form_addaikey_historythreshold_title === 历史阈值
+form_addaikey_historythreshold_desc === 输入 AI 汇总之前对话消息的最大数量以保存令牌。建议值为 50。
+form_addaikey_historythreshold_placeholder === 例如。 50
+form_addaikey_apikey_title === API密钥
+form_addaikey_apikey_desc === 您从 AI 提供商仪表板创建的 API 密钥。
+form_addaiplugin_banner_title === 小心！
+form_addaiplugin_banner_desc === 创建插件需要一些广泛的编码知识。如果您不确定自己在做什么，请咨询开发人员。
+form_addaiplugin_endpoint_title === 插件端点
+form_addaiplugin_endpoint_desc === 这是 AI 将调用的 URL。您的终端必须严格使用POST方法来获取AI参数！
+form_addaiplugin_schema_title === 插件架构
+form_addaiplugin_schema_desc === 这些是 AI 在调用插件时将遵循的指令。一定要严格遵守格式！
+form_addaiplugin_sample_schema === 示例架构：
+tables_aikeys_created === 已创建
+tables_aikeys_name === 姓名
+tables_aikeys_model === 模型
+tables_aikeys_options === 选项
+tables_aiplugins_created === 已创建
+tables_aiplugins_name === 姓名
+tables_aiplugins_options === 选项
+js_regenerate_admintoken === 重新生成管理员 API 令牌？
+js_regenerate_admintoken_desc === 您确定要重新生成管理 API 令牌吗？此操作不可逆转，并且需要您更新应用程序中的令牌！
+form_aikey_provider_title === 提供者
+form_aikey_provider_desc === 选择您想要用于此密钥的 AI 提供商。
+form_aikey_provider_visionoff === 视力不受支持
+response_aimoderation_detected === 我们在您的消息中检测到不当内容！
+response_externalcall_failed === 我们目前无法处理您的请求。请稍后重试。
+form_addaiplugin_pluginname_desc === 插件名称。
+form_addaiplugin_pluginname_placeholder === 例如。获取时间
+response_aiautoreply_mustselaikey === 您必须选择一个 AI API 密钥！
+response_autoreply_added_2025 === 添加了自动回复操作！
+response_hook_updated_2025 === 钩子动作已更新！
+response_autoreply_updated_2025 === 自动回复操作已更新！
+response_action_deleted_2025 === 动作已被删除！
+form_autoreplymatch_aiplugin_global === 全球的
+form_autoreplymatch_aiplugin_warningsave === 警告
+form_autoreplymatch_aiplugin_warningdesc === 保存更改后，与此自动回复相关的 AI 对话将重置！
+form_addaiapikey_transcriptiontitle === 转录
+form_addaiapikey_transcriptiondesc === 如果启用，人工智能将首先转录音频或视频文件的内容，然后根据转录提供响应。

@@ -2872,3 +2872,104 @@ plugins_btn_pluginsdefopagegeneric === Plugin
 tables_plugins_detailsauthor === Tác giả
 tables_plugins_detailsdesc === Sự miêu tả
 tables_plugins_detailsver === Phiên bản
+system_settings_adminapitoken_title === Mã thông báo API Quản trị viên
+system_settings_adminapitoken_desc === Đây là mã thông báo để xác thực với API Quản trị.
+system_settings_systokenregen_desc === Mã token này rất quan trọng cho sự an toàn của các cronjob, yêu cầu WhatsApp và các tính năng khác của hệ thống. Nó không được chia sẻ với bất kỳ ai. Nếu bạn tin rằng mã token đã bị xâm phạm, bạn nên ngay lập tức tạo lại một mã mới. Sau khi tạo lại, bạn sẽ cần cấu hình lại các cronjob của mình và cập nhật bất kỳ cài đặt liên quan nào. Thêm vào đó, hệ thống WhatsApp sẽ bị ảnh hưởng, và tất cả các tài khoản kết nối sẽ ngừng hoạt động cho đến khi chúng được liên kết lại.
+system_settings_aimod_title === Điều chỉnh AI
+system_settings_aimod_desc === Nếu được bật, tất cả tin nhắn và hình ảnh sẽ được gửi qua mô hình kiểm duyệt AI của OpenAI để kiểm tra nội dung bị đánh dấu.
+system_settings_aimod_apikey_title === Khóa API OpenAI
+system_settings_aimod_apikey_desc === Nhập khóa API OpenAI của bạn. Mô hình quản lý AI của OpenAI là miễn phí.
+response_addaikey_promptshort === Lời nhắc AI của bạn quá ngắn!
+response_addaikey_modelinval === Mô hình AI của bạn không hợp lệ!
+response_addaikey_histothres === Ngưỡng lịch sử AI của bạn không hợp lệ!
+response_addaikey_histothresless === Ngưỡng lịch sử AI của bạn không thể thấp hơn 5!
+response_addaikey_apikeyshort === Khóa API AI của bạn quá ngắn!
+response_addaikey_success === Khóa AI đã được thêm vào!
+response_addaiplugin_endpointshort === Điểm cuối của plugin của bạn quá ngắn!
+response_addaiplugin_endpointinval === Điểm cuối plugin của bạn không hợp lệ!
+response_addaiplugin_schemainval === Lược đồ plugin của bạn không hợp lệ!
+response_addaiplugin_success === Plugin AI đã được thêm vào!
+response_editaikey_promptshort === Lời nhắc AI của bạn quá ngắn!
+response_editaikey_modelinval === Mô hình AI của bạn không hợp lệ!
+response_editaikey_histothres === Ngưỡng lịch sử AI của bạn không hợp lệ!
+response_editaikey_histothresless === Ngưỡng lịch sử AI của bạn không thể thấp hơn 5!
+response_editaikey_apikeyshort === Khóa API AI của bạn quá ngắn!
+response_editaikey_success === Khóa AI đã được cập nhật!
+response_editaiplugin_endpointshort === Điểm cuối plugin của bạn quá ngắn!
+response_editaiplugin_endpointinval === Điểm cuối plugin của bạn không hợp lệ!
+response_editaiplugin_schemainval === Schema plugin của bạn không hợp lệ!
+response_editaiplugin_success === Plugin AI đã được cập nhật!
+template_sidebar_ai === Trí tuệ nhân tạo
+template_sidebar_ai_keys === Khóa API
+template_sidebar_ai_plugins === Các plugin
+dashboard_title_aikeys === Khóa API AI
+dashboard_title_aiplugins === Plugin AI
+dasboard_aipage_addkeybtn === Thêm khóa API
+dasboard_aipage_addpluginbtn === Thêm Plugin
+form_addautoreply_aiapikey === Khóa API AI
+form_addautoreply_aiapikey_desc === Chọn khóa API AI mà bạn muốn sử dụng cho phản hồi tự động này.
+form_addautoreply_aiplugin === Plugin AI
+form_addautoreply_aiplugin_desc === Chọn các plugin AI mà bạn muốn sử dụng cho phản hồi tự động này.
+form_autoreplymatch_ai === Trí tuệ nhân tạo
+widgets_addaikey_title === Thêm khóa API AI
+widgets_addaikey_loader === Thêm khóa API AI
+widgets_addaikey_requirename === Tên
+widgets_addaikey_requiremprompt === Chỉ dẫn ban đầu
+widgets_addaikey_requireapikey === Khóa API
+widgets_editaikey_title === Chỉnh sửa khóa API AI
+widgets_editaikey_loader === Cập nhật khóa API AI
+widgets_addaiplugin_title === Thêm Plugin AI
+widgets_addaiplugin_loader === Thêm plugin AI
+widgets_addaiplugin_requirename === Tên
+widgets_editaiplugin_title === Chỉnh sửa Plugin AI
+widgets_editaiplugin_loader === Cập nhật Plugin AI
+form_addaikey_initailprompt_title === Đề xuất ban đầu
+form_addaikey_initailprompt_desc === Nhập lời nhắc ban đầu cho trí tuệ nhân tạo. Đây là hướng dẫn mà trí tuệ nhân tạo nên tuân theo trước khi bắt đầu cuộc trò chuyện.
+form_addaikey_initailprompt_placeholder === Ví dụ: Hãy đóng vai trò là đại diện của công ty. Trả lời các câu hỏi chung của người dùng về công ty chúng tôi bằng cách sử dụng các công cụ có sẵn.
+form_addaikey_postprompt_title === Đăng nhắc nhở
+form_addaikey_postprompt_desc === Yêu cầu này sẽ tự động được thêm vào mỗi tin nhắn, đảm bảo rằng các phản hồi của AI vẫn hoàn toàn phù hợp với bối cảnh hoặc chủ đề đã chỉ định. Sử dụng nó để duy trì một cuộc đối thoại nhất quán và có trọng tâm. Để tắt tính năng này, hãy để trường này trống.
+form_addaikey_postprompt_placeholder === Ví dụ: Đừng cung cấp cho tôi bất kỳ thông tin nào về quy trình và các tính năng dịch vụ không được đề cập trong BỐC CUNG CẤP.
+form_addaikey_vision_title === Tầm nhìn
+form_addaikey_vision_desc === Nếu được kích hoạt, AI sẽ phản hồi lại những hình ảnh nhận được.
+form_addaikey_model_title === Mô hình
+form_addaikey_model_desc === Chọn mô hình mà bạn muốn AI sử dụng để phản hồi tin nhắn.
+form_addaikey_modelsmartest === Thông minh nhất
+form_addaikey_modelcheapest === Rẻ nhất
+form_addaikey_historythreshold_title === Ngưỡng Lịch sử
+form_addaikey_historythreshold_desc === Nhập số lượng tin nhắn trò chuyện tối đa trước khi AI tóm tắt để tiết kiệm token. Giá trị được khuyên dùng là 50.
+form_addaikey_historythreshold_placeholder === ví dụ. 50
+form_addaikey_apikey_title === Khóa API
+form_addaikey_apikey_desc === Khóa API mà bạn đã tạo từ bảng điều khiển cung cấp AI của bạn.
+form_addaiplugin_banner_title === Cảnh giác nhé!
+form_addaiplugin_banner_desc === Việc tạo một plugin đòi hỏi kiến thức lập trình sâu rộng. Nếu bạn không chắc chắn về những gì mình đang làm, xin vui lòng tham khảo ý kiến của một nhà phát triển.
+form_addaiplugin_endpoint_title === Điểm cuối Plugin
+form_addaiplugin_endpoint_desc === Đây là URL sẽ được kích hoạt bởi AI. Điểm đầu cuối của bạn phải chỉ sử dụng phương thức POST để ghi lại các tham số của AI!
+form_addaiplugin_schema_title === Plugin Schema
+form_addaiplugin_schema_desc === Đây là hướng dẫn mà AI sẽ tuân theo khi kích hoạt plugin. Định dạng phải được tuân theo một cách nghiêm ngặt!
+form_addaiplugin_sample_schema === Mẫu lược đồ:
+tables_aikeys_created === Được tạo ra
+tables_aikeys_name === Tên
+tables_aikeys_model === Mẫu
+tables_aikeys_options === Tùy chọn
+tables_aiplugins_created === Tạo ra
+tables_aiplugins_name === Tên
+tables_aiplugins_options === Tùy chọn
+js_regenerate_admintoken === Tạo lại mã thông báo API quản trị?
+js_regenerate_admintoken_desc === Bạn có chắc chắn muốn tái tạo mã token API quản trị không? Hành động này không thể đảo ngược và sẽ yêu cầu bạn cập nhật mã token trong các ứng dụng của bạn!
+form_aikey_provider_title === Nhà cung cấp
+form_aikey_provider_desc === Chọn nhà cung cấp AI mà bạn muốn sử dụng cho khóa này.
+form_aikey_provider_visionoff === Tầm nhìn không được hỗ trợ
+response_aimoderation_detected === Chúng tôi đã phát hiện nội dung không phù hợp trong tin nhắn của bạn!
+response_externalcall_failed === Chúng tôi không thể xử lý yêu cầu của bạn vào lúc này. Vui lòng thử lại sau.
+form_addaiplugin_pluginname_desc === Tên plugin.
+form_addaiplugin_pluginname_placeholder === thời gian
+response_aiautoreply_mustselaikey === Bạn phải chọn một API Key AI!
+response_autoreply_added_2025 === Hành động trả lời tự động đã được thêm vào!
+response_hook_updated_2025 === Hành động kéo đã được cập nhật!
+response_autoreply_updated_2025 === Hành động tự động phản hồi đã được cập nhật!
+response_action_deleted_2025 === Hành động đã bị xóa!
+form_autoreplymatch_aiplugin_global === Toàn cầu
+form_autoreplymatch_aiplugin_warningsave === Cảnh báo
+form_autoreplymatch_aiplugin_warningdesc === Các cuộc trò chuyện AI liên quan đến phản hồi tự động này sẽ được đặt lại sau khi bạn lưu các thay đổi!
+form_addaiapikey_transcriptiontitle === Chép âm
+form_addaiapikey_transcriptiondesc === Nếu được bật, AI sẽ đầu tiên chuyển đổi nội dung của các tệp âm thanh hoặc video thành văn bản và sau đó cung cấp phản hồi dựa trên bản ghi chép đó.

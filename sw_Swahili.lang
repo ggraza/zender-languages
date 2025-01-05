@@ -2872,3 +2872,104 @@ plugins_btn_pluginsdefopagegeneric === Programu-jalizi
 tables_plugins_detailsauthor === Mwandishi
 tables_plugins_detailsdesc === Maelezo
 tables_plugins_detailsver === Toleo
+system_settings_adminapitoken_title === Token ya API ya Msimamizi
+system_settings_adminapitoken_desc === Hii ni token kwa ajili ya kuthibitisha na Admin API.
+system_settings_systokenregen_desc === Token hii ni muhimu kwa usalama wa kazi zako za cron, maombi ya WhatsApp, na vipengele vingine vya mfumo. Haipaswi kushirikiwa na mtu yeyote. Ikiwa unadhani token imeharibiwa, unapaswa kuunda mpya mara moja. Baada ya kuunda tena, utahitaji kufanyia upya usanidi kazi zako za cron na kusasisha mipangilio yote inayohusiana. Kwa kuongeza, mfumo wa WhatsApp utaathirika, na akaunti zote zilizounganishwa zitasitisha kufanya kazi hadi zitakapounganishwa tena.
+system_settings_aimod_title === Ushirikiano wa AI
+system_settings_aimod_desc === Ikiwa imewezeshwa, ujumbe na picha zote zitaenda kupitia mfano wa uangalizi wa AI wa OpenAI ili kuangalia maudhui yaliyopigiwa kura.
+system_settings_aimod_apikey_title === Funguo la API la OpenAI
+system_settings_aimod_apikey_desc === Ingiza funguo yako ya OpenAI Apikey. Mfano wa Ukaguzi wa AI wa OpenAI ni bure.
+response_addaikey_promptshort === Maagizo yako ya AI ni mafupi sana!
+response_addaikey_modelinval === Mfumo wako wa AI si halali!
+response_addaikey_histothres === Kikomo chako cha historia ya AI si halali!
+response_addaikey_histothresless === Kipimo chako cha historia ya AI hakiwezi kuwa kidogo zaidi ya 5!
+response_addaikey_apikeyshort === Api key yako ya AI ni fupi sana!
+response_addaikey_success === Funguo la AI limeongezwa!
+response_addaiplugin_endpointshort === Mwisho wa plugin yako ni mfupi sana!
+response_addaiplugin_endpointinval === Kiungo chako cha nyongeza si sahihi!
+response_addaiplugin_schemainval === Mpangilio wa kiunganishi wako si sahihi!
+response_addaiplugin_success === Kiwango cha AI kimeongezwa!
+response_editaikey_promptshort === Maagizo yako ya AI ni mafupi sana!
+response_editaikey_modelinval === Mfano wako wa AI si sahihi!
+response_editaikey_histothres === Kipimo chako cha historia ya AI hakifai!
+response_editaikey_histothresless === Kipimo cha historia ya AI yako hakiwezi kuwa chini ya 5!
+response_editaikey_apikeyshort === API key yako ya AI ni fupi sana!
+response_editaikey_success === Funguo la AI limeboreshwa!
+response_editaiplugin_endpointshort === Endpoint yako ya kiendelezi ni fupi sana!
+response_editaiplugin_endpointinval === Nukuu yako ya nyongeza si halali!
+response_editaiplugin_schemainval === Schemu yako ya plugin si sahihi!
+response_editaiplugin_success === Plugin ya AI imefanyiwa sasisho!
+template_sidebar_ai === Inteligensia ya Bandia
+template_sidebar_ai_keys === Funguo za API
+template_sidebar_ai_plugins === Viongeza
+dashboard_title_aikeys === Funguo za API za AI
+dashboard_title_aiplugins === Vifungo vya AI
+dasboard_aipage_addkeybtn === Ongeza Funguo la API
+dasboard_aipage_addpluginbtn === Ongeza Kijakazi
+form_addautoreply_aiapikey === Ufunguo wa API wa AI
+form_addautoreply_aiapikey_desc === chagua ufunguo wa AI unayotaka kutumia kwa ajili ya hii kujibu kiotomatiki.
+form_addautoreply_aiplugin === Plugin za AI
+form_addautoreply_aiplugin_desc === Chagua nyongeza za AI unazotaka kutumia kwa ajili ya majibu haya ya moja kwa moja.
+form_autoreplymatch_ai === Intelligentia ya Bandia
+widgets_addaikey_title === Ongeza Funguo la API la AI
+widgets_addaikey_loader === Kuongeza Funguo za API za AI
+widgets_addaikey_requirename === Jina
+widgets_addaikey_requiremprompt === Mwanzo wa Maagizo
+widgets_addaikey_requireapikey === Fungua Ufikiaji
+widgets_editaikey_title === Hariri Funguo la API ya AI
+widgets_editaikey_loader === Kusasisha Funguo la API la AI
+widgets_addaiplugin_title === Ongeza Plugin ya AI
+widgets_addaiplugin_loader === Kuweka Plugin ya AI
+widgets_addaiplugin_requirename === Jina
+widgets_editaiplugin_title === Hariri Plugin ya AI
+widgets_editaiplugin_loader === Kusasisha Plugin ya AI
+form_addaikey_initailprompt_title === Maelekezo ya Kwanza
+form_addaikey_initailprompt_desc === Ingiza maelezo ya awali kwa AI. Haya ni maelekezo ambayo AI inapaswa kufuata kabla ya kuanza mazungumzo.
+form_addaikey_initailprompt_placeholder === Mfano: Fanya kama mwakilishi wa kampuni. Jibu maswali ya jumla ya watumiaji kuhusu kampuni yetu ukitumia zana zilizopo.
+form_addaikey_postprompt_title === Tuma Prompt
+form_addaikey_postprompt_desc === Maagizo haya yatakazwa kiotomatik katika kila ujumbe, kuhakikisha kwamba majibu ya AI yanabaki kwa usahihi katika muktadha au mada iliyoainishwa. Tumia hii kudumisha mazungumzo yenye mwelekeo na makini. Acha uwanja huu kuwa mtupu ili kuzuia kipengele hiki.
+form_addaikey_postprompt_placeholder === Äsihai ndani ya muktadha uliopewa.
+form_addaikey_vision_title === Maono
+form_addaikey_vision_desc === Ikiwa imewezeshwa, AI itajibu picha zilizopewa.
+form_addaikey_model_title === Mwelekeo
+form_addaikey_model_desc === Chagua mfano unayotaka AI itumie kujibu ujumbe.
+form_addaikey_modelsmartest === Mwerevu zaidi
+form_addaikey_modelcheapest === Bei nafuu zaidi
+form_addaikey_historythreshold_title === Kipindi cha Historia
+form_addaikey_historythreshold_desc === Ingiza idadi kubwa ya ujumbe wa mazungumzo kabla ya AI kuufupisha ili kuhifadhi tokeni. Thamani inayopendekezwa ni 50.
+form_addaikey_historythreshold_placeholder === mfano. 50
+form_addaikey_apikey_title === Funguo za API
+form_addaikey_apikey_desc === Funguo la API ulilounga mkono kutoka kwenye dashibodi ya mtoa huduma wako wa AI.
+form_addaiplugin_banner_title === Tafadhali kuwa makini!
+form_addaiplugin_banner_desc === Kuunda plugin inahitaji maarifa makubwa ya uandishi wa programu. Ikiwa hujui unachofanya, tafadhali shauriana na mtengenezaji.
+form_addaiplugin_endpoint_title === Mkononi wa Wezeshi
+form_addaiplugin_endpoint_desc === Hii ndiyo URL ambayo itatumika na AI. Kipengele chako lazima kitumie mbinu ya POST kikamilifu ili kunasa vigezo vya AI!
+form_addaiplugin_schema_title === Schema ya Plugin
+form_addaiplugin_schema_desc === Hizi ni maelekezo ambayo AI itafuata wakati wa kuita programu-jalizi. Muundo lazima ufuatwe kwa ukamilifu!
+form_addaiplugin_sample_schema === Mfano wa Mpangilio:
+tables_aikeys_created === Imeundwa
+tables_aikeys_name === Jina
+tables_aikeys_model === Mfano
+tables_aikeys_options === Chaguzi
+tables_aiplugins_created === Imetengenezwa
+tables_aiplugins_name === Jina
+tables_aiplugins_options === Chaguzi
+js_regenerate_admintoken === Regenesha Token ya Admin API?
+js_regenerate_admintoken_desc === Je, una uhakika unataka kuunda tena tokeni ya API ya admin? Kitendo hiki hakiwezi kubadilishwa na kitahitaji kukuyakisha tokeni katika matumizi yako!
+form_aikey_provider_title === Mtoa huduma
+form_aikey_provider_desc === Chagua mtoaji wa AI unayetamani kutumia kwa funguo hii.
+form_aikey_provider_visionoff === Maono Yasiyoungwa mkono
+response_aimoderation_detected === Tumegundua maudhui yasiyo sahihi katika ujumbe wako!
+response_externalcall_failed === Hatuwezi kushughulikia ombi lako kwa sasa. Tafadhali jaribu tena baadaye.
+form_addaiplugin_pluginname_desc === Jina la plugin.
+form_addaiplugin_pluginname_placeholder === pataMuda
+response_aiautoreply_mustselaikey === Lazima uchague API Key ya AI!
+response_autoreply_added_2025 === Hatua ya kujibu moja kwa moja imeongezwa!
+response_hook_updated_2025 === Hatua ya hook imeboreshwa!
+response_autoreply_updated_2025 === Hatua ya kujituma imeboreshwa!
+response_action_deleted_2025 === Hatua imefutwa!
+form_autoreplymatch_aiplugin_global === Kimataifa
+form_autoreplymatch_aiplugin_warningsave === Taarifa
+form_autoreplymatch_aiplugin_warningdesc === Majadiliano ya AI yanayohusiana na majibu haya ya otomatiki yatarejelewa baada ya kuokoa mabadiliko!
+form_addaiapikey_transcriptiontitle === Uandishi wa maandiko
+form_addaiapikey_transcriptiondesc === Ikiwa imewezeshwa, AI itaanza kwa kuandikisha yaliyomo ya faili za sauti au video kisha itatoa jibu kulingana na uandishi huo.

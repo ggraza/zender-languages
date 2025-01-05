@@ -2872,3 +2872,104 @@ plugins_btn_pluginsdefopagegeneric === Ngwa mgbakwunye
 tables_plugins_detailsauthor === Odee
 tables_plugins_detailsdesc === Nkọwa
 tables_plugins_detailsver === Ụdị
+system_settings_adminapitoken_title === Token nchịkwa API
+system_settings_adminapitoken_desc === Nke a bụ otu mkpụrụ nkwụnye maka ịmata onye na-eji Admin API.
+system_settings_systokenregen_desc === Nke a bụ ihe dị mkpa maka nchebe nke cronjobs gị, arịrịọ WhatsApp, na atụmatụ ndị ọzọ nke usoro ahụ. Ekwesịrị ịhapụ ya na onye ọ bụla. Ọ bụrụ na i chere na a naghị ewerelekwa token ahụ, ị kwesịrị ịmepụta ọhụrụ ozugbo. Mgbe ịmepụtara ọhụrụ, ị ga - achọ ịhazigharịrị cronjobs gị na melite ihe ọ bụla metụtara. Na mgbakwunye, usoro WhatsApp ga - emetụta, na ụdị akaụntụ niile jikọtara ga-akwụsị ọrụ ruo mgbe a ga - ejikọta ha ọzọ.
+system_settings_aimod_title === Nlekọta AI
+system_settings_aimod_desc === Ọ bụrụ na emechara, ozi niile na onyonyo ga-aga site na mmemme ntụaka AI nke OpenAI iji lelee ọdịnaya a na-achụpụ.
+system_settings_aimod_apikey_title === Mkpụrụ mmetụta API nke OpenAI
+system_settings_aimod_apikey_desc === Tinye OpenAI Apikey gị. Ihe nlereanya njikwa AI nke OpenAI bụ nke efu.
+response_addaikey_promptshort === Akwụkwọ ntụziaka gị AI dị mkpirikpi!
+response_addaikey_modelinval === Ụdị AI gị adịghị mma!
+response_addaikey_histothres === Ọrụ AI gị bụ isi akụkọ ezughị oke!
+response_addaikey_histothresless === Ọnọdụ akụkọ AI gị apụghị ịbụ obere karịa 5!
+response_addaikey_apikeyshort === API key gị dịtụ mkpụmkpụ!
+response_addaikey_success === A kpọrọ oghere AI!
+response_addaiplugin_endpointshort === Nchekwa gị na njedebe bụ nke dị mkpirikpi!
+response_addaiplugin_endpointinval === Njikọ plugin gị adịghị mma!
+response_addaiplugin_schemainval === Ewepụla ngwaahịa gị adịghị mma!
+response_addaiplugin_success === E jidere plugin AI!
+response_editaikey_promptshort === A na-emegharị ozi gị AI na-adị mkpụmkpụ!
+response_editaikey_modelinval === Ihe nlereanya AI gị adịghị mma!
+response_editaikey_histothres === Nkwuputara akụkọ AI gị adịghị mma!
+response_editaikey_histothresless === Ncheta akụkọ gị banyere AI ekwesịghị ịbụ obere n'ogologo 5!
+response_editaikey_apikeyshort === Api nke AI gị dị mkpụmkpụ!
+response_editaikey_success === Aha AI emelitere!
+response_editaiplugin_endpointshort === Njikọ mgbakwunye gị dị ọkụ!
+response_editaiplugin_endpointinval === Njikọ mgbakwunye gị adịghị mma!
+response_editaiplugin_schemainval === Ụfọdụ gị na-enyeghị nke ahụ!
+response_editaiplugin_success === Akwụkwọ nnọchi AI emelitere!
+template_sidebar_ai === Akụkụ ọgụgụ isi robotik
+template_sidebar_ai_keys === Igwe ọdịnaya API
+template_sidebar_ai_plugins === Ngwaọrụ mgbakwunye
+dashboard_title_aikeys === Ihe mkpuchi mkpado AI
+dashboard_title_aiplugins === Ụdị Ngwá A.I.
+dasboard_aipage_addkeybtn === Tinye mkpụrụedemede API
+dasboard_aipage_addpluginbtn === Tinye Plugin
+form_addautoreply_aiapikey === Igbo AI API Igodo
+form_addautoreply_aiapikey_desc === Họrọ akpọrọ AI apikey ịchọrọ iji maka azịza a.
+form_addautoreply_aiplugin === Ngwa AI
+form_addautoreply_aiplugin_desc === Họrọ plugins AI ị chọrọ iji maka azịza a.
+form_autoreplymatch_ai === Akụkụ ọgụgụ isi.
+widgets_addaikey_title === Tinye AI API Key
+widgets_addaikey_loader === Tinye Igodo API AI
+widgets_addaikey_requirename === Aha
+widgets_addaikey_requiremprompt === Ntọala Nkwupụta
+widgets_addaikey_requireapikey === Igbo API Key
+widgets_editaikey_title === Dezie Igwe API AI
+widgets_editaikey_loader === Na-emelitere Ihe Nhọrọ AI API
+widgets_addaiplugin_title === tinye AI Plugin
+widgets_addaiplugin_loader === Tinye AI Plugin
+widgets_addaiplugin_requirename === Aha
+widgets_editaiplugin_title === Dezie AI Plugin
+widgets_editaiplugin_loader === Imeliterịrị AI Plugin
+form_addaikey_initailprompt_title === Mbido Ikwu
+form_addaikey_initailprompt_desc === Biko tinye mmalite isi okwu maka AI. Ndị a bụ ntuziaka ndị AI kwesịrị ịgbaso tupu amalite mkparịta ụka.
+form_addaikey_initailprompt_placeholder === Nye dịka onye nnọchiteanya ụlọ ọrụ. Zaa ajụjụ zuru ezu nke ndị ọrụ gbasara ụlọ ọrụ anyị na-eji ngwá ọrụ dị ugbu a.
+form_addaikey_postprompt_title === Edeposti.
+form_addaikey_postprompt_desc === A na-agbakwunye ihe a na-akpaghị aka na ozi ọ bụla, na-eme ka azịza AI wee nwee njikọ chiri anya na njirimara ma ọ bụ isiokwu a kọwara. Ji ya mee ka mkparịta ụka bụrụ nke ziri ezi na nke a na-atụgharị. Hapụ ubi ahụ n'efu iji kwụsị atụmatụ a.
+form_addaikey_postprompt_placeholder === Biko, egbula m ozi ọ bụla gbasara usoro na njirimara ọrụ ndị na-adịghị akọwapụtara na NHAKPỤTA EGO.
+form_addaikey_vision_title === Nchedo
+form_addaikey_vision_desc === Ọ bụrụ na etinyere, AI ga-aza ajụjụ ndị a natara.
+form_addaikey_model_title === Ụdị
+form_addaikey_model_desc === Họrọ ụdị nke ịchọrọ ka AI were mee nzaghachi na ozi.
+form_addaikey_modelsmartest === Mmadụ kachasị amamihe.
+form_addaikey_modelcheapest === Na-eri ala.
+form_addaikey_historythreshold_title === Akụkụ Akụkọ
+form_addaikey_historythreshold_desc === Tinye ọnụ ọgụgụ kachasị nke ozi mkparịta ụka tupu AI mee nchịkọta ya iji chekwaa ndị na-edepụtara. Ekwesịrị mmasị bụ 50.
+form_addaikey_historythreshold_placeholder === eg. 50
+form_addaikey_apikey_title === Nkọwa API
+form_addaikey_apikey_desc === Igodo API i mepụtara site na dashboard onye na-eweta AI gị.
+form_addaiplugin_banner_title === Ncheta!
+form_addaiplugin_banner_desc === Ịmepụta plugin chọrọ ụfọdụ ọmụma kọdị dị omimi. Ọ bụrụ na ị maghị ihe ị na-eme, biko jụọ onye nrụpụta.
+form_addaiplugin_endpoint_title === Njikọ Plugin
+form_addaiplugin_endpoint_desc === Nke a bụ URL a ga-eji kpọpụta site na AI. Nchekwa gị ga-eji usoro POST naanị kpọmkwem iji nweta ihe atụ AI!
+form_addaiplugin_schema_title === Ebe nchekwa Plugin
+form_addaiplugin_schema_desc === Nke a bụ nduzi nke AI ga-eso mgbe ọ na-eji plugin. A ghaghị ịgbaso usoro ahụ nke ọma!
+form_addaiplugin_sample_schema === Nlele Okwu:
+tables_aikeys_created === Emerepụtara
+tables_aikeys_name === Aha
+tables_aikeys_model === Ụdị
+tables_aikeys_options === Nhọrọ
+tables_aiplugins_created === Emebere
+tables_aiplugins_name === Aha
+tables_aiplugins_options === Nhọpụta
+js_regenerate_admintoken === Mepụta Token Admin API ọhụrụ?
+js_regenerate_admintoken_desc === Ị bụ onye kwesịrị ekwupụta na ịchọrọ ịmepụta token API nchịkwa ọzọ? Ọrụ a enweghị ntụgharị azụ ma chọrọ ka ị melite token ahụ na ngwa gị!
+form_aikey_provider_title === Ndị na-enye ọrụ
+form_aikey_provider_desc === Họrọ onye na-eweta AI ị chọrọ iji maka igodo a.
+form_aikey_provider_visionoff === Ihunaanya na-enweghị nkwado
+response_aimoderation_detected === Anyi achọpụtala ọdịnaya na-adịghị mma na ozi gị!
+response_externalcall_failed === Anyị enweghị ike imeju gị arịrịọ n'oge a. Biko gbalịa ọzọ n'oge ọzọ.
+form_addaiplugin_pluginname_desc === Aha plugin.
+form_addaiplugin_pluginname_placeholder === nwetakwuOge
+response_aiautoreply_mustselaikey === Ị ga-ahọrọ API Key AI!
+response_autoreply_added_2025 === E kewapụtara omume nzaghachi awara awara!
+response_hook_updated_2025 === Emebere mmemme njikọ!
+response_autoreply_updated_2025 === Emegharịrị usoro nzaghachi onwe onye!
+response_action_deleted_2025 === Aka emeghị!
+form_autoreplymatch_aiplugin_global === Ụwa niile
+form_autoreplymatch_aiplugin_warningsave === Ịk warning
+form_autoreplymatch_aiplugin_warningdesc === Ndị nnọchiteanya AI nke metụtara autoreply a ga-echegharịa mgbe ị chekwaara mgbanwe ndị ahụ!
+form_addaiapikey_transcriptiontitle === Ndetu
+form_addaiapikey_transcriptiondesc === Ọ bụrụ na emepụtara, AI ga-eme nke mbụ kọwaa ọdịnaya nke faịlụ ụda ma ọ bụ vidiyo ma nyekwa azịza dabere na nkwupụta.

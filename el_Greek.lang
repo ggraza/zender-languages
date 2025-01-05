@@ -2871,3 +2871,104 @@ plugins_btn_pluginsdefopagegeneric === Πρόσθετα
 tables_plugins_detailsauthor === Συγγραφέας
 tables_plugins_detailsdesc === Περιγραφή
 tables_plugins_detailsver === Εκδοχή
+system_settings_adminapitoken_title === Διακριτικό API διαχειριστή
+system_settings_adminapitoken_desc === Αυτό είναι το διακριτικό για τον έλεγχο ταυτότητας με το Admin API.
+system_settings_systokenregen_desc === Αυτό το διακριτικό είναι κρίσιμο για την ασφάλεια των cronjob, των αιτημάτων WhatsApp και άλλων λειτουργιών του συστήματος. Δεν πρέπει να μοιράζεται με κανέναν. Εάν πιστεύετε ότι το διακριτικό έχει παραβιαστεί, θα πρέπει να δημιουργήσετε ένα νέο αμέσως. Μετά την αναγέννηση, θα χρειαστεί να διαμορφώσετε εκ νέου τα cronjob σας και να ενημερώσετε τυχόν σχετικές ρυθμίσεις. Επιπλέον, το σύστημα WhatsApp θα επηρεαστεί και όλοι οι συνδεδεμένοι λογαριασμοί θα σταματήσουν να λειτουργούν μέχρι να συνδεθούν ξανά.
+system_settings_aimod_title === AI Moderation
+system_settings_aimod_desc === Εάν ενεργοποιηθεί, όλα τα μηνύματα και οι εικόνες θα περάσουν από το μοντέλο εποπτείας AI του OpenAI για έλεγχο για περιεχόμενο με σημαία.
+system_settings_aimod_apikey_title === Κλειδί OpenAI API
+system_settings_aimod_apikey_desc === Εισαγάγετε το OpenAI Apikey σας. Το μοντέλο AI Moderation του OpenAI είναι χωρίς κόστος.
+response_addaikey_promptshort === Η προτροπή AI σας είναι πολύ σύντομη!
+response_addaikey_modelinval === Το μοντέλο AI σας δεν είναι έγκυρο!
+response_addaikey_histothres === Το όριο του ιστορικού AI σας δεν είναι έγκυρο!
+response_addaikey_histothresless === Το όριο του ιστορικού AI σας δεν μπορεί να είναι μικρότερο από 5!
+response_addaikey_apikeyshort === Το apikey AI σας είναι πολύ σύντομο!
+response_addaikey_success === Προστέθηκε κλειδί AI!
+response_addaiplugin_endpointshort === Το τελικό σημείο της προσθήκης σας είναι πολύ σύντομο!
+response_addaiplugin_endpointinval === Το τελικό σημείο της προσθήκης σας δεν είναι έγκυρο!
+response_addaiplugin_schemainval === Το σχήμα της προσθήκης σας δεν είναι έγκυρο!
+response_addaiplugin_success === Προστέθηκε πρόσθετο AI!
+response_editaikey_promptshort === Η προτροπή AI σας είναι πολύ σύντομη!
+response_editaikey_modelinval === Το μοντέλο AI σας δεν είναι έγκυρο!
+response_editaikey_histothres === Το όριο του ιστορικού AI σας δεν είναι έγκυρο!
+response_editaikey_histothresless === Το όριο του ιστορικού AI σας δεν μπορεί να είναι μικρότερο από 5!
+response_editaikey_apikeyshort === Το apikey AI σας είναι πολύ σύντομο!
+response_editaikey_success === Το κλειδί AI έχει ενημερωθεί!
+response_editaiplugin_endpointshort === Το τελικό σημείο της προσθήκης σας είναι πολύ σύντομο!
+response_editaiplugin_endpointinval === Το τελικό σημείο της προσθήκης σας δεν είναι έγκυρο!
+response_editaiplugin_schemainval === Το σχήμα της προσθήκης σας δεν είναι έγκυρο!
+response_editaiplugin_success === Το πρόσθετο AI έχει ενημερωθεί!
+template_sidebar_ai === Τεχνητή νοημοσύνη
+template_sidebar_ai_keys === Κλειδιά API
+template_sidebar_ai_plugins === Πρόσθετα
+dashboard_title_aikeys === Κλειδιά API AI
+dashboard_title_aiplugins === Πρόσθετα AI
+dasboard_aipage_addkeybtn === Προσθήκη κλειδιού API
+dasboard_aipage_addpluginbtn === Προσθήκη πρόσθετου
+form_addautoreply_aiapikey === Κλειδί API AI
+form_addautoreply_aiapikey_desc === Επιλέξτε το apikey AI που θέλετε να χρησιμοποιήσετε για αυτήν την αυτόματη απάντηση.
+form_addautoreply_aiplugin === Πρόσθετα AI
+form_addautoreply_aiplugin_desc === Επιλέξτε τα πρόσθετα AI που θέλετε να χρησιμοποιήσετε για αυτήν την αυτόματη απάντηση.
+form_autoreplymatch_ai === Τεχνητή νοημοσύνη
+widgets_addaikey_title === Προσθήκη κλειδιού AI API
+widgets_addaikey_loader === Προσθήκη κλειδιού AI API
+widgets_addaikey_requirename === Ονομα
+widgets_addaikey_requiremprompt === Αρχική προτροπή
+widgets_addaikey_requireapikey === Κλειδί API
+widgets_editaikey_title === Επεξεργασία κλειδιού API AI
+widgets_editaikey_loader === Ενημέρωση κλειδιού API AI
+widgets_addaiplugin_title === Προσθήκη προσθήκης AI
+widgets_addaiplugin_loader === Προσθήκη προσθήκης AI
+widgets_addaiplugin_requirename === Ονομα
+widgets_editaiplugin_title === Επεξεργασία προσθήκης AI
+widgets_editaiplugin_loader === Ενημέρωση προσθήκης AI
+form_addaikey_initailprompt_title === Αρχική προτροπή
+form_addaikey_initailprompt_desc === Εισαγάγετε την αρχική προτροπή για το AI. Αυτές είναι οι οδηγίες που πρέπει να ακολουθήσει η τεχνητή νοημοσύνη πριν ξεκινήσει η συνομιλία.
+form_addaikey_initailprompt_placeholder === π.χ. Ενεργήστε ως εκπρόσωπος της εταιρείας. Απαντήστε σε γενικές ερωτήσεις των χρηστών σχετικά με την εταιρεία μας χρησιμοποιώντας τα διαθέσιμα εργαλεία.
+form_addaikey_postprompt_title === Προτροπή ανάρτησης
+form_addaikey_postprompt_desc === Αυτή η προτροπή θα προσαρτάται αυτόματα σε κάθε μήνυμα, διασφαλίζοντας ότι οι απαντήσεις του AI παραμένουν αυστηρά ευθυγραμμισμένες με το καθορισμένο πλαίσιο ή θέμα. Χρησιμοποιήστε το για να διατηρήσετε έναν συνεπή και εστιασμένο διάλογο. Αφήστε το πεδίο κενό για να απενεργοποιήσετε αυτήν τη δυνατότητα.
+form_addaikey_postprompt_placeholder === π.χ. Μην μου δίνετε καμία πληροφορία σχετικά με διαδικασίες και δυνατότητες υπηρεσίας που δεν αναφέρονται στο ΠΑΡΕΧΟΜΕΝΟ ΠΛΑΙΣΙΟ.
+form_addaikey_vision_title === Οραμα
+form_addaikey_vision_desc === Εάν είναι ενεργοποιημένο, το AI θα ανταποκριθεί στις ληφθείσες εικόνες.
+form_addaikey_model_title === Μοντέλο
+form_addaikey_model_desc === Επιλέξτε το μοντέλο που θέλετε να χρησιμοποιεί η τεχνητή νοημοσύνη για να απαντά σε μηνύματα.
+form_addaikey_modelsmartest === Εξυπνότερος
+form_addaikey_modelcheapest === φθηνότερο
+form_addaikey_historythreshold_title === Κατώφλι Ιστορίας
+form_addaikey_historythreshold_desc === Εισαγάγετε τον μέγιστο αριθμό μηνυμάτων συνομιλίας πριν το συνοψίσει το AI για να αποθηκεύσετε διακριτικά. Η συνιστώμενη τιμή είναι 50.
+form_addaikey_historythreshold_placeholder === π.χ. 50
+form_addaikey_apikey_title === Κλειδί API
+form_addaikey_apikey_desc === Το κλειδί API που δημιουργήσατε από τον πίνακα ελέγχου του παρόχου τεχνητής νοημοσύνης.
+form_addaiplugin_banner_title === Το κεφάλι ψηλά!
+form_addaiplugin_banner_desc === Η δημιουργία ενός πρόσθετου απαιτεί κάποιες εκτεταμένες γνώσεις κωδικοποίησης. Εάν δεν είστε σίγουροι για το τι κάνετε, συμβουλευτείτε έναν προγραμματιστή.
+form_addaiplugin_endpoint_title === Τελικό σημείο προσθήκης
+form_addaiplugin_endpoint_desc === Αυτή είναι η διεύθυνση URL που θα κληθεί από το AI. Το τελικό σημείο σας πρέπει να χρησιμοποιεί αυστηρά τη μέθοδο POST για να καταγράφει παραμέτρους AI!
+form_addaiplugin_schema_title === Σχήμα προσθήκης
+form_addaiplugin_schema_desc === Αυτές είναι οδηγίες που θα ακολουθήσει η τεχνητή νοημοσύνη κατά την επίκληση του πρόσθετου. Η μορφή πρέπει να τηρείται αυστηρά!
+form_addaiplugin_sample_schema === Δείγμα σχήματος:
+tables_aikeys_created === Δημιουργήθηκε
+tables_aikeys_name === Ονομα
+tables_aikeys_model === Μοντέλο
+tables_aikeys_options === Επιλογές
+tables_aiplugins_created === Δημιουργήθηκε
+tables_aiplugins_name === Ονομα
+tables_aiplugins_options === Επιλογές
+js_regenerate_admintoken === Αναγέννηση διακριτικού API διαχειριστή;
+js_regenerate_admintoken_desc === Είστε βέβαιοι ότι θέλετε να αναδημιουργήσετε το διακριτικό API διαχειριστή; Αυτή η ενέργεια είναι μη αναστρέψιμη και θα απαιτήσει από εσάς να ενημερώσετε το διακριτικό στις εφαρμογές σας!
+form_aikey_provider_title === Προμηθευτής
+form_aikey_provider_desc === Επιλέξτε τον πάροχο AI που θέλετε να χρησιμοποιήσετε για αυτό το κλειδί.
+form_aikey_provider_visionoff === Το όραμα δεν υποστηρίζεται
+response_aimoderation_detected === Εντοπίσαμε ακατάλληλο περιεχόμενο στο μήνυμά σας!
+response_externalcall_failed === Δεν μπορούμε να επεξεργαστούμε το αίτημά σας αυτήν τη στιγμή. Δοκιμάστε ξανά αργότερα.
+form_addaiplugin_pluginname_desc === Όνομα προσθήκης.
+form_addaiplugin_pluginname_placeholder === π.χ. getTime
+response_aiautoreply_mustselaikey === Πρέπει να επιλέξετε ένα κλειδί API AI!
+response_autoreply_added_2025 === Προστέθηκε η ενέργεια αυτόματης απάντησης!
+response_hook_updated_2025 === Η δράση Hook έχει ενημερωθεί!
+response_autoreply_updated_2025 === Η ενέργεια αυτόματης απάντησης ενημερώθηκε!
+response_action_deleted_2025 === Η ενέργεια διαγράφηκε!
+form_autoreplymatch_aiplugin_global === Καθολικός
+form_autoreplymatch_aiplugin_warningsave === Προειδοποίηση
+form_autoreplymatch_aiplugin_warningdesc === Οι συνομιλίες AI που σχετίζονται με αυτήν την αυτόματη απάντηση θα επαναφερθούν αφού αποθηκεύσετε τις αλλαγές!
+form_addaiapikey_transcriptiontitle === Μεταγραφή
+form_addaiapikey_transcriptiondesc === Εάν ενεργοποιηθεί, το AI θα μεταγράψει πρώτα το περιεχόμενο των αρχείων ήχου ή βίντεο και στη συνέχεια θα παράσχει μια απάντηση με βάση τη μεταγραφή.
