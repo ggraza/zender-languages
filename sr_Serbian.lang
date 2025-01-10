@@ -2973,3 +2973,10 @@ form_autoreplymatch_aiplugin_warningsave === Upozorenje
 form_autoreplymatch_aiplugin_warningdesc === Razgovori sa veštačkom inteligencijom vezani za ovu automatsku poruku će se resetovati nakon što sačuvate promene!
 form_addaiapikey_transcriptiontitle === Transkripcija
 form_addaiapikey_transcriptiondesc === Ako je omogućeno, AI će najpre transkribovati sadržaj audio ili video datoteka, a zatim pružiti odgovor na osnovu transkripcije.
+modal_adminsettings_garbageretentitle === Zadržavanje otpada
+modal_adminsettings_garbageretentitle_desc === Koliko dana pre nego što sistem trajno obriše prikupljeni otpad, uključujući poslate i primljene priloge putem WhatsApp-a?
+form_addaikey_groupreply === Odgovor grupe
+form_addaikey_groupreply_desc === Ako je omogućeno, veštačka inteligencija će odgovarati na primljene poruke iz WhatsApp grupa.
+form_addaikey_providerrecommended === Preporučeno
+form_addaikey_maxtokens === Maksimalni tokeni
+form_addaikey_maxtokens_desc === Unesite maksimalan broj tokena koji veštačka inteligencija može da koristi.

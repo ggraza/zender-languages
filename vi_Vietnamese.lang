@@ -2973,3 +2973,10 @@ form_autoreplymatch_aiplugin_warningsave === Cảnh báo
 form_autoreplymatch_aiplugin_warningdesc === Các cuộc trò chuyện AI liên quan đến phản hồi tự động này sẽ được đặt lại sau khi bạn lưu các thay đổi!
 form_addaiapikey_transcriptiontitle === Chép âm
 form_addaiapikey_transcriptiondesc === Nếu được bật, AI sẽ đầu tiên chuyển đổi nội dung của các tệp âm thanh hoặc video thành văn bản và sau đó cung cấp phản hồi dựa trên bản ghi chép đó.
+modal_adminsettings_garbageretentitle === Giữ rác
+modal_adminsettings_garbageretentitle_desc === Có bao nhiêu ngày cho đến khi hệ thống xóa vĩnh viễn rác đã thu thập, bao gồm các tệp đính kèm đã gửi và nhận qua WhatsApp?
+form_addaikey_groupreply === Trả lời nhóm
+form_addaikey_groupreply_desc === Nếu được kích hoạt, AI sẽ phản hồi các tin nhắn nhận được từ nhóm WhatsApp.
+form_addaikey_providerrecommended === Đề xuất
+form_addaikey_maxtokens === Tối đa số token
+form_addaikey_maxtokens_desc === Nhập số lượng tokens tối đa mà AI được phép sử dụng.

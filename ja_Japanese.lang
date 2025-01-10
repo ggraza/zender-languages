@@ -2973,3 +2973,10 @@ form_autoreplymatch_aiplugin_warningsave === 警告
 form_autoreplymatch_aiplugin_warningdesc === この自動返信に関連するAIの会話は、変更を保存するとリセットされます！
 form_addaiapikey_transcriptiontitle === トランスクリプション
 form_addaiapikey_transcriptiondesc === 有効にすると、AIは最初に音声またはビデオファイルの内容を文字起こしし、その後文字起こしに基づいて応答を提供します。
+modal_adminsettings_garbageretentitle === ゴミ保持
+modal_adminsettings_garbageretentitle_desc === システムが収集したごみを永久に削除するまでの残り日数は何日ですか。これにはWhatsAppを介して送受信した添付ファイルが含まれます。
+form_addaikey_groupreply === グループ返信
+form_addaikey_groupreply_desc === 有効にすると、AIはWhatsAppグループからの受信メッセージに応答します。
+form_addaikey_providerrecommended === おすすめ
+form_addaikey_maxtokens === 最大トークン数
+form_addaikey_maxtokens_desc === AIが使用できる最大トークン数を入力してください。

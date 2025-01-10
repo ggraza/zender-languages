@@ -2973,3 +2973,10 @@ form_autoreplymatch_aiplugin_warningsave === Warnung
 form_autoreplymatch_aiplugin_warningdesc === Die KI-Konversationen im Zusammenhang mit dieser automatischen Antwort werden zurückgesetzt, nachdem Sie die Änderungen gespeichert haben!
 form_addaiapikey_transcriptiontitle === Transkription
 form_addaiapikey_transcriptiondesc === Wenn aktiviert, transkribiert die KI zunächst den Inhalt von Audio- oder Videodateien und gibt dann eine Antwort basierend auf der Transkription.
+modal_adminsettings_garbageretentitle === Müllrückhaltung
+modal_adminsettings_garbageretentitle_desc === Wie viele Tage, bis das System den gesammelten Müll dauerhaft löscht. Dazu gehören gesendete und empfangene Anhänge über WhatsApp.
+form_addaikey_groupreply === Gruppenantwort
+form_addaikey_groupreply_desc === Wenn aktiviert, wird die KI auf empfangene Nachrichten aus WhatsApp-Gruppen reagieren.
+form_addaikey_providerrecommended === Empfohlen
+form_addaikey_maxtokens === Max Tokens
+form_addaikey_maxtokens_desc === Geben Sie die maximalen Token ein, die der KI erlaubt sind.

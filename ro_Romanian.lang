@@ -2973,3 +2973,10 @@ form_autoreplymatch_aiplugin_warningsave === Avertisment
 form_autoreplymatch_aiplugin_warningdesc === Conversațiile AI legate de acest răspuns automat se vor reseta după ce salvezi modificările!
 form_addaiapikey_transcriptiontitle === Transcriere
 form_addaiapikey_transcriptiondesc === Dacă este activat, AI-ul va transcrie mai întâi conținutul fișierelor audio sau video și apoi va oferi un răspuns pe baza transcrierii.
+modal_adminsettings_garbageretentitle === Reținerea Deșeurilor
+modal_adminsettings_garbageretentitle_desc === Câte zile până când sistemul va șterge permanent gunoiul colectat, inclusiv atașamentele trimise și primite prin WhatsApp?
+form_addaikey_groupreply === Răspuns de grup
+form_addaikey_groupreply_desc === Dacă este activat, AI-ul va răspunde la mesajele primite din grupurile de WhatsApp.
+form_addaikey_providerrecommended === Recomandat
+form_addaikey_maxtokens === Max Tokeni
+form_addaikey_maxtokens_desc === Introduceți numărul maxim de tokeni pe care AI-ul este autorizat să îi folosească.

@@ -2973,3 +2973,10 @@ form_autoreplymatch_aiplugin_warningsave === Uyarı
 form_autoreplymatch_aiplugin_warningdesc === Bu otomatik yanıtla ilgili AI sohbetleri, değişiklikleri kaydettikten sonra sıfırlanacaktır!
 form_addaiapikey_transcriptiontitle === Transkripsiyon
 form_addaiapikey_transcriptiondesc === Eğer etkinleştirilirse, yapay zeka öncelikle ses veya video dosyalarının içeriğini yazıya dökecek ve ardından transkripsiyona dayalı olarak bir yanıt verecektir.
+modal_adminsettings_garbageretentitle === Atık Tutma
+modal_adminsettings_garbageretentitle_desc === Sistem, toplanan verileri kalıcı olarak silene kadar kaç gün var? Bu, WhatsApp üzerinden gönderilen ve alınan ekleri içerir.
+form_addaikey_groupreply === Grup Yanıtı
+form_addaikey_groupreply_desc === Etkinleştirildiğinde, yapay zeka WhatsApp gruplarından aldığı mesajlara yanıt verecektir.
+form_addaikey_providerrecommended === Tavsiye edilen
+form_addaikey_maxtokens === Maksimum Tokenler
+form_addaikey_maxtokens_desc === AI'nın kullanmasına izin verilen maksimum token sayısını girin.

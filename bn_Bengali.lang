@@ -2973,3 +2973,10 @@ form_autoreplymatch_aiplugin_warningsave === সতর্কতা
 form_autoreplymatch_aiplugin_warningdesc === আপনি পরিবর্তনগুলি সংরক্ষণ করার পরে এই অটোরিপ্লাই সম্পর্কিত AI কথোপকথনগুলি পুনরায় সেট করা হবে!
 form_addaiapikey_transcriptiontitle === প্রতিলিপি
 form_addaiapikey_transcriptiondesc === সক্ষম হলে, AI প্রথমে অডিও বা ভিডিও ফাইলের বিষয়বস্তু প্রতিলিপি করবে এবং তারপর ট্রান্সক্রিপশনের উপর ভিত্তি করে একটি প্রতিক্রিয়া প্রদান করবে।
+modal_adminsettings_garbageretentitle === আবর্জনা ধারণ করা
+modal_adminsettings_garbageretentitle_desc === কত দিন পর সিস্টেম সংগ্রহ করা আবর্জনা স্থায়ীভাবে মুছে ফেলবে। এতে WhatsApp-এর মাধ্যমে পাঠানো এবং গ্রহণ করা এম্বেড করা ফাইল অন্তর্ভুক্ত রয়েছে।
+form_addaikey_groupreply === গ্রুপ প্রতিত্যুত্তর
+form_addaikey_groupreply_desc === যদি সক্ষম হয়, তাহলে AI WhatsApp গ্রুপ থেকে প্রাপ্ত বার্তাগুলির প্রতি উত্তর দেবে।
+form_addaikey_providerrecommended === নির্দেশিত
+form_addaikey_maxtokens === ম্যাক্স টোকেনস
+form_addaikey_maxtokens_desc === সর্বাধিক টোকেন প্রবেশ করুন যা AI ব্যবহার করতে পারবে।

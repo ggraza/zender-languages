@@ -2973,3 +2973,10 @@ form_autoreplymatch_aiplugin_warningsave === Предупреждение
 form_autoreplymatch_aiplugin_warningdesc === AI-беседы, связанные с этой автоответной записью, будут сброшены после того, как вы сохраните изменения!
 form_addaiapikey_transcriptiontitle === Транскрипция
 form_addaiapikey_transcriptiondesc === Если включено, ИИ сначала расшифрует содержимое аудио или видеофайлов, а затем предоставит ответ на основе расшифровки.
+modal_adminsettings_garbageretentitle === Сохранение мусора
+modal_adminsettings_garbageretentitle_desc === Сколько дней осталось до окончательного удаления собранного мусора, включая отправленные и полученные вложения через WhatsApp?
+form_addaikey_groupreply === Групповой ответ
+form_addaikey_groupreply_desc === Если включено, ИИ будет отвечать на полученные сообщения из групп WhatsApp.
+form_addaikey_providerrecommended === Рекомендуется
+form_addaikey_maxtokens === Максимальное количество токенов
+form_addaikey_maxtokens_desc === Введите максимальное количество токенов, которое ИИ может использовать.

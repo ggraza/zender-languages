@@ -1,0 +1,7 @@
+modal_adminsettings_garbageretentitle === Garbage Retention
+modal_adminsettings_garbageretentitle_desc === How many days until the system permanently deletes the collected garbage. These includes sent and received attachments via WhatsApp.
+form_addaikey_groupreply === Group Reply
+form_addaikey_groupreply_desc === If enabled, the AI will respond to received messages from WhatsApp groups.
+form_addaikey_providerrecommended === Recommended
+form_addaikey_maxtokens === Max Tokens
+form_addaikey_maxtokens_desc === Enter the maximum tokens the AI is allowed to use.

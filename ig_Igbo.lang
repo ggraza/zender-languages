@@ -2973,3 +2973,10 @@ form_autoreplymatch_aiplugin_warningsave === Ịk warning
 form_autoreplymatch_aiplugin_warningdesc === Ndị nnọchiteanya AI nke metụtara autoreply a ga-echegharịa mgbe ị chekwaara mgbanwe ndị ahụ!
 form_addaiapikey_transcriptiontitle === Ndetu
 form_addaiapikey_transcriptiondesc === Ọ bụrụ na emepụtara, AI ga-eme nke mbụ kọwaa ọdịnaya nke faịlụ ụda ma ọ bụ vidiyo ma nyekwa azịza dabere na nkwupụta.
+modal_adminsettings_garbageretentitle === Nchekwa Azụkọgwụ
+modal_adminsettings_garbageretentitle_desc === Ịkwụsịtụ ụbọchị ole ka usoro ga-ewepụpụ azịza ndị a haziri ahazi. Nke a gụnyere faịlụ ezitere na nara na WhatsApp.
+form_addaikey_groupreply === Nzaghachi Òtù
+form_addaikey_groupreply_desc === Ọ bụrụ na emelitere, AI ga-emeghachi omume na ozi ndị natara site na ìgwè WhatsApp.
+form_addaikey_providerrecommended === Ekwesịrị ịtụ aro.
+form_addaikey_maxtokens === Max okwuntughe
+form_addaikey_maxtokens_desc === Tinye nọmba kachasị elu nke mkpụrụedemede AI nwere ikike iji.

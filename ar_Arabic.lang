@@ -2973,3 +2973,10 @@ form_autoreplymatch_aiplugin_warningsave === تحذير
 form_autoreplymatch_aiplugin_warningdesc === سيتم إعادة تعيين محادثات الذكاء الاصطناعي المتعلقة بهذا الرد التلقائي بعد حفظ التغييرات!
 form_addaiapikey_transcriptiontitle === النسخ
 form_addaiapikey_transcriptiondesc === إذا تم تمكينه، فسيقوم الذكاء الاصطناعي أولاً بنسخ محتوى ملفات الصوت أو الفيديو ثم تقديم استجابة بناءً على النسخ.
+modal_adminsettings_garbageretentitle === احتجاز النفايات
+modal_adminsettings_garbageretentitle_desc === كم عدد الأيام المتبقية حتى يقوم النظام بحذف البيانات المجمعة بصورة دائمة. وهذا يشمل المرفقات التي تم إرسالها واستلامها عبر WhatsApp.
+form_addaikey_groupreply === رد جماعي
+form_addaikey_groupreply_desc === إذا تم تفعيله، ستستجيب الذكاء الصناعي للرسائل المستلمة من مجموعات واتساب.
+form_addaikey_providerrecommended === موصى به
+form_addaikey_maxtokens === عدد الحد الأقصى من الرموز
+form_addaikey_maxtokens_desc === ادخل الحد الأقصى من الرموز المسموح باستخدامها من قبل الذكاء الاصطناعي.

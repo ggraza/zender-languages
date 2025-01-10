@@ -2972,3 +2972,10 @@ form_autoreplymatch_aiplugin_warningsave === خبردار
 form_autoreplymatch_aiplugin_warningdesc === اس خودکار جواب سے متعلق AI گفتگوئیں آپ کے تبدیلیاں محفوظ کرنے کے بعد دوبارہ شروع ہوں گی!
 form_addaiapikey_transcriptiontitle === تحریر
 form_addaiapikey_transcriptiondesc === اگر فعال ہو تو AI پہلے آڈیو یا ویڈیو فائلوں کے مواد کو تحریر کرے گا اور پھر تحریر کی بنیاد پر جواب فراہم کرے گا۔
+modal_adminsettings_garbageretentitle === کچرے کی احتباس
+modal_adminsettings_garbageretentitle_desc === سسٹم کتنے دنوں میں جمع کردہ کچرا مستقل طور پر حذف کرے گا، جن میں واٹس ایپ کے ذریعے بھیجے اور موصول کردہ منسلکات شامل ہیں؟
+form_addaikey_groupreply === گروپ جواب
+form_addaikey_groupreply_desc === اگر فعال کیا جائے تو AI واٹس ایپ گروپوں سے موصولہ پیغامات کا جواب دے گا۔
+form_addaikey_providerrecommended === مجوزہ
+form_addaikey_maxtokens === زیادہ سے زیادہ ٹوکن
+form_addaikey_maxtokens_desc === AI کو استعمال کرنے والے زیادہ سے زیادہ ٹوکن داخل کریں۔

@@ -2973,3 +2973,10 @@ form_autoreplymatch_aiplugin_warningsave === Warning
 form_autoreplymatch_aiplugin_warningdesc === The AI conversations related to this autoreply will reset after you save the changes!
 form_addaiapikey_transcriptiontitle === Transcription
 form_addaiapikey_transcriptiondesc === If enabled, the AI will first transcribe the content of audio or video files and then provide a response based on the transcription.
+modal_adminsettings_garbageretentitle === Garbage Retention
+modal_adminsettings_garbageretentitle_desc === How many days until the system permanently deletes the collected garbage. These includes sent and received attachments via WhatsApp.
+form_addaikey_groupreply === Group Reply
+form_addaikey_groupreply_desc === If enabled, the AI will respond to received messages from WhatsApp groups.
+form_addaikey_providerrecommended === Recommended
+form_addaikey_maxtokens === Max Tokens
+form_addaikey_maxtokens_desc === Enter the maximum tokens the AI is allowed to use.

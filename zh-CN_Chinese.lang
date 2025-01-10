@@ -2973,3 +2973,10 @@ form_autoreplymatch_aiplugin_warningsave === 警告
 form_autoreplymatch_aiplugin_warningdesc === 保存更改后，与此自动回复相关的 AI 对话将重置！
 form_addaiapikey_transcriptiontitle === 转录
 form_addaiapikey_transcriptiondesc === 如果启用，人工智能将首先转录音频或视频文件的内容，然后根据转录提供响应。
+modal_adminsettings_garbageretentitle === 垃圾保留
+modal_adminsettings_garbageretentitle_desc === 系统永久删除收集的垃圾还有多少天。这些包括通过WhatsApp发送和接收的附件。
+form_addaikey_groupreply === 群回复
+form_addaikey_groupreply_desc === 如果启用，AI将会对来自WhatsApp群组的消息作出回应。
+form_addaikey_providerrecommended === 推荐
+form_addaikey_maxtokens === 最大令牌数
+form_addaikey_maxtokens_desc === 输入AI允许使用的最大令牌数量。

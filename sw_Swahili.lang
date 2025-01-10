@@ -2973,3 +2973,10 @@ form_autoreplymatch_aiplugin_warningsave === Taarifa
 form_autoreplymatch_aiplugin_warningdesc === Majadiliano ya AI yanayohusiana na majibu haya ya otomatiki yatarejelewa baada ya kuokoa mabadiliko!
 form_addaiapikey_transcriptiontitle === Uandishi wa maandiko
 form_addaiapikey_transcriptiondesc === Ikiwa imewezeshwa, AI itaanza kwa kuandikisha yaliyomo ya faili za sauti au video kisha itatoa jibu kulingana na uandishi huo.
+modal_adminsettings_garbageretentitle === Uhifadhi wa Taka
+modal_adminsettings_garbageretentitle_desc === Ni siku ngapi hadi mfumo uondoe kwa kudumu takataka zilizokusanywa, ikiwa ni pamoja na viambatisho vilivyotumwa na kupokewa kupitia WhatsApp.
+form_addaikey_groupreply === Jibu la Kundi
+form_addaikey_groupreply_desc === Ikiwa imewezeshwa, AI itajibu ujumbe uliopokelewa kutoka kwa vikundi vya WhatsApp.
+form_addaikey_providerrecommended === Inapendekezwa
+form_addaikey_maxtokens === Max Tokens
+form_addaikey_maxtokens_desc === Tafadhaliingiza idadi ya vifaa vya juu ambavyo AI inaruhusiwa kutumia.

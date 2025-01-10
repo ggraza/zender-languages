@@ -2973,3 +2973,10 @@ form_autoreplymatch_aiplugin_warningsave === Advarsel
 form_autoreplymatch_aiplugin_warningdesc === AI-samtalene relatert til dette automatiske svaret vil nullstilles etter at du har lagret endringene!
 form_addaiapikey_transcriptiontitle === Transkripsjon
 form_addaiapikey_transcriptiondesc === Hvis aktivert, vil AI først transkribere innholdet i lyd- eller videofiler, og deretter gi et svar basert på transkripsjonen.
+modal_adminsettings_garbageretentitle === Avfallsbevaring
+modal_adminsettings_garbageretentitle_desc === Hvor mange dager til systemet permanent sletter det innsamlede søppelet, inkludert sendte og mottatte vedlegg via WhatsApp?
+form_addaikey_groupreply === Gruppe Svar
+form_addaikey_groupreply_desc === Hvis aktivert, vil AIen svare på mottatte meldinger fra WhatsApp-grupper.
+form_addaikey_providerrecommended === Anbefalt
+form_addaikey_maxtokens === Maks Antall Tokens
+form_addaikey_maxtokens_desc === Angi det maksimale antallet tokens AI har lov til å bruke.

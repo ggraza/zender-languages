@@ -2972,3 +2972,10 @@ form_autoreplymatch_aiplugin_warningsave === Προειδοποίηση
 form_autoreplymatch_aiplugin_warningdesc === Οι συνομιλίες AI που σχετίζονται με αυτήν την αυτόματη απάντηση θα επαναφερθούν αφού αποθηκεύσετε τις αλλαγές!
 form_addaiapikey_transcriptiontitle === Μεταγραφή
 form_addaiapikey_transcriptiondesc === Εάν ενεργοποιηθεί, το AI θα μεταγράψει πρώτα το περιεχόμενο των αρχείων ήχου ή βίντεο και στη συνέχεια θα παράσχει μια απάντηση με βάση τη μεταγραφή.
+modal_adminsettings_garbageretentitle === Διακράτηση Απορριμμάτων
+modal_adminsettings_garbageretentitle_desc === Πόσες μέρες απομένουν μέχρι το σύστημα να διαγράψει μόνιμα τα συλλεγμένα σκουπίδια; Αυτά περιλαμβάνουν τα αποσταλμένα και ληφθέντα συνημμένα μέσω WhatsApp.
+form_addaikey_groupreply === Ομαδική Απάντηση
+form_addaikey_groupreply_desc === Εάν είναι ενεργοποιημένο, η AI θα απαντά σε μηνύματα που λαμβάνονται από ομάδες WhatsApp.
+form_addaikey_providerrecommended === Προτεινόμενο
+form_addaikey_maxtokens === Μέγιστος Αριθμός Tokens
+form_addaikey_maxtokens_desc === Εισαγάγετε τον μέγιστο αριθμό τόνων που επιτρέπεται να χρησιμοποιήσει η AI.

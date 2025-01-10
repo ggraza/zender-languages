@@ -2973,3 +2973,10 @@ form_autoreplymatch_aiplugin_warningsave === Avertissement
 form_autoreplymatch_aiplugin_warningdesc === Les conversations IA liées à cette réponse automatique seront réinitialisées une fois les modifications enregistrées !
 form_addaiapikey_transcriptiontitle === Transcription
 form_addaiapikey_transcriptiondesc === Si elle est activée, l'IA transcrira d'abord le contenu des fichiers audio ou vidéo, puis fournira une réponse basée sur la transcription.
+modal_adminsettings_garbageretentitle === Rétention des déchets
+modal_adminsettings_garbageretentitle_desc === Combien de jours reste-t-il avant que le système ne supprime définitivement les déchets collectés ? Cela inclut les pièces jointes envoyées et reçues via WhatsApp.
+form_addaikey_groupreply === Réponse de groupe
+form_addaikey_groupreply_desc === Si activé, l'IA répondra aux messages reçus des groupes WhatsApp.
+form_addaikey_providerrecommended === Recommandé
+form_addaikey_maxtokens === Max tokens
+form_addaikey_maxtokens_desc === Entrez le nombre maximum de jetons que l'IA est autorisée à utiliser.

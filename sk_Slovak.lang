@@ -2973,3 +2973,10 @@ form_autoreplymatch_aiplugin_warningsave === Upozornenie
 form_autoreplymatch_aiplugin_warningdesc === Konverzácie s AI týkajúce sa tejto automatickej odpovede sa po uložení zmien resetujú!
 form_addaiapikey_transcriptiontitle === Prepisovanie
 form_addaiapikey_transcriptiondesc === Ak je povolené, AI najprv prepisuje obsah audio alebo video súborov a potom poskytne odpoveď na základe prepisu.
+modal_adminsettings_garbageretentitle === Zadržiavanie odpadu
+modal_adminsettings_garbageretentitle_desc === Koľko dní ostáva do trvalého zmazania nazbieraného odpadu? To zahŕňa odoslané a prijaté prílohy cez WhatsApp.
+form_addaikey_groupreply === Odpoveď skupiny
+form_addaikey_groupreply_desc === Ak je povolené, AI bude odpovedať na prijaté správy z WhatsApp skupín.
+form_addaikey_providerrecommended === Odporúčané
+form_addaikey_maxtokens === Max Tokeny
+form_addaikey_maxtokens_desc === Zadajte maximálny počet tokenov, ktoré môže AI použiť.

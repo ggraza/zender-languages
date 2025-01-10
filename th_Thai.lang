@@ -2973,3 +2973,10 @@ form_autoreplymatch_aiplugin_warningsave === คำเตือน
 form_autoreplymatch_aiplugin_warningdesc === การสนทนา AI ที่เกี่ยวข้องกับการตอบกลับอัตโนมัตินี้จะถูกตั้งค่าใหม่หลังจากที่คุณบันทึกการเปลี่ยนแปลง!
 form_addaiapikey_transcriptiontitle === การถอดเสียง
 form_addaiapikey_transcriptiondesc === หากเปิดใช้งาน AI จะทำการถอดความเนื้อหาจากไฟล์เสียงหรือวิดีโอ
+modal_adminsettings_garbageretentitle === การเก็บขยะ
+modal_adminsettings_garbageretentitle_desc === อีกกี่วันระบบถึงจะลบข้อมูลที่เก็บสะสมถาวร รวมถึงไฟล์แนบที่ส่งและรับผ่าน WhatsApp
+form_addaikey_groupreply === การตอบกลับกลุ่ม
+form_addaikey_groupreply_desc === หากเปิดใช้งาน AI จะตอบกลับข้อความที่ได้รับจากกลุ่ม WhatsApp。
+form_addaikey_providerrecommended === แนะนำ
+form_addaikey_maxtokens === จำนวนสูงสุดของโทเคน
+form_addaikey_maxtokens_desc === กรอกจำนวนโทเคนสูงสุดที่ AI อนุญาตให้ใช้

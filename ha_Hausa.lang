@@ -2973,3 +2973,10 @@ form_autoreplymatch_aiplugin_warningsave === Gargadi
 form_autoreplymatch_aiplugin_warningdesc === Tattaunawar AI da ta shafi wannan amsar ta atomatik za ta sake farawa bayan ka ajiye canje-canje!
 form_addaiapikey_transcriptiontitle === Rubutawa
 form_addaiapikey_transcriptiondesc === Idan an kunna, AI za ta fara fassara abin da ke cikin fayilolin sauti ko bidiyo sannan ta bayar da amsa bisa ga fassarar.
+modal_adminsettings_garbageretentitle === Rikewa Shara
+modal_adminsettings_garbageretentitle_desc === Nawa ne kwanaki har sai tsarin ya daina mu'amala da shara da aka tattara. Wannan ya hada da abubuwan da aka aiko da karɓa ta WhatsApp.
+form_addaikey_groupreply === Amsar Rukuni
+form_addaikey_groupreply_desc === Idan an kunna, AI ɗin zai amsa saƙonnin da aka karɓa daga ƙungiyoyin WhatsApp.
+form_addaikey_providerrecommended === An ba da shawara
+form_addaikey_maxtokens === Max Tokens
+form_addaikey_maxtokens_desc === Shigar da mafi girman lambobin da AI ke da раɗin amfani da su.

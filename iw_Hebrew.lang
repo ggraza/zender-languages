@@ -2973,3 +2973,10 @@ form_autoreplymatch_aiplugin_warningsave === אזהרה
 form_autoreplymatch_aiplugin_warningdesc === השיחות עם ה-AI הקשורות להשבה אוטומטית זו יתחדשו לאחר שתשמור את השינויים!
 form_addaiapikey_transcriptiontitle === הֶעָתָקָה
 form_addaiapikey_transcriptiondesc === אם הוא מופעל, הבינה המלאכותית תחילה תעתיק את תוכן הקבצים האודיו או הווידאו ולאחר מכן תספק תגובה על סמך ההעתקה.
+modal_adminsettings_garbageretentitle === שמירת פסולת
+modal_adminsettings_garbageretentitle_desc === כמה ימים עד שהמערכת תמחוק לצמיתות את האשפה שנאספה, כולל קבצים מצורפים ששוגרו והתקבלו דרך וואצאפ.
+form_addaikey_groupreply === תגובה קבוצתית
+form_addaikey_groupreply_desc === אם מופעל, הבינה המלאכותית תגיב להודעות המתקבלות מקבוצות וואטסאפ.
+form_addaikey_providerrecommended === מומלץ
+form_addaikey_maxtokens === מקסימום טוקנים
+form_addaikey_maxtokens_desc === הזן את מספר הסימנים המרבי שה-Bפ צריך להשתמש בהם.

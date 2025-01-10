@@ -2973,3 +2973,10 @@ form_autoreplymatch_aiplugin_warningsave === Figyelmeztetés
 form_autoreplymatch_aiplugin_warningdesc === Az erre az automatikus válaszra vonatkozó AI beszélgetések a módosítások elmentése után visszaállnak!
 form_addaiapikey_transcriptiontitle === Átirat
 form_addaiapikey_transcriptiondesc === Ha engedélyezve van, az AI először átírja a hang- vagy videófájlok tartalmát, majd a transzkripció alapján nyújt választ.
+modal_adminsettings_garbageretentitle === Hulladékmegőrzés
+modal_adminsettings_garbageretentitle_desc === Hány nap van hátra a rendszer által összegyűjtött szemét végleges törléséig, beleértve a WhatsApp-on küldött és fogadott mellékleteket is?
+form_addaikey_groupreply === Csoportos válasz
+form_addaikey_groupreply_desc === Ha engedélyezve van, az AI válaszol a WhatsApp csoportoktól kapott üzenetekre.
+form_addaikey_providerrecommended === Ajánlott
+form_addaikey_maxtokens === Max tokenok
+form_addaikey_maxtokens_desc === Adja meg a maximális tokenek számát, amelyet az MI használhat.
