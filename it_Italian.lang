@@ -2980,3 +2980,9 @@ form_addaikey_groupreply_desc === Se abilitato, l'IA risponderà ai messaggi ric
 form_addaikey_providerrecommended === Consigliato
 form_addaikey_maxtokens === Token massimi
 form_addaikey_maxtokens_desc === Inserisci il numero massimo di token che l'IA può utilizzare.
+table_androidver_15 === Android 15
+form_addautoreply_grouptrigger === Attivatore di Gruppo
+form_addautoreply_grouptrigger_desc === Se abilitato, questa risposta automatica verrà attivata dai messaggi ricevuti dai gruppi whatsapp.
+form_addaikey_visonunsupported === Vision non supportata
+form_addaikey_pluginsunsupported === Plugin non supportati
+ai_menu_title_aikeys === Chiavi AI

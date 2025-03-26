@@ -2980,3 +2980,9 @@ form_addaikey_groupreply_desc === Idan an kunna, AI ɗin zai amsa saƙonnin da a
 form_addaikey_providerrecommended === An ba da shawara
 form_addaikey_maxtokens === Max Tokens
 form_addaikey_maxtokens_desc === Shigar da mafi girman lambobin da AI ke da раɗin amfani da su.
+table_androidver_15 === Android 15
+form_addautoreply_grouptrigger === Kungiyar Matsi
+form_addautoreply_grouptrigger_desc === Idan an kunna, wannan amsar zata tashi ta hanyar saƙonnin da aka karɓa daga ƙungiyoyin whatsapp.
+form_addaikey_visonunsupported === Hangen Gani Ba ya goyon bayan
+form_addaikey_pluginsunsupported === Plugins ba su goyi bayan
+ai_menu_title_aikeys === Makullin AI

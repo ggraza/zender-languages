@@ -2980,3 +2980,9 @@ form_addaikey_groupreply_desc === Jika diaktifkan, AI akan merespons pesan yang 
 form_addaikey_providerrecommended === Direkomendasikan
 form_addaikey_maxtokens === Maksimal Token
 form_addaikey_maxtokens_desc === Masukkan jumlah maksimum token yang diizinkan untuk digunakan AI.
+table_androidver_15 === Android 15
+form_addautoreply_grouptrigger === Pemicu Grup
+form_addautoreply_grouptrigger_desc === Jika diaktifkan, autoreply ini akan dipicu oleh pesan yang diterima dari grup whatsapp.
+form_addaikey_visonunsupported === Visi Tidak Didukung
+form_addaikey_pluginsunsupported === Plugin Tidak Didukung
+ai_menu_title_aikeys === Kunci AI

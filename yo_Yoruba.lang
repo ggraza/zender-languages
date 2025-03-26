@@ -2980,3 +2980,9 @@ form_addaikey_groupreply_desc === Ti a ba mu ṣiṣẹ, AI yoo dahun si awọn 
 form_addaikey_providerrecommended === Ti a ṣe iṣeduro
 form_addaikey_maxtokens === Max awọn tokini
 form_addaikey_maxtokens_desc === Tẹ awọn ọgbọn julọ ti AI gbọdọ lo.
+table_androidver_15 === Android 15
+form_addautoreply_grouptrigger === Ikilo Ẹgbẹ
+form_addautoreply_grouptrigger_desc === Ti a ba mu ṣiṣẹ, a yoo ṣe iwakọ ẹniti o nṣiṣẹ eyi nipasẹ awọn ifiranṣẹ ti a gba lati awọn ẹgbẹ whatsapp.
+form_addaikey_visonunsupported === Iran iṣẹ afọwọṣe.
+form_addaikey_pluginsunsupported === Awọn amugbooro ti ko ni atilẹyin
+ai_menu_title_aikeys === Bọtini AI

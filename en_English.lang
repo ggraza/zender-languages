@@ -1330,10 +1330,6 @@ form_fullname === Full Name
 form_cpassword === Confirm Password
 form_haveaccount === I Have An Account
 datatable_processing === Processing, please wait...
-datatable_length === Showing _MENU_ entries
-datatable_info === Showing _START_ to _END_ of _TOTAL_ entries
-datatable_empty === Showing 0 to 0 of 0 entries
-datatable_filtered === (filtered from _MAX_ total entries)
 datatable_loading === Loading, please wait...
 datatable_zero === We can't find anything matching your query!
 datatable_null === There are no data to display!

@@ -2980,3 +2980,9 @@ form_addaikey_groupreply_desc === 활성화되면 AI는 WhatsApp 그룹에서 �
 form_addaikey_providerrecommended === 추천합니다
 form_addaikey_maxtokens === 최대 토큰
 form_addaikey_maxtokens_desc === AI가 사용할 수 있는 최대 토큰 수를 입력하세요.
+table_androidver_15 === 안드로이드 15
+form_addautoreply_grouptrigger === 그룹 트리거
+form_addautoreply_grouptrigger_desc === 활성화되면, 이 자동 회신은 WhatsApp 그룹에서 수신된 메시지에 의해 트리거됩니다.
+form_addaikey_visonunsupported === 비전이 지원되지 않음
+form_addaikey_pluginsunsupported === 플러그인 지원되지 않음
+ai_menu_title_aikeys === AI 키

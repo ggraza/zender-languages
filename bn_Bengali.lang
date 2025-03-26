@@ -2980,3 +2980,9 @@ form_addaikey_groupreply_desc === যদি সক্ষম হয়, তাহ
 form_addaikey_providerrecommended === নির্দেশিত
 form_addaikey_maxtokens === ম্যাক্স টোকেনস
 form_addaikey_maxtokens_desc === সর্বাধিক টোকেন প্রবেশ করুন যা AI ব্যবহার করতে পারবে।
+table_androidver_15 === অ্যান্ড্রয়েড ১৫
+form_addautoreply_grouptrigger === গ্রুপ ট্রিগার
+form_addautoreply_grouptrigger_desc === যদি সক্ষম করা হয়, তবে এই অটো রিপ্লাইটি হোয়াটসঅ্যাপ গ্রুপ থেকে প্রাপ্ত বার্তার দ্বারা সক্রিয় হবে।
+form_addaikey_visonunsupported === দৃষ্টি সমর্থিত নয়
+form_addaikey_pluginsunsupported === প্লাগইন সমর্থিত নয়
+ai_menu_title_aikeys === এআই কীগুলি

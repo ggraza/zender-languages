@@ -2980,3 +2980,9 @@ form_addaikey_groupreply_desc === Wenn aktiviert, wird die KI auf empfangene Nac
 form_addaikey_providerrecommended === Empfohlen
 form_addaikey_maxtokens === Max Tokens
 form_addaikey_maxtokens_desc === Geben Sie die maximalen Token ein, die der KI erlaubt sind.
+table_androidver_15 === Android 15
+form_addautoreply_grouptrigger === Gruppen-Trigger
+form_addautoreply_grouptrigger_desc === Wenn aktiviert, wird diese automatische Antwort durch Nachrichten von WhatsApp-Gruppen ausgelöst.
+form_addaikey_visonunsupported === Vision nicht unterstützt
+form_addaikey_pluginsunsupported === Plugins nicht unterstützt
+ai_menu_title_aikeys === KI-Schlüssel

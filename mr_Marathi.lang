@@ -2980,3 +2980,9 @@ form_addaikey_groupreply_desc === जर सक्षम केले असे�
 form_addaikey_providerrecommended === शिफारस केलेले
 form_addaikey_maxtokens === अधिकतम टोकन
 form_addaikey_maxtokens_desc === कृत्रिम बुद्धिमत्तेला वापरण्यासाठी अधिकतम टोकन संख्या भरा.
+table_androidver_15 === आँड्रॉइड १५
+form_addautoreply_grouptrigger === समूह ट्रिगर
+form_addautoreply_grouptrigger_desc === जर सक्षम असेल, तर हे स्वयंचलित उत्तर व्हाट्सअॅप गटांमधून आलेल्या संदेशांद्वारे सक्रिय केले जाईल.
+form_addaikey_visonunsupported === दृश्य समर्थन नाही
+form_addaikey_pluginsunsupported === प्लगइन समर्थित नाहीत
+ai_menu_title_aikeys === एआय कीज

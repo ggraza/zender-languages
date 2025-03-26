@@ -2980,3 +2980,9 @@ form_addaikey_groupreply_desc === Ọ bụrụ na emelitere, AI ga-emeghachi omu
 form_addaikey_providerrecommended === Ekwesịrị ịtụ aro.
 form_addaikey_maxtokens === Max okwuntughe
 form_addaikey_maxtokens_desc === Tinye nọmba kachasị elu nke mkpụrụedemede AI nwere ikike iji.
+table_androidver_15 === Android 15
+form_addautoreply_grouptrigger === Ntụnye Okwu grupu
+form_addautoreply_grouptrigger_desc === Ọ bụrụ na arụnyere, a ga-emegharị azịza a site na ozi ndị natara site na otu whatsapp.
+form_addaikey_visonunsupported === Anaghị akwado nlekota
+form_addaikey_pluginsunsupported === Plugins adịghị akwado.
+ai_menu_title_aikeys === mkpọchi AI

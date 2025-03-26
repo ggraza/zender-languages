@@ -2980,3 +2980,9 @@ form_addaikey_groupreply_desc === Om aktiverat kommer AI att svara på mottagna 
 form_addaikey_providerrecommended === Rekommenderad
 form_addaikey_maxtokens === Max Tokens
 form_addaikey_maxtokens_desc === Ange det maximala antal tokens som AI:n får använda.
+table_androidver_15 === Android 15
+form_addautoreply_grouptrigger === Grupputlösare
+form_addautoreply_grouptrigger_desc === Om aktiverat kommer detta automatiserade svar att utlösas av meddelanden som tas emot från whatsapp-grupper.
+form_addaikey_visonunsupported === Vision stöds inte
+form_addaikey_pluginsunsupported === Plugins inte stöds
+ai_menu_title_aikeys === AI Nycklar

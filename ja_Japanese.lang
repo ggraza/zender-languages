@@ -2980,3 +2980,9 @@ form_addaikey_groupreply_desc === 有効にすると、AIはWhatsAppグループ
 form_addaikey_providerrecommended === おすすめ
 form_addaikey_maxtokens === 最大トークン数
 form_addaikey_maxtokens_desc === AIが使用できる最大トークン数を入力してください。
+table_androidver_15 === Android 15
+form_addautoreply_grouptrigger === グループトリガー
+form_addautoreply_grouptrigger_desc === 有効な場合、この自動返信はWhatsappグループから受信したメッセージによってトリガーされます。
+form_addaikey_visonunsupported === ビジョンがサポートされていません
+form_addaikey_pluginsunsupported === プラグインがサポートされていません
+ai_menu_title_aikeys === AIキー

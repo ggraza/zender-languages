@@ -2980,3 +2980,9 @@ form_addaikey_groupreply_desc === Ak je povolené, AI bude odpovedať na prijat�
 form_addaikey_providerrecommended === Odporúčané
 form_addaikey_maxtokens === Max Tokeny
 form_addaikey_maxtokens_desc === Zadajte maximálny počet tokenov, ktoré môže AI použiť.
+table_androidver_15 === Android 15
+form_addautoreply_grouptrigger === Skupinový spúšťač
+form_addautoreply_grouptrigger_desc === Ak je povolené, táto automatická odpoveď sa aktivuje správy prijaté zo skupín WhatsApp.
+form_addaikey_visonunsupported === Vízia nepodporovaná
+form_addaikey_pluginsunsupported === Pluginy nepodporované
+ai_menu_title_aikeys === Kľúče AI

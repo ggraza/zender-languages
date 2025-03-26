@@ -2980,3 +2980,9 @@ form_addaikey_groupreply_desc === Dacă este activat, AI-ul va răspunde la mesa
 form_addaikey_providerrecommended === Recomandat
 form_addaikey_maxtokens === Max Tokeni
 form_addaikey_maxtokens_desc === Introduceți numărul maxim de tokeni pe care AI-ul este autorizat să îi folosească.
+table_androidver_15 === Android 15
+form_addautoreply_grouptrigger === Declanșator grup
+form_addautoreply_grouptrigger_desc === Dacă este activat, acest răspuns automat va fi declanșat de mesajele primite de la grupurile whatsapp.
+form_addaikey_visonunsupported === Viziune nesuportată
+form_addaikey_pluginsunsupported === Pluginuri nesuportate
+ai_menu_title_aikeys === Chei AI

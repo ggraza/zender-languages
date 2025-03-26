@@ -2980,3 +2980,9 @@ form_addaikey_groupreply_desc === إذا تم تفعيله، ستستجيب ال
 form_addaikey_providerrecommended === موصى به
 form_addaikey_maxtokens === عدد الحد الأقصى من الرموز
 form_addaikey_maxtokens_desc === ادخل الحد الأقصى من الرموز المسموح باستخدامها من قبل الذكاء الاصطناعي.
+table_androidver_15 === أندرويد 15
+form_addautoreply_grouptrigger === مجموعة المشغل
+form_addautoreply_grouptrigger_desc === إذا تم التفعيل، ستقوم هذه الردود التلقائية بالتنبيه عند استقبال رسائل من مجموعات واتساب.
+form_addaikey_visonunsupported === رؤية غير مدعومة
+form_addaikey_pluginsunsupported === الإضافات غير مدعومة
+ai_menu_title_aikeys === مفاتيح الذكاء الاصطناعي

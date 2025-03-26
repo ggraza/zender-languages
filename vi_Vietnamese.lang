@@ -2980,3 +2980,9 @@ form_addaikey_groupreply_desc === Nếu được kích hoạt, AI sẽ phản h�
 form_addaikey_providerrecommended === Đề xuất
 form_addaikey_maxtokens === Tối đa số token
 form_addaikey_maxtokens_desc === Nhập số lượng tokens tối đa mà AI được phép sử dụng.
+table_androidver_15 === Android 15
+form_addautoreply_grouptrigger === Nhóm Kích hoạt
+form_addautoreply_grouptrigger_desc === Nếu được bật, phản hồi tự động này sẽ được kích hoạt bởi các tin nhắn nhận được từ các nhóm whatsapp.
+form_addaikey_visonunsupported === Tầm nhìn không được hỗ trợ
+form_addaikey_pluginsunsupported === Các plugin không được hỗ trợ
+ai_menu_title_aikeys === Khóa AI

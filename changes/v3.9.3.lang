@@ -1,0 +1,5 @@
+form_addautoreply_grouptrigger === Group Trigger
+form_addautoreply_grouptrigger_desc === If enabled, this autoreply will be triggered by messages received from whatsapp groups.
+form_addaikey_visonunsupported === Vision Unsupported
+form_addaikey_pluginsunsupported === Plugins Unsupported
+ai_menu_title_aikeys === AI Keys

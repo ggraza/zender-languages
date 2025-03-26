@@ -2980,3 +2980,9 @@ form_addaikey_groupreply_desc === 如果启用，AI将会对来自WhatsApp群组
 form_addaikey_providerrecommended === 推荐
 form_addaikey_maxtokens === 最大令牌数
 form_addaikey_maxtokens_desc === 输入AI允许使用的最大令牌数量。
+table_androidver_15 === 安卓 15
+form_addautoreply_grouptrigger === 组触发器
+form_addautoreply_grouptrigger_desc === 如果启用，此自动回复将由来自 WhatsApp 群组的消息触发。
+form_addaikey_visonunsupported === 视图不支持
+form_addaikey_pluginsunsupported === 插件不支持
+ai_menu_title_aikeys === AI 密钥

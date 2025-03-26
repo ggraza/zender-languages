@@ -2980,3 +2980,9 @@ form_addaikey_groupreply_desc === Если включено, ИИ будет о�
 form_addaikey_providerrecommended === Рекомендуется
 form_addaikey_maxtokens === Максимальное количество токенов
 form_addaikey_maxtokens_desc === Введите максимальное количество токенов, которое ИИ может использовать.
+table_androidver_15 === Андроид 15
+form_addautoreply_grouptrigger === Групповый триггер
+form_addautoreply_grouptrigger_desc === Если включено, этот автоответ будет активироваться при получении сообщений из групп WhatsApp.
+form_addaikey_visonunsupported === Поддержка визуализации отсутствует
+form_addaikey_pluginsunsupported === Плагины не поддерживаются
+ai_menu_title_aikeys === Ключи ИИ

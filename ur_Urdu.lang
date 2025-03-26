@@ -2979,3 +2979,9 @@ form_addaikey_groupreply_desc === اگر فعال کیا جائے تو AI واٹ
 form_addaikey_providerrecommended === مجوزہ
 form_addaikey_maxtokens === زیادہ سے زیادہ ٹوکن
 form_addaikey_maxtokens_desc === AI کو استعمال کرنے والے زیادہ سے زیادہ ٹوکن داخل کریں۔
+table_androidver_15 === اینڈرائیڈ 15
+form_addautoreply_grouptrigger === گروپ ٹرگر
+form_addautoreply_grouptrigger_desc === اگر فعال کیا گیا تو یہ خودکار جواب واٹس ایپ گروپوں سے موصول ہونے والے پیغامات کے ذریعے متحرک ہوگا۔
+form_addaikey_visonunsupported === نظریات کی حمایت نہیں کی گئی
+form_addaikey_pluginsunsupported === پلاگ انز کی حمایت نہیں کی گئی
+ai_menu_title_aikeys === AI کلیدیں

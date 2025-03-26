@@ -2980,3 +2980,9 @@ form_addaikey_groupreply_desc === Ako je omogućeno, veštačka inteligencija ć
 form_addaikey_providerrecommended === Preporučeno
 form_addaikey_maxtokens === Maksimalni tokeni
 form_addaikey_maxtokens_desc === Unesite maksimalan broj tokena koji veštačka inteligencija može da koristi.
+table_androidver_15 === Android 15
+form_addautoreply_grouptrigger === Grupni okidač
+form_addautoreply_grouptrigger_desc === Ako je omogućeno, ova automatska odgovor će se aktivirati porukama primljenim iz whatsapp grupa.
+form_addaikey_visonunsupported === Vizija nije podržana
+form_addaikey_pluginsunsupported === Dodaci nisu podržani
+ai_menu_title_aikeys === AI Ključevi

@@ -2980,3 +2980,9 @@ form_addaikey_groupreply_desc === אם מופעל, הבינה המלאכותית
 form_addaikey_providerrecommended === מומלץ
 form_addaikey_maxtokens === מקסימום טוקנים
 form_addaikey_maxtokens_desc === הזן את מספר הסימנים המרבי שה-Bפ צריך להשתמש בהם.
+table_androidver_15 === אנדרואיד 15
+form_addautoreply_grouptrigger === טריגר קבוצתי
+form_addautoreply_grouptrigger_desc === אם מופעל, תשובה אוטומטית זו תופעל על ידי הודעות שמתקבלות מקבוצות וואטסאפ.
+form_addaikey_visonunsupported === חזון לא נתמך
+form_addaikey_pluginsunsupported === תוספים לא נתמכים
+ai_menu_title_aikeys === מפתחות AI

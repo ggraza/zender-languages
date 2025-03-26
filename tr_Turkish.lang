@@ -2980,3 +2980,9 @@ form_addaikey_groupreply_desc === Etkinleştirildiğinde, yapay zeka WhatsApp gr
 form_addaikey_providerrecommended === Tavsiye edilen
 form_addaikey_maxtokens === Maksimum Tokenler
 form_addaikey_maxtokens_desc === AI'nın kullanmasına izin verilen maksimum token sayısını girin.
+table_androidver_15 === Android 15
+form_addautoreply_grouptrigger === Grup Tetikleyici
+form_addautoreply_grouptrigger_desc === Eğer etkinleştirildi ise, bu otomatik yanıt whatsapp gruplarından alınan mesajlarla tetiklenecektir.
+form_addaikey_visonunsupported === Görüş Desteklenmiyor
+form_addaikey_pluginsunsupported === Eklentiler Desteklenmiyor
+ai_menu_title_aikeys === Yapay Zeka Anahtarları

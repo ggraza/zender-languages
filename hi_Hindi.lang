@@ -2981,3 +2981,9 @@ form_addaikey_groupreply_desc === यदि सक्षम किया गय�
 form_addaikey_providerrecommended === अनुशंसित
 form_addaikey_maxtokens === अधिकतम टोकन
 form_addaikey_maxtokens_desc === एक्स्ट्रीम टोकन्स दर्ज करें जिनका उपयोग एआई को करने की अनुमति है।
+table_androidver_15 === एंड्रॉइड 15
+form_addautoreply_grouptrigger === समूह ट्रिगर
+form_addautoreply_grouptrigger_desc === यदि सक्षम किया गया, तो यह ऑटो-उत्तर व्हाट्सएप समूहों से प्राप्त संदेशों द्वारा सक्रिय होगा।
+form_addaikey_visonunsupported === दृष्टि समर्थित नहीं है
+form_addaikey_pluginsunsupported === प्लगइन्स समर्थित नहीं हैं
+ai_menu_title_aikeys === एआई कुंजी

@@ -2980,3 +2980,9 @@ form_addaikey_groupreply_desc === Ikiwa imewezeshwa, AI itajibu ujumbe uliopokel
 form_addaikey_providerrecommended === Inapendekezwa
 form_addaikey_maxtokens === Max Tokens
 form_addaikey_maxtokens_desc === Tafadhaliingiza idadi ya vifaa vya juu ambavyo AI inaruhusiwa kutumia.
+table_androidver_15 === Android 15
+form_addautoreply_grouptrigger === Kikundi cha Trigger
+form_addautoreply_grouptrigger_desc === Ikiwa imewezeshwa, majibu haya ya kiotomatiki yatapigiwa chombo na ujumbe unaopokelewa kutoka kwa vikundi vya whatsapp.
+form_addaikey_visonunsupported === Maono Hayakubaliwi
+form_addaikey_pluginsunsupported === Plugins Haziruhusiwi
+ai_menu_title_aikeys === Funguo za AI

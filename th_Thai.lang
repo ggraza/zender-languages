@@ -2980,3 +2980,9 @@ form_addaikey_groupreply_desc === หากเปิดใช้งาน AI จ
 form_addaikey_providerrecommended === แนะนำ
 form_addaikey_maxtokens === จำนวนสูงสุดของโทเคน
 form_addaikey_maxtokens_desc === กรอกจำนวนโทเคนสูงสุดที่ AI อนุญาตให้ใช้
+table_androidver_15 === แอนดรอยด์ 15
+form_addautoreply_grouptrigger === กลุ่มทริกเกอร์
+form_addautoreply_grouptrigger_desc === หากเปิดใช้งาน การตอบกลับอัตโนมัตินี้จะถูกกระตุ้นโดยข้อความที่ได้รับจากกลุ่ม WhatsApp
+form_addaikey_visonunsupported === วิสัยทัศน์ไม่รองรับ
+form_addaikey_pluginsunsupported === ปลั๊กอินที่ไม่สนับสนุน
+ai_menu_title_aikeys === คีย์ AI
