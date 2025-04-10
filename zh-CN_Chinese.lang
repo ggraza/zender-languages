@@ -2986,3 +2986,12 @@ form_addautoreply_grouptrigger_desc === 如果启用，此自动回复将由来�
 form_addaikey_visonunsupported === 视图不支持
 form_addaikey_pluginsunsupported === 插件不支持
 ai_menu_title_aikeys === AI 密钥
+device_api_messagesent === 消息 _8880_ 已发送！
+device_api_messagedelivered === 消息 _8880_ 已送达！
+device_api_messagepending === 消息 _8880_ 的发送正在等待中！
+device_api_messagedeliveryfailed === 消息 _8880_ 从 _8881_ 发送失败！
+device_api_messagefailed === 无法发送消息 _8880_ 从 _8881_！
+admin_gateway_form_title === 安卓网关设置
+admin_gateway_formapktitle === APK 文件
+admin_gateway_formapkdesc === 上传您从客户仪表板下载的APK文件。请勿更改文件名。
+table_androidver_16 === 安卓16

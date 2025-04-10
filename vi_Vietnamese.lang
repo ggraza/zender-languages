@@ -2986,3 +2986,12 @@ form_addautoreply_grouptrigger_desc === Nếu được bật, phản hồi tự 
 form_addaikey_visonunsupported === Tầm nhìn không được hỗ trợ
 form_addaikey_pluginsunsupported === Các plugin không được hỗ trợ
 ai_menu_title_aikeys === Khóa AI
+device_api_messagesent === Tin nhắn _8880_ đã được gửi!
+device_api_messagedelivered === Tin nhắn _8880_ đã được gửi!
+device_api_messagepending === Việc gửi tin nhắn _8880_ đang chờ!
+device_api_messagedeliveryfailed === Gửi tin nhắn _8880_ từ _8881_ không thành công!
+device_api_messagefailed === Gửi tin nhắn _8880_ từ _8881_ không thành công!
+admin_gateway_form_title === Cài đặt Cổng Android
+admin_gateway_formapktitle === Tệp APK
+admin_gateway_formapkdesc === Tải lên tệp APK mà bạn đã tải xuống từ bảng điều khiển khách hàng. Xin đừng đổi tên tệp.
+table_androidver_16 === Android 16

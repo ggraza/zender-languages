@@ -2986,3 +2986,12 @@ form_addautoreply_grouptrigger_desc === אם מופעל, תשובה אוטומט
 form_addaikey_visonunsupported === חזון לא נתמך
 form_addaikey_pluginsunsupported === תוספים לא נתמכים
 ai_menu_title_aikeys === מפתחות AI
+device_api_messagesent === הודעה _8880_ נשלחה!
+device_api_messagedelivered === ההודעה _8880_ נמסרה!
+device_api_messagepending === אספקת הודעה _8880_ ממתינה!
+device_api_messagedeliveryfailed === משלוח ההודעה _8880_ מ_8881_ נכשל!
+device_api_messagefailed === נכשל לשלוח הודעה _8880_ מ-_8881_!
+admin_gateway_form_title === הגדרות שער אנדרואיד
+admin_gateway_formapktitle === קובץ APK
+admin_gateway_formapkdesc === העלו את קובץ ה-APK שהורדתם מלוח הבקרה של הלקוח. אנא אל תשנו את שם הקובץ.
+table_androidver_16 === אנדרואיד 16

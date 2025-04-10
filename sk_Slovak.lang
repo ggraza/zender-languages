@@ -2986,3 +2986,12 @@ form_addautoreply_grouptrigger_desc === Ak je povolené, táto automatická odpo
 form_addaikey_visonunsupported === Vízia nepodporovaná
 form_addaikey_pluginsunsupported === Pluginy nepodporované
 ai_menu_title_aikeys === Kľúče AI
+device_api_messagesent === Správa _8880_ bola odoslaná!
+device_api_messagedelivered === Správa _8880_ bola doručená!
+device_api_messagepending === Doručenie správy _8880_ čaká!
+device_api_messagedeliveryfailed === Zlyhanie doručenia správy _8880_ od _8881_!
+device_api_messagefailed === Nepodarilo sa odoslať správu _8880_ z _8881_!
+admin_gateway_form_title === Nastavenia Android Gateway
+admin_gateway_formapktitle === APK súbor
+admin_gateway_formapkdesc === Nahrajte súbor APK, ktorý ste si stiahli z zákazníckeho panela. Prosím, neprerobte názov súboru.
+table_androidver_16 === Android 16

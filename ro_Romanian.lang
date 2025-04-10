@@ -2986,3 +2986,12 @@ form_addautoreply_grouptrigger_desc === Dacă este activat, acest răspuns autom
 form_addaikey_visonunsupported === Viziune nesuportată
 form_addaikey_pluginsunsupported === Pluginuri nesuportate
 ai_menu_title_aikeys === Chei AI
+device_api_messagesent === Mesajul _8880_ a fost trimis!
+device_api_messagedelivered === Mesajul _8880_ a fost livrat!
+device_api_messagepending === Livrarea mesajului _8880_ este în așteptare!
+device_api_messagedeliveryfailed === Livrarea eșuată a mesajului _8880_ de la _8881_!
+device_api_messagefailed === Nu s-a putut trimite mesajul _8880_ de la _8881_!
+admin_gateway_form_title === Setări Gateway Android
+admin_gateway_formapktitle === Fișier APK
+admin_gateway_formapkdesc === Încărcați fișierul APK pe care l-ați descărcat de pe tabloul de bord al clientului. Vă rugăm să nu schimbați numele fișierului.
+table_androidver_16 === Android 16

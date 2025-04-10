@@ -2986,3 +2986,12 @@ form_addautoreply_grouptrigger_desc === Ti a ba mu ṣiṣẹ, a yoo ṣe iwak�
 form_addaikey_visonunsupported === Iran iṣẹ afọwọṣe.
 form_addaikey_pluginsunsupported === Awọn amugbooro ti ko ni atilẹyin
 ai_menu_title_aikeys === Bọtini AI
+device_api_messagesent === Iwe ifiranṣẹ _8880_ ti ranṣẹ!
+device_api_messagedelivered === Iṣẹ́ _8880_ ti ránṣẹ́!
+device_api_messagepending === Gbigbe ifiranṣẹ _8880_ n duro de!
+device_api_messagedeliveryfailed === Ikuna ifijiṣẹ ifiranṣẹ _8880_ lati _8881_!
+device_api_messagefailed === Kò le fi ifiranṣẹ _8880_ ranṣẹ lati _8881_!
+admin_gateway_form_title === Awọn eto Ibi-ọna Android
+admin_gateway_formapktitle === Faili APK
+admin_gateway_formapkdesc === Gbe faịlụ APK ti o gba lati oju-iwe alabara. Jọwọ ma ṣe tun orukọ faịlụ naa.
+table_androidver_16 === Android 16

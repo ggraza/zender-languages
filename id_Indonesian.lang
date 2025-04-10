@@ -2986,3 +2986,12 @@ form_addautoreply_grouptrigger_desc === Jika diaktifkan, autoreply ini akan dipi
 form_addaikey_visonunsupported === Visi Tidak Didukung
 form_addaikey_pluginsunsupported === Plugin Tidak Didukung
 ai_menu_title_aikeys === Kunci AI
+device_api_messagesent === Pesan _8880_ telah terkirim!
+device_api_messagedelivered === Pesan _8880_ telah dikirim!
+device_api_messagepending === Pengiriman pesan _8880_ sedang tertunda!
+device_api_messagedeliveryfailed === Pengiriman pesan _8880_ dari _8881_ gagal!
+device_api_messagefailed === Gagal mengirim pesan _8880_ dari _8881_!
+admin_gateway_form_title === Pengaturan Gateway Android
+admin_gateway_formapktitle === File APK
+admin_gateway_formapkdesc === Unggah file APK yang Anda unduh dari dasbor pelanggan. Harap jangan ganti nama file tersebut.
+table_androidver_16 === Android 16

@@ -2986,3 +2986,12 @@ form_addautoreply_grouptrigger_desc === 有効な場合、この自動返信はW
 form_addaikey_visonunsupported === ビジョンがサポートされていません
 form_addaikey_pluginsunsupported === プラグインがサポートされていません
 ai_menu_title_aikeys === AIキー
+device_api_messagesent === メッセージ _8880_ が送信されました！
+device_api_messagedelivered === メッセージ _8880_ が配信されました！
+device_api_messagepending === メッセージ _8880_ の配信が保留中です！
+device_api_messagedeliveryfailed === メッセージ _8880_ の配信に失敗しました _8881_！
+device_api_messagefailed === メッセージ _8880_ を _8881_ から送信できませんでした！
+admin_gateway_form_title === Androidゲートウェイ設定
+admin_gateway_formapktitle === APKファイル
+admin_gateway_formapkdesc === 顧客ダッシュボードからダウンロードしたAPKファイルをアップロードしてください。ファイルの名前を変更しないでください。
+table_androidver_16 === アンドロイド16

@@ -2986,3 +2986,12 @@ form_addautoreply_grouptrigger_desc === Idan an kunna, wannan amsar zata tashi t
 form_addaikey_visonunsupported === Hangen Gani Ba ya goyon bayan
 form_addaikey_pluginsunsupported === Plugins ba su goyi bayan
 ai_menu_title_aikeys === Makullin AI
+device_api_messagesent === Sako _8880_ an aika!
+device_api_messagedelivered === Sakon _8880_ an isar!
+device_api_messagepending === Aika sakon _8880_ yana jiran!
+device_api_messagedeliveryfailed === Kudusai isar da saƙo _8880_ daga _8881_!
+device_api_messagefailed === An kasa aikawa da saƙo _8880_ daga _8881_!
+admin_gateway_form_title === Saitunan Kewayawa na Android
+admin_gateway_formapktitle === Fayil ɗin APK
+admin_gateway_formapkdesc === Shigar da fayil ɗin APK da ka sauke daga shafin yanar gizon abokin ciniki. Don Allah kar ka canza sunan fayil ɗin.
+table_androidver_16 === Android 16

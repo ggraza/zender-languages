@@ -2986,3 +2986,12 @@ form_addautoreply_grouptrigger_desc === Hvis aktivert, vil denne automatisk svar
 form_addaikey_visonunsupported === Visjon ikke støttet
 form_addaikey_pluginsunsupported === Plugins ikke støttet
 ai_menu_title_aikeys === AI-nøkler
+device_api_messagesent === Melding _8880_ har blitt sendt!
+device_api_messagedelivered === Melding _8880_ har blitt levert!
+device_api_messagepending === Levering av melding _8880_ venter!
+device_api_messagedeliveryfailed === Feilet levering av melding _8880_ fra _8881_!
+device_api_messagefailed === Feil ved sending av melding _8880_ fra _8881_!
+admin_gateway_form_title === Innstillinger for Android Gateway
+admin_gateway_formapktitle === APK-fil
+admin_gateway_formapkdesc === Last opp APK-filen du lastet ned fra kundedashbordet. Vennligst ikke gi filen nytt navn.
+table_androidver_16 === Android 16

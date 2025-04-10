@@ -2986,3 +2986,12 @@ form_addautoreply_grouptrigger_desc === Om aktiverat kommer detta automatiserade
 form_addaikey_visonunsupported === Vision stöds inte
 form_addaikey_pluginsunsupported === Plugins inte stöds
 ai_menu_title_aikeys === AI Nycklar
+device_api_messagesent === Meddelande _8880_ har skickats!
+device_api_messagedelivered === Meddelandet _8880_ har levererats!
+device_api_messagepending === Leverans av meddelande _8880_ är på väg!
+device_api_messagedeliveryfailed === Misslyckad leverans av meddelande _8880_ från _8881_!
+device_api_messagefailed === Misslyckades med att skicka meddelande _8880_ från _8881_!
+admin_gateway_form_title === Inställningar för Android Gateway
+admin_gateway_formapktitle === APK-fil
+admin_gateway_formapkdesc === Ladda upp APK-filen du laddade ner från kundpanelen. Vänligen döp inte om filen.
+table_androidver_16 === Android 16

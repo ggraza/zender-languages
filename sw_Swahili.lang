@@ -2986,3 +2986,12 @@ form_addautoreply_grouptrigger_desc === Ikiwa imewezeshwa, majibu haya ya kiotom
 form_addaikey_visonunsupported === Maono Hayakubaliwi
 form_addaikey_pluginsunsupported === Plugins Haziruhusiwi
 ai_menu_title_aikeys === Funguo za AI
+device_api_messagesent === Ujumbe _8880_ umeshamilishwa!
+device_api_messagedelivered === Ujumbe _8880_ umewasilishwa!
+device_api_messagepending === Uwasilishaji wa ujumbe _8880_ unakusubiri!
+device_api_messagedeliveryfailed === Utoaji wa ujumbe _8880_ kutoka _8881_ umeshindwa!
+device_api_messagefailed === Imeshindikana kutuma ujumbe _8880_ kutoka _8881_!
+admin_gateway_form_title === Mipangilio ya Gati ya Android
+admin_gateway_formapktitle === Faili la APK
+admin_gateway_formapkdesc === Pakia faili la APK ulilolipakua kutoka kwenye dashibodi ya mteja. Tafadhali usibadilishe jina la faili.
+table_androidver_16 === Android 16

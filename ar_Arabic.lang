@@ -2986,3 +2986,12 @@ form_addautoreply_grouptrigger_desc === إذا تم التفعيل، ستقوم 
 form_addaikey_visonunsupported === رؤية غير مدعومة
 form_addaikey_pluginsunsupported === الإضافات غير مدعومة
 ai_menu_title_aikeys === مفاتيح الذكاء الاصطناعي
+device_api_messagesent === تم إرسال الرسالة _8880_!
+device_api_messagedelivered === تم تسليم الرسالة _8880_!
+device_api_messagepending === جاري انتظار تسليم الرسالة _8880_!
+device_api_messagedeliveryfailed === فشل تسليم الرسالة _8880_ من _8881_!
+device_api_messagefailed === فشل إرسال الرسالة _8880_ من _8881_!
+admin_gateway_form_title === إعدادات بوابة أندرويد
+admin_gateway_formapktitle === ملف APK
+admin_gateway_formapkdesc === حمّل ملف APK الذي قمت بتنزيله من لوحة معلومات العميل. يرجى عدم إعادة تسمية الملف.
+table_androidver_16 === أندرويد 16

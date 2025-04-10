@@ -2986,3 +2986,12 @@ form_addautoreply_grouptrigger_desc === Ọ bụrụ na arụnyere, a ga-emeghar
 form_addaikey_visonunsupported === Anaghị akwado nlekota
 form_addaikey_pluginsunsupported === Plugins adịghị akwado.
 ai_menu_title_aikeys === mkpọchi AI
+device_api_messagesent === Ozi _8880_ ezipụtara!
+device_api_messagedelivered === Ozi _8880_ erughi!
+device_api_messagepending === Ije ozi _8880_ na-echere!
+device_api_messagedeliveryfailed === Nkwado nkwukọrịta _8880_ site na _8881_ dara!
+device_api_messagefailed === Enweghị ike iziga ozi _8880_ si _8881_!
+admin_gateway_form_title === Ntọala Ngwongwo Android
+admin_gateway_formapktitle === Faịlụ APK
+admin_gateway_formapkdesc === Bulite faịlụ APK ị budatara site na dashboard onye ahịa. Biko, egbula faịlụ ahụ aha.
+table_androidver_16 === Android 16

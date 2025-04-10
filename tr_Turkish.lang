@@ -2986,3 +2986,12 @@ form_addautoreply_grouptrigger_desc === Eğer etkinleştirildi ise, bu otomatik 
 form_addaikey_visonunsupported === Görüş Desteklenmiyor
 form_addaikey_pluginsunsupported === Eklentiler Desteklenmiyor
 ai_menu_title_aikeys === Yapay Zeka Anahtarları
+device_api_messagesent === Mesaj _8880_ gönderildi!
+device_api_messagedelivered === Mesaj _8880_ teslim edildi!
+device_api_messagepending === _8880_ mesajının teslimatı beklemede!
+device_api_messagedeliveryfailed === _8880_ mesajının _8881_'den teslimatı başarısız!
+device_api_messagefailed === _MESAJ GÖNDERİLEMEDİ_ _8880_ _8881_'den!
+admin_gateway_form_title === Android Geçit Ayarları
+admin_gateway_formapktitle === APK Dosyası
+admin_gateway_formapkdesc === Müşteri panelinden indirdiğiniz APK dosyasını yükleyin. Lütfen dosyanın adını değiştirmeyin.
+table_androidver_16 === Android 16

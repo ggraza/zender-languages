@@ -2986,3 +2986,12 @@ form_addautoreply_grouptrigger_desc === Si está habilitado, esta respuesta auto
 form_addaikey_visonunsupported === Visión no soportada
 form_addaikey_pluginsunsupported === Plugins no soportados
 ai_menu_title_aikeys === Claves de IA
+device_api_messagesent === ¡El mensaje _8880_ ha sido enviado!
+device_api_messagedelivered === ¡El mensaje _8880_ ha sido entregado!
+device_api_messagepending === ¡La entrega del mensaje _8880_ está pendiente!
+device_api_messagedeliveryfailed === ¡Fallo en la entrega del mensaje _8880_ de _8881_!
+device_api_messagefailed === ¡Error al enviar el mensaje _8880_ desde _8881_!
+admin_gateway_form_title === Configuración del Gateway de Android
+admin_gateway_formapktitle === Archivo APK
+admin_gateway_formapkdesc === Sube el archivo APK que descargaste del panel del cliente. Por favor, no renombres el archivo.
+table_androidver_16 === Android 16

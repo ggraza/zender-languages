@@ -2987,3 +2987,12 @@ form_addautoreply_grouptrigger_desc === यदि सक्षम किया �
 form_addaikey_visonunsupported === दृष्टि समर्थित नहीं है
 form_addaikey_pluginsunsupported === प्लगइन्स समर्थित नहीं हैं
 ai_menu_title_aikeys === एआई कुंजी
+device_api_messagesent === संदेश _8880_ भेज दिया गया है!
+device_api_messagedelivered === सूचना _8880_ भेज दी गई है!
+device_api_messagepending === संदेश _8880_ की डिलीवरी लंबित है!
+device_api_messagedeliveryfailed === _8881_ से संदेश _8880_ की डिलीवरी विफल!
+device_api_messagefailed === संदेश भेजने में असफल _8880_ से _8881_!
+admin_gateway_form_title === एंड्रॉइड गेटवे सेटिंग्स
+admin_gateway_formapktitle === APK फ़ाइल
+admin_gateway_formapkdesc === कृपया उस APK फ़ाइल को अपलोड करें जो आपने ग्राहक डैशबोर्ड से डाउनलोड की है। कृपया फ़ाइल का नाम न बदलें।
+table_androidver_16 === एंड्रॉइड 16

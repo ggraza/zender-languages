@@ -2985,3 +2985,12 @@ form_addautoreply_grouptrigger_desc === Αν είναι ενεργοποιημέ
 form_addaikey_visonunsupported === Μη υποστηριζόμενη όραση
 form_addaikey_pluginsunsupported === Ανεπίsupported Plugins
 ai_menu_title_aikeys === Κλειδιά AI
+device_api_messagesent === Το μήνυμα _8880_ έχει σταλεί!
+device_api_messagedelivered === Το μήνυμα _8880_ έχει παραληφθεί!
+device_api_messagepending === Η αποστολή του μηνύματος _8880_ εκκρεμεί!
+device_api_messagedeliveryfailed === Αποτυχία παράδοσης μηνύματος _8880_ από _8881_!
+device_api_messagefailed === Απέτυχε να στείλει το μήνυμα _8880_ από _8881_!
+admin_gateway_form_title === Ρυθμίσεις Πύλης Android
+admin_gateway_formapktitle === Αρχείο APK
+admin_gateway_formapkdesc === Ανέβασε το αρχείο APK που κατέβασες από τον πίνακα ελέγχου πελάτη. Παρακαλώ μην μετονομάσεις το αρχείο.
+table_androidver_16 === Ανδροειδής 16

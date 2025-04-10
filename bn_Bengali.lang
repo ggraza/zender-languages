@@ -2986,3 +2986,12 @@ form_addautoreply_grouptrigger_desc === যদি সক্ষম করা হ�
 form_addaikey_visonunsupported === দৃষ্টি সমর্থিত নয়
 form_addaikey_pluginsunsupported === প্লাগইন সমর্থিত নয়
 ai_menu_title_aikeys === এআই কীগুলি
+device_api_messagesent === বার্তা _8880_ পাঠানো হয়েছে!
+device_api_messagedelivered === বার্তা _8880_ পাঠানো হয়েছে!
+device_api_messagepending === বার্তা _8880_ এর ডেলিভারি মুলতবি!
+device_api_messagedeliveryfailed === বার্তা _8880_ এর বিতরণ ব্যর্থ হয়েছে _8881_ থেকে!
+device_api_messagefailed === বেবহারকারী _8881_ থেকে _8880_ বার্তা পাঠাতে ব্যর্থ!
+admin_gateway_form_title === অ্যান্ড্রয়েড গেটওয়ে সেটিংস
+admin_gateway_formapktitle === এপিকে ফাইল
+admin_gateway_formapkdesc === আপনার গ্রাহক ড্যাশবোর্ড থেকে ডাউনলোড করা APK ফাইলটি আপলোড করুন। দয়া করে ফাইলটির নাম পরিবর্তন করবেন না।
+table_androidver_16 === অ্যান্ড্রয়েড 16

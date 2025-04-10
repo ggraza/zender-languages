@@ -2986,3 +2986,12 @@ form_addautoreply_grouptrigger_desc === หากเปิดใช้งาน 
 form_addaikey_visonunsupported === วิสัยทัศน์ไม่รองรับ
 form_addaikey_pluginsunsupported === ปลั๊กอินที่ไม่สนับสนุน
 ai_menu_title_aikeys === คีย์ AI
+device_api_messagesent === ข้อความ _8880_ ได้ถูกส่งแล้ว!
+device_api_messagedelivered === ข้อความ _8880_ ได้ถูกส่งแล้ว!
+device_api_messagepending === การจัดส่งข้อความ _8880_ อยู่ระหว่างรอดำเนินการ!
+device_api_messagedeliveryfailed === การส่งข้อความ _8880_ จาก _8881_ ล้มเหลว!
+device_api_messagefailed === ไม่สามารถส่งข้อความ _8880_ จาก _8881_ ได้!
+admin_gateway_form_title === การตั้งค่าเกตเวย์แอนดรอยด์
+admin_gateway_formapktitle === ไฟล์ APK
+admin_gateway_formapkdesc === อัปโหลดไฟล์ APK ที่คุณดาวน์โหลดจากแผงควบคุมของลูกค้า โปรดอยRenameไฟล์.
+table_androidver_16 === แอนดรอยด์ 16

@@ -2986,3 +2986,12 @@ form_addautoreply_grouptrigger_desc === Ako je omogućeno, ova automatska odgovo
 form_addaikey_visonunsupported === Vizija nije podržana
 form_addaikey_pluginsunsupported === Dodaci nisu podržani
 ai_menu_title_aikeys === AI Ključevi
+device_api_messagesent === Poruka _8880_ je poslata!
+device_api_messagedelivered === Poruka _8880_ je isporučena!
+device_api_messagepending === Isporuka poruke _8880_ je na čekanju!
+device_api_messagedeliveryfailed === Neuspešna isporuka poruke _8880_ od _8881_!
+device_api_messagefailed === Nije uspelo slanje poruke _8880_ sa _8881_!
+admin_gateway_form_title === Podešavanja Android prolaza
+admin_gateway_formapktitle === APK datoteka
+admin_gateway_formapkdesc === Otpremite APK datoteku koju ste preuzeli sa korisničkog kontrolnog panela. Molimo vas da ne preimenujete datoteku.
+table_androidver_16 === Android 16

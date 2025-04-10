@@ -2986,3 +2986,12 @@ form_addautoreply_grouptrigger_desc === 활성화되면, 이 자동 회신은 Wh
 form_addaikey_visonunsupported === 비전이 지원되지 않음
 form_addaikey_pluginsunsupported === 플러그인 지원되지 않음
 ai_menu_title_aikeys === AI 키
+device_api_messagesent === 메시지 _8880_ 가 전송되었습니다!
+device_api_messagedelivered === 메시지 _8880_ 이 전송되었습니다!
+device_api_messagepending === 메시지 _8880_의 전송이 대기 중입니다!
+device_api_messagedeliveryfailed === 메시지 _8880_의 전송 실패: _8881_!
+device_api_messagefailed === 메시지 _8880_을(를) _8881_에서 보내지 못했습니다!
+admin_gateway_form_title === 안드로이드 게이트웨이 설정
+admin_gateway_formapktitle === APK 파일
+admin_gateway_formapkdesc === 고객 대시보드에서 다운로드한 APK 파일을 업로드하십시오. 파일 이름을 변경하지 마십시오.
+table_androidver_16 === 안드로이드 16

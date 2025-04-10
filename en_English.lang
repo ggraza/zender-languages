@@ -2982,3 +2982,12 @@ form_addautoreply_grouptrigger_desc === If enabled, this autoreply will be trigg
 form_addaikey_visonunsupported === Vision Unsupported
 form_addaikey_pluginsunsupported === Plugins Unsupported
 ai_menu_title_aikeys === AI Keys
+device_api_messagesent === Message _8880_ has been sent!
+device_api_messagedelivered === Message _8880_ has been delivered!
+device_api_messagepending === Delivery of message _8880_ is pending!
+device_api_messagedeliveryfailed === Failed delivery of message _8880_ from _8881_!
+device_api_messagefailed === Failed to send message _8880_ from _8881_!
+admin_gateway_form_title === Android Gateway Settings
+admin_gateway_formapktitle === APK File
+admin_gateway_formapkdesc === Upload the APK file you downloaded from the customer dashboard. Please do not rename the file.
+table_androidver_16 === Android 16
