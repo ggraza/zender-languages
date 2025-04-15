@@ -2995,3 +2995,79 @@ admin_gateway_form_title === অ্যান্ড্রয়েড গেট�
 admin_gateway_formapktitle === এপিকে ফাইল
 admin_gateway_formapkdesc === আপনার গ্রাহক ড্যাশবোর্ড থেকে ডাউনলোড করা APK ফাইলটি আপলোড করুন। দয়া করে ফাইলটির নাম পরিবর্তন করবেন না।
 table_androidver_16 === অ্যান্ড্রয়েড 16
+and_doc_webhook_intro_title === পরিচিতি
+and_doc_webhook_intro_line1 === ওয়েবহুকগুলি একটি শক্তিশালী বৈশিষ্ট্য যা আপনার সার্ভারকে আপনার ডিভাইস বা WhatsApp থেকে ইভেন্টগুলির জন্য শুনতে দেয়। এটি আপনাকে কাজ অটোমেট করতে সাহায্য করে।
+and_doc_webhook_intro_line2 === এই বৈশিষ্ট্যটি শুধুমাত্র ইনকামিং ইভেন্টের জন্য কাজ করে যেমন এসএমএস, হোয়াটসঅ্যাপ বার্তা, ইউএসএসডি প্রতিক্রিয়া, এবং অ্যান্ড্রয়েড নোটিফিকেশন।
+and_doc_webhook_usecases_title === ব্যবহার কেসগুলো
+and_doc_webhook_usecase1 === এসএমএস এবং হোয়াটসঅ্যাপে স্বয়ংক্রিয় উত্তরদাতা বট।
+and_doc_webhook_usecase2 === আপনার ডেটাবেসে ম্যাসেজ এবং চ্যাটগুলি সংরক্ষণ করুন।
+and_doc_webhook_usecase3 === আপনার ডেটাবেসে নোটিফিকেশন সংরক্ষণ করুন।
+and_doc_webhook_usecase4 === আপনার ডাটাবেজে USSD উত্তর সংরক্ষণ করুন।
+and_doc_webhook_usecase5 === ইমেইল ঠিকানায় পে লোড পাঠান।
+and_doc_webhook_usecase6 === যখন আপনি ফেসবুকের নোটিফিকেশন পান, তখন একটি SMS বা চ্যাট পাঠান।
+and_doc_webhook_usecase7 === যেকোনো অ্যাপ থেকে নোটিফিকেশন গ্রহণ করার সময় ক্রিয়া চালান।
+and_doc_webhook_how_title === এটি কিভাবে কাজ করে
+and_doc_webhook_how_line1 === যখন একটি ইভেন্ট গ্রহণ করা হয়, সিস্টেমটি POST পদ্ধতি ব্যবহার করে এটি আপনার webhook URL এ পাঠায়। আপনার সার্ভার তখন পে-লোডটি আপনার ইচ্ছামত পরিচালনা করতে পারে।
+and_doc_webhook_flow_image_alt === ওয়েবহুক প্রবাহ
+and_doc_webhook_payload_title === পে-লোড স্ট্রাকচার
+and_doc_webhook_payload_line1 === প্রতিটি পে লোক একটি প্রকার এবং ডেটা রয়েছে। আপনাকে শুধু প্রকারটি পরীক্ষা করতে হবে এবং ডেটাটি প্রক্রিয়া করতে হবে।
+and_doc_webhook_payload_sms === এসএমএস
+and_doc_webhook_payload_whatsapp === হোয়াটসঅ্যাপ
+and_doc_webhook_payload_ussd === ইউএসএসডি
+and_doc_webhook_payload_notification === নোটিফিকেশন
+and_doc_webhook_code_title === কোড উদাহরণ
+and_doc_actions_intro_title === ভূমিকা
+and_doc_actions_intro_line1 === অ্যাকশনগুলি সরঞ্জাম যা সেন্ড/রিসিভ ইভেন্টগুলির জন্য শোনা বা স্বয়ংক্রিয়ভাবে বার্তায় উত্তর দেওয়ার মতো কাজগুলি স্বয়ংক্রিয় করতে সহায়ক।
+and_doc_actions_intro_line2 === এগুলি বিশেষভাবে SMS এবং WhatsApp সংশ্লিষ্ট অটোমেশন এর জন্য ডিজাইন করা হয়েছে।
+and_doc_actions_types_title === কার্যকলাপের প্রকারভেদ
+and_doc_actions_type_hooks === হুক্স
+and_doc_actions_type_hooks_desc === হুকগুলি SMS/WhatsApp পাঠানোর এবং গ্রহণের ইভেন্টের জন্য শুনে। ওয়েবহুকের বিপরীতে, এগুলি পাঠানোর ইভেন্টও সমর্থন করে এবং GET পদ্ধতি ব্যবহার করে। আপনি URL নিজেই গঠন করতে পারেন।
+and_doc_actions_type_autoreplies === স্বতঃসিদ্ধ উত্তর
+and_doc_actions_type_autoreplies_desc === অটোরিপ্লাইগুলি একটি কীওয়ার্ড শনাক্ত হলে Incoming মেসেজগুলিতে স্বয়ংক্রিয়ভাবে জবাব দেয়। আপনি কীওয়ার্ড এবং জবাবের বার্তা সেট করেন।
+and_doc_actions_usecases_title === ব্যবহারের ক্ষেত্রসমূহ
+and_doc_actions_usecase1 === যখন আপনি একটি বার্তা পাঠান বা গ্রহণ করেন, তখন আপনার সার্ভারে লগ ঘটনা করুন।
+and_doc_actions_usecase2 === বার্তা পাঠানো/গ্রহণের সময় একটি দূরবর্তী URL কল করুন।
+and_doc_actions_usecase3 === একটি বার্তায় কীওয়ার্ড পাওয়া গেলে স্বয়ংক্রিয়ভাবে উত্তর দিন।
+and_doc_actions_how_title === কীভাবে কাজ করে
+and_doc_actions_how_line1 === নীচের ছবিগুলি দেখায় কিভাবে হুক এবং অটো রিপ্লাই কাজ করে।
+and_doc_actions_flow_hooks === হুক্স
+and_doc_actions_flow_hooks_alt === হুকের জন্য প্রবাহ ডায়াগ্রাম
+and_doc_actions_flow_autoreplies === স্বয়ংক্রিয় উত্তর
+and_doc_actions_flow_autoreplies_alt === অটোরিপ্লাইয়ের জন্য প্রবাহ চিত্র
+and_doc_actions_code_title === হুক উভয় ক্ষেত্রেই কোড উদাহরণ
+and_doc_android_intro_title === পরিচিতি
+and_doc_android_intro_line1 === এসএমএস লেখার এবং পাওয়ার জন্য, আপনাকে সিম কার্ড সম্পূর্ণ Android ডিভাইসগুলি সংযুক্ত করতে হবে। এসএমএস পাঠানোর জন্য ক্যারিয়ারের ব্যালেন্স প্রয়োজন।
+and_doc_android_versions_title === অ্যান্ড্রয়েড সাপোর্ট
+and_doc_android_versions_line1 === গেটওয়ে অ্যাপ নিম্নলিখিত অ্যান্ড্রয়েড সংস্করণগুলো সমর্থন করে:
+and_doc_android_version_oreo === অ্যান্ড্রয়েড অরিও
+and_doc_android_version_pie === অ্যান্ড্রয়েড পাই
+and_doc_android_version_10 === অ্যান্ড্রয়েড ১০
+and_doc_android_version_11 === অ্যান্ড্রয়েড ১১
+and_doc_android_version_12 === অ্যান্ড্রয়েড ১২
+and_doc_android_version_13 === এন্ড্রয়েড ১৩
+and_doc_android_version_14 === এন্ড্রয়েড ১৪
+and_doc_android_version_15 === এন্ড্রয়েড ১৫
+and_doc_android_receive_title === এসএমএস গ্রহণ করা
+and_doc_android_receive_line1 === যদি ডিভাইজটি শুধুই পাঠানোর জন্য ব্যবহৃত হয় তাহলে আপনি এসএমএস গ্রহণ বন্ধ করতে পারেন।
+and_doc_android_receive_line2 === দ্রষ্টব্য: এটি গ্রহণের সাথে সম্পর্কিত বৈশিষ্ট্যগুলি যেমন ওয়েবহুকও নিষ্ক্রিয় করে দেবে।
+and_doc_android_interval_title === পাঠানোর অন্তরাল
+and_doc_android_interval_line1 === এসএমএস স্প্যাম সমস্যা এড়াতে এটি ব্যবহার করুন। বার্তাগুলি আপনি নির্ধারিত ন্যূনতম এবং সর্বাধিক সেকেন্ডের ভিত্তিতে এলোমেলো সময়ে পাঠানো হবে।
+and_doc_android_notifications_title === বিজ্ঞপ্তিসমূহ
+and_doc_android_notifications_line1 === প্ল্যাটফর্মটি অ্যান্ড্রয়েড নোটিফিকেশন শুনতে পারে এবং কাজগুলি স্বয়ংক্রিয় করতে সহায়তা করে।
+and_doc_android_notifications_line2 === ডিভাইসের APPLICATIONS ক্ষেত্রে অ্যাপ প্যাকেজের নাম सेट করুন। প্রতিটি প্যাকেজ আলাদা করতে লাইন ব্রেক ব্যবহার করুন।
+and_doc_android_partner_title === পার্টনার সেটিংস
+and_doc_android_partner_line1 === পার্টনাররা বিশেষ ডিভাইস সেটিংসে প্রবেশ করতে পারে যার মধ্যে রয়েছে গ্লোবাল ডিভাইস অ্যাক্সেস এবং হার নির্ভারণ।
+and_doc_partner_intro_title === পরিচিতি
+and_doc_partner_intro_line1 === আমাদের পার্টনারশিপ সিস্টেম আপনাকে অন্য ব্যবহারকারীদের সাথে আপনার ডিভাইস শেয়ার করে স্থানীয় নেটওয়ার্কে বার্তা প্রেরণের মাধ্যমে উপার্জন করার সুযোগ দেয়।
+and_doc_partner_intro_line2 === আপনি আপনার পার্টনার ডিভাইসগুলি সম্পূর্ণরূপে নিয়ন্ত্রণ করেন। আপনি উভয় সিম কার্ড সক্ষম করতে পারেন এবং এলোমেলো পাঠানোর অন্তর্বর্তীকাল নির্ধারণ করতে পারেন।
+and_doc_partner_earning_title === উপার্জনের সম্ভাবনা
+and_doc_partner_earning_case1 === দেশ X এর একটি ব্যবহারকারী আপনার দেশ Y তে বার্তা পাঠাতে চায়। যদি আপনার ডিভাইসের সাথে साझীদারিত্ব থাকে, তবে তারা আপনার ডিভাইস ব্যবহার করে স্থানীয় বার্তা কম খরচে পাঠাতে পারে।
+and_doc_partner_earning_case2 === আপনার দেশের একজন ব্যবহারকারী যদি তার নিজের ডিভাইস না থাকে তবে তারা আপনার অংশীদার ডিভাইসও ব্যবহার করতে পারে।
+and_doc_partner_how_title === এটি কীভাবে কাজ করে?
+and_doc_partner_how_alt === অংশীদার সিস্টেম কিভাবে কাজ করে তা দেখানো ডায়াগ্রাম
+and_doc_partner_apply_title === কিভাবে আবেদন করবেন?
+and_doc_partner_apply_line1 === যদি আপনি অংশীদার হতে আগ্রহী হন, অনুগ্রহ করে আমাদের সাথে যোগাযোগ করুন যাতে আমরা আপনার অ্যাকাউন্ট আপগ্রেড করতে পারি।
+response_admin_gateway_faileduploadapk === এপিকে ফাইল আপলোড করতে ব্যর্থ!
+response_admin_gateway_invalidapkfilename === এপিকে ফাইলের নামের মধ্যে সংস্করণ থাকতে হবে (যেমন com.packagename.test_v3.9.4.apk)
+response_admin_gateway_invalidapkfile === অ valido APK ফাইল!
+response_admin_gateway_updatesuccess === গেটওয়ে অ্যাপ সফলভাবে আপডেট হয়েছে!

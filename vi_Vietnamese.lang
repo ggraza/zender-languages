@@ -2995,3 +2995,79 @@ admin_gateway_form_title === Cài đặt Cổng Android
 admin_gateway_formapktitle === Tệp APK
 admin_gateway_formapkdesc === Tải lên tệp APK mà bạn đã tải xuống từ bảng điều khiển khách hàng. Xin đừng đổi tên tệp.
 table_androidver_16 === Android 16
+and_doc_webhook_intro_title === Giới thiệu
+and_doc_webhook_intro_line1 === Webhooks là một tính năng mạnh mẽ cho phép máy chủ của bạn lắng nghe các sự kiện từ thiết bị hoặc WhatsApp của bạn. Điều này giúp bạn tự động hóa các tác vụ.
+and_doc_webhook_intro_line2 === Tính năng này chỉ hoạt động với các sự kiện đến như SMS, tin nhắn WhatsApp, phản hồi USSD và thông báo Android.
+and_doc_webhook_usecases_title === Trường hợp sử dụng
+and_doc_webhook_usecase1 === Bot trả lời tự động cho SMS và WhatsApp.
+and_doc_webhook_usecase2 === Lưu tin nhắn và trò chuyện vào cơ sở dữ liệu của bạn.
+and_doc_webhook_usecase3 === Lưu thông báo vào cơ sở dữ liệu của bạn.
+and_doc_webhook_usecase4 === Lưu phản hồi USSD vào cơ sở dữ liệu của bạn.
+and_doc_webhook_usecase5 === Gửi payloads đến địa chỉ email.
+and_doc_webhook_usecase6 === Gửi tin nhắn SMS hoặc trò chuyện khi bạn nhận được thông báo từ Facebook.
+and_doc_webhook_usecase7 === Chạy hành động khi nhận thông báo từ bất kỳ ứng dụng nào.
+and_doc_webhook_how_title === Cách thức hoạt động
+and_doc_webhook_how_line1 === Khi một sự kiện được nhận, hệ thống sẽ gửi nó đến URL webhook của bạn bằng phương thức POST. Máy chủ của bạn có thể xử lý payload theo cách bạn muốn.
+and_doc_webhook_flow_image_alt === Luồng Webhook
+and_doc_webhook_payload_title === Cấu trúc Tải trọng
+and_doc_webhook_payload_line1 === Mỗi payload có một loại và dữ liệu. Bạn chỉ cần kiểm tra loại và xử lý dữ liệu.
+and_doc_webhook_payload_sms === tin nhắn
+and_doc_webhook_payload_whatsapp === WhatsApp
+and_doc_webhook_payload_ussd === USSD
+and_doc_webhook_payload_notification === Thông báo
+and_doc_webhook_code_title === Ví dụ về mã
+and_doc_actions_intro_title === Giới thiệu
+and_doc_actions_intro_line1 === Hành động là công cụ giúp tự động hóa các tác vụ như lắng nghe sự kiện gửi/nhận hoặc trả lời tin nhắn tự động.
+and_doc_actions_intro_line2 === Chúng được thiết kế đặc biệt cho tự động hóa liên quan đến SMS và WhatsApp.
+and_doc_actions_types_title === Các loại hành động
+and_doc_actions_type_hooks === Góc nối
+and_doc_actions_type_hooks_desc === Hooks lắng nghe các sự kiện gửi và nhận SMS/WhatsApp. Khác với webhooks, chúng cũng hỗ trợ các sự kiện gửi và sử dụng phương thức GET. Bạn có thể tự cấu trúc URL.
+and_doc_actions_type_autoreplies === Trả lời tự động
+and_doc_actions_type_autoreplies_desc === Phản hồi tự động sẽ trả lời tự động các tin nhắn đến khi phát hiện từ khóa. Bạn thiết lập từ khóa và tin nhắn phản hồi.
+and_doc_actions_usecases_title === Trường hợp sử dụng
+and_doc_actions_usecase1 === Ghi lại sự kiện vào máy chủ của bạn khi bạn gửi hoặc nhận tin nhắn.
+and_doc_actions_usecase2 === Gọi một URL từ xa khi gửi/nhận tin nhắn.
+and_doc_actions_usecase3 === Tự động trả lời nếu tìm thấy từ khóa trong tin nhắn.
+and_doc_actions_how_title === Cách hoạt động
+and_doc_actions_how_line1 === Các hình ảnh dưới đây giải thích cách mà hooks và autoreplies hoạt động.
+and_doc_actions_flow_hooks === Móc
+and_doc_actions_flow_hooks_alt === Sơ đồ luồng cho Hooks
+and_doc_actions_flow_autoreplies === Tin trả lời tự động
+and_doc_actions_flow_autoreplies_alt === Sơ đồ luồng cho Tin nhắn tự động
+and_doc_actions_code_title === Ví dụ mã cho Hooks
+and_doc_android_intro_title === Giới thiệu
+and_doc_android_intro_line1 === Để gửi và nhận tin nhắn SMS, bạn cần kết nối các thiết bị Android với hỗ trợ thẻ SIM. Gửi SMS yêu cầu số dư của nhà mạng.
+and_doc_android_versions_title === Hỗ trợ Android
+and_doc_android_versions_line1 === Ứng dụng cổng hỗ trợ các phiên bản Android sau:
+and_doc_android_version_oreo === Android Oreo
+and_doc_android_version_pie === Android Pie
+and_doc_android_version_10 === Android 10
+and_doc_android_version_11 === Android 11
+and_doc_android_version_12 === Android 12
+and_doc_android_version_13 === Android 13
+and_doc_android_version_14 === Android 14
+and_doc_android_version_15 === Android 15
+and_doc_android_receive_title === Nhận SMS
+and_doc_android_receive_line1 === Bạn có thể tắt nhận SMS từ thiết bị nếu nó chỉ được sử dụng để gửi.
+and_doc_android_receive_line2 === Lưu ý: điều này cũng sẽ vô hiệu hóa các tính năng liên quan đến nhận như webhooks.
+and_doc_android_interval_title === Thời gian gửi
+and_doc_android_interval_line1 === Sử dụng điều này để tránh vấn đề spam SMS. Tin nhắn sẽ được gửi với khoảng cách ngẫu nhiên dựa trên giây tối thiểu và tối đa mà bạn xác định.
+and_doc_android_notifications_title === Thông báo
+and_doc_android_notifications_line1 === Nền tảng có thể lắng nghe thông báo trên Android và giúp tự động hóa các tác vụ.
+and_doc_android_notifications_line2 === Đặt tên gói ứng dụng trong trường ỨNG DỤNG của thiết bị. Sử dụng ngắt dòng để phân tách mỗi gói.
+and_doc_android_partner_title === Cài đặt Đối tác
+and_doc_android_partner_line1 === Đối tác có thể truy cập các cài đặt thiết bị đặc biệt bao gồm quyền truy cập thiết bị toàn cầu và kiểm soát tỷ lệ.
+and_doc_partner_intro_title === Giới thiệu
+and_doc_partner_intro_line1 === Hệ thống đối tác của chúng tôi cho phép bạn kiếm tiền bằng cách chia sẻ thiết bị của mình với người dùng khác để gửi tin nhắn trên mạng cục bộ của bạn.
+and_doc_partner_intro_line2 === Bạn hoàn toàn kiểm soát thiết bị của đối tác. Bạn có thể kích hoạt cả hai thẻ SIM và thiết lập khoảng thời gian gửi ngẫu nhiên.
+and_doc_partner_earning_title === Tiềm năng thu nhập
+and_doc_partner_earning_case1 === Một người dùng từ quốc gia X muốn gửi tin nhắn đến quốc gia Y của bạn. Nếu thiết bị của bạn đã được hợp tác, họ có thể gửi tin nhắn nội địa bằng thiết bị của bạn với chi phí thấp hơn.
+and_doc_partner_earning_case2 === Một người dùng trong nước của bạn cũng có thể sử dụng thiết bị của bạn nếu họ không có thiết bị nào.
+and_doc_partner_how_title === Nó hoạt động như thế nào?
+and_doc_partner_how_alt === Sơ đồ mô tả cách thức hoạt động của hệ thống đối tác
+and_doc_partner_apply_title === Làm thế nào để nộp đơn?
+and_doc_partner_apply_line1 === Nếu bạn quan tâm đến việc trở thành đối tác, vui lòng liên hệ với chúng tôi để chúng tôi có thể nâng cấp tài khoản của bạn.
+response_admin_gateway_faileduploadapk === Tải lên tệp APK không thành công!
+response_admin_gateway_invalidapkfilename === Tên tệp APK phải chứa phiên bản (ví dụ: com.packagename.test_v3.9.4.apk)
+response_admin_gateway_invalidapkfile === Tệp APK không hợp lệ!
+response_admin_gateway_updatesuccess === Ứng dụng Gateway đã được cập nhật thành công!

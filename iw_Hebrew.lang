@@ -2995,3 +2995,79 @@ admin_gateway_form_title === הגדרות שער אנדרואיד
 admin_gateway_formapktitle === קובץ APK
 admin_gateway_formapkdesc === העלו את קובץ ה-APK שהורדתם מלוח הבקרה של הלקוח. אנא אל תשנו את שם הקובץ.
 table_androidver_16 === אנדרואיד 16
+and_doc_webhook_intro_title === הקדמה
+and_doc_webhook_intro_line1 === וובהוקים הם תכונה עוצמתית המאפשרת לשרת שלך להקשיב לאירועים מהתקנים שלך או מווטסאפ. זה עוזר לך לאוטומט משימות.
+and_doc_webhook_intro_line2 === תכונה זו פועלת רק עבור אירועים נכנסים כמו SMS, הודעות WhatsApp, תגובות USSD והודעות אנדרואיד.
+and_doc_webhook_usecases_title === מקרי שימוש
+and_doc_webhook_usecase1 === בוט מענה אוטומטי עבור SMS וואטסאפ.
+and_doc_webhook_usecase2 === שמור הודעות וצ'טים במסד הנתונים שלך.
+and_doc_webhook_usecase3 === שמור התראות במסד הנתונים שלך.
+and_doc_webhook_usecase4 === שמור תשובות USSD במסד הנתונים שלך.
+and_doc_webhook_usecase5 === שלח מסמכים לכתובת דוא"ל.
+and_doc_webhook_usecase6 === שלח SMS או שיחה כאשר אתה מקבל התראה מפייסבוק.
+and_doc_webhook_usecase7 === הפעל פעולות כאשר מתקבלת התראה מאפליקציה כלשהי.
+and_doc_webhook_how_title === איך זה עובד
+and_doc_webhook_how_line1 === כאשר אירוע מתקבל, המערכת שולחת אותו לכתובת ה-URL של ה-webhook שלך באמצעות שיטת POST. השרת שלך יכול לטפל בטעינה ככל שתרצה.
+and_doc_webhook_flow_image_alt === זרימת ווב הוק
+and_doc_webhook_payload_title === מבנה payload
+and_doc_webhook_payload_line1 === לכל מטען יש סוג ונתונים. אתה רק צריך לבדוק את הסוג ולעבד את הנתונים.
+and_doc_webhook_payload_sms === הודעת טקסט
+and_doc_webhook_payload_whatsapp === ווטסאפ
+and_doc_webhook_payload_ussd === יוסד
+and_doc_webhook_payload_notification === התראה
+and_doc_webhook_code_title === דוגמת קוד
+and_doc_actions_intro_title === מבוא
+and_doc_actions_intro_line1 === פעולות הן כלים שעוזרים לאוטומט משימות כמו האזנה לאירועי שליחה/קבלה או מענה אוטומטי להודעות.
+and_doc_actions_intro_line2 === הם מיועדים במיוחד למיכון הקשור ל-SMS ולוואטסאפ.
+and_doc_actions_types_title === סוגי פעולות
+and_doc_actions_type_hooks === חִיבּוּרִים
+and_doc_actions_type_hooks_desc === הוקס מקשיבים לאירועים של שליחת וקבלת SMS/WhatsApp. בשונה מ-webhooks, הם גם תומכים באירועי שליחה ומשתמשים בשיטת GET. אתה יכול לבנות את ה-URL בעצמך.
+and_doc_actions_type_autoreplies === תשובות אוטומטיות
+and_doc_actions_type_autoreplies_desc === תשובות אוטומטיות מגיבות אוטומטית להודעות נכנסות כאשר מילה מסוימת מזוהה. אתה קובע את המילים והמענה.
+and_doc_actions_usecases_title === מקרי שימוש
+and_doc_actions_usecase1 === תעד אירועים לשרת שלך כשאתה שולח או מקבל הודעה.
+and_doc_actions_usecase2 === קרא כתובת URL מרוחקת כאשר נשלחת/בתהליך קבלה של הודעה.
+and_doc_actions_usecase3 === ענה באופן אוטומטי אם מילות מפתח נמצאות בהודעה.
+and_doc_actions_how_title === איך זה עובד
+and_doc_actions_how_line1 === התמונות למטה מסבירות כיצד פיתולים והודעות אוטומטיות פועלים.
+and_doc_actions_flow_hooks === הוקס
+and_doc_actions_flow_hooks_alt === דיאגרמת זרימה עבור חִבְרוֹת
+and_doc_actions_flow_autoreplies === תשובות אוטומטיות
+and_doc_actions_flow_autoreplies_alt === דיאגרמת זרימה עבור תשובות אוטומטיות
+and_doc_actions_code_title === דוגמת קוד להוקס
+and_doc_android_intro_title === מבוא
+and_doc_android_intro_line1 === כדי לשלוח ולקבל הודעות SMS, עליך לקשר מכשירי Android עם תמיכה בכרטיס SIM. שליחת SMS דורשת יתרה אצל הספק.
+and_doc_android_versions_title === תמיכת אנדרואיד
+and_doc_android_versions_line1 === האפליקציה משמשת את הגרסאות הבאות של אנדרואיד:
+and_doc_android_version_oreo === אנדרואיד אוריאו
+and_doc_android_version_pie === אנדרואיד פאי
+and_doc_android_version_10 === אנדרואיד 10
+and_doc_android_version_11 === אנדרואיד 11
+and_doc_android_version_12 === אנדרואיד 12
+and_doc_android_version_13 === אנדרואיד 13
+and_doc_android_version_14 === אנדרואיד 14
+and_doc_android_version_15 === אנדרואיד 15
+and_doc_android_receive_title === קבלת SMS
+and_doc_android_receive_line1 === ניתן להשבית קבלת סמס ממכשיר אם הוא משמש רק למשלוח.
+and_doc_android_receive_line2 === שימו לב: זה גם יכבה תכונות קשורות לקבלה כגון webhooks.
+and_doc_android_interval_title === שלח מרווח
+and_doc_android_interval_line1 === שתמש בזה כדי למנוע בעיות ספאם בהודעות SMS. ההודעות יישלחו בזמנים רנדומליים בהתבסס על השניות המינימליות והמקסימליות שהגדרת.
+and_doc_android_notifications_title === התראות
+and_doc_android_notifications_line1 === הפלטפורמה יכולה להקשיב להודעות אנדרואיד ולעזור באוטומציה של משימות.
+and_doc_android_notifications_line2 === -set את שמות חבילת האפליקציות בשדה היישומים של המכשיר. השתמש בכשורי שורות כדי להפריד בין כל חבילה.
+and_doc_android_partner_title === הגדרות שותף
+and_doc_android_partner_line1 === שותפים יכולים לגשת להגדרות מכשיר מיוחדות כולל גישה עולמית למכשיר ושליטה על שיעורים.
+and_doc_partner_intro_title === מבוא
+and_doc_partner_intro_line1 === מערכת השותפות שלנו מאפשרת לך להרוויח על ידי שיתוף המכשירים שלך עם משתמשים אחרים כדי לשלוח הודעות ברשת המקומית שלך.
+and_doc_partner_intro_line2 === אתה שולט במכשירים של השותף שלך לחלוטין. אתה יכול להפעיל את שני כרטיסי ה-SIM ולקבוע זמני שליחה אקראיים.
+and_doc_partner_earning_title === פוטנציאל הרווח
+and_doc_partner_earning_case1 === משתמש ממדינה X רוצה לשלוח הודעות למדינה Y שלך. אם המכשיר שלך משתף פעולה, הם יכולים לשלוח הודעות מקומיות באמצעות המכשיר שלך בעלות נמוכה יותר.
+and_doc_partner_earning_case2 === משתמש במדינתך יכול גם להשתמש במכשיר השותף שלך אם אין לו אחד.
+and_doc_partner_how_title === איך זה עובד?
+and_doc_partner_how_alt === דיאגרמה המראה איך מערכת השותפים פועלת
+and_doc_partner_apply_title === איך להגיש בקשה?
+and_doc_partner_apply_line1 === אם אתה מעוניין להיות שותף, אנא צור קשר איתנו כדי שנוכל לשדרג את החשבון שלך.
+response_admin_gateway_faileduploadapk === שגיאה בהעלאת קובץ APK!
+response_admin_gateway_invalidapkfilename === שם קובץ ה-APK חייב לכלול גרסה (למשל com.packagename.test_v3.9.4.apk)
+response_admin_gateway_invalidapkfile === קובץ APK אינו חוקי!
+response_admin_gateway_updatesuccess === האפליקציה של השער עודכנה בהצלחה!

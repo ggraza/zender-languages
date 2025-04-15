@@ -2996,3 +2996,79 @@ admin_gateway_form_title === एंड्रॉइड गेटवे सेट�
 admin_gateway_formapktitle === APK फ़ाइल
 admin_gateway_formapkdesc === कृपया उस APK फ़ाइल को अपलोड करें जो आपने ग्राहक डैशबोर्ड से डाउनलोड की है। कृपया फ़ाइल का नाम न बदलें।
 table_androidver_16 === एंड्रॉइड 16
+and_doc_webhook_intro_title === परिचय
+and_doc_webhook_intro_line1 === वेबहुक एक शक्तिशाली विशेषता है जो आपके सर्वर को आपके उपकरणों या व्हाट्सएप से घटनाओं के लिए सुनने देती है। यह आपको कार्यों को स्वचालित करने में मदद करती है।
+and_doc_webhook_intro_line2 === यह फ़ीचर केवल आवक घटनाओं जैसे SMS, WhatsApp संदेश, USSD प्रतिक्रियाएँ, और Android सूचनाओं के लिए कार्य करता है।
+and_doc_webhook_usecases_title === उपयोग मामले
+and_doc_webhook_usecase1 === एसएमएस और व्हाट्सएप के लिए ऑटो-उत्तर बॉट।
+and_doc_webhook_usecase2 === संदेशों और चैट्स को अपने डेटाबेस में सुरक्षित करें।
+and_doc_webhook_usecase3 === अपने डेटाबेस में सूचनाएँ सहेजें।
+and_doc_webhook_usecase4 === अपने डेटाबेस में USSD प्रतिक्रियाएँ सहेजें।
+and_doc_webhook_usecase5 === ईमेल पतों पर पेलोड भेजें।
+and_doc_webhook_usecase6 === जब आपको फेसबुक सूचना मिले, तो एक एसएमएस या चैट भेजें।
+and_doc_webhook_usecase7 === किसी भी ऐप से सूचना मिलने पर क्रियाएँ चलाएँ।
+and_doc_webhook_how_title === यह कैसे काम करता है
+and_doc_webhook_how_line1 === जब एक घटना प्राप्त होती है, तो सिस्टम इसे POST विधि का उपयोग करते हुए आपके वेबहुक URL पर भेजता है। आपका सर्वर फिर Payload को आपकी इच्छानुसार संभाल सकता है।
+and_doc_webhook_flow_image_alt === वेबहुक प्रवाह
+and_doc_webhook_payload_title === पेलोड संरचना
+and_doc_webhook_payload_line1 === प्रत्येक पेलोड में एक प्रकार और डेटा होता है। आपको केवल प्रकार की जांच करनी है और डेटा को संसाधित करना है।
+and_doc_webhook_payload_sms === एसएमएस
+and_doc_webhook_payload_whatsapp === व्हॉट्सएप
+and_doc_webhook_payload_ussd === यूएसएसडी
+and_doc_webhook_payload_notification === सूचना
+and_doc_webhook_code_title === कोड उदाहरण
+and_doc_actions_intro_title === परिचय
+and_doc_actions_intro_line1 === क्रियाएँ उपकरण हैं जो ऐसे कार्यों को स्वचालित करने में मदद करती हैं जैसे भेजने/प्राप्त करने के घटनाओं के लिए सुनना या संदेशों का स्वचालित उत्तर देना।
+and_doc_actions_intro_line2 === ये विशेष रूप से SMS और WhatsApp संबंधित स्वचालन के लिए तैयार किए गए हैं।
+and_doc_actions_types_title === क्रियाओं के प्रकार
+and_doc_actions_type_hooks === हुक्स
+and_doc_actions_type_hooks_desc === हुक्स एसएमएस/व्हाट्सएप भेजने और प्राप्त करने की घटनाओं के लिए सुनते हैं। वेबसाइट हुक्स के विपरीत, वे भेजने की घटनाओं का भी समर्थन करते हैं और GET विधि का उपयोग करते हैं। आप खुद URL को संरचना कर सकते हैं।
+and_doc_actions_type_autoreplies === स्वत: प्रतिक्रियाएँ
+and_doc_actions_type_autoreplies_desc === स्वतः उत्तर उन आने वाले संदेशों का स्वतः जवाब देते हैं जब कोई प्रमुख शब्द पता चलता है। आप प्रमुख शब्द और उत्तर संदेश सेट करते हैं।
+and_doc_actions_usecases_title === उपयोग के मामले
+and_doc_actions_usecase1 === जब आप संदेश भेजते या प्राप्त करते हैं, तो इसे अपने सर्वर में लॉग करें।
+and_doc_actions_usecase2 === संदेश भेजने/प्राप्त करने पर एक दूरस्थ यूआरएल को कॉल करें।
+and_doc_actions_usecase3 === यदि संदेश में कोई कीवर्ड पाया जाता है तो स्वचालित रूप से उत्तर दें।
+and_doc_actions_how_title === यह कैसे काम करता है
+and_doc_actions_how_line1 === नीचे दी गई छवियाँ दर्शाती हैं कि हुक और ऑटोरिप्लाई कैसे काम करते हैं।
+and_doc_actions_flow_hooks === हुक्स
+and_doc_actions_flow_hooks_alt === हुक्स के लिए फ्लो डायग्राम
+and_doc_actions_flow_autoreplies === स्वतः उत्तर
+and_doc_actions_flow_autoreplies_alt === ऑटोरिप्लाई के लिए फ्लो डायग्राम
+and_doc_actions_code_title === हुक के लिए कोड उदाहरण
+and_doc_android_intro_title === परिचय
+and_doc_android_intro_line1 === एसएमएस संदेश भेजने और प्राप्त करने के लिए, आपको सिम कार्ड सपोर्ट वाले एंड्रॉइड उपकरणों को लिंक करना होगा। एसएमएस भेजने के लिए कैरियर बैलेंस की आवश्यकता होती है।
+and_doc_android_versions_title === एंड्रॉइड समर्थन
+and_doc_android_versions_line1 === गेटवे ऐप निम्नलिखित एंड्रॉइड संस्करणों का समर्थन करता है:
+and_doc_android_version_oreo === एंड्रॉइड ओरेओ
+and_doc_android_version_pie === एंड्रॉइड पाई
+and_doc_android_version_10 === एंड्रॉयड 10
+and_doc_android_version_11 === एंड्रॉयड 11
+and_doc_android_version_12 === एंड्रॉइड 12
+and_doc_android_version_13 === एंड्रॉइड 13
+and_doc_android_version_14 === एंड्रॉइड 14
+and_doc_android_version_15 === एंड्रॉइड 15
+and_doc_android_receive_title === SMS प्राप्त कर रहे हैं
+and_doc_android_receive_line1 === आप एक डिवाइस से SMS रिसीव करने को अक्षम कर सकते हैं यदि इसका उपयोग केवल भेजने के लिए किया जाता है।
+and_doc_android_receive_line2 === नोट: यह प्राप्त से संबंधित सुविधाओं जैसे वेबहुक्स को भी निष्क्रिय कर देगा।
+and_doc_android_interval_title === भेजने का इंटरवल
+and_doc_android_interval_line1 === इसका उपयोग SMS स्पैम समस्याओं से बचने के लिए करें। संदेश आपके द्वारा परिभाषित न्यूनतम और अधिकतम सेकंड के आधार पर यादृच्छिक अंतराल पर भेजे जाएंगे।
+and_doc_android_notifications_title === सूचनाएँ
+and_doc_android_notifications_line1 === यह प्लेटफ़ॉर्म एंड्रॉइड सूचनाओं को सुन सकता है और कार्यों को स्वचालित करने में मदद कर सकता है।
+and_doc_android_notifications_line2 === आवेदन के APPLICATIONS क्षेत्र में ऐप पैकेज नाम सेट करें। प्रत्येक पैकेज को अलग करने के लिए लाइन ब्रेक का उपयोग करें।
+and_doc_android_partner_title === साझेदार सेटिंग्स
+and_doc_android_partner_line1 === भागीदार विशेष डिवाइस सेटिंग्स तक पहुँच सकते हैं जिसमें वैश्विक डिवाइस पहुँच और दर नियंत्रण शामिल हैं।
+and_doc_partner_intro_title === परिचय
+and_doc_partner_intro_line1 === हमारा भागीदारी प्रणाली आपको अन्य उपयोगकर्ताओं के साथ अपने उपकरण साझा करके अपने स्थानीय नेटवर्क पर संदेश भेजने के लिए कमाई करने देती है।
+and_doc_partner_intro_line2 === आप पूरी तरह से अपने साथी उपकरणों पर नियंत्रण रखते हैं। आप दोनों SIM कार्ड सक्रिय कर सकते हैं और यादृच्छिक भेजने के अंतराल सेट कर सकते हैं।
+and_doc_partner_earning_title === आय की संभावनाएँ
+and_doc_partner_earning_case1 === देश X का एक उपयोगकर्ता आपके देश Y को संदेश भेजना चाहता है। यदि आपका डिवाइस पार्टनर है, तो वे आपके डिवाइस का उपयोग करके कम लागत पर स्थानीय संदेश भेज सकते हैं।
+and_doc_partner_earning_case2 === आपके देश में एक उपयोगकर्ता आपके साझेदार डिवाइस का उपयोग कर सकता है यदि उनके पास कोई नहीं है।
+and_doc_partner_how_title === यह कैसे काम करता है?
+and_doc_partner_how_alt === साझेदार प्रणाली कैसे काम करती है यह दिखाने वाला आरेख
+and_doc_partner_apply_title === कैसे आवेदन करें?
+and_doc_partner_apply_line1 === यदि आप साझेदार बनने में रुचि रखते हैं, तो कृपया हमसे संपर्क करें ताकि हम आपका खाता अपग्रेड कर सकें।
+response_admin_gateway_faileduploadapk === APK फ़ाइल अपलोड करने में विफल!
+response_admin_gateway_invalidapkfilename === APK फ़ाइल नाम में संस्करण होना चाहिए (जैसे com.packagename.test_v3.9.4.apk)
+response_admin_gateway_invalidapkfile === अमान्य APK फ़ाइल!
+response_admin_gateway_updatesuccess === गेटवे ऐप सफलतापूर्वक अपडेट हो गया!

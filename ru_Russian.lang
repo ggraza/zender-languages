@@ -2995,3 +2995,79 @@ admin_gateway_form_title === Настройки Android Gateway
 admin_gateway_formapktitle === APK-файл
 admin_gateway_formapkdesc === Загрузите APK файл, который вы скачали с панели управления клиента. Пожалуйста, не переименовывайте файл.
 table_androidver_16 === Андроид 16
+and_doc_webhook_intro_title === Введение
+and_doc_webhook_intro_line1 === Вебхуки — это мощная функция, позволяющая вашему серверу слушать события от ваших устройств или WhatsApp. Это помогает автоматизировать задачи.
+and_doc_webhook_intro_line2 === Эта функция работает только для входящих событий, таких как SMS, сообщения WhatsApp, ответы USSD и уведомления Android.
+and_doc_webhook_usecases_title === Сценарии использования
+and_doc_webhook_usecase1 === Автоответчик для SMS и WhatsApp.
+and_doc_webhook_usecase2 === Сохраните сообщения и чаты в вашу базу данных.
+and_doc_webhook_usecase3 === Сохраните уведомления в вашей базе данных.
+and_doc_webhook_usecase4 === Сохраните USSD-ответы в вашей базе данных.
+and_doc_webhook_usecase5 === Отправить полезные нагрузки на адреса электронной почты.
+and_doc_webhook_usecase6 === Отправляйте SMS или сообщение в чате, когда получаете уведомление от Facebook.
+and_doc_webhook_usecase7 === Запускайте действия при получении уведомления от любого приложения.
+and_doc_webhook_how_title === Как это работает
+and_doc_webhook_how_line1 === Когда событие получено, система отправляет его на ваш URL вебхука с использованием метода POST. Ваш сервер может обрабатывать полезную нагрузку по вашему усмотрению.
+and_doc_webhook_flow_image_alt === Вебхук поток
+and_doc_webhook_payload_title === Структура полезной нагрузки
+and_doc_webhook_payload_line1 === Каждый полезный нагрузка имеет тип и данные. Вам нужно только проверить тип и обработать данные.
+and_doc_webhook_payload_sms === СМС
+and_doc_webhook_payload_whatsapp === WhatsApp
+and_doc_webhook_payload_ussd === USSD
+and_doc_webhook_payload_notification === Уведомление
+and_doc_webhook_code_title === Пример кода
+and_doc_actions_intro_title === Введение
+and_doc_actions_intro_line1 === Действия — это инструменты, которые помогают автоматизировать задачи, такие как прослушивание событий отправки/получения или автоматический ответ на сообщения.
+and_doc_actions_intro_line2 === Они специально разработаны для автоматизации, связанной с SMS и WhatsApp.
+and_doc_actions_types_title === Типы действий
+and_doc_actions_type_hooks === Крючки
+and_doc_actions_type_hooks_desc === Хуки слушают события отправки и получения SMS/WhatsApp. В отличие от вебхуков, они также поддерживают события отправки и используют метод GET. Вы можете сами структурировать URL.
+and_doc_actions_type_autoreplies === Автоответы
+and_doc_actions_type_autoreplies_desc === Автов ответы автоматически реагируют на входящие сообщения, когда обнаруживается ключевое слово. Вы устанавливаете ключевые слова и текст ответа.
+and_doc_actions_usecases_title === Сценарии использования
+and_doc_actions_usecase1 === Записывайте события на свой сервер, когда отправляете или получаете сообщение.
+and_doc_actions_usecase2 === Вызывать удаленный URL при отправке/получении сообщения.
+and_doc_actions_usecase3 === Автоматически отвечать, если в сообщении найдено ключевое слово.
+and_doc_actions_how_title === Как это работает
+and_doc_actions_how_line1 === Изображения ниже объясняют, как работают хуки и автов ответы.
+and_doc_actions_flow_hooks === Крючки
+and_doc_actions_flow_hooks_alt === Схема потоков для хуков
+and_doc_actions_flow_autoreplies === Автоответы
+and_doc_actions_flow_autoreplies_alt === Схема потока для Автоответчиков
+and_doc_actions_code_title === Пример кода для хуков
+and_doc_android_intro_title === Введение
+and_doc_android_intro_line1 === Для отправки и получения SMS сообщений необходимо связать устройства Android с поддержкой SIM-карт. Для отправки SMS требуется баланс оператора.
+and_doc_android_versions_title === Поддержка Android
+and_doc_android_versions_line1 === Приложение шлюза поддерживает следующие версии Android:
+and_doc_android_version_oreo === Андроид Орео
+and_doc_android_version_pie === Андроид Пай
+and_doc_android_version_10 === Андроид 10
+and_doc_android_version_11 === Андроид 11
+and_doc_android_version_12 === Андроид 12
+and_doc_android_version_13 === Андроид 13
+and_doc_android_version_14 === Андроид 14
+and_doc_android_version_15 === Android 15
+and_doc_android_receive_title === Получение SMS
+and_doc_android_receive_line1 === Вы можете отключить получение SMS с устройства, если оно используется только для отправки.
+and_doc_android_receive_line2 === Примечание: это также отключит функции, связанные с получением, такие как вебхуки.
+and_doc_android_interval_title === Интервал отправки
+and_doc_android_interval_line1 === Используйте это, чтобы избежать спама SMS. Сообщения будут отправляться с случайными интервалами в зависимости от заданных вами минимальных и максимальных секунд.
+and_doc_android_notifications_title === Уведомления
+and_doc_android_notifications_line1 === Платформа может слушать уведомления Android и помогать автоматизировать задачи.
+and_doc_android_notifications_line2 === Укажите имена пакетов приложений в поле ПРИЛОЖЕНИЯ устройства. Используйте переносы строк, чтобы разделить каждый пакет.
+and_doc_android_partner_title === Настройки партнера
+and_doc_android_partner_line1 === Партнеры могут получить доступ к специальным настройкам устройства, включая глобальный доступ к устройству и управление ставками.
+and_doc_partner_intro_title === Введение
+and_doc_partner_intro_line1 === Наша система партнерства позволяет вам зарабатывать, делясь своими устройствами с другими пользователями для отправки сообщений в вашей локальной сети.
+and_doc_partner_intro_line2 === Вы полностью контролируете устройства вашего партнера. Вы можете включить обе SIM-карты и установить случайные интервалы отправки.
+and_doc_partner_earning_title === Потенциал заработка
+and_doc_partner_earning_case1 === Пользователь из страны X хочет отправлять сообщения в вашу страну Y. Если ваше устройство имеет партнерство, они могут отправлять местные сообщения, используя ваше устройство по более низкой цене.
+and_doc_partner_earning_case2 === Пользователь в вашей стране также может использовать ваше партнерское устройство, если у него нет своего.
+and_doc_partner_how_title === Как это работает?
+and_doc_partner_how_alt === Диаграмма, показывающая, как работает партнерская система
+and_doc_partner_apply_title === Как подать заявку?
+and_doc_partner_apply_line1 === Если вы заинтересованы в том, чтобы стать партнером, пожалуйста, свяжитесь с нами, чтобы мы могли обновить вашу учетную запись.
+response_admin_gateway_faileduploadapk === Не удалось загрузить APK файл!
+response_admin_gateway_invalidapkfilename === Имя файла APK должно содержать версию (например, com.packagename.test_v3.9.4.apk)
+response_admin_gateway_invalidapkfile === Неверный APK файл!
+response_admin_gateway_updatesuccess === Приложение Gateway успешно обновлено!

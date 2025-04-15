@@ -2995,3 +2995,79 @@ admin_gateway_form_title === Podešavanja Android prolaza
 admin_gateway_formapktitle === APK datoteka
 admin_gateway_formapkdesc === Otpremite APK datoteku koju ste preuzeli sa korisničkog kontrolnog panela. Molimo vas da ne preimenujete datoteku.
 table_androidver_16 === Android 16
+and_doc_webhook_intro_title === Uvod
+and_doc_webhook_intro_line1 === Webhooks su moćna funkcija koja omogućava vašem serveru da prati događaje sa vaših uređaja ili WhatsApp-a. Ovo vam pomaže da automatizujete zadatke.
+and_doc_webhook_intro_line2 === Ova funkcija funkcioniše samo za dolazne događaje kao što su SMS, WhatsApp poruke, USSD odgovori i Android obaveštenja.
+and_doc_webhook_usecases_title === Slučajevi upotrebe
+and_doc_webhook_usecase1 === Automatski odgovor bot za SMS i WhatsApp.
+and_doc_webhook_usecase2 === Sačuvajte poruke i chatove u vašu bazu podataka.
+and_doc_webhook_usecase3 === Sačuvajte obaveštenja u svoju bazu podataka.
+and_doc_webhook_usecase4 === Sačuvajte USSD odgovore u svoju bazu podataka.
+and_doc_webhook_usecase5 === Šaljite terete na email adrese.
+and_doc_webhook_usecase6 === Pošaljite SMS ili poruku kada dobijete obaveštenje sa Facebooka.
+and_doc_webhook_usecase7 === Pokrenite akcije kada se primi obaveštenje iz bilo koje aplikacije.
+and_doc_webhook_how_title === Kako to funkcioniše
+and_doc_webhook_how_line1 === Kada se događaj primi, sistem ga šalje na vašu webhook URL koristeći POST metodu. Vaš server može zatim obraditi payload kako god želite.
+and_doc_webhook_flow_image_alt === Webhook Tokić
+and_doc_webhook_payload_title === Struktura tereta
+and_doc_webhook_payload_line1 === Svaki paket ima tip i podatke. Samo treba da proverite tip i obradite podatke.
+and_doc_webhook_payload_sms === SMS
+and_doc_webhook_payload_whatsapp === WhatsApp
+and_doc_webhook_payload_ussd === USSD
+and_doc_webhook_payload_notification === Obaveštenje
+and_doc_webhook_code_title === Primer Koda
+and_doc_actions_intro_title === Uvod
+and_doc_actions_intro_line1 === Akcije su alati koji pomažu u automatizaciji zadataka kao što su slušanje za događaje slanja/primanja ili automatsko odgovaranje na poruke.
+and_doc_actions_intro_line2 === Dizajnirani su posebno za automatizaciju povezanju sa SMS-om i WhatsApp-om.
+and_doc_actions_types_title === Tipovi akcija
+and_doc_actions_type_hooks === Kuke
+and_doc_actions_type_hooks_desc === Hooks slušaju događaje slanja i primanja SMS/WhatsApp poruka. Za razliku od webhook-a, takođe podržavaju događaje slanja i koriste GET metodu. Možete sami strukturirati URL.
+and_doc_actions_type_autoreplies === Automatski odgovori
+and_doc_actions_type_autoreplies_desc === Automatski odgovori automatski odgovaraju na dolazne poruke kada se otkrije ključna reč. Vi postavljate ključne reči i poruku odgovora.
+and_doc_actions_usecases_title === Upotrebe
+and_doc_actions_usecase1 === Logujte događaje na svoj server kada pošaljete ili primite poruku.
+and_doc_actions_usecase2 === Pozovite udaljenu URL adresu prilikom slanja/primanja poruke.
+and_doc_actions_usecase3 === Automatski odgovori ako se ključna reč pronađe u poruci.
+and_doc_actions_how_title === Kako funkcioniše
+and_doc_actions_how_line1 === Sledeće slike objašnjavaju kako funkcionišu kukice i automatski odgovori.
+and_doc_actions_flow_hooks === Kuke
+and_doc_actions_flow_hooks_alt === Dijagram toka za Hooks
+and_doc_actions_flow_autoreplies === Automatski odgovori
+and_doc_actions_flow_autoreplies_alt === Dijagram toka za automatske odgovore
+and_doc_actions_code_title === Primer koda za Hook-ove
+and_doc_android_intro_title === Uvod
+and_doc_android_intro_line1 === Da biste slali i primali SMS poruke, potrebno je povezati Android uređaje sa podrškom za SIM karticu. Slanje SMS-a zahteva saldo kod operatora.
+and_doc_android_versions_title === Podrška za Android
+and_doc_android_versions_line1 === Aplikacija za prolaz podržava sledeće verzije Android-a:
+and_doc_android_version_oreo === Android Oreo
+and_doc_android_version_pie === Android Pita
+and_doc_android_version_10 === Android 10
+and_doc_android_version_11 === Android 11
+and_doc_android_version_12 === Android 12
+and_doc_android_version_13 === Android 13
+and_doc_android_version_14 === Android 14
+and_doc_android_version_15 === Android 15
+and_doc_android_receive_title === Primanje SMS-a
+and_doc_android_receive_line1 === Možete onemogućiti prijem SMS poruka sa uređaja ako se koristi samo za slanje.
+and_doc_android_receive_line2 === Napomena: ovo će takođe onemogućiti funkcije povezane sa primanjem, kao što su webhook-ovi.
+and_doc_android_interval_title === Interval slanja
+and_doc_android_interval_line1 === Koristite ovo da izbegnete SMS spam. Poruke će se slati u nasumičnim intervalima na osnovu minimalnog i maksimalnog vremena koje definišete.
+and_doc_android_notifications_title === Obaveštenja
+and_doc_android_notifications_line1 === Platforma može da sluša Android obaveštenja i pomaže u automatizaciji zadataka.
+and_doc_android_notifications_line2 === Postavite nazive paketa aplikacija u polju APLIKACIJE uređaja. Koristite prelome redova da odvojite svaki paket.
+and_doc_android_partner_title === Podešavanja partnera
+and_doc_android_partner_line1 === Partneri mogu pristupiti posebnim postavkama uređaja, uključujući globalni pristup uređaju i kontrole cena.
+and_doc_partner_intro_title === Uvod
+and_doc_partner_intro_line1 === Naš sistem partnerstva vam omogućava da zarađujete deleći svoje uređaje sa drugim korisnicima za slanje poruka na vašoj lokalnoj mreži.
+and_doc_partner_intro_line2 === Potpuno kontrolišete uređaje svog partnera. Možete omogućiti obe SIM kartice i postaviti nasumične intervale slanja.
+and_doc_partner_earning_title === Potencijal zarade
+and_doc_partner_earning_case1 === Korisnik iz zemlje X želi da šalje poruke u vašu zemlju Y. Ako je vaš uređaj u partnerstvu, mogu slati lokalne poruke koristeći vaš uređaj po nižoj ceni.
+and_doc_partner_earning_case2 === Korisnik iz vaše zemlje može koristiti vaš upareni uređaj ako ga nema.
+and_doc_partner_how_title === Kako to funkcioniše?
+and_doc_partner_how_alt === Dijagram koji prikazuje kako funkcioniše partnerski sistem
+and_doc_partner_apply_title === Kako se prijaviti?
+and_doc_partner_apply_line1 === Ako ste zainteresovani da postanete partner, molimo vas da nas kontaktirate kako bismo mogli da unapredimo vaš račun.
+response_admin_gateway_faileduploadapk === Neuspešno učitavanje APK datoteke!
+response_admin_gateway_invalidapkfilename === Naziv APK datoteke mora sadržati verziju (npr. com.packagename.test_v3.9.4.apk)
+response_admin_gateway_invalidapkfile === Nevažeći APK fajl!
+response_admin_gateway_updatesuccess === Aplikacija Gateway je uspešno ažurirana!

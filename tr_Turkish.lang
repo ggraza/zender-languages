@@ -2995,3 +2995,79 @@ admin_gateway_form_title === Android Geçit Ayarları
 admin_gateway_formapktitle === APK Dosyası
 admin_gateway_formapkdesc === Müşteri panelinden indirdiğiniz APK dosyasını yükleyin. Lütfen dosyanın adını değiştirmeyin.
 table_androidver_16 === Android 16
+and_doc_webhook_intro_title === Giriş
+and_doc_webhook_intro_line1 === Webhook'lar, sunucunuzun cihazlarınızdan veya WhatsApp'tan gelen olayları dinlemesini sağlayan güçlü bir özelliktir. Bu, görevlerinizi otomatikleştirmenize yardımcı olur.
+and_doc_webhook_intro_line2 === Bu özellik yalnızca SMS, WhatsApp mesajları, USSD yanıtları ve Android bildirimleri gibi gelen etkinlikler için çalışır.
+and_doc_webhook_usecases_title === Kullanım Senaryoları
+and_doc_webhook_usecase1 === SMS ve WhatsApp için otomatik yanıt botu.
+and_doc_webhook_usecase2 === Mesajları ve sohbetleri veritabanınıza kaydedin.
+and_doc_webhook_usecase3 === Bildirimlerinizi veritabanınıza kaydedin.
+and_doc_webhook_usecase4 === USSD yanıtlarını veritabanınıza kaydedin.
+and_doc_webhook_usecase5 === Yükleri e-posta adreslerine gönder.
+and_doc_webhook_usecase6 === Bir Facebook bildirimi aldığınızda bir SMS veya sohbet gönderin.
+and_doc_webhook_usecase7 === Herhangi bir uygulamadan bildirim alındığında eylemleri çalıştır.
+and_doc_webhook_how_title === Nasıl Çalışır
+and_doc_webhook_how_line1 === Bir etkinlik alındığında, sistem bunu POST yöntemiyle webhook URL'nize gönderir. Sunucunuz, yükü istediğiniz şekilde işleyebilir.
+and_doc_webhook_flow_image_alt === Webhook Akışı
+and_doc_webhook_payload_title === Yük Yapısı
+and_doc_webhook_payload_line1 === Her yük, bir tipe ve veriye sahiptir. Sadece tipi kontrol etmeniz ve veriyi işlemeniz yeterlidir.
+and_doc_webhook_payload_sms === SMS
+and_doc_webhook_payload_whatsapp === WhatsApp
+and_doc_webhook_payload_ussd === USSD
+and_doc_webhook_payload_notification === Bildirim
+and_doc_webhook_code_title === Kod Örneği
+and_doc_actions_intro_title === Giriş
+and_doc_actions_intro_line1 === Eylemler, gönderme/alma olaylarını dinlemek veya mesajlara otomatik olarak yanıt vermek gibi görevleri otomatikleştirmeye yardımcı olan araçlardır.
+and_doc_actions_intro_line2 === SMS ve WhatsApp ile ilgili otomasyon için özel olarak tasarlandılar.
+and_doc_actions_types_title === Eylem Türleri
+and_doc_actions_type_hooks === Kancalar
+and_doc_actions_type_hooks_desc === Kancalar SMS/WhatsApp gönderme ve alma olaylarını dinler. Webhook'lardan farklı olarak, gönderme olaylarını da destekler ve GET yöntemini kullanır. URL'yi kendiniz yapılandırabilirsiniz.
+and_doc_actions_type_autoreplies === Otomatik Yanıtlar
+and_doc_actions_type_autoreplies_desc === Otomatik yanıtlar, bir anahtar kelime algılandığında gelen mesajlara otomatik olarak yanıt verir. Anahtar kelimeleri ve yanıt mesajını ayarlarsınız.
+and_doc_actions_usecases_title === Kullanım Senaryoları
+and_doc_actions_usecase1 === Mesaj gönderdiğiniz veya aldığınızda olayları sunucunuza kaydedin.
+and_doc_actions_usecase2 === Mesaj gönderildi/alındığında uzak bir URL'yi çağır.
+and_doc_actions_usecase3 === Bir mesajda bir anahtar kelime bulunduğunda otomatik olarak yanıt ver.
+and_doc_actions_how_title === Nasıl Çalışır
+and_doc_actions_how_line1 === Aşağıdaki resimler, kancaların ve otomatik yanıtların nasıl çalıştığını açıklamaktadır.
+and_doc_actions_flow_hooks === Kancalar
+and_doc_actions_flow_hooks_alt === Kanca Akış Şeması
+and_doc_actions_flow_autoreplies === Otomatik Yanıtlar
+and_doc_actions_flow_autoreplies_alt === Otomatik Yanıtlar için Akış Diyagramı
+and_doc_actions_code_title === Kancalar için Kod Örneği
+and_doc_android_intro_title === Giriş
+and_doc_android_intro_line1 === SMS mesajları göndermek ve almak için SIM kart desteği olan Android cihazlarını bağlamanız gerekir. SMS göndermek taşıyıcı bakiyesi gerektirir.
+and_doc_android_versions_title === Android Desteği
+and_doc_android_versions_line1 === Geçiş uygulaması aşağıdaki Android sürümlerini destekler:
+and_doc_android_version_oreo === Android Oreo
+and_doc_android_version_pie === Android 9 Pie
+and_doc_android_version_10 === Android 10
+and_doc_android_version_11 === Android 11
+and_doc_android_version_12 === Android 12
+and_doc_android_version_13 === Android 13
+and_doc_android_version_14 === Android 14
+and_doc_android_version_15 === Android 15
+and_doc_android_receive_title === SMS Alma
+and_doc_android_receive_line1 === Bir cihaz yalnızca gönderim amacıyla kullanılıyorsa, SMS alımını devre dışı bırakabilirsiniz.
+and_doc_android_receive_line2 === Not: bu, web kancaları gibi alım ile ilgili özellikleri de devre dışı bırakacaktır.
+and_doc_android_interval_title === Gönderim Aralığı
+and_doc_android_interval_line1 === Bu, SMS spam sorunlarını önlemek için kullanın. Mesajlar, belirlediğiniz min ve max saniyeler bazında rastgele aralıklarla gönderilecektir.
+and_doc_android_notifications_title === Bildirimler
+and_doc_android_notifications_line1 === Platform, Android bildirimlerini dinleyebilir ve görevleri otomatikleştirmeye yardımcı olur.
+and_doc_android_notifications_line2 === Cihazın UYGULAMALAR alanında uygulama paket adlarını ayarlayın. Her paketi ayırmak için satır aralıkları kullanın.
+and_doc_android_partner_title === Ortak Ayarları
+and_doc_android_partner_line1 === Ortaklar, küresel cihaz erişimi ve oran kontrolü dahil özel cihaz ayarlarına erişebilir.
+and_doc_partner_intro_title === Giriş
+and_doc_partner_intro_line1 === Ortaklık sistemimiz, yerel ağınızda diğer kullanıcılarla mesaj göndermek için cihazlarınızı paylaşarak kazanmanızı sağlar.
+and_doc_partner_intro_line2 === Partner cihazlarınızı tamamen kontrol edersiniz. Her iki SIM kartı etkinleştirebilir ve rastgele gönderim aralıkları ayarlayabilirsiniz.
+and_doc_partner_earning_title === Kazanç Potansiyeli
+and_doc_partner_earning_case1 === Ülke X'den bir kullanıcı, ülke Y'ye mesaj göndermek istiyor. Cihazınız ortaklıkta ise, kullanıcı cihazınızı kullanarak daha düşük maliyetle yerel mesajlar gönderebilir.
+and_doc_partner_earning_case2 === Kendi ülkenizdeki bir kullanıcı, eğer bir cihazı yoksa, ortak cihazınızı da kullanabilir.
+and_doc_partner_how_title === Nasıl çalışır?
+and_doc_partner_how_alt === Ortaklık sisteminin nasıl çalıştığını gösteren diyagram
+and_doc_partner_apply_title === Nasıl başvurulur?
+and_doc_partner_apply_line1 === Bir ortak olmakla ilgileniyorsanız, lütfen bizimle iletişime geçin, böylece hesabınızı yükseltebiliriz.
+response_admin_gateway_faileduploadapk === APK dosyası yüklenemedi!
+response_admin_gateway_invalidapkfilename === APK dosya adı sürüm içermelidir (örn. com.packagename.test_v3.9.4.apk)
+response_admin_gateway_invalidapkfile === Geçersiz APK dosyası!
+response_admin_gateway_updatesuccess === Ağ geçidi uygulaması başarıyla güncellendi!

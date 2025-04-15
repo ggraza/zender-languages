@@ -2995,3 +2995,79 @@ admin_gateway_form_title === 안드로이드 게이트웨이 설정
 admin_gateway_formapktitle === APK 파일
 admin_gateway_formapkdesc === 고객 대시보드에서 다운로드한 APK 파일을 업로드하십시오. 파일 이름을 변경하지 마십시오.
 table_androidver_16 === 안드로이드 16
+and_doc_webhook_intro_title === 소개
+and_doc_webhook_intro_line1 === 웹후크는 서버가 장치 또는 WhatsApp의 이벤트를 수신할 수 있도록 하는 강력한 기능입니다. 이를 통해 작업을 자동화할 수 있습니다.
+and_doc_webhook_intro_line2 === 이 기능은 SMS, WhatsApp 메시지, USSD 응답 및 Android 알림과 같은 수신 이벤트에만 작동합니다.
+and_doc_webhook_usecases_title === 사용 사례
+and_doc_webhook_usecase1 === SMS 및 WhatsApp 자동 회신 봇.
+and_doc_webhook_usecase2 === 메시지와 채팅을 데이터베이스에 저장하세요.
+and_doc_webhook_usecase3 === 알림을 데이터베이스에 저장하세요.
+and_doc_webhook_usecase4 === USSD 응답을 데이터베이스에 저장합니다.
+and_doc_webhook_usecase5 === 이메일 주소로 페이로드를 전송하세요.
+and_doc_webhook_usecase6 === Facebook 알림을 받을 때 SMS 또는 채팅을 보냅니다.
+and_doc_webhook_usecase7 === 모든 앱에서 알림을 받을 때 작업 실행.
+and_doc_webhook_how_title === 작동 방식
+and_doc_webhook_how_line1 === 이벤트가 수신되면 시스템은 POST 방법을 사용하여 웹후크 URL로 전송합니다. 그런 다음 서버가 원하는 방식으로 페이로드를 처리할 수 있습니다.
+and_doc_webhook_flow_image_alt === 웹훅 흐름
+and_doc_webhook_payload_title === 페이로드 구조
+and_doc_webhook_payload_line1 === 각 페이로드에는 유형과 데이터가 있습니다. 유형을 확인하고 데이터를 처리하면 됩니다.
+and_doc_webhook_payload_sms === 문자 메시지
+and_doc_webhook_payload_whatsapp === 왓츠앱
+and_doc_webhook_payload_ussd === USSD
+and_doc_webhook_payload_notification === 알림
+and_doc_webhook_code_title === 코드 예제
+and_doc_actions_intro_title === 소개
+and_doc_actions_intro_line1 === 작업은 전송/수신 이벤트를 감지하거나 메시지에 자동으로 응답하는 등 작업을 자동화하는 데 도움이 되는 도구입니다.
+and_doc_actions_intro_line2 === SMS 및 WhatsApp 관련 자동화를 위해 특별히 설계되었습니다.
+and_doc_actions_types_title === 작업 유형
+and_doc_actions_type_hooks === 홉스
+and_doc_actions_type_hooks_desc === 훅은 SMS/WhatsApp 전송 및 수신 이벤트를 수신합니다. 웹훅과 달리 전송 이벤트도 지원하며 GET 메서드를 사용합니다. URL을 직접 구성할 수 있습니다.
+and_doc_actions_type_autoreplies === 자동 회신
+and_doc_actions_type_autoreplies_desc === 자동 응답은 키워드가 감지될 때 수신 메시지에 자동으로 응답합니다. 키워드와 응답 메시지를 설정합니다.
+and_doc_actions_usecases_title === 사용 사례
+and_doc_actions_usecase1 === 메시지를 송신하거나 수신할 때 서버에 이벤트를 기록하세요.
+and_doc_actions_usecase2 === 메시지 전송/수신 시 원격 URL 호출.
+and_doc_actions_usecase3 === 메시지에서 키워드가 발견되면 자동으로 응답합니다.
+and_doc_actions_how_title === 작동 방식
+and_doc_actions_how_line1 === 아래 이미지는 훅과 자동 응답이 작동하는 방식을 설명합니다.
+and_doc_actions_flow_hooks === 후크
+and_doc_actions_flow_hooks_alt === 후크의 흐름도
+and_doc_actions_flow_autoreplies === 자동 회신
+and_doc_actions_flow_autoreplies_alt === 자동 회신을 위한 흐름도
+and_doc_actions_code_title === 후크에 대한 코드 예시
+and_doc_android_intro_title === 소개
+and_doc_android_intro_line1 === SMS 메시지를 보내고 받으려면 SIM 카드 지원이 있는 Android 장치를 연결해야 합니다. SMS 전송에는 통신사 잔액이 필요합니다.
+and_doc_android_versions_title === 안드로이드 지원
+and_doc_android_versions_line1 === 게이트웨이 앱은 다음 Android 버전을 지원합니다:
+and_doc_android_version_oreo === 안드로이드 오레오
+and_doc_android_version_pie === 안드로이드 파이
+and_doc_android_version_10 === 안드로이드 10
+and_doc_android_version_11 === 안드로이드 11
+and_doc_android_version_12 === 안드로이드 12
+and_doc_android_version_13 === 안드로이드 13
+and_doc_android_version_14 === 안드로이드 14
+and_doc_android_version_15 === 안드로이드 15
+and_doc_android_receive_title === SMS 수신 중
+and_doc_android_receive_line1 === 장치가 전송 전용으로 사용되는 경우 SMS 수신을 비활성화할 수 있습니다.
+and_doc_android_receive_line2 === 참고: 이 설정은 웹후크와 같은 수신 관련 기능도 비활성화합니다.
+and_doc_android_interval_title === 전송 간격
+and_doc_android_interval_line1 === 이것을 사용하여 SMS 스팸 문제를 피하십시오. 메시지는 정의한 최소 및 최대 초를 기반으로 무작위 간격으로 전송됩니다.
+and_doc_android_notifications_title === 알림
+and_doc_android_notifications_line1 === 플랫폼은 Android 알림을 수신하고 작업 자동화를 도와줄 수 있습니다.
+and_doc_android_notifications_line2 === 장치의 APPLICATIONS 필드에 앱 패키지 이름을 설정하십시오. 각 패키지를 구분하려면 줄 바꿈을 사용하세요.
+and_doc_android_partner_title === 파트너 설정
+and_doc_android_partner_line1 === 파트너는 글로벌 장치 액세스 및 요금 제어를 포함한 특별 장치 설정에 액세스할 수 있습니다.
+and_doc_partner_intro_title === 소개
+and_doc_partner_intro_line1 === 우리의 파트너십 시스템은 사용자가 로컬 네트워크에서 메시지를 전송하기 위해 다른 사용자와 장치를 공유함으로써 수익을 올릴 수 있도록 합니다.
+and_doc_partner_intro_line2 === 파트너 장치를 완전히 제어할 수 있습니다. 두 개의 SIM 카드를 활성화하고 무작위 전송 간격을 설정할 수 있습니다.
+and_doc_partner_earning_title === 수익 잠재력
+and_doc_partner_earning_case1 === 국가 X의 사용자가 귀하의 국가 Y로 메시지를 보내고자 합니다. 귀하의 장치가 파트너십을 맺고 있다면, 낮은 비용으로 현지 메시지를 귀하의 장치를 사용하여 보낼 수 있습니다.
+and_doc_partner_earning_case2 === 자국의 사용자는 파트너 기기가 없으면 당신의 기기를 사용할 수 있습니다.
+and_doc_partner_how_title === 어떻게 작동하나요?
+and_doc_partner_how_alt === 파트너 시스템 작동 방식 다이어그램
+and_doc_partner_apply_title === 신청하는 방법은?
+and_doc_partner_apply_line1 === 파트너가 되고 싶으시면, 연락해 주시면 계정을 업그레이드해 드리겠습니다.
+response_admin_gateway_faileduploadapk === APK 파일 업로드에 실패했습니다!
+response_admin_gateway_invalidapkfilename === APK 파일 이름에는 버전이 포함되어야 합니다 (예: com.packagename.test_v3.9.4.apk)
+response_admin_gateway_invalidapkfile === 잘못된 APK 파일입니다!
+response_admin_gateway_updatesuccess === 게이트웨이 앱이 성공적으로 업데이트되었습니다!

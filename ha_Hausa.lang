@@ -2995,3 +2995,79 @@ admin_gateway_form_title === Saitunan Kewayawa na Android
 admin_gateway_formapktitle === Fayil ɗin APK
 admin_gateway_formapkdesc === Shigar da fayil ɗin APK da ka sauke daga shafin yanar gizon abokin ciniki. Don Allah kar ka canza sunan fayil ɗin.
 table_androidver_16 === Android 16
+and_doc_webhook_intro_title === Gabatarwa
+and_doc_webhook_intro_line1 === Webhooks suna da karfi wanda ke ba da damar uwar garkenka ta saurari abubuwan da ke faruwa daga na'urorinka ko WhatsApp. Wannan yana taimaka maka wajen sarrafa ayyuka ta atomatik.
+and_doc_webhook_intro_line2 === Wannan fasalin yana aiki ne kawai don abubuwan da ke shigowa kamar SMS, saƙonnin WhatsApp, amsoshin USSD, da sanarwar Android.
+and_doc_webhook_usecases_title === Amfani da Hanyoyi
+and_doc_webhook_usecase1 === Bot ɗin amsa ta atomatik don SMS da WhatsApp.
+and_doc_webhook_usecase2 === Ajiye saƙonni da hira zuwa cikin bayanan ku.
+and_doc_webhook_usecase3 === Ajiye sanarwa a cikin bayanan ku.
+and_doc_webhook_usecase4 === Ajiye amsoshin USSD a cikin gidan bayananku.
+and_doc_webhook_usecase5 === Aika bayanai zuwa adireshin imel.
+and_doc_webhook_usecase6 === Aika SMS ko hira lokacin da ka karbi sanarwar Facebook.
+and_doc_webhook_usecase7 === Yi ayyuka lokacin da aka karɓi sanarwa daga kowanne app.
+and_doc_webhook_how_title === Yadda Yake Aiki
+and_doc_webhook_how_line1 === Idan an karɓi wani taron, tsarin yana aikawa da shi zuwa URL ɗin ku na webhook ta amfani da hanyar POST. Sabobin ku na iya sarrafa fayil ɗin yadda kuke so.
+and_doc_webhook_flow_image_alt === Gudun Hanya na Webhook
+and_doc_webhook_payload_title === Tsarin Payload
+and_doc_webhook_payload_line1 === Kowane nau'in yana da nau'i da bayanai. Dole ne ka duba nau'in ka aiwatar da bayanan.
+and_doc_webhook_payload_sms === Sako
+and_doc_webhook_payload_whatsapp === WhatsApp
+and_doc_webhook_payload_ussd === USSD
+and_doc_webhook_payload_notification === Sako
+and_doc_webhook_code_title === Misalin Lamba
+and_doc_actions_intro_title === Gabatarwa
+and_doc_actions_intro_line1 === Ayyuka kayan aiki ne da ke taimakawa wajen sarrafa ayyuka kamar sauraron abubuwan da aka aika/karɓa ko amsa saƙonnin ta atomatik.
+and_doc_actions_intro_line2 === An tsara su musamman don aikin SMS da WhatsApp.
+and_doc_actions_types_title === Nau'i na Ayyuka
+and_doc_actions_type_hooks === Kwayoyi
+and_doc_actions_type_hooks_desc === Hooks suna sauraron abubuwan aikawa da karɓar SMS/WhatsApp. Ban da webhooks, suna kuma tallafawa abubuwan aikawa da amfani da hanyar GET. Kuna iya tsara URL ɗin ku a kanku.
+and_doc_actions_type_autoreplies === Amsa ta atomatik
+and_doc_actions_type_autoreplies_desc === Amsoshi na atomatik suna amsa saƙonnin da suka shigo lokacin da aka gano kalmar maɓalli. Kuna saita kalmomin maɓalli da saƙon amsa.
+and_doc_actions_usecases_title === Amfani da Hanya
+and_doc_actions_usecase1 === Ajiye abubuwan log zuwa uwar garke ku lokacin da kuka aika ko karɓi saƙo.
+and_doc_actions_usecase2 === Kira wani URL na nesa lokacin aika karɓar saƙo.
+and_doc_actions_usecase3 === Aika amsa ta atomatik idan an samo kalma a cikin saƙo.
+and_doc_actions_how_title === Yadda Yake Aiki
+and_doc_actions_how_line1 === Hoton da ke ƙasa yana bayyana yadda hooks da autoreplies ke aiki.
+and_doc_actions_flow_hooks === Makullin
+and_doc_actions_flow_hooks_alt === Hoto na tsarin Hooks
+and_doc_actions_flow_autoreplies === Amsoshin kai tsaye
+and_doc_actions_flow_autoreplies_alt === Tsarin gudu don Amsa ta atomatik
+and_doc_actions_code_title === Misalin Lambar don Hooks
+and_doc_android_intro_title === Gabatarwa
+and_doc_android_intro_line1 === Don aika da karɓar saƙonnin SMS, kuna buƙatar haɗa na'urorin Android tare da tallafin kati na SIM. Aika SMS yana buƙatar ma'aunin mai jigila.
+and_doc_android_versions_title === Taimakon Android
+and_doc_android_versions_line1 === Aikace-aikacen katanga yana tallafawa waɗannan sigar Android:
+and_doc_android_version_oreo === Android Oreo
+and_doc_android_version_pie === Android Pie
+and_doc_android_version_10 === Android 10
+and_doc_android_version_11 === Android 11
+and_doc_android_version_12 === Android 12
+and_doc_android_version_13 === Android 13
+and_doc_android_version_14 === Android 14
+and_doc_android_version_15 === Android 15
+and_doc_android_receive_title === Karɓar SMS
+and_doc_android_receive_line1 === Za ka iya katse karɓar SMS daga na'ura idan ana amfani da ita ne kawai don aikawa.
+and_doc_android_receive_line2 === Lura: wannan ma zai katange fasalolin da suka shafi karɓa kamar webhooks.
+and_doc_android_interval_title === Aika Tsawon Lokaci
+and_doc_android_interval_line1 === Yi amfani da wannan don guje wa matsalolin spam na SMS. Saƙonnin za su tura a lokutan bazuwar bisa ga ƙaramin da manyan seconds da kuka ƙayyade.
+and_doc_android_notifications_title === Sanarwa
+and_doc_android_notifications_line1 === Dandalin na iya sauraron sanarwar Android da taimakawa wajen sarrafa ayyuka.
+and_doc_android_notifications_line2 === Saita sunayen fakitin aikace-aikace a fannin APPLICATIONS na na'urar. Yi amfani da sabbin layuka don raba kowanne fakiti.
+and_doc_android_partner_title === Saitunan Abokin Hulɗa
+and_doc_android_partner_line1 === Masu haɗin gwiwa za su iya samun damar saitunan na'ura na musamman ciki har da samun damar duniya da kuma sarrafa ƙimar.
+and_doc_partner_intro_title === Gabatarwa
+and_doc_partner_intro_line1 === Tsarin hadin gwiwarmu yana ba ka damar samun kuɗi ta hanyar raba na'urorin ka tare da sauran masu amfani don aikawa da sakonni a cikin hanyar sadarwar ka ta gida.
+and_doc_partner_intro_line2 === Kun sarrafa na'urorin abokin hulɗarku gaba ɗaya. Kuna iya kunna kowane katin SIM biyu da saita lokutan aikawa na bazuwar.
+and_doc_partner_earning_title === Damar Samun Kudi
+and_doc_partner_earning_case1 === Wani mai amfani daga ƙasar X yana son tura saƙonni zuwa ƙasar ku Y. Idan na'urar ku ta yi haɗin gwiwa, za su iya tura saƙonnin cikin gida ta amfani da na'urar ku a farashi mai rahusa.
+and_doc_partner_earning_case2 === Masu amfani a ƙasar ku na iya amfani da na'urar haɗin gwiwa idan ba su da ita.
+and_doc_partner_how_title === Ta yaya yake aiki?
+and_doc_partner_how_alt === Zane yana nuna yadda tsarin abokin aiki ke aiki
+and_doc_partner_apply_title === Ta yaya za a yi aiki?
+and_doc_partner_apply_line1 === Idan kana da sha'awar zama abokin hulɗa, don Allah tuntube mu domin mu inganta asusunka.
+response_admin_gateway_faileduploadapk === An kasa loda fayil din APK!
+response_admin_gateway_invalidapkfilename === Sunan fayil ɗin APK dole ne ya ƙunshi sigar (misali: com.packagename.test_v3.9.4.apk)
+response_admin_gateway_invalidapkfile === Fayil ɗin APK ba daidai ba!
+response_admin_gateway_updatesuccess === An sabunta aikace-aikacen Gateway cikin nasara!

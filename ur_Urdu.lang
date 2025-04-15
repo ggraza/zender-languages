@@ -2994,3 +2994,79 @@ admin_gateway_form_title === اینڈرائیڈ گیٹ وے کی ترتیبات
 admin_gateway_formapktitle === APK فائل
 admin_gateway_formapkdesc === براہ کرم وہ APK فائل اپ لوڈ کریں جو آپ نے صارف کے ڈیش بورڈ سے ڈاؤن لوڈ کی ہے۔ براہ کرم فائل کا نام تبدیل نہ کریں۔
 table_androidver_16 === اینڈرائیڈ 16
+and_doc_webhook_intro_title === تعارف
+and_doc_webhook_intro_line1 === ویب ہُک ایک طاقتور خصوصیت ہیں جو آپ کے سرور کو آپ کے آلات یا واٹس ایپ سے آنے والے واقعات سننے کی اجازت دیتی ہیں۔ یہ آپ کو کام کو خودکار بنانے میں مدد دیتی ہے۔
+and_doc_webhook_intro_line2 === یہ خصوصیت صرف آنے والے واقعات جیسے ایس ایم ایس، واٹس ایپ پیغامات، یو ایس ایس ڈی جوابات، اور اینڈرائیڈ نوٹیفکیشنز کے لیے کام کرتی ہے۔
+and_doc_webhook_usecases_title === استعمال کے کیس
+and_doc_webhook_usecase1 === SMS اور WhatsApp کے لئے خودکار جواب دہ بوٹ۔
+and_doc_webhook_usecase2 === پیغامات اور گفتگوؤں کو اپنے ڈیٹا بیس میں محفوظ کریں۔
+and_doc_webhook_usecase3 === اپنی ڈیٹا بیس میں اطلاعیں محفوظ کریں۔
+and_doc_webhook_usecase4 === اپنی ڈیٹا بیس میں USSD جوابات محفوظ کریں۔
+and_doc_webhook_usecase5 === ای میل پتوں پر پیلوڈ بھیجیں۔
+and_doc_webhook_usecase6 === جب آپ کو فیس بک کی اطلاع ملے تو ایک SMS یا چیٹ بھیجیں۔
+and_doc_webhook_usecase7 === جب بھی کسی ایپ سے مطلع کیا جائے تو عمل کریں۔
+and_doc_webhook_how_title === یہ کیسے کام کرتا ہے
+and_doc_webhook_how_line1 === جب ایک ایونٹ موصول ہوتا ہے، تو نظام اسے آپ کے ویب ہوک یو آر ایل پر POST طریقہ استعمال کرتے ہوئے بھیجتا ہے۔ پھر آپ کا سرور پیلوڈ کو اپنی مرضی کے مطابق سنبھال سکتا ہے۔
+and_doc_webhook_flow_image_alt === ویب ہوک کے بہاؤ
+and_doc_webhook_payload_title === پیلوڈ کی ساخت
+and_doc_webhook_payload_line1 === ہر پے لوڈ کا ایک قسم اور ڈیٹا ہوتا ہے۔ آپ کو صرف قسم کو چیک کرنا ہے اور ڈیٹا کو پروسیس کرنا ہے۔
+and_doc_webhook_payload_sms === ایس ایم ایس
+and_doc_webhook_payload_whatsapp === واٹس ایپ
+and_doc_webhook_payload_ussd === یو ایس ایس ڈی
+and_doc_webhook_payload_notification === نوٹیفکیشن
+and_doc_webhook_code_title === کوڈ کی مثال
+and_doc_actions_intro_title === تعارف
+and_doc_actions_intro_line1 === عملیات ایسے آلات ہیں جو بھیجنے/موصول ہونے کے واقعات کا انتظار کرنے یا پیغامات کا خودکار جواب دینے جیسے کاموں کو خودکار بنانے میں مدد کرتی ہیں۔
+and_doc_actions_intro_line2 === یہ خاص طور پر ایس ایم ایس اور واٹس ایپ سے متعلق خودکار عمل کے لیے ڈیزائن کیے گئے ہیں۔
+and_doc_actions_types_title === عمل کے اقسام
+and_doc_actions_type_hooks === ہُکس
+and_doc_actions_type_hooks_desc === ہُک ایس ایم ایس/واٹس ایپ بھیجنے اور وصول کرنے کے واقعات کے لیے سنتے ہیں۔ ویب ہُک سے مختلف، یہ بھیجنے کے واقعات کی حمایت کرتے ہیں اور GET طریقہ استعمال کرتے ہیں۔ آپ خود URL کی تشکیل کر سکتے ہیں۔
+and_doc_actions_type_autoreplies === خودکار جوابات
+and_doc_actions_type_autoreplies_desc === خودکار جوابات آنے والے پیغامات کا جواب دیتے ہیں جب کوئی کی ورڈ شناخت کیا جاتا ہے۔ آپ کی ورڈز اور جواب کا پیغام سیٹ کرتے ہیں۔
+and_doc_actions_usecases_title === استعمال کے معاملات
+and_doc_actions_usecase1 === پیغام بھیجتے یا وصول کرتے وقت اپنے سرور پر واقعات کو لاگ کریں۔
+and_doc_actions_usecase2 === پیغام بھیجنے/موصول ہونے پر ایک دور دراز URL کو کال کریں۔
+and_doc_actions_usecase3 === پیغام میں کسی کلیدی لفظ کے ملنے پر خودبخود جواب دیں۔
+and_doc_actions_how_title === یہ کیسے کام کرتا ہے
+and_doc_actions_how_line1 === نیچے کی تصاویر وضاحت کرتی ہیں کہ ہکس اور خودکار جوابات کیسے کام کرتے ہیں۔
+and_doc_actions_flow_hooks === ہکس
+and_doc_actions_flow_hooks_alt === ہوکس کے لیے بہاؤ کا خاکہ
+and_doc_actions_flow_autoreplies === خودکار جوابات
+and_doc_actions_flow_autoreplies_alt === خودکار جواب کیلئے فلو ڈائیگرام
+and_doc_actions_code_title === ہکوں کے لئے کوڈ کی مثال
+and_doc_android_intro_title === تعارف
+and_doc_android_intro_line1 === ایس ایم ایس پیغام بھیجنے اور وصول کرنے کے لیے، آپ کو سم کارڈ کی حمایت والے اینڈرائیڈ آلات کو لنک کرنا ہوگا۔ ایس ایم ایس بھیجنے کے لیے کیریئر بیلنس ضروری ہے۔
+and_doc_android_versions_title === اینڈرائیڈ سپورٹ
+and_doc_android_versions_line1 === گیٹ وے ایپ مندرجہ ذیل اینڈرائیڈ ورژنز کی حمایت کرتا ہے:
+and_doc_android_version_oreo === اینڈروئیڈ اوریو
+and_doc_android_version_pie === اینڈروئیڈ پائی
+and_doc_android_version_10 === اینڈرائیڈ 10
+and_doc_android_version_11 === اینڈرائیڈ 11
+and_doc_android_version_12 === اینڈرائیڈ 12
+and_doc_android_version_13 === اینڈرائیڈ 13
+and_doc_android_version_14 === اینڈروئیڈ 14
+and_doc_android_version_15 === اینڈرائیڈ 15
+and_doc_android_receive_title === SMS وصول کرنا
+and_doc_android_receive_line1 === آپ SMS وصول کرنے کو ایک ڈیوائس سے غیر فعال کر سکتے ہیں اگر یہ صرف بھیجنے کے لئے استعمال ہوتی ہے۔
+and_doc_android_receive_line2 === نوٹ: اس سے وصولی سے متعلق خصوصیات جیسے ویب ہُکس بھی غیر فعال ہو جائیں گے۔
+and_doc_android_interval_title === بھیجنے کا وقفہ
+and_doc_android_interval_line1 === اسے SMS اسپام مسائل سے بچنے کے لیے استعمال کریں۔ پیغامات انٹرن کی کم از کم اور زیادہ سے زیادہ سیکنڈ کے مطابق بے ترتیب وقفوں پر بھیجے جائیں گے۔
+and_doc_android_notifications_title === اطلاعات
+and_doc_android_notifications_line1 === یہ پلیٹ فارم اینڈروئیڈ نوٹیفیکیشنز کو سن سکتا ہے اور کاموں کو خودکار بنانے میں مدد کرتا ہے۔
+and_doc_android_notifications_line2 === ڈیوائس کے APPLICATIONS فیلڈ میں ایپ پیکج کے نام طے کریں۔ ہر پیکج کو الگ کرنے کے لیے لائن بریکز کا استعمال کریں۔
+and_doc_android_partner_title === پارٹنر سیٹنگز
+and_doc_android_partner_line1 === شراکت دار خاص ڈیوائس کی ترتیبات تک رسائی حاصل کر سکتے ہیں جن میں عالمی ڈیوائس تک رسائی اور ریٹ کنٹرول شامل ہیں۔
+and_doc_partner_intro_title === مقدمہ
+and_doc_partner_intro_line1 === ہمارا شراکت داری کا نظام آپ کو اپنے آلات دوسروں کے ساتھ شیئر کرکے مقامی نیٹ ورک پر پیغامات بھیجنے سے کمائی کرنے دیتا ہے۔
+and_doc_partner_intro_line2 === آپ اپنے ساتھی کے آلات پر مکمل کنٹرول رکھتے ہیں۔ آپ دونوں سم کارڈز کو فعال کر سکتے ہیں اور بے ترتیب بھیجنے کے وقفے سیٹ کر سکتے ہیں۔
+and_doc_partner_earning_title === آمدنی کی صلاحیت
+and_doc_partner_earning_case1 === ملک X کا ایک صارف ملک Y میں پیغام بھیجنا چاہتا ہے۔ اگر آپ کا ڈیوائس پارٹنر ہے، تو وہ آپ کے ڈیوائس کا استعمال کرتے ہوئے مقامی پیغامات کم لاگت میں بھیج سکتے ہیں۔
+and_doc_partner_earning_case2 === آپ کے اپنے ملک میں ایک صارف بھی آپ کے شریک کردہ ڈیوائس کا استعمال کر سکتا ہے اگر ان کے پاس ایک نہیں ہے۔
+and_doc_partner_how_title === یہ کیسے کام کرتا ہے؟
+and_doc_partner_how_alt === شراکت دار کے نظام کے کام کرنے کا خاکہ
+and_doc_partner_apply_title === درخواست دینے کا طریقہ؟
+and_doc_partner_apply_line1 === اگر آپ شراکت دار بننے میں دلچسپی رکھتے ہیں تو براہ کرم ہم سے رابطہ کریں تاکہ ہم آپ کا اکاؤنٹ اپ گریڈ کر سکیں۔
+response_admin_gateway_faileduploadapk === APK فائل اپ لوڈ کرنے میں ناکامی!
+response_admin_gateway_invalidapkfilename === APK فائل کا نام ورژن پر مشتمل ہونا چاہیے (جیسے com.packagename.test_v3.9.4.apk)
+response_admin_gateway_invalidapkfile === غلط APK فائل!
+response_admin_gateway_updatesuccess === گیٹ وے ایپ کامیابی سے اپ ڈیٹ ہو گئی!

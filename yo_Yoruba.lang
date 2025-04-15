@@ -2995,3 +2995,79 @@ admin_gateway_form_title === Awọn eto Ibi-ọna Android
 admin_gateway_formapktitle === Faili APK
 admin_gateway_formapkdesc === Gbe faịlụ APK ti o gba lati oju-iwe alabara. Jọwọ ma ṣe tun orukọ faịlụ naa.
 table_androidver_16 === Android 16
+and_doc_webhook_intro_title === Ifihan
+and_doc_webhook_intro_line1 === Webhooks jẹ ẹya alagbara ti o fun ẹya rẹ laaye lati tẹtisi fun awọn iṣẹlẹ lati awọn ẹrọ rẹ tabi WhatsApp. Eyi n ṣe iranlọwọ fun ọ lati ṣe afiwe iṣẹ.
+and_doc_webhook_intro_line2 === Iwọ̀n yìí ṣiṣẹ́ nikan fún àwọn iṣẹlẹ́ wọlé gẹ́gẹ́ bíi SMS, WhatsApp, ìdáhùn USSD, àti ìkìlọ̀ Android.
+and_doc_webhook_usecases_title === Awọn Ilana Iṣẹ
+and_doc_webhook_usecase1 === Bọtini idahun aiyipada fun SMS ati WhatsApp.
+and_doc_webhook_usecase2 === Fipamọ awọn ifiranṣẹ ati awọn iwiregbe sinu ibi ipamọ data rẹ.
+and_doc_webhook_usecase3 === Fipamọ awọn iwifunni si ilẹ-ẹkọ rẹ.
+and_doc_webhook_usecase4 === Fipamọ awọn idahun USSD si ibi ipamọ data rẹ.
+and_doc_webhook_usecase5 === Firanṣẹ awọn ẹru si awọn adirẹsi imeeli.
+and_doc_webhook_usecase6 === Firanṣẹ SMS tabi iwiregbe nigbati o ba gba ikilọ Facebook.
+and_doc_webhook_usecase7 === Ṣiṣe awọn iṣe nigba ti a ba gba iwifunni lati eyikeyi ohun elo.
+and_doc_webhook_how_title === Bí ó ṣe ń ṣiṣẹ
+and_doc_webhook_how_line1 === Nigbati a ba gba iṣẹlẹ, eto naa n fi ranṣẹ si URL webhook rẹ nipa lilo ọna POST. Ṣugbọn, olupin rẹ le mu ẹru naa ṣiṣẹ bi o ṣe fẹ.
+and_doc_webhook_flow_image_alt === Ilana Webhook
+and_doc_webhook_payload_title === Ilana Ibiṣẹ́
+and_doc_webhook_payload_line1 === Gbogbo ẹru ni iru ati data. O kan nilo lati ṣayẹwo iru naa ki o ṣiṣẹ data naa.
+and_doc_webhook_payload_sms === SMS
+and_doc_webhook_payload_whatsapp === WhatsApp
+and_doc_webhook_payload_ussd === USSD
+and_doc_webhook_payload_notification === Ikilọ
+and_doc_webhook_code_title === Apẹẹrẹ Koodu
+and_doc_actions_intro_title === Ifáfẹ́sẹ̀jọ́pọ̀
+and_doc_actions_intro_line1 === Awọn iṣe jẹ awọn irinṣẹ ti o ṣe iranlọwọ lati ṣe adaṣe awọn iṣẹ-ṣiṣe bi gbigbọ fun awọn iṣẹlẹ ìfiránṣẹ/ìgba-ẹda tabi fifi ẹsẹ-rẹ́hù si awọn ifiranṣẹ.
+and_doc_actions_intro_line2 === Wọn jẹ apẹrẹ pataki fun iṣakoso ibaraẹnisọrọ ti SMS ati WhatsApp.
+and_doc_actions_types_title === Iru Ihinrere
+and_doc_actions_type_hooks === Awọn okun
+and_doc_actions_type_hooks_desc === Awọn ibọsẹ n gbe akiyesi fun awọn iṣẹlẹ firanṣẹ ati gba SMS/WhatsApp. Kiri awọn webhooks, wọn tun ṣe atilẹyin awọn iṣẹlẹ firanṣẹ ati lo ọna GET. O le ṣeto URL funrararẹ.
+and_doc_actions_type_autoreplies === Ìdáhùn àtúnṣe
+and_doc_actions_type_autoreplies_desc === Awọn idahun ara laifọwọyi dahun si awọn ifiranṣẹ ti nwọle nigbati a ba ṣe idanimọ ọrọ-ọrọ kan. Iwọ yoo ṣeto awọn ọrọ-ọrọ ati ifiranṣẹ idahun.
+and_doc_actions_usecases_title === Awọn Ẹjọ Isẹ
+and_doc_actions_usecase1 === Mọ awọn iṣẹlẹ si olupin rẹ nigbati o ba firanṣẹ tabi gba ifiranṣẹ.
+and_doc_actions_usecase2 === Pe URL latọna lori firanṣẹ/gba ifiranṣẹ.
+and_doc_actions_usecase3 === Fesi laifọwọyi ti a ba ri ọrọ-ikọkọ ninu ifiranṣẹ.
+and_doc_actions_how_title === Bá a ṣe n ṣiṣẹ
+and_doc_actions_how_line1 === Aworan ti o wa ni isalẹ ṣalaye bi awọn kóókì ati awọn idahun aifọwọyi ṣe n ṣiṣẹ.
+and_doc_actions_flow_hooks === Iho
+and_doc_actions_flow_hooks_alt === Àwòrán ṣiṣan fún Hooks
+and_doc_actions_flow_autoreplies === Akojọ Idahun Aifọwọyi
+and_doc_actions_flow_autoreplies_alt === Àtẹ̀jáde fífi àkọsílẹ̀ àfihàn fún Àtúnrẹ́rẹ́.
+and_doc_actions_code_title === Apẹẹrẹ Koodu fun Hooks
+and_doc_android_intro_title === Ifihan
+and_doc_android_intro_line1 === Lati ranṣẹ si ati gba awọn ifiranṣẹ SMS, o nilo lati so awọn ẹrọ Android pọ pẹlu atilẹyin kaadi SIM. R sending SMS nilo iwọntunwọnsi olupese.
+and_doc_android_versions_title === Atilẹyin Android
+and_doc_android_versions_line1 === Ohun elo igbasilẹ n ṣe atilẹyin awọn ẹya Android wọnyi:
+and_doc_android_version_oreo === Android Oreo
+and_doc_android_version_pie === Android Pie
+and_doc_android_version_10 === Android 10
+and_doc_android_version_11 === Android 11
+and_doc_android_version_12 === Android 12
+and_doc_android_version_13 === Android 13
+and_doc_android_version_14 === Android 14
+and_doc_android_version_15 === Android 15
+and_doc_android_receive_title === Gbigba SMS
+and_doc_android_receive_line1 === O le pa SMS gbigba lẹnu ẹrọ kan ti a fi n lo nikan fun fifiranṣẹ.
+and_doc_android_receive_line2 === Akiyesi: eyi yoo tun da awọn ẹya ti o ni ibatan si gbigba duro bii awọn webhooks.
+and_doc_android_interval_title === Fífi Àkókò Ransẹ́
+and_doc_android_interval_line1 === Lo eyi lati yago fun awọn iṣoro Spam SMS. Awọn ifiranṣẹ yoo ranṣẹ ni awọn akoko airotẹlẹ ti o da lori awọn akoko ikeji ati ti o pọju ti o ṣalaye.
+and_doc_android_notifications_title === Iwọle ọrọ tuntun
+and_doc_android_notifications_line1 === Pẹpẹ naa le gba awọn ikilọ Android ati ran awọn iṣẹ lọwọ.
+and_doc_android_notifications_line2 === Ṣeto awọn orukọ package app ninu aaye APPLICATIONS ti ẹrọ naa. Lo awọn ikọlu laini lati ya sọtọ package kọọkan.
+and_doc_android_partner_title === Eto Alabaapọ
+and_doc_android_partner_line1 === Awọn alabaṣiṣẹpọ le wọle si eto ẹrọ pataki pẹlu wiwọle ẹrọ agbaye ati iṣakoso oṣuwọn.
+and_doc_partner_intro_title === Iṣafihan
+and_doc_partner_intro_line1 === Eto ìfáàrọ̀ wa n jẹ́ kí o rí owó nípa pínpin àwọn ẹrọ rẹ pẹlu àwọn olumulo míì lati ránṣẹ́ lori nẹ́tìwọ́kì àdúgbò rẹ.
+and_doc_partner_intro_line2 === O ni iṣakoso kikun lori awọn ẹrọ alabaṣiṣẹpọ rẹ. O le mu awọn kaadi SIM mejeeji ṣiṣẹ ati ṣeto awọn aago gbigbe laileto.
+and_doc_partner_earning_title === Irọrùn Èrè
+and_doc_partner_earning_case1 === Olumulo kan lati orilẹ-ede X fẹ lati fi awọn ifiranṣẹ ranṣẹ si orilẹ-ede rẹ Y. Ti ẹrọ rẹ ba ni ibasepọ, wọn le fi awọn ifiranṣẹ agbegbe ranṣẹ nipa lilo ẹrọ rẹ ni idiyele kekere.
+and_doc_partner_earning_case2 === Ọmọ-ẹnikan kan ni orilẹ-ede rẹ le lo ẹrọ ti o dara pọ pẹlu rẹ ti wọn ko ba ni ọkan.
+and_doc_partner_how_title === Báwo ni ó ṣe n ṣiṣẹ?
+and_doc_partner_how_alt === Àwòrán tó fi hàn bí ẹ̀gbẹ́ alábàáṣiṣẹ́ ṣe n ṣiṣẹ́
+and_doc_partner_apply_title === Báwo ni a ṣe le dabaa?
+and_doc_partner_apply_line1 === Ti o ba nifẹ lati di alabaṣiṣẹ, jowo kan si wa ki a le mu akọọlẹ rẹ pọ si.
+response_admin_gateway_faileduploadapk === Ko le gba faili APK kọ!
+response_admin_gateway_invalidapkfilename === Afijq _APK_ gbọdọ ni ẹya (ẹgbẹẹ e.g. com.packagename.test_v3.9.4.apk)
+response_admin_gateway_invalidapkfile === Faili APK ti ko tọ!
+response_admin_gateway_updatesuccess === Àpẹrẹ ẹnu-ọna ti ni imudojuiwọn ni aṣeyọri!

@@ -2995,3 +2995,79 @@ admin_gateway_form_title === 安卓网关设置
 admin_gateway_formapktitle === APK 文件
 admin_gateway_formapkdesc === 上传您从客户仪表板下载的APK文件。请勿更改文件名。
 table_androidver_16 === 安卓16
+and_doc_webhook_intro_title === 介绍
+and_doc_webhook_intro_line1 === Webhook 是一种强大的功能，可以让您的服务器监听来自设备或 WhatsApp 的事件。这可以帮助您自动化任务。
+and_doc_webhook_intro_line2 === 此功能仅适用于来电事件，如短信、WhatsApp 消息、USSD 响应和 Android 通知。
+and_doc_webhook_usecases_title === 使用案例
+and_doc_webhook_usecase1 === 短信和WhatsApp的自动回复机器人。
+and_doc_webhook_usecase2 === 将消息和聊天保存到您的数据库中。
+and_doc_webhook_usecase3 === 将通知保存到您的数据库中。
+and_doc_webhook_usecase4 === 将 USSD 回复保存到您的数据库中。
+and_doc_webhook_usecase5 === 将有效负载发送到电子邮件地址。
+and_doc_webhook_usecase6 === 当收到 Facebook 通知时发送 SMS 或聊天信息。
+and_doc_webhook_usecase7 === 当收到任何应用的通知时执行操作。
+and_doc_webhook_how_title === 如何运作
+and_doc_webhook_how_line1 === 当事件被接收时，系统会使用POST方法将其发送到您的webhook URL。然后，您的服务器可以根据需要处理有效负载。
+and_doc_webhook_flow_image_alt === Webhook 流程
+and_doc_webhook_payload_title === 有效载荷结构
+and_doc_webhook_payload_line1 === 每个有效载荷都有一个类型和数据。您只需检查类型并处理数据。
+and_doc_webhook_payload_sms === 短信
+and_doc_webhook_payload_whatsapp === WhatsApp
+and_doc_webhook_payload_ussd === USSD
+and_doc_webhook_payload_notification === 通知
+and_doc_webhook_code_title === 代码示例
+and_doc_actions_intro_title === 介绍
+and_doc_actions_intro_line1 === 操作是帮助自动化任务的工具，例如监听发送/接收事件或自动回复消息。
+and_doc_actions_intro_line2 === 它们专门用于与 SMS 和 WhatsApp 相关的自动化。
+and_doc_actions_types_title === 操作类型
+and_doc_actions_type_hooks === 钩子
+and_doc_actions_type_hooks_desc === 钩子监听SMS/WhatsApp的发送和接收事件。与webhooks不同，它们还支持发送事件并使用GET方法。您可以自行构建URL。
+and_doc_actions_type_autoreplies === 自动回复
+and_doc_actions_type_autoreplies_desc === 自动回复在检测到关键字时会自动回应来信。您可以设置关键字和回应消息。
+and_doc_actions_usecases_title === 使用案例
+and_doc_actions_usecase1 === 在发送或接收消息时，将事件记录到您的服务器。
+and_doc_actions_usecase2 === 在发送/接收消息时调用远程URL。
+and_doc_actions_usecase3 === 如果在消息中找到关键词，自动回复。
+and_doc_actions_how_title === 它是如何工作的
+and_doc_actions_how_line1 === 下面的图片解释了钩子和自动回复是如何工作的。
+and_doc_actions_flow_hooks === 挂钩
+and_doc_actions_flow_hooks_alt === 钩子的流程图
+and_doc_actions_flow_autoreplies === 自动回复
+and_doc_actions_flow_autoreplies_alt === 自动回复流程图
+and_doc_actions_code_title === 钩子示例代码
+and_doc_android_intro_title === 介绍
+and_doc_android_intro_line1 === 要发送和接收短信，需要将支持SIM卡的Android设备连接起来。发送短信需要运营商余额。
+and_doc_android_versions_title === 安卓支持
+and_doc_android_versions_line1 === 网关应用支持以下Android版本：
+and_doc_android_version_oreo === 安卓奥利奥
+and_doc_android_version_pie === 安卓派
+and_doc_android_version_10 === 安卓10
+and_doc_android_version_11 === 安卓 11
+and_doc_android_version_12 === 安卓12
+and_doc_android_version_13 === 安卓 13
+and_doc_android_version_14 === 安卓 14
+and_doc_android_version_15 === 安卓15
+and_doc_android_receive_title === 接收短信
+and_doc_android_receive_line1 === 如果设备仅用于发送，则可以禁用接收短信。
+and_doc_android_receive_line2 === 注意：这将禁用接收相关的功能，例如 webhook。
+and_doc_android_interval_title === 发送间隔
+and_doc_android_interval_line1 === 使用此功能以避免短信垃圾信息问题。消息将根据您定义的最小和最大秒数以随机间隔发送。
+and_doc_android_notifications_title === 通知
+and_doc_android_notifications_line1 === 该平台可以监听Android通知并帮助自动执行任务。
+and_doc_android_notifications_line2 === 在设备的 APPLICATIONS 字段中设置应用包名称。使用换行符分隔每个包。
+and_doc_android_partner_title === 合作伙伴设置
+and_doc_android_partner_line1 === 合作伙伴可以访问特定设备设置，包括全球设备访问和费率控制。
+and_doc_partner_intro_title === 介绍
+and_doc_partner_intro_line1 === 我们的合作系统使您可以通过与其他用户共享设备在本地网络上发送消息来赚取收益。
+and_doc_partner_intro_line2 === 您可以完全控制您的合作伙伴设备。您可以启用两个SIM卡并设置随机发送间隔。
+and_doc_partner_earning_title === 收益潜力
+and_doc_partner_earning_case1 === 来自国家X的用户希望向您的国家Y发送消息。如果您的设备与之合作，他们可以以更低的成本通过您的设备发送本地消息。
+and_doc_partner_earning_case2 === 您自己国家的用户如果没有设备，也可以使用您合作的设备。
+and_doc_partner_how_title === 它是如何工作的？
+and_doc_partner_how_alt === 展示合作伙伴系统运作方式的图示
+and_doc_partner_apply_title === 如何申请？
+and_doc_partner_apply_line1 === 如果您有兴趣成为合作伙伴，请联系我们以便我们可以升级您的账户。
+response_admin_gateway_faileduploadapk === 上传APK文件失败！
+response_admin_gateway_invalidapkfilename === APK 文件名必须包含版本（例如 com.packagename.test_v3.9.4.apk）
+response_admin_gateway_invalidapkfile === 无效的APK文件！
+response_admin_gateway_updatesuccess === 网关应用程序更新成功！

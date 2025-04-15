@@ -2995,3 +2995,79 @@ admin_gateway_form_title === Setări Gateway Android
 admin_gateway_formapktitle === Fișier APK
 admin_gateway_formapkdesc === Încărcați fișierul APK pe care l-ați descărcat de pe tabloul de bord al clientului. Vă rugăm să nu schimbați numele fișierului.
 table_androidver_16 === Android 16
+and_doc_webhook_intro_title === Introducere
+and_doc_webhook_intro_line1 === Webhooks sunt o funcție puternică care permite serverului tău să asculte evenimente din dispozitivele tale sau WhatsApp. Acest lucru te ajută să automatizezi sarcini.
+and_doc_webhook_intro_line2 === Această funcție funcționează doar pentru evenimentele primite, cum ar fi SMS-uri, mesaje WhatsApp, răspunsuri USSD și notificări Android.
+and_doc_webhook_usecases_title === Cazuri de utilizare
+and_doc_webhook_usecase1 === Bot de răspuns automat pentru SMS și WhatsApp.
+and_doc_webhook_usecase2 === Salvează mesajele și conversațiile în baza ta de date.
+and_doc_webhook_usecase3 === Salvează notificările în baza ta de date.
+and_doc_webhook_usecase4 === Salvează răspunsurile USSD în baza ta de date.
+and_doc_webhook_usecase5 === Trimite încărcături la adresele de email.
+and_doc_webhook_usecase6 === Trimite un SMS sau un mesaj atunci când primești o notificare pe Facebook.
+and_doc_webhook_usecase7 === Execută acțiuni atunci când se primește o notificare de la orice aplicație.
+and_doc_webhook_how_title === Cum funcționează
+and_doc_webhook_how_line1 === Când un eveniment este primit, sistemul îl trimite la URL-ul tău webhook folosind metoda POST. Serverul tău poate gestiona payload-ul cum dorești.
+and_doc_webhook_flow_image_alt === Flux Webhook
+and_doc_webhook_payload_title === Structura Payload-ului
+and_doc_webhook_payload_line1 === Fiecare payload are un tip și date. Trebuie să verifici tipul și să procesezi datele.
+and_doc_webhook_payload_sms === SMS
+and_doc_webhook_payload_whatsapp === WhatsApp
+and_doc_webhook_payload_ussd === USSD
+and_doc_webhook_payload_notification === Notificare
+and_doc_webhook_code_title === Exemplu de cod
+and_doc_actions_intro_title === Introducere
+and_doc_actions_intro_line1 === Acțiunile sunt instrumente care ajută la automatizarea sarcinilor, cum ar fi ascultarea evenimentelor de trimitere/recepție sau răspunsul automat la mesaje.
+and_doc_actions_intro_line2 === Sunt concepute special pentru automatizarea legată de SMS și WhatsApp.
+and_doc_actions_types_title === Tipuri de acțiuni
+and_doc_actions_type_hooks === Cârlige
+and_doc_actions_type_hooks_desc === Hooks ascultă evenimentele de trimitere și primire SMS/WhatsApp. Spre deosebire de webhooks, acestea suportă de asemenea evenimente de trimitere și folosesc metoda GET. Poți structura tu însuți URL-ul.
+and_doc_actions_type_autoreplies === Răspunsuri automate
+and_doc_actions_type_autoreplies_desc === Răspunsurile automate răspund automat la mesajele primite atunci când un cuvânt cheie este detectat. Setezi cuvintele cheie și mesajul de răspuns.
+and_doc_actions_usecases_title === Cazuri de utilizare
+and_doc_actions_usecase1 === Înregistrează evenimente pe serverul tău atunci când trimiți sau primești un mesaj.
+and_doc_actions_usecase2 === Apelați o URL externă la trimiterea/primirea mesajului.
+and_doc_actions_usecase3 === Răspunde automat dacă un cuvânt cheie este găsit într-un mesaj.
+and_doc_actions_how_title === Cum funcționează
+and_doc_actions_how_line1 === Imaginile de mai jos explică cum funcționează cârligele și răspunsurile automate.
+and_doc_actions_flow_hooks === Crapuri
+and_doc_actions_flow_hooks_alt === Diagrama de flux pentru Hooks
+and_doc_actions_flow_autoreplies === Răspunsuri automate
+and_doc_actions_flow_autoreplies_alt === Diagrama fluxului pentru Răspunsuri automate
+and_doc_actions_code_title === Exemplu de cod pentru Hooks
+and_doc_android_intro_title === Introducere
+and_doc_android_intro_line1 === Pentru a trimite și a primi mesaje SMS, trebuie să conectați dispozitive Android cu suport pentru cartelă SIM. Trimiterea SMS-urilor necesită un credit al operatorului.
+and_doc_android_versions_title === Suport Android
+and_doc_android_versions_line1 === Aplicația gateway suportă următoarele versiuni Android:
+and_doc_android_version_oreo === Android Oreo
+and_doc_android_version_pie === Android Pi
+and_doc_android_version_10 === Android 10
+and_doc_android_version_11 === Android 11
+and_doc_android_version_12 === Android 12
+and_doc_android_version_13 === Android 13
+and_doc_android_version_14 === Android 14
+and_doc_android_version_15 === Android 15
+and_doc_android_receive_title === Primirea SMS-urilor
+and_doc_android_receive_line1 === Puteți dezactiva primirea SMS-urilor de pe un dispozitiv dacă este utilizat doar pentru trimitere.
+and_doc_android_receive_line2 === Notă: acest lucru va dezactiva și funcții legate de primire, cum ar fi webhook-urile.
+and_doc_android_interval_title === Interval de trimitere
+and_doc_android_interval_line1 === Foloseste aceasta pentru a evita problemele cu spamul SMS. Mesajele vor fi trimise la intervale aleatoare, bazate pe secundele minime și maxime pe care le definești.
+and_doc_android_notifications_title === Notificări
+and_doc_android_notifications_line1 === Platforma poate asculta notificările Android și ajuta la automatizarea sarcinilor.
+and_doc_android_notifications_line2 === Introduceți numele pachetelor aplicației în câmpul APLICAȚII al dispozitivului. Utilizați întreruperi de linie pentru a separa fiecare pachet.
+and_doc_android_partner_title === Setări Partener
+and_doc_android_partner_line1 === Partenerii pot accesa setări speciale pentru dispozitive, inclusiv acces global la dispozitive și controale ale ratelor.
+and_doc_partner_intro_title === Introducere
+and_doc_partner_intro_line1 === Sistemul nostru de parteneriat îți permite să câștigi împărtășind dispozitivele tale cu alți utilizatori pentru a trimite mesaje pe rețeaua ta locală.
+and_doc_partner_intro_line2 === Îți controlezi complet dispozitivele partenerului. Poți activa ambele cartela SIM și seta intervale de trimitere aleatorii.
+and_doc_partner_earning_title === Potencial de câștiguri
+and_doc_partner_earning_case1 === Un utilizator din țara X dorește să trimită mesaje în țara dumneavoastră Y. Dacă dispozitivul dumneavoastră este partener, pot trimite mesaje locale folosind dispozitivul dumneavoastră la un cost mai mic.
+and_doc_partner_earning_case2 === Un utilizator din țara ta poate folosi, de asemenea, dispozitivul tău partener dacă nu are unul.
+and_doc_partner_how_title === Cum funcționează?
+and_doc_partner_how_alt === Diagramă care arată cum funcționează sistemul de parteneri
+and_doc_partner_apply_title === Cum să aplic?
+and_doc_partner_apply_line1 === Dacă sunteți interesat să deveniți partener, vă rugăm să ne contactați pentru a putea să vă actualizăm contul.
+response_admin_gateway_faileduploadapk === Încărcarea fișierului APK a eșuat!
+response_admin_gateway_invalidapkfilename === Numele fișierului APK trebuie să conțină versiunea (de exemplu, com.packagename.test_v3.9.4.apk)
+response_admin_gateway_invalidapkfile === Fișier APK invalid!
+response_admin_gateway_updatesuccess === Aplicația Gateway a fost actualizată cu succes!

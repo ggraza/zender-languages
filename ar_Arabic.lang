@@ -2995,3 +2995,79 @@ admin_gateway_form_title === إعدادات بوابة أندرويد
 admin_gateway_formapktitle === ملف APK
 admin_gateway_formapkdesc === حمّل ملف APK الذي قمت بتنزيله من لوحة معلومات العميل. يرجى عدم إعادة تسمية الملف.
 table_androidver_16 === أندرويد 16
+and_doc_webhook_intro_title === مقدمة
+and_doc_webhook_intro_line1 === تعتبر الويب هوكس ميزة قوية تسمح لخادمك بالاستماع للأحداث من أجهزةك أو واتساب. يساعدك هذا في أتمتة المهام.
+and_doc_webhook_intro_line2 === تعمل هذه الميزة فقط للأحداث الواردة مثل الرسائل القصيرة، رسائل واتساب، ردود USSD، وإشعارات أندرويد.
+and_doc_webhook_usecases_title === حالات الاستخدام
+and_doc_webhook_usecase1 === روبوت الرد التلقائي للرسائل القصيرة وواتساب.
+and_doc_webhook_usecase2 === احفظ الرسائل والدردشات في قاعدة البيانات الخاصة بك.
+and_doc_webhook_usecase3 === احفظ الإشعارات في قاعدة البيانات الخاصة بك.
+and_doc_webhook_usecase4 === احفظ ردود USSD في قاعدة بياناتك.
+and_doc_webhook_usecase5 === إرسال الحمولة إلى عناوين البريد الإلكتروني.
+and_doc_webhook_usecase6 === أرسل رسالة نصية أو دردشة عند تلقي إشعار من فيسبوك.
+and_doc_webhook_usecase7 === قم بتنفيذ الإجراءات عند استلام إشعار من أي تطبيق.
+and_doc_webhook_how_title === كيف يعمل
+and_doc_webhook_how_line1 === عند تلقي حدث، يرسل النظامه إلى عنوان URL الخاص بك باستخدام طريقة POST. يمكن لخادمك معالجة الحمولة كما تريد.
+and_doc_webhook_flow_image_alt === تدفق ويب هوك
+and_doc_webhook_payload_title === هيكل الحمولة
+and_doc_webhook_payload_line1 === كل حمولة لها نوع وبيانات. عليك فقط التحقق من النوع ومعالجة البيانات.
+and_doc_webhook_payload_sms === رسالة نصية
+and_doc_webhook_payload_whatsapp === واتساب
+and_doc_webhook_payload_ussd === USSD
+and_doc_webhook_payload_notification === إشعار
+and_doc_webhook_code_title === مثال على الشيفرة
+and_doc_actions_intro_title === مقدمة
+and_doc_actions_intro_line1 === تساعد الإجراءات على أتمتة المهام مثل الاستماع لأحداث الإرسال/الاستقبال أو الرد تلقائيًا على الرسائل.
+and_doc_actions_intro_line2 === تم تصميمها خصيصاً لأتمتة الرسائل النصية القصيرة وواتساب.
+and_doc_actions_types_title === أنواع الإجراءات
+and_doc_actions_type_hooks === خطافات
+and_doc_actions_type_hooks_desc === تستمع الخطافات لأحداث إرسال واستقبال الرسائل القصيرة/واتساب. على عكس الويب هوكس، فإنها تدعم أيضًا أحداث الإرسال وتستخدم طريقة GET. يمكنك هيكلة عنوان URL بنفسك.
+and_doc_actions_type_autoreplies === الردود التلقائية
+and_doc_actions_type_autoreplies_desc === ترد الرسائل التلقائية تلقائيًا على الرسائل الواردة عند اكتشاف كلمة رئيسية. تقوم بتعيين الكلمات الرئيسية ورسالة الرد.
+and_doc_actions_usecases_title === حالات الاستخدام
+and_doc_actions_usecase1 === سجل الأحداث على خادمك عند إرسال أو استلام رسالة.
+and_doc_actions_usecase2 === استدعاء عنوان URL عن بُعد عند إرسال/استقبال الرسالة.
+and_doc_actions_usecase3 === رد تلقائي إذا تم العثور على كلمة رئيسية في الرسالة.
+and_doc_actions_how_title === كيف يعمل
+and_doc_actions_how_line1 === توفر الصور أدناه شرحًا لكيفية عمل الخطافات والردود التلقائية.
+and_doc_actions_flow_hooks === خطافات
+and_doc_actions_flow_hooks_alt === رسم بياني لتدفق الخطافات
+and_doc_actions_flow_autoreplies === الردود التلقائية
+and_doc_actions_flow_autoreplies_alt === مخطط تدفق للردود التلقائية
+and_doc_actions_code_title === مثال كود للهوكس
+and_doc_android_intro_title === مقدمة
+and_doc_android_intro_line1 === لإرسال واستقبال رسائل SMS، تحتاج إلى ربط أجهزة Android التي تدعم بطاقة SIM. يتطلب إرسال SMS رصيد من شركة الاتصالات.
+and_doc_android_versions_title === دعم أندرويد
+and_doc_android_versions_line1 === يدعم تطبيق البوابة الإصدارات التالية من Android:
+and_doc_android_version_oreo === أندرويد أوريو
+and_doc_android_version_pie === أندرويد باي
+and_doc_android_version_10 === أندرويد 10
+and_doc_android_version_11 === أندرويد 11
+and_doc_android_version_12 === أندرويد 12
+and_doc_android_version_13 === أندرويد 13
+and_doc_android_version_14 === أندرويد 14
+and_doc_android_version_15 === أندرويد 15
+and_doc_android_receive_title === استلام الرسائل النصية
+and_doc_android_receive_line1 === يمكنك تعطيل تلقي الرسائل النصية من جهاز إذا كان يستخدم فقط للإرسال.
+and_doc_android_receive_line2 === ملاحظة: سيؤدي ذلك أيضًا إلى تعطيل الميزات المتعلقة بالاستلام مثل الويب هوكس.
+and_doc_android_interval_title === فترة الإرسال
+and_doc_android_interval_line1 === استخدم هذا لتجنب مشاكل الرسائل النصية المزعجة. ستُرسل الرسائل في فترات عشوائية بناءً على الحد الأدنى والحد الأقصى من الثواني التي تحددها.
+and_doc_android_notifications_title === الإشعارات
+and_doc_android_notifications_line1 === يمكن للمنصة الاستماع إلى إشعارات أندرويد والمساعدة في أتمتة المهام.
+and_doc_android_notifications_line2 === قم بتعيين أسماء حزم التطبيقات في حقل التطبيقات على الجهاز. استخدم فواصل الأسطر للفصل بين كل حزمة.
+and_doc_android_partner_title === إعدادات الشريك
+and_doc_android_partner_line1 === يمكن للشركاء الوصول إلى إعدادات الجهاز الخاصة بما في ذلك الوصول العالمي للجهاز وضوابط المعدل.
+and_doc_partner_intro_title === مقدمة
+and_doc_partner_intro_line1 === يتيح لك نظام الشراكة لدينا كسب المال من خلال مشاركة أجهزتك مع مستخدمين آخرين لإرسال الرسائل عبر الشبكة المحلية الخاصة بك.
+and_doc_partner_intro_line2 === تتحكم في أجهزة شريكك تمامًا. يمكنك تفعيل بطاقتي SIM وضبط فترات الإرسال العشوائية.
+and_doc_partner_earning_title === إمكانات الكسب
+and_doc_partner_earning_case1 === يريد مستخدم من البلد X إرسال رسائل إلى بلدك Y. إذا كانت جهازك شريكًا، يمكنهم إرسال رسائل محلية باستخدام جهازك بتكلفة أقل.
+and_doc_partner_earning_case2 === يمكن لمستخدم في بلدك استخدام جهاز الشريك الخاص بك إذا لم يكن لديه واحد.
+and_doc_partner_how_title === كيف يعمل؟
+and_doc_partner_how_alt === مخطط يوضح كيفية عمل نظام الشركاء
+and_doc_partner_apply_title === كيف تقدم طلبًا؟
+and_doc_partner_apply_line1 === إذا كنت مهتمًا بأن تصبح شريكًا، يرجى الاتصال بنا حتى نتمكن من ترقية حسابك.
+response_admin_gateway_faileduploadapk === فشل في رفع ملف APK!
+response_admin_gateway_invalidapkfilename === يجب أن يحتوي اسم ملف APK على الإصدار (مثل: com.packagename.test_v3.9.4.apk)
+response_admin_gateway_invalidapkfile === ملف APK غير صالح!
+response_admin_gateway_updatesuccess === تم تحديث تطبيق البوابة بنجاح!

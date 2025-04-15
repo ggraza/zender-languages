@@ -2994,3 +2994,79 @@ admin_gateway_form_title === Ρυθμίσεις Πύλης Android
 admin_gateway_formapktitle === Αρχείο APK
 admin_gateway_formapkdesc === Ανέβασε το αρχείο APK που κατέβασες από τον πίνακα ελέγχου πελάτη. Παρακαλώ μην μετονομάσεις το αρχείο.
 table_androidver_16 === Ανδροειδής 16
+and_doc_webhook_intro_title === Εισαγωγή
+and_doc_webhook_intro_line1 === Οι Webhooks είναι μια ισχυρή δυνατότητα που επιτρέπει στον διακομιστή σας να ακούει για γεγονότα από τις συσκευές σας ή το WhatsApp. Αυτό σας βοηθά να αυτοματοποιήσετε εργασίες.
+and_doc_webhook_intro_line2 === Αυτή η δυνατότητα λειτουργεί μόνο για εισερχόμενα γεγονότα όπως SMS, μηνύματα WhatsApp, απαντήσεις USSD και ειδοποιήσεις Android.
+and_doc_webhook_usecases_title === Χρήσεις
+and_doc_webhook_usecase1 === Αυτόματη απάντηση bot για SMS και WhatsApp.
+and_doc_webhook_usecase2 === Αποθηκεύστε τα μηνύματα και τις συνομιλίες σας στη βάση δεδομένων σας.
+and_doc_webhook_usecase3 === Αποθήκευση ειδοποιήσεων στη βάση δεδομένων σας.
+and_doc_webhook_usecase4 === Αποθηκεύστε τις απαντήσεις USSD στη βάση δεδομένων σας.
+and_doc_webhook_usecase5 === Στείλτε φορτία σε διευθύνσεις email.
+and_doc_webhook_usecase6 === Στείλτε ένα SMS ή συνομιλία όταν λάβετε μια ειδοποίηση από το Facebook.
+and_doc_webhook_usecase7 === Εκτέλεση ενεργειών όταν ληφθεί ειδοποίηση από οποιαδήποτε εφαρμογή.
+and_doc_webhook_how_title === Πώς Λειτουργεί
+and_doc_webhook_how_line1 === Όταν ληφθεί ένα γεγονός, το σύστημα το στέλνει στη διεύθυνση webhook σας χρησιμοποιώντας τη μέθοδο POST. Ο διακομιστής σας μπορεί να διαχειριστεί το περιεχόμενο όπως επιθυμείτε.
+and_doc_webhook_flow_image_alt === Ροή Webhook
+and_doc_webhook_payload_title === Δομή Payload
+and_doc_webhook_payload_line1 === Κάθε φορτίο έχει έναν τύπο και δεδομένα. Απλώς πρέπει να ελέγξετε τον τύπο και να επεξεργαστείτε τα δεδομένα.
+and_doc_webhook_payload_sms === SMS
+and_doc_webhook_payload_whatsapp === Γουατς Απ
+and_doc_webhook_payload_ussd === USSD
+and_doc_webhook_payload_notification === Ειδοποίηση
+and_doc_webhook_code_title === Παράδειγμα Κώδικα
+and_doc_actions_intro_title === Εισαγωγή
+and_doc_actions_intro_line1 === Οι ενέργειες είναι εργαλεία που βοηθούν στην αυτοματοποίηση εργασιών όπως η παρακολούθηση γεγονότων αποστολής/λήψης ή η αυτόματη απάντηση στα μηνύματα.
+and_doc_actions_intro_line2 === Είναι σχεδιασμένα ειδικά για αυτοματοποίηση που σχετίζεται με SMS και WhatsApp.
+and_doc_actions_types_title === Τύποι Ενεργειών
+and_doc_actions_type_hooks === Γάντζοι
+and_doc_actions_type_hooks_desc === Οι hooks παρακολουθούν τα γεγονότα αποστολής και λήψης SMS/WhatsApp. Σε αντίθεση με τα webhooks, υποστηρίζουν επίσης γεγονότα αποστολής και χρησιμοποιούν τη μέθοδο GET. Μπορείτε να δομήσετε την διεύθυνση URL σύμφωνα με τις προτιμήσεις σας.
+and_doc_actions_type_autoreplies === Αυτόματες απαντήσεις
+and_doc_actions_type_autoreplies_desc === Οι αυτόματες απαντήσεις ανταποκρίνονται αυτόματα σε εισερχόμενα μηνύματα όταν ανιχνεύεται μια λέξη-κλειδί. Ρυθμίζετε τις λέξεις-κλειδιά και το μήνυμα απάντησης.
+and_doc_actions_usecases_title === Χρήσεις
+and_doc_actions_usecase1 === Καταγράψτε τα γεγονότα στο διακομιστή σας όταν στέλνετε ή λαμβάνετε ένα μήνυμα.
+and_doc_actions_usecase2 === Καλέστε μια απομακρυσμένη διεύθυνση URL κατά την αποστολή/λήψη μηνύματος.
+and_doc_actions_usecase3 === Αυτόματη απάντηση εάν βρεθεί μια λέξη-κλειδί σε ένα μήνυμα.
+and_doc_actions_how_title === Πώς Λειτουργεί
+and_doc_actions_how_line1 === Οι παρακάτω εικόνες εξηγούν πώς λειτουργούν οι γάντζοι και οι αυτοαπαντήσεις.
+and_doc_actions_flow_hooks === Άγκιστρα
+and_doc_actions_flow_hooks_alt === Διάγραμμα ροής για Hooks
+and_doc_actions_flow_autoreplies === Αυτοαπαντήσεις
+and_doc_actions_flow_autoreplies_alt === Διάγραμμα ροής για Αυτοματοποιημένες απαντήσεις
+and_doc_actions_code_title === Παράδειγμα Κώδικα για Hooks
+and_doc_android_intro_title === Εισαγωγή
+and_doc_android_intro_line1 === Για να στείλετε και να λάβετε SMS μηνύματα, πρέπει να συνδέσετε συσκευές Android με υποστήριξη κάρτας SIM. Η αποστολή SMS απαιτεί υπόλοιπο από τον πάροχο.
+and_doc_android_versions_title === Υποστήριξη Android
+and_doc_android_versions_line1 === Η εφαρμογή πύλης υποστηρίζει τις εξής εκδόσεις Android:
+and_doc_android_version_oreo === Android Oreo
+and_doc_android_version_pie === Android Πίτα
+and_doc_android_version_10 === Άνδροι 10
+and_doc_android_version_11 === Android 11
+and_doc_android_version_12 === Android 12
+and_doc_android_version_13 === Ανδροειδές 13
+and_doc_android_version_14 === Android 14
+and_doc_android_version_15 === Ανδροειδές 15
+and_doc_android_receive_title === Λήψη SMS
+and_doc_android_receive_line1 === Μπορείτε να απενεργοποιήσετε την λήψη SMS από μια συσκευή αν χρησιμοποιείται μόνο για αποστολή.
+and_doc_android_receive_line2 === Σημείωση: αυτό θα απενεργοποιήσει επίσης δυνατότητες που σχετίζονται με τη λήψη, όπως τα webhooks.
+and_doc_android_interval_title === Διάστημα Αποστολής
+and_doc_android_interval_line1 === Χρησιμοποιήστε αυτό για να αποφύγετε προβλήματα SMS spam. Τα μηνύματα θα αποστέλλονται σε τυχαία διαστήματα με βάση τα ελάχιστα και μέγιστα δευτερόλεπτα που ορίζετε.
+and_doc_android_notifications_title === Ειδοποιήσεις
+and_doc_android_notifications_line1 === Η πλατφόρμα μπορεί να ακούει τις ειδοποιήσεις Android και να βοηθά στην αυτοματοποίηση καθηκόντων.
+and_doc_android_notifications_line2 === Ορίστε τα ονόματα πακέτων εφαρμογών στο πεδίο ΕΦΑΡΜΟΓΕΣ της συσκευής. Χρησιμοποιήστε διαλείμματα γραμμών για να χωρίσετε κάθε πακέτο.
+and_doc_android_partner_title === Ρυθμίσεις Συνεργάτη
+and_doc_android_partner_line1 === Οι συνεργάτες μπορούν να αποκτήσουν πρόσβαση σε ειδικές ρυθμίσεις συσκευών, συμπεριλαμβανομένης της παγκόσμιας πρόσβασης σε συσκευές και των ελέγχων ρυθμιστικών τιμών.
+and_doc_partner_intro_title === Εισαγωγή
+and_doc_partner_intro_line1 === Το σύστημα συνεργασίας μας σας επιτρέπει να κερδίζετε μοιράζοντας τις συσκευές σας με άλλους χρήστες για να στέλνουν μηνύματα στο τοπικό σας δίκτυο.
+and_doc_partner_intro_line2 === Ελέγχετε πλήρως τις συσκευές του συνεργάτη σας. Μπορείτε να ενεργοποιήσετε και τις δύο κάρτες SIM και να ορίσετε τυχαία διαστήματα αποστολής.
+and_doc_partner_earning_title === Δυνατότητες Κερδών
+and_doc_partner_earning_case1 === Ένας χρήστης από τη χώρα X θέλει να στείλει μηνύματα στη χώρα σας Y. Εάν η συσκευή σας είναι συνεργάτης, μπορούν να στέλνουν τοπικά μηνύματα χρησιμοποιώντας τη συσκευή σας με χαμηλότερο κόστος.
+and_doc_partner_earning_case2 === Ένας χρήστης στη χώρα σας μπορεί επίσης να χρησιμοποιήσει τη συσκευή σας αν δεν έχει μία.
+and_doc_partner_how_title === Πώς λειτουργεί;
+and_doc_partner_how_alt === Διάγραμμα που δείχνει πώς λειτουργεί το σύστημα συνεργατών
+and_doc_partner_apply_title === Πώς να κάνετε αίτηση;
+and_doc_partner_apply_line1 === Αν ενδιαφέρεστε να γίνετε συνεργάτης, παρακαλώ επικοινωνήστε μαζί μας ώστε να αναβαθμίσουμε τον λογαριασμό σας.
+response_admin_gateway_faileduploadapk === Αποτυχία φόρτωσης αρχείου APK!
+response_admin_gateway_invalidapkfilename === Το όνομα του αρχείου APK πρέπει να περιέχει την έκδοση (π.χ. com.packagename.test_v3.9.4.apk)
+response_admin_gateway_invalidapkfile === Μη έγκυρο αρχείο APK!
+response_admin_gateway_updatesuccess === Η εφαρμογή Gateway ενημερώθηκε με επιτυχία!

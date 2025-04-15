@@ -2995,3 +2995,79 @@ admin_gateway_form_title === การตั้งค่าเกตเวย์
 admin_gateway_formapktitle === ไฟล์ APK
 admin_gateway_formapkdesc === อัปโหลดไฟล์ APK ที่คุณดาวน์โหลดจากแผงควบคุมของลูกค้า โปรดอยRenameไฟล์.
 table_androidver_16 === แอนดรอยด์ 16
+and_doc_webhook_intro_title === การแนะนำ
+and_doc_webhook_intro_line1 === Webhook คือฟีเจอร์ที่ทรงพลังที่ช่วยให้เซิร์ฟเวอร์ของคุณฟังเหตุการณ์จากอุปกรณ์หรือ WhatsApp ของคุณ ซึ่งช่วยให้คุณทำงานอัตโนมัติได้
+and_doc_webhook_intro_line2 === ฟีเจอร์นี้ใช้ได้เฉพาะสำหรับอีเวนต์ที่เข้ามา เช่น SMS, ข้อความ WhatsApp, การตอบกลับ USSD และการแจ้งเตือน Android เท่านั้น
+and_doc_webhook_usecases_title === กรณีการใช้งาน
+and_doc_webhook_usecase1 === บอทตอบกลับอัตโนมัติสำหรับ SMS และ WhatsApp
+and_doc_webhook_usecase2 === บันทึกข้อความและแชทไปยังฐานข้อมูลของคุณ
+and_doc_webhook_usecase3 === บันทึกการแจ้งเตือนลงในฐานข้อมูลของคุณ
+and_doc_webhook_usecase4 === บันทึกการตอบกลับ USSD ลงในฐานข้อมูลของคุณ
+and_doc_webhook_usecase5 === ส่งข้อมูลไปยังที่อยู่อีเมล
+and_doc_webhook_usecase6 === ส่ง SMS หรือแชทเมื่อคุณได้รับการแจ้งเตือนจาก Facebook
+and_doc_webhook_usecase7 === เรียกใช้การกระทำเมื่อได้รับการแจ้งเตือนจากแอปใด ๆ
+and_doc_webhook_how_title === วิธีการทำงาน
+and_doc_webhook_how_line1 === เมื่อได้รับเหตุการณ์ ระบบจะส่งไปยัง URL webhook ของคุณโดยใช้วิธี POST จากนั้นเซิร์ฟเวอร์ของคุณสามารถจัดการกับ payload ได้ตามต้องการ
+and_doc_webhook_flow_image_alt === การไหลของ Webhook
+and_doc_webhook_payload_title === โครงสร้างข้อมูล
+and_doc_webhook_payload_line1 === แต่ละพารามิเตอร์มีประเภทและข้อมูล คุณเพียงแค่ต้องตรวจสอบประเภทและประมวลผลข้อมูล
+and_doc_webhook_payload_sms === ข้อความสั้น
+and_doc_webhook_payload_whatsapp === WhatsApp
+and_doc_webhook_payload_ussd === ยูซซด์
+and_doc_webhook_payload_notification === การแจ้งเตือน
+and_doc_webhook_code_title === ตัวอย่างโค้ด
+and_doc_actions_intro_title === บทนำ
+and_doc_actions_intro_line1 === การกระทำเป็นเครื่องมือที่ช่วยในการทำงานอัตโนมัติเช่นการฟังเหตุการณ์การส่ง/รับหรือการตอบกลับข้อความโดยอัตโนมัติ
+and_doc_actions_intro_line2 === พวกเขาถูกออกแบบมาสำหรับการทำงานอัตโนมัติที่เกี่ยวข้องกับ SMS และ WhatsApp โดยเฉพาะ
+and_doc_actions_types_title === ประเภทของการกระทำ
+and_doc_actions_type_hooks === ตะขอ
+and_doc_actions_type_hooks_desc === Hooks จะเฝ้าฟังเหตุการณ์การส่งและรับ SMS/WhatsApp แตกต่างจากเว็บฮุคที่สนับสนุนเหตุการณ์การส่งและใช้วิธี GET คุณสามารถจัดโครงสร้าง URL เองได้
+and_doc_actions_type_autoreplies === ตอบกลับอัตโนมัติ
+and_doc_actions_type_autoreplies_desc === การตอบกลับอัตโนมัติจะตอบกลับข้อความที่เข้ามาโดยอัตโนมัติเมื่อมีการตรวจพบคำสำคัญ คุณสามารถตั้งค่าคำสำคัญและข้อความตอบกลับได้
+and_doc_actions_usecases_title === กรณีการใช้งาน
+and_doc_actions_usecase1 === บันทึกเหตุการณ์ไปยังเซิร์ฟเวอร์ของคุณเมื่อคุณส่งหรือรับข้อความ
+and_doc_actions_usecase2 === เรียก URL ระยะไกลเมื่อส่ง/รับข้อความ
+and_doc_actions_usecase3 === ตอบกลับโดยอัตโนมัติหากพบคำสำคัญในข้อความ
+and_doc_actions_how_title === มันทำงานอย่างไร
+and_doc_actions_how_line1 === ภาพด้านล่างอธิบายว่าหัวข้อและการตอบกลับอัตโนมัติทำงานอย่างไร
+and_doc_actions_flow_hooks === ฮุค
+and_doc_actions_flow_hooks_alt === แผนภาพขั้นตอนสำหรับ Hooks
+and_doc_actions_flow_autoreplies === ตอบกลับอัตโนมัติ
+and_doc_actions_flow_autoreplies_alt === แผนภาพโฟลว์สำหรับการตอบกลับอัตโนมัติ
+and_doc_actions_code_title === ตัวอย่างโค้ดสำหรับ Hooks
+and_doc_android_intro_title === บทนำ
+and_doc_android_intro_line1 === ในการส่งและรับข้อความ SMS คุณต้องเชื่อมต่ออุปกรณ์ Android กับซิมการ์ด การส่ง SMS ต้องการยอดเงินของผู้ให้บริการ
+and_doc_android_versions_title === การสนับสนุน Android
+and_doc_android_versions_line1 === แอปเกตเวย์รองรับเวอร์ชัน Android ต่อไปนี้:
+and_doc_android_version_oreo === แอนดรอยด์ โอรีโอ
+and_doc_android_version_pie === แอนดรอยด์พาย
+and_doc_android_version_10 === แอนดรอยด์ 10
+and_doc_android_version_11 === แอนดรอยด์ 11
+and_doc_android_version_12 === แอนดรอยด์ 12
+and_doc_android_version_13 === แอนดรอยด์ 13
+and_doc_android_version_14 === แอนดรอยด์ 14
+and_doc_android_version_15 === แอนดรอยด์ 15
+and_doc_android_receive_title === รับ SMS
+and_doc_android_receive_line1 === คุณสามารถปิดการรับ SMS จากอุปกรณ์หากใช้เฉพาะในการส่งเท่านั้น
+and_doc_android_receive_line2 === หมายเหตุ: นี่จะปิดฟีเจอร์ที่เกี่ยวข้องกับการรับ เช่น webhooks ด้วย
+and_doc_android_interval_title === ส่งช่วงเวลา
+and_doc_android_interval_line1 === ใช้สิ่งนี้เพื่อหลีกเลี่ยงปัญหา SMS สแปม ข้อความจะถูกส่งในช่วงเวลาสุ่มตามวินาทีขั้นต่ำและสูงสุดที่คุณกำหนด
+and_doc_android_notifications_title === การแจ้งเตือน
+and_doc_android_notifications_line1 === แพลตฟอร์มสามารถฟังการแจ้งเตือน Android และช่วยในการทำงานอัตโนมัติ
+and_doc_android_notifications_line2 === ตั้งชื่อแพ็คเกจแอพในช่อง APPLICATIONS ของอุปกรณ์ ใช้การขึ้นบรรทัดใหม่เพื่อแยกแต่ละแพ็คเกจ
+and_doc_android_partner_title === การตั้งค่าพันธมิตร
+and_doc_android_partner_line1 === พันธมิตรสามารถเข้าถึงการตั้งค่าอุปกรณ์พิเศษ รวมถึงการเข้าถึงอุปกรณ์ทั่วโลกและการควบคุมอัตรา
+and_doc_partner_intro_title === บทนำ
+and_doc_partner_intro_line1 === ระบบความร่วมมือของเราช่วยให้คุณสามารถสร้างรายได้โดยการแชร์อุปกรณ์ของคุณกับผู้ใช้อื่นเพื่อส่งข้อความในเครือข่ายท้องถิ่นของคุณ
+and_doc_partner_intro_line2 === คุณควบคุมอุปกรณ์ของคู่ของคุณได้อย่างสมบูรณ์ คุณสามารถเปิดใช้งานซิมการ์ดทั้งสองใบและตั้งค่าการส่งแบบสุ่มได้
+and_doc_partner_earning_title === ศักยภาพรายได้
+and_doc_partner_earning_case1 === ผู้ใช้จากประเทศ X ต้องการส่งข้อความไปยังประเทศ Y ของคุณ ถ้าอุปกรณ์ของคุณเป็นพันธมิตร พวกเขาสามารถส่งข้อความในท้องถิ่นโดยใช้อุปกรณ์ของคุณในราคาที่ต่ำกว่า
+and_doc_partner_earning_case2 === ผู้ใช้ในประเทศของคุณสามารถใช้อุปกรณ์ที่คุณเป็นพันธมิตรได้ หากพวกเขาไม่มีอุปกรณ์ของตัวเอง
+and_doc_partner_how_title === มันทำงานอย่างไร?
+and_doc_partner_how_alt === แผนภาพแสดงวิธีการทำงานของระบบพันธมิตร
+and_doc_partner_apply_title === วิธีการสมัคร?
+and_doc_partner_apply_line1 === หากคุณสนใจเป็นพันธมิตร กรุณาติดต่อเราเพื่อที่เราจะได้อัปเกรดบัญชีของคุณ
+response_admin_gateway_faileduploadapk === ไม่สามารถอัปโหลดไฟล์ APK ได้!
+response_admin_gateway_invalidapkfilename === ชื่อไฟล์ APK ต้องมีหมายเลขเวอร์ชัน (เช่น com.packagename.test_v3.9.4.apk)
+response_admin_gateway_invalidapkfile === ไฟล์ APK ไม่ถูกต้อง!
+response_admin_gateway_updatesuccess === อัปเดตแอปเกตเวย์สำเร็จแล้ว!

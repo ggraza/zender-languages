@@ -2995,3 +2995,79 @@ admin_gateway_form_title === Android Kapu Beállítások
 admin_gateway_formapktitle === APK fájl
 admin_gateway_formapkdesc === Töltse fel az APK fájlt, amit a vásárlói irányítópultból töltött le. Kérjük, ne nevezz el fájlt.
 table_androidver_16 === Android 16
+and_doc_webhook_intro_title === Bevezetés
+and_doc_webhook_intro_line1 === A webhookok egy erőteljes funkció, amely lehetővé teszi, hogy a szervered figyelje az eseményeket az eszközeidről vagy a WhatsApp-ról. Ez segít az automatizálásban.
+and_doc_webhook_intro_line2 === Ez a funkció csak bejövő eseményekre vonatkozik, mint például SMS, WhatsApp üzenetek, USSD válaszok és Android értesítések.
+and_doc_webhook_usecases_title === Felhasználási esetek
+and_doc_webhook_usecase1 === Automatikus válaszoló bot SMS és WhatsApp számára.
+and_doc_webhook_usecase2 === Mentse el az üzeneteket és a csevegjét az adatbázisába.
+and_doc_webhook_usecase3 === Mentse a értesítéseket az adatbázisába.
+and_doc_webhook_usecase4 === Mentse a USSD válaszokat az adatbázisába.
+and_doc_webhook_usecase5 === Küldj terheket e-mail címekre.
+and_doc_webhook_usecase6 === Küldj SMS-t vagy chat üzenetet, amikor Facebook értesítést kapsz.
+and_doc_webhook_usecase7 === Futtass akciókat, amikor értesítést kapsz bármely alkalmazástól.
+and_doc_webhook_how_title === Hogyan működik
+and_doc_webhook_how_line1 === Amikor egy esemény érkezik, a rendszer a POST módszerrel elküldi azt a webhook URL-jére. A szervered ezután tetszés szerint kezelheti a payloadot.
+and_doc_webhook_flow_image_alt === Webhook Áramlás
+and_doc_webhook_payload_title === Terhelési struktúra
+and_doc_webhook_payload_line1 === Minden payloadnak van egy típusa és adatai. Csak ellenőrizni kell a típust és feldolgozni az adatokat.
+and_doc_webhook_payload_sms === SMS
+and_doc_webhook_payload_whatsapp === WhatsApp
+and_doc_webhook_payload_ussd === USSD
+and_doc_webhook_payload_notification === Értesítés
+and_doc_webhook_code_title === Kód példa
+and_doc_actions_intro_title === Bevezetés
+and_doc_actions_intro_line1 === A műveletek olyan eszközök, amelyek segítenek automatizálni a feladatokat, mint például a küldési/levételezési események figyelése vagy az üzenetek automatikus megválaszolása.
+and_doc_actions_intro_line2 === Kifejezetten SMS és WhatsApp kapcsolódó automatizálásra készültek.
+and_doc_actions_types_title === Cselekvések típusaid
+and_doc_actions_type_hooks === Horgok
+and_doc_actions_type_hooks_desc === A hookok figyelik az SMS/WhatsApp küldési és fogadási eseményeket. A webhookokkal ellentétben a küldési eseményeket is támogatják, és a GET módszert használják. A URL-t önállóan alakíthatja ki.
+and_doc_actions_type_autoreplies === Automatikus válaszok
+and_doc_actions_type_autoreplies_desc === Az automatikus válaszok automatikusan válaszolnak a bejövő üzenetekre, amikor egy kulcsszót észlelnek. Ön beállítja a kulcsszavakat és a válasz üzenetet.
+and_doc_actions_usecases_title === Felhasználási esetek
+and_doc_actions_usecase1 === Naplózza az eseményeket a szerverére, amikor üzenetet küld vagy kap.
+and_doc_actions_usecase2 === Hívjon meg egy távoli URL-t üzenet küldése/fogadása során.
+and_doc_actions_usecase3 === Automatikus válasz küldése, ha egy kulcsszó megtalálható egy üzenetben.
+and_doc_actions_how_title === Hogyan működik
+and_doc_actions_how_line1 === Az alábbi képek bemutatják, hogyan működnek a horgok és az automatikus válaszok.
+and_doc_actions_flow_hooks === Horgok
+and_doc_actions_flow_hooks_alt === Horgok áramlási diagramja
+and_doc_actions_flow_autoreplies === Automatikus válaszok
+and_doc_actions_flow_autoreplies_alt === Automatikus válaszok folyamatábrája
+and_doc_actions_code_title === Hooks Példa Kódra
+and_doc_android_intro_title === Bevezetés
+and_doc_android_intro_line1 === SMS üzenetek küldéséhez és fogadásához Android eszközöket kell összekapcsolni SIM-kártya támogatással. Az SMS küldéséhez szolgáltatói egyenleg szükséges.
+and_doc_android_versions_title === Android Támogatás
+and_doc_android_versions_line1 === A kapualkalmazás a következő Android verziókat támogatja:
+and_doc_android_version_oreo === Android Oreo
+and_doc_android_version_pie === Android Pite
+and_doc_android_version_10 === Android 10
+and_doc_android_version_11 === Android 11
+and_doc_android_version_12 === Android 12
+and_doc_android_version_13 === Android 13
+and_doc_android_version_14 === Android 14
+and_doc_android_version_15 === Android 15
+and_doc_android_receive_title === SMS fogadása
+and_doc_android_receive_line1 === Továbbító eszköz esetén letilthatja az SMS fogadást.
+and_doc_android_receive_line2 === Megjegyzés: ez a fogadással kapcsolatos funkciókat, például a webhooks-t is letiltja.
+and_doc_android_interval_title === Küldési Intervallum
+and_doc_android_interval_line1 === Használja ezt az SMS-spam problémák elkerülésére. Az üzenetek véletlenszerű időközönként fognak megérkezni az Ön által megadott minimum és maximum másodpercek alapján.
+and_doc_android_notifications_title === Értesítések
+and_doc_android_notifications_line1 === A platform képes figyelni az Android értesítéseit és segíteni a feladatok automatizálásában.
+and_doc_android_notifications_line2 === Állítsa be az alkalmazáscsomag nevéket az ESZKÖZök MEZŐBEN. Használjon sortöréseket minden csomag elkülönítésére.
+and_doc_android_partner_title === Partner beállítások
+and_doc_android_partner_line1 === A partnerek hozzáférhetnek a speciális eszközbeállításokhoz, beleértve a globális eszközhozzáférést és a díjszabályozásokat.
+and_doc_partner_intro_title === Bevezetés
+and_doc_partner_intro_line1 === A partnerségi rendszerünk lehetővé teszi, hogy eszközeid megosztásával pénzt keress más felhasználókkal, akik üzeneteket küldenek a helyi hálózatodon.
+and_doc_partner_intro_line2 === Teljes mértékben irányíthatja partner eszközeit. Engedélyezheti mindkét SIM-kártyát, és beállíthat véletlenszerű küldési időközöket.
+and_doc_partner_earning_title === Jövedelmezőségi potenciál
+and_doc_partner_earning_case1 === Egy X országbeli felhasználó üzenetet szeretne küldeni az Y országba. Ha az eszközöd partnerkapcsolatban van, akkor alacsonyabb költséggel küldhet helyi üzeneteket az eszközödnél.
+and_doc_partner_earning_case2 === Egy felhasználó a saját országában szintén használhatja a partnered eszközét, ha nincs sajátja.
+and_doc_partner_how_title === Hogyan működik?
+and_doc_partner_how_alt === Diagram, amely bemutatja, hogyan működik a partner rendszer
+and_doc_partner_apply_title === Hogyan kell jelentkezni?
+and_doc_partner_apply_line1 === Ha érdeklik a partnerkapcsolatok, kérjük, lépjen kapcsolatba velünk, hogy frissíthessük fiókját.
+response_admin_gateway_faileduploadapk === Sikertelen APK fájl feltöltés!
+response_admin_gateway_invalidapkfilename === Az APK fájlnevének tartalmaznia kell a verziót (pl. com.packagename.test_v3.9.4.apk)
+response_admin_gateway_invalidapkfile === Érvénytelen APK fájl!
+response_admin_gateway_updatesuccess === A Gateway alkalmazás sikeresen frissítve!

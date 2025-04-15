@@ -2995,3 +2995,79 @@ admin_gateway_form_title === Configurações do Gateway Android
 admin_gateway_formapktitle === Arquivo APK
 admin_gateway_formapkdesc === Faça o upload do arquivo APK que você baixou do painel do cliente. Por favor, não renomeie o arquivo.
 table_androidver_16 === Android 16
+and_doc_webhook_intro_title === Introdução
+and_doc_webhook_intro_line1 === Webhooks são um recurso poderoso que permite que seu servidor escute eventos dos seus dispositivos ou do WhatsApp. Isso ajuda a automatizar tarefas.
+and_doc_webhook_intro_line2 === Este recurso funciona apenas para eventos recebidos, como SMS, mensagens do WhatsApp, respostas USSD e notificações do Android.
+and_doc_webhook_usecases_title === Casos de Uso
+and_doc_webhook_usecase1 === Bot de resposta automática para SMS e WhatsApp.
+and_doc_webhook_usecase2 === Salve mensagens e chats em seu banco de dados.
+and_doc_webhook_usecase3 === Salve notificações no seu banco de dados.
+and_doc_webhook_usecase4 === Salve as respostas USSD no seu banco de dados.
+and_doc_webhook_usecase5 === Envie cargas úteis para endereços de email.
+and_doc_webhook_usecase6 === Envie um SMS ou chat quando você receber uma notificação do Facebook.
+and_doc_webhook_usecase7 === Execute ações quando uma notificação for recebida de qualquer aplicativo.
+and_doc_webhook_how_title === Como Funciona
+and_doc_webhook_how_line1 === Quando um evento é recebido, o sistema o envia para sua URL de webhook usando o método POST. Seu servidor pode então manipular a carga útil da maneira que desejar.
+and_doc_webhook_flow_image_alt === Fluxo de Webhook
+and_doc_webhook_payload_title === Estrutura da Carga
+and_doc_webhook_payload_line1 === Cada carga útil tem um tipo e dados. Você só precisa verificar o tipo e processar os dados.
+and_doc_webhook_payload_sms === SMS
+and_doc_webhook_payload_whatsapp === WhatsApp
+and_doc_webhook_payload_ussd === USSD
+and_doc_webhook_payload_notification === Notificação
+and_doc_webhook_code_title === Exemplo de Código
+and_doc_actions_intro_title === Introdução
+and_doc_actions_intro_line1 === Ações são ferramentas que ajudam a automatizar tarefas, como escutar eventos de envio/recebimento ou responder automaticamente a mensagens.
+and_doc_actions_intro_line2 === Eles são projetados especificamente para automação relacionada a SMS e WhatsApp.
+and_doc_actions_types_title === Tipos de Ações
+and_doc_actions_type_hooks === Ganchos
+and_doc_actions_type_hooks_desc === Os hooks escutam eventos de envio e recebimento de SMS/WhatsApp. Ao contrário dos webhooks, eles também suportam eventos de envio e usam o método GET. Você pode estruturar a URL por conta própria.
+and_doc_actions_type_autoreplies === Respostas automáticas
+and_doc_actions_type_autoreplies_desc === As respostas automáticas respondem automaticamente a mensagens recebidas quando uma palavra-chave é detectada. Você define as palavras-chave e a mensagem de resposta.
+and_doc_actions_usecases_title === Casos de Uso
+and_doc_actions_usecase1 === Registre eventos em seu servidor ao enviar ou receber uma mensagem.
+and_doc_actions_usecase2 === Chamar uma URL remota ao enviar/receber mensagem.
+and_doc_actions_usecase3 === Responder automaticamente se uma palavra-chave for encontrada em uma mensagem.
+and_doc_actions_how_title === Como Funciona
+and_doc_actions_how_line1 === As imagens abaixo explicam como funcionam os hooks e as respostas automáticas.
+and_doc_actions_flow_hooks === Ganchos
+and_doc_actions_flow_hooks_alt === Diagrama de fluxo para Hooks
+and_doc_actions_flow_autoreplies === Respostas automáticas
+and_doc_actions_flow_autoreplies_alt === Diagrama de fluxo para Respostas automáticas
+and_doc_actions_code_title === Exemplo de Código para Hooks
+and_doc_android_intro_title === Introdução
+and_doc_android_intro_line1 === Para enviar e receber mensagens SMS, você precisa vincular dispositivos Android com suporte a cartão SIM. O envio de SMS requer saldo da operadora.
+and_doc_android_versions_title === Suporte Android
+and_doc_android_versions_line1 === O aplicativo de gateway suporta as seguintes versões do Android:
+and_doc_android_version_oreo === Android Oreo
+and_doc_android_version_pie === Android Pie
+and_doc_android_version_10 === Android 10
+and_doc_android_version_11 === Android 11
+and_doc_android_version_12 === Android 12
+and_doc_android_version_13 === Android 13
+and_doc_android_version_14 === Android 14
+and_doc_android_version_15 === Android 15
+and_doc_android_receive_title === Recebendo SMS
+and_doc_android_receive_line1 === Você pode desativar o recebimento de SMS de um dispositivo se ele for usado apenas para envio.
+and_doc_android_receive_line2 === Observe: isso também desativará recursos relacionados ao recebimento, como webhooks.
+and_doc_android_interval_title === Enviar Intervalo
+and_doc_android_interval_line1 === Use isso para evitar problemas de spam por SMS. As mensagens serão enviadas em intervalos aleatórios com base nos segundos mínimos e máximos que você definir.
+and_doc_android_notifications_title === Notificações
+and_doc_android_notifications_line1 === A plataforma pode ouvir notificações do Android e ajudar a automatizar tarefas.
+and_doc_android_notifications_line2 === Defina os nomes dos pacotes do aplicativo no campo APLICAÇÕES do dispositivo. Use quebras de linha para separar cada pacote.
+and_doc_android_partner_title === Configurações de Parceiro
+and_doc_android_partner_line1 === Os parceiros podem acessar configurações especiais do dispositivo, incluindo acesso global ao dispositivo e controles de taxa.
+and_doc_partner_intro_title === Introdução
+and_doc_partner_intro_line1 === Nosso sistema de parceria permite que você ganhe ao compartilhar seus dispositivos com outros usuários para enviar mensagens na sua rede local.
+and_doc_partner_intro_line2 === Você controla completamente os dispositivos do seu parceiro. Você pode ativar ambos os cartões SIM e definir intervalos de envio aleatórios.
+and_doc_partner_earning_title === Potencial de Ganhos
+and_doc_partner_earning_case1 === Um usuário do país X deseja enviar mensagens para o seu país Y. Se o seu dispositivo estiver associado, eles podem enviar mensagens locais usando seu dispositivo a um custo mais baixo.
+and_doc_partner_earning_case2 === Um usuário no seu próprio país também pode usar o seu dispositivo parceiro se não tiver um.
+and_doc_partner_how_title === Como funciona?
+and_doc_partner_how_alt === Diagrama mostrando como o sistema de parceiros funciona
+and_doc_partner_apply_title === Como se inscrever?
+and_doc_partner_apply_line1 === Se você está interessado em se tornar um parceiro, por favor, entre em contato para que possamos atualizar sua conta.
+response_admin_gateway_faileduploadapk === Falha ao enviar o arquivo APK!
+response_admin_gateway_invalidapkfilename === O nome do arquivo APK deve conter a versão (por exemplo, com.packagename.test_v3.9.4.apk)
+response_admin_gateway_invalidapkfile === Arquivo APK inválido!
+response_admin_gateway_updatesuccess === Aplicativo de gateway atualizado com sucesso!

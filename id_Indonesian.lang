@@ -2995,3 +2995,79 @@ admin_gateway_form_title === Pengaturan Gateway Android
 admin_gateway_formapktitle === File APK
 admin_gateway_formapkdesc === Unggah file APK yang Anda unduh dari dasbor pelanggan. Harap jangan ganti nama file tersebut.
 table_androidver_16 === Android 16
+and_doc_webhook_intro_title === Pengantar
+and_doc_webhook_intro_line1 === Webhooks adalah fitur yang kuat yang memungkinkan server Anda mendengarkan peristiwa dari perangkat atau WhatsApp Anda. Ini membantu Anda mengotomatiskan tugas.
+and_doc_webhook_intro_line2 === Fitur ini hanya berfungsi untuk acara yang masuk seperti SMS, pesan WhatsApp, respons USSD, dan notifikasi Android.
+and_doc_webhook_usecases_title === Kasus Penggunaan
+and_doc_webhook_usecase1 === Bot balas otomatis untuk SMS dan WhatsApp.
+and_doc_webhook_usecase2 === Simpan pesan dan obrolan ke basis data Anda.
+and_doc_webhook_usecase3 === Simpan notifikasi ke basis data Anda.
+and_doc_webhook_usecase4 === Simpan balasan USSD ke database Anda.
+and_doc_webhook_usecase5 === Kirim muatan ke alamat email.
+and_doc_webhook_usecase6 === Kirim SMS atau chat saat Anda menerima notifikasi Facebook.
+and_doc_webhook_usecase7 === Jalankan tindakan ketika notifikasi diterima dari aplikasi mana pun.
+and_doc_webhook_how_title === Cara Kerjanya
+and_doc_webhook_how_line1 === Saat sebuah peristiwa diterima, sistem mengirimkannya ke URL webhook Anda menggunakan metode POST. Server Anda dapat menangani payload sesuai keinginan Anda.
+and_doc_webhook_flow_image_alt === Alur Webhook
+and_doc_webhook_payload_title === Struktur Payload
+and_doc_webhook_payload_line1 === Setiap payload memiliki tipe dan data. Anda hanya perlu memeriksa tipe dan memproses data.
+and_doc_webhook_payload_sms === SMS
+and_doc_webhook_payload_whatsapp === WhatsApp
+and_doc_webhook_payload_ussd === USSD
+and_doc_webhook_payload_notification === Notifikasi
+and_doc_webhook_code_title === Contoh Kode
+and_doc_actions_intro_title === Pengantar
+and_doc_actions_intro_line1 === Tindakan adalah alat yang membantu mengotomatiskan tugas seperti mendengarkan peristiwa kirim/terima atau membalas pesan secara otomatis.
+and_doc_actions_intro_line2 === Mereka dirancang khusus untuk otomatisasi terkait SMS dan WhatsApp.
+and_doc_actions_types_title === Jenis Tindakan
+and_doc_actions_type_hooks === Pengait
+and_doc_actions_type_hooks_desc === Hooks mendengarkan peristiwa kirim dan terima SMS/WhatsApp. Berbeda dengan webhooks, mereka juga mendukung peristiwa kirim dan menggunakan metode GET. Anda dapat menyusun URL sendiri.
+and_doc_actions_type_autoreplies === Balasan Otomatis
+and_doc_actions_type_autoreplies_desc === Balasan otomatis secara otomatis menjawab pesan masuk saat kata kunci terdeteksi. Anda mengatur kata kunci dan pesan balasan.
+and_doc_actions_usecases_title === Kasus Penggunaan
+and_doc_actions_usecase1 === Catat peristiwa ke server Anda saat Anda mengirim atau menerima pesan.
+and_doc_actions_usecase2 === Panggil URL jarak jauh saat pesan dikirim/diterima.
+and_doc_actions_usecase3 === Balas secara otomatis jika kata kunci ditemukan dalam pesan.
+and_doc_actions_how_title === Bagaimana Cara Kerjanya
+and_doc_actions_how_line1 === Gambar di bawah ini menjelaskan cara kerja hook dan balasan otomatis.
+and_doc_actions_flow_hooks === Pengait
+and_doc_actions_flow_hooks_alt === Diagram alur untuk Hooks
+and_doc_actions_flow_autoreplies === Balasan otomatis
+and_doc_actions_flow_autoreplies_alt === Diagram alur untuk Balas Otomatis
+and_doc_actions_code_title === Contoh Kode untuk Hooks
+and_doc_android_intro_title === Pengantar
+and_doc_android_intro_line1 === Untuk mengirim dan menerima pesan SMS, Anda perlu menghubungkan perangkat Android dengan dukungan kartu SIM. Mengirim SMS memerlukan saldo operator.
+and_doc_android_versions_title === Dukungan Android
+and_doc_android_versions_line1 === Aplikasi gateway mendukung versi Android berikut:
+and_doc_android_version_oreo === Android Oreo
+and_doc_android_version_pie === Android Pie
+and_doc_android_version_10 === Android 10
+and_doc_android_version_11 === Android 11
+and_doc_android_version_12 === Android 12
+and_doc_android_version_13 === Android 13
+and_doc_android_version_14 === Android 14
+and_doc_android_version_15 === Android 15
+and_doc_android_receive_title === Menerima SMS
+and_doc_android_receive_line1 === Anda dapat menonaktifkan penerimaan SMS dari perangkat jika hanya digunakan untuk mengirim.
+and_doc_android_receive_line2 === Catatan: ini juga akan menonaktifkan fitur terkait penerimaan seperti webhook.
+and_doc_android_interval_title === Kirim Interval
+and_doc_android_interval_line1 === Gunakan ini untuk menghindari masalah spam SMS. Pesan akan dikirim pada interval acak berdasarkan detik minimum dan maksimum yang Anda tentukan.
+and_doc_android_notifications_title === Notifikasi
+and_doc_android_notifications_line1 === Platform dapat mendengarkan notifikasi Android dan membantu mengotomatisasi tugas.
+and_doc_android_notifications_line2 === Atur nama paket aplikasi di bidang APLIKASI perangkat. Gunakan pemisah baris untuk memisahkan setiap paket.
+and_doc_android_partner_title === Pengaturan Mitra
+and_doc_android_partner_line1 === Mitra dapat mengakses pengaturan perangkat khusus termasuk akses perangkat global dan kontrol tarif.
+and_doc_partner_intro_title === Pendahuluan
+and_doc_partner_intro_line1 === Sistem kemitraan kami memungkinkan Anda menghasilkan uang dengan membagikan perangkat Anda kepada pengguna lain untuk mengirim pesan di jaringan lokal Anda.
+and_doc_partner_intro_line2 === Anda sepenuhnya mengontrol perangkat mitra Anda. Anda dapat mengaktifkan kedua kartu SIM dan mengatur interval pengiriman secara acak.
+and_doc_partner_earning_title === Potensi Pendapatan
+and_doc_partner_earning_case1 === Seorang pengguna dari negara X ingin mengirim pesan ke negara Y Anda. Jika perangkat Anda bermitra, mereka dapat mengirim pesan lokal menggunakan perangkat Anda dengan biaya lebih rendah.
+and_doc_partner_earning_case2 === Pengguna di negara Anda juga dapat menggunakan perangkat mitra Anda jika mereka tidak memilikinya.
+and_doc_partner_how_title === Bagaimana cara kerjanya?
+and_doc_partner_how_alt === Diagram yang menunjukkan bagaimana sistem mitra bekerja
+and_doc_partner_apply_title === Bagaimana cara mendaftar?
+and_doc_partner_apply_line1 === Jika Anda tertarik untuk menjadi mitra, silakan hubungi kami agar kami dapat meningkatkan akun Anda.
+response_admin_gateway_faileduploadapk === Gagal mengunggah file APK!
+response_admin_gateway_invalidapkfilename === Nama file APK harus mengandung versi (misalnya com.packagename.test_v3.9.4.apk)
+response_admin_gateway_invalidapkfile === File APK tidak valid!
+response_admin_gateway_updatesuccess === Aplikasi Gateway berhasil diperbarui!
