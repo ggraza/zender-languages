@@ -3071,3 +3071,4 @@ response_admin_gateway_faileduploadapk === שגיאה בהעלאת קובץ APK!
 response_admin_gateway_invalidapkfilename === שם קובץ ה-APK חייב לכלול גרסה (למשל com.packagename.test_v3.9.4.apk)
 response_admin_gateway_invalidapkfile === קובץ APK אינו חוקי!
 response_admin_gateway_updatesuccess === האפליקציה של השער עודכנה בהצלחה!
+device_api_smspending === תוצאת SMS _8880_ ממתינה!

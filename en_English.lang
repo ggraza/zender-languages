@@ -3067,3 +3067,4 @@ response_admin_gateway_faileduploadapk === Failed to upload APK file!
 response_admin_gateway_invalidapkfilename === APK filename must contain version (e.g. com.packagename.test_v3.9.4.apk)
 response_admin_gateway_invalidapkfile === Invalid APK file!
 response_admin_gateway_updatesuccess === Gateway app updated successfully!
+device_api_smspending === SMS _8880_ result is pending!

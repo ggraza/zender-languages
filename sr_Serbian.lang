@@ -3071,3 +3071,4 @@ response_admin_gateway_faileduploadapk === Neuspešno učitavanje APK datoteke!
 response_admin_gateway_invalidapkfilename === Naziv APK datoteke mora sadržati verziju (npr. com.packagename.test_v3.9.4.apk)
 response_admin_gateway_invalidapkfile === Nevažeći APK fajl!
 response_admin_gateway_updatesuccess === Aplikacija Gateway je uspešno ažurirana!
+device_api_smspending === SMS _8880_ rezultat je u toku!

@@ -3071,3 +3071,4 @@ response_admin_gateway_faileduploadapk === APK 파일 업로드에 실패했습�
 response_admin_gateway_invalidapkfilename === APK 파일 이름에는 버전이 포함되어야 합니다 (예: com.packagename.test_v3.9.4.apk)
 response_admin_gateway_invalidapkfile === 잘못된 APK 파일입니다!
 response_admin_gateway_updatesuccess === 게이트웨이 앱이 성공적으로 업데이트되었습니다!
+device_api_smspending === SMS _8880_ 결과가 대기 중입니다!

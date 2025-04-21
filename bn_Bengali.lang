@@ -3071,3 +3071,4 @@ response_admin_gateway_faileduploadapk === এপিকে ফাইল আপ�
 response_admin_gateway_invalidapkfilename === এপিকে ফাইলের নামের মধ্যে সংস্করণ থাকতে হবে (যেমন com.packagename.test_v3.9.4.apk)
 response_admin_gateway_invalidapkfile === অ valido APK ফাইল!
 response_admin_gateway_updatesuccess === গেটওয়ে অ্যাপ সফলভাবে আপডেট হয়েছে!
+device_api_smspending === এসএমএস _8880_ ফলাফল অনিশ্চিত!

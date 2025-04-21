@@ -3071,3 +3071,4 @@ response_admin_gateway_faileduploadapk === APK dosyası yüklenemedi!
 response_admin_gateway_invalidapkfilename === APK dosya adı sürüm içermelidir (örn. com.packagename.test_v3.9.4.apk)
 response_admin_gateway_invalidapkfile === Geçersiz APK dosyası!
 response_admin_gateway_updatesuccess === Ağ geçidi uygulaması başarıyla güncellendi!
+device_api_smspending === SMS _8880_ sonucu beklemede!

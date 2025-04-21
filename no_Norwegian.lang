@@ -3071,3 +3071,4 @@ response_admin_gateway_faileduploadapk === Feil ved opplasting av APK-fil!
 response_admin_gateway_invalidapkfilename === APK-filnavnet må inneholde versjon (f.eks. com.packagename.test_v3.9.4.apk)
 response_admin_gateway_invalidapkfile === Ugyldig APK-fil!
 response_admin_gateway_updatesuccess === Gateway-appen ble oppdatert med suksess!
+device_api_smspending === SMS _8880_ resultatet venter!

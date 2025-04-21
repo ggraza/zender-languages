@@ -3071,3 +3071,4 @@ response_admin_gateway_faileduploadapk === APKファイルのアップロード�
 response_admin_gateway_invalidapkfilename === APKファイル名にはバージョンを含める必要があります（例：com.packagename.test_v3.9.4.apk）
 response_admin_gateway_invalidapkfile === 無効なAPKファイルです!
 response_admin_gateway_updatesuccess === ゲートウェイアプリが正常に更新されました！
+device_api_smspending === SMS _8880_ の結果は保留中です！

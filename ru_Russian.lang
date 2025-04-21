@@ -3071,3 +3071,4 @@ response_admin_gateway_faileduploadapk === Не удалось загрузит�
 response_admin_gateway_invalidapkfilename === Имя файла APK должно содержать версию (например, com.packagename.test_v3.9.4.apk)
 response_admin_gateway_invalidapkfile === Неверный APK файл!
 response_admin_gateway_updatesuccess === Приложение Gateway успешно обновлено!
+device_api_smspending === Результат SMS _8880_ ожидает!

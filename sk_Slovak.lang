@@ -3071,3 +3071,4 @@ response_admin_gateway_faileduploadapk === Nahrávanie súboru APK zlyhalo!
 response_admin_gateway_invalidapkfilename === Názov súboru APK musí obsahovať verziu (napr. com.packagename.test_v3.9.4.apk)
 response_admin_gateway_invalidapkfile === Neplatný súbor APK!
 response_admin_gateway_updatesuccess === Aplikácia Gateway bola úspešne aktualizovaná!
+device_api_smspending === SMS _8880_ výsledok je v priebehu!

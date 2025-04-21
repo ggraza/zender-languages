@@ -3071,3 +3071,4 @@ response_admin_gateway_faileduploadapk === Nwepụtara ịrụ ọrụ nke ịny
 response_admin_gateway_invalidapkfilename === Aha faịlụ APK ga-enwe mmegharị (ọtụtụ dị ka com.packagename.test_v3.9.4.apk)
 response_admin_gateway_invalidapkfile === Nke a bụ faịlụ APK na-ezighị ezi!
 response_admin_gateway_updatesuccess === A họpụtara ngwa Gateway nke ọma!
+device_api_smspending === Nsonaazụ SMS _8880_ na-eche!

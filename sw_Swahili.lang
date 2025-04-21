@@ -3071,3 +3071,4 @@ response_admin_gateway_faileduploadapk === Imeshindikana kupakia faili la APK!
 response_admin_gateway_invalidapkfilename === Jina la faili la APK lazima liwe na toleo (mfano: com.packagename.test_v3.9.4.apk)
 response_admin_gateway_invalidapkfile === Faili la APK halali!
 response_admin_gateway_updatesuccess === Programu ya Gateway imesasishwa kwa mafanikio!
+device_api_smspending === Matokeo ya SMS _8880_ yanakusubiri!

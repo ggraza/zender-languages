@@ -3071,3 +3071,4 @@ response_admin_gateway_faileduploadapk === 上传APK文件失败！
 response_admin_gateway_invalidapkfilename === APK 文件名必须包含版本（例如 com.packagename.test_v3.9.4.apk）
 response_admin_gateway_invalidapkfile === 无效的APK文件！
 response_admin_gateway_updatesuccess === 网关应用程序更新成功！
+device_api_smspending === 短信 _8880_ 的结果正在等待中！

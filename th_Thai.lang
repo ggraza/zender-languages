@@ -3071,3 +3071,4 @@ response_admin_gateway_faileduploadapk === ไม่สามารถอัป�
 response_admin_gateway_invalidapkfilename === ชื่อไฟล์ APK ต้องมีหมายเลขเวอร์ชัน (เช่น com.packagename.test_v3.9.4.apk)
 response_admin_gateway_invalidapkfile === ไฟล์ APK ไม่ถูกต้อง!
 response_admin_gateway_updatesuccess === อัปเดตแอปเกตเวย์สำเร็จแล้ว!
+device_api_smspending === ผลลัพธ์ SMS _8880_ กำลังรออยู่!

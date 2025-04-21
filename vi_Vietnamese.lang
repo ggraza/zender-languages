@@ -3071,3 +3071,4 @@ response_admin_gateway_faileduploadapk === Tải lên tệp APK không thành c�
 response_admin_gateway_invalidapkfilename === Tên tệp APK phải chứa phiên bản (ví dụ: com.packagename.test_v3.9.4.apk)
 response_admin_gateway_invalidapkfile === Tệp APK không hợp lệ!
 response_admin_gateway_updatesuccess === Ứng dụng Gateway đã được cập nhật thành công!
+device_api_smspending === Kết quả SMS _8880_ đang chờ!

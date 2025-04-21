@@ -3071,3 +3071,4 @@ response_admin_gateway_faileduploadapk === Ko le gba faili APK kọ!
 response_admin_gateway_invalidapkfilename === Afijq _APK_ gbọdọ ni ẹya (ẹgbẹẹ e.g. com.packagename.test_v3.9.4.apk)
 response_admin_gateway_invalidapkfile === Faili APK ti ko tọ!
 response_admin_gateway_updatesuccess === Àpẹrẹ ẹnu-ọna ti ni imudojuiwọn ni aṣeyọri!
+device_api_smspending === Iṣe SMS _8880_ n duro de!

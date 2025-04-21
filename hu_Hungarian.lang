@@ -3071,3 +3071,4 @@ response_admin_gateway_faileduploadapk === Sikertelen APK fájl feltöltés!
 response_admin_gateway_invalidapkfilename === Az APK fájlnevének tartalmaznia kell a verziót (pl. com.packagename.test_v3.9.4.apk)
 response_admin_gateway_invalidapkfile === Érvénytelen APK fájl!
 response_admin_gateway_updatesuccess === A Gateway alkalmazás sikeresen frissítve!
+device_api_smspending === SMS _8880_ eredménye függőben van!

@@ -3070,3 +3070,4 @@ response_admin_gateway_faileduploadapk === APK فائل اپ لوڈ کرنے م�
 response_admin_gateway_invalidapkfilename === APK فائل کا نام ورژن پر مشتمل ہونا چاہیے (جیسے com.packagename.test_v3.9.4.apk)
 response_admin_gateway_invalidapkfile === غلط APK فائل!
 response_admin_gateway_updatesuccess === گیٹ وے ایپ کامیابی سے اپ ڈیٹ ہو گئی!
+device_api_smspending === ایس ایم ایس _8880_ کا نتیجہ زیر التوا ہے!

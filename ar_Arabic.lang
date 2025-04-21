@@ -3071,3 +3071,4 @@ response_admin_gateway_faileduploadapk === فشل في رفع ملف APK!
 response_admin_gateway_invalidapkfilename === يجب أن يحتوي اسم ملف APK على الإصدار (مثل: com.packagename.test_v3.9.4.apk)
 response_admin_gateway_invalidapkfile === ملف APK غير صالح!
 response_admin_gateway_updatesuccess === تم تحديث تطبيق البوابة بنجاح!
+device_api_smspending === نتيجة SMS _8880_ قيد الانتظار!

@@ -3070,3 +3070,4 @@ response_admin_gateway_faileduploadapk === Αποτυχία φόρτωσης α�
 response_admin_gateway_invalidapkfilename === Το όνομα του αρχείου APK πρέπει να περιέχει την έκδοση (π.χ. com.packagename.test_v3.9.4.apk)
 response_admin_gateway_invalidapkfile === Μη έγκυρο αρχείο APK!
 response_admin_gateway_updatesuccess === Η εφαρμογή Gateway ενημερώθηκε με επιτυχία!
+device_api_smspending === Η κατάσταση του SMS _8880_ είναι σε εκκρεμότητα!

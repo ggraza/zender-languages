@@ -3071,3 +3071,4 @@ response_admin_gateway_faileduploadapk === Încărcarea fișierului APK a eșuat
 response_admin_gateway_invalidapkfilename === Numele fișierului APK trebuie să conțină versiunea (de exemplu, com.packagename.test_v3.9.4.apk)
 response_admin_gateway_invalidapkfile === Fișier APK invalid!
 response_admin_gateway_updatesuccess === Aplicația Gateway a fost actualizată cu succes!
+device_api_smspending === Rezultatul SMS _8880_ este în așteptare!

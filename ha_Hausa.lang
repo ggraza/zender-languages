@@ -3071,3 +3071,4 @@ response_admin_gateway_faileduploadapk === An kasa loda fayil din APK!
 response_admin_gateway_invalidapkfilename === Sunan fayil ɗin APK dole ne ya ƙunshi sigar (misali: com.packagename.test_v3.9.4.apk)
 response_admin_gateway_invalidapkfile === Fayil ɗin APK ba daidai ba!
 response_admin_gateway_updatesuccess === An sabunta aikace-aikacen Gateway cikin nasara!
+device_api_smspending === Sakamakon SMS _8880_ yana jiran!

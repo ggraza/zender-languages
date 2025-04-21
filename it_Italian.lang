@@ -3071,3 +3071,4 @@ response_admin_gateway_faileduploadapk === Caricamento del file APK non riuscito
 response_admin_gateway_invalidapkfilename === Il nome del file APK deve contenere la versione (ad es. com.packagename.test_v3.9.4.apk)
 response_admin_gateway_invalidapkfile === File APK non valido!
 response_admin_gateway_updatesuccess === App Gateway aggiornata con successo!
+device_api_smspending === Il risultato SMS _8880_ è in attesa!

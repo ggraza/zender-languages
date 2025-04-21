@@ -3071,3 +3071,4 @@ response_admin_gateway_faileduploadapk === Gagal mengunggah file APK!
 response_admin_gateway_invalidapkfilename === Nama file APK harus mengandung versi (misalnya com.packagename.test_v3.9.4.apk)
 response_admin_gateway_invalidapkfile === File APK tidak valid!
 response_admin_gateway_updatesuccess === Aplikasi Gateway berhasil diperbarui!
+device_api_smspending === Hasil SMS _8880_ sedang menunggu!

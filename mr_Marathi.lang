@@ -3071,3 +3071,4 @@ response_admin_gateway_faileduploadapk === APK फाइल अपलोड क�
 response_admin_gateway_invalidapkfilename === APK फाइलीमध्ये आवृत्ती असावी लागते (उदाहरणार्थ, com.packagename.test_v3.9.4.apk)
 response_admin_gateway_invalidapkfile === अमान्य APK फाइल!
 response_admin_gateway_updatesuccess === गेटवे अॅप यशस्वीपणे अद्यतनित केले!
+device_api_smspending === SMS _8880_ परिणाम प्रलंबित आहे!
