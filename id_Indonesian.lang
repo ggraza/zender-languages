@@ -3072,3 +3072,112 @@ response_admin_gateway_invalidapkfilename === Nama file APK harus mengandung ver
 response_admin_gateway_invalidapkfile === File APK tidak valid!
 response_admin_gateway_updatesuccess === Aplikasi Gateway berhasil diperbarui!
 device_api_smspending === Hasil SMS _8880_ sedang menunggu!
+flow_header_title === Pembuat Alur
+flow_response_saved === Aliran berhasil disimpan!
+flow_response_nofile === Tidak ada file yang diunggah atau terjadi kesalahan unggah!
+flow_response_fileuploaded === File berhasil diunggah
+flow_modal_upload_title === Unggah Berkas
+flow_modal_upload_button_select === Pilih File
+flow_modal_upload_button_upload === Unggah
+flow_modal_upload_progress_text === 0%
+flow_draw_sms_source === Sumber SMS
+flow_draw_whatsapp_source === Sumber WhatsApp
+flow_draw_condition === Kondisi
+flow_draw_send_text === Kirim Teks
+flow_draw_send_image === Kirim Gambar
+flow_draw_send_video === Kirim Video
+flow_draw_send_audio === Kirim Audio
+flow_draw_send_document === Kirim Dokumen
+flow_draw_save_contact === Simpan Kontak
+flow_draw_button_save === Simpan
+flow_draw_button_clear === Bersihkan
+flow_draw_zoom_out === Perkecil Zoom
+flow_draw_zoom_reset === Atur Ulang Zoom
+flow_draw_zoom_in === Perbesar
+flowjs_fetching_data === mengambil data aliran
+flowjs_failedload_data === Gagal memuat data aliran!
+flowjs_flowbuilder_guidetitle === Pembuat Alur
+flowjs_flowbuilder_guide1 === Seret salah satu node sumber ke area aliran
+flowjs_flowbuilder_guide2 === Sambungkan ke node kondisi untuk memfilter pesan
+flowjs_flowbuilder_guide3 === Tambahkan tindakan teks atau media berdasarkan kondisi
+flowjs_flowbuilder_note === Hanya satu node sumber pesan yang dapat digunakan dalam alur!
+flowjs_node_smstitle === Sumber SMS
+flowjs_node_smsdevicesel === Pilih Perangkat
+flowjs_node_textexample === Terima kasih atas pesan Anda!
+flowjs_node_texttitle === Kirim Teks
+flowjs_node_textinputtitle === Pesan Teks
+flowjs_node_textinputplaholder === Masukkan pesan Anda
+flowjs_node_textpriority === Prioritas
+flowjs_node_yes === Ya
+flowjs_node_no === Tidak
+flowjs_node_watitle === Sumber WhatsApp
+flowjs_node_waselect === Pilih Akun
+flowjs_node_savecontact === Simpan Kontak
+flowjs_node_contactgroup === Grup Kontak
+flowjs_node_nocondition === Node kondisi tidak dapat dihubungkan ke node kondisi lainnya!
+flowjs_node_nosmsmedia === Tidak dapat menggunakan sumber SMS ketika node gambar, video, audio, dan dokumen ada dalam alur!
+flowjs_node_wamediaonly === Node media WhatsApp hanya dapat digunakan dengan sumber WhatsApp!
+flowjs_node_onlyonesource === Hanya satu node sumber yang dapat digunakan dalam aliran!
+flowjs_node_condition === Kondisi
+flowjs_node_conditiontype === Jenis Kondisi
+flowjs_node_condition1 === Dimulai Dengan
+flowjs_node_condition2 === Berakhiran Dengan
+flowjs_node_condition3 === Berisi
+flowjs_node_condition4 === Sama
+flowjs_node_condition5 === Tidak Mengandung
+flowjs_node_condition6 === Regex
+flowjs_node_conditionval === Nilai
+flowjs_node_conditionvalph === Masukkan Nilai
+flowjs_node_imagetitle === Kirim Gambar
+flowjs_node_imageurl === URL Gambar
+flowjs_node_imageurlph === Masukkan URL Gambar
+flowjs_node_uploadbtn === Unggah
+flowjs_node_caption === Keterangan (Opsional)
+flowjs_node_captionph === Masukkan Keterangan
+flowjs_node_video === Kirim Video
+flowjs_node_videourl === URL Video
+flowjs_node_videoph === Masukkan URL Video
+flowjs_node_audio === Kirim Audio
+flowjs_node_audiourl === URL Audio
+flowjs_node_audioph === Masukkan URL Audio
+flowjs_node_documennt === Kirim Dokumen
+flowjs_node_documenturl === URL Dokumen
+flowjs_node_documentph === Masukkan URL Dokumen
+flowjs_upload_uploading === Mengunggah Berkas
+flowjs_upload_failed === Gagal mengunggah file!
+flowjs_export_addsourceflow === Silakan tambahkan node sumber ke aliran!
+flowjs_export_sourcemustconnode === Node sumber harus terhubung ke node lain!
+flowjs_export_nodesmustconnctflow === Semua node harus terhubung dengan benar dalam alur!
+flowjs_export_mustselsmssource === Silakan pilih perangkat untuk node sumber SMS!
+flowjs_export_mustselwasource === Silakan pilih akun untuk node sumber WhatsApp!
+flowjs_export_savingflow === Menyimpan alur
+flowjs_export_failedsave === Gagal menyimpan alur!
+flow_table_nametitle === Nama
+flow_table_sourcetitle === Sumber
+flow_table_optionstitle === Opsi
+flow_page_title === Aliran
+flow_page_createbtn === Buat Alur
+flow_page_header === Alur
+flow_page_sidebar === Aliran
+logger_table_createdate === Dibuat
+logger_table_type === Ketik
+logger_table_reason === Alasan
+logger_table_content === Isi
+logger_page_sidebar === Perekam log
+logger_page_header === Pencatat
+logger_page_title === Pencatat
+plugin_aicontext_breadcrumb === Kecerdasan Buatan
+plugin_aicontext_title === File Konteks
+plugin_aicontext_addbtn === Tambah Berkas
+plugin_aicontext_formname === Berkas
+plugin_aicontext_formdesc === Pilih file untuk diunggah. Hanya file PDF, TXT, dan MD yang didukung. File ini akan digunakan AI untuk menjawab pertanyaan.
+plugin_aicontext_headertitle === File Konteks
+plugin_aicontext_failupload === Tidak dapat mengunggah file!
+plugin_aicontext_successupload === File konteks telah ditambahkan!
+plugin_aicontext_filedeleted === File konteks telah dihapus!
+plugin_aicontext_tablecreated === Dibuat
+plugin_aicontext_tablefile === Nama File
+plugin_aicontext_tableoptions === Opsi
+response_flow_deleted === Aliran telah dihapus!
+response_aikey_deleted === Kunci AI telah dihapus!
+response_aiplugin_deleted === Plugin AI telah dihapus!

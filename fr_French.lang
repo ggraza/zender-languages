@@ -3072,3 +3072,112 @@ response_admin_gateway_invalidapkfilename === Le nom de fichier APK doit conteni
 response_admin_gateway_invalidapkfile === Fichier APK invalide !
 response_admin_gateway_updatesuccess === L'application Gateway a été mise à jour avec succès !
 device_api_smspending === Le résultat de SMS _8880_ est en attente !
+flow_header_title === Constructeur de flux
+flow_response_saved === Flux enregistré avec succès !
+flow_response_nofile === Aucun fichier téléchargé ou erreur de téléchargement !
+flow_response_fileuploaded === Fichier téléchargé avec succès
+flow_modal_upload_title === Télécharger le fichier
+flow_modal_upload_button_select === Sélectionner le fichier
+flow_modal_upload_button_upload === Télécharger
+flow_modal_upload_progress_text === 0%
+flow_draw_sms_source === Source SMS
+flow_draw_whatsapp_source === Source WhatsApp
+flow_draw_condition === Condition
+flow_draw_send_text === Envoyer le texte
+flow_draw_send_image === Envoyer l'image
+flow_draw_send_video === Envoyer la vidéo
+flow_draw_send_audio === Envoyer Audio
+flow_draw_send_document === Envoyer le Document
+flow_draw_save_contact === Enregistrer le contact
+flow_draw_button_save === Enregistrer
+flow_draw_button_clear === Effacer
+flow_draw_zoom_out === Zoom arrière
+flow_draw_zoom_reset === Réinitialiser le zoom
+flow_draw_zoom_in === Zoomer
+flowjs_fetching_data === récupération des données de flux
+flowjs_failedload_data === Échec du chargement des données de flux !
+flowjs_flowbuilder_guidetitle === Constructeur de flux
+flowjs_flowbuilder_guide1 === Faites glisser un nœud source vers la zone de flux
+flowjs_flowbuilder_guide2 === Connectez-le aux nœuds de condition pour filtrer les messages
+flowjs_flowbuilder_guide3 === Ajouter des actions de texte ou de média selon les conditions
+flowjs_flowbuilder_note === Un seul nœud source de message peut être utilisé dans le flux !
+flowjs_node_smstitle === Source SMS
+flowjs_node_smsdevicesel === Sélectionner l'appareil
+flowjs_node_textexample === Merci pour votre message !
+flowjs_node_texttitle === Envoyer le texte
+flowjs_node_textinputtitle === Message texte
+flowjs_node_textinputplaholder === Entrez votre message
+flowjs_node_textpriority === Priorité
+flowjs_node_yes === Oui
+flowjs_node_no === Non
+flowjs_node_watitle === Source WhatsApp
+flowjs_node_waselect === Sélectionner le compte
+flowjs_node_savecontact === Enregistrer le Contact
+flowjs_node_contactgroup === Groupe de contact
+flowjs_node_nocondition === Les nœuds de condition ne peuvent pas être connectés à d'autres nœuds de condition !
+flowjs_node_nosmsmedia === Impossible d'utiliser la source SMS lorsque des nœuds image, vidéo, audio et document existent dans le flux !
+flowjs_node_wamediaonly === Les nœuds médias WhatsApp ne peuvent être utilisés qu'avec la source WhatsApp !
+flowjs_node_onlyonesource === Un seul nœud source peut être utilisé dans le flux !
+flowjs_node_condition === Condition
+flowjs_node_conditiontype === Type de condition
+flowjs_node_condition1 === Commence par
+flowjs_node_condition2 === Se termine par
+flowjs_node_condition3 === Contient
+flowjs_node_condition4 === Égal
+flowjs_node_condition5 === Ne contient pas
+flowjs_node_condition6 === Expression régulière
+flowjs_node_conditionval === Valeur
+flowjs_node_conditionvalph === Entrer la valeur
+flowjs_node_imagetitle === Envoyer l'image
+flowjs_node_imageurl === URL de l'image
+flowjs_node_imageurlph === Entrez l'URL de l'image
+flowjs_node_uploadbtn === Télécharger
+flowjs_node_caption === Légende (Optionnel)
+flowjs_node_captionph === Entrer la légende
+flowjs_node_video === Envoyer la vidéo
+flowjs_node_videourl === URL de la vidéo
+flowjs_node_videoph === Entrez l'URL de la vidéo
+flowjs_node_audio === Envoyer Audio
+flowjs_node_audiourl === URL audio
+flowjs_node_audioph === Entrez l'URL audio
+flowjs_node_documennt === Envoyer le document
+flowjs_node_documenturl === URL du document
+flowjs_node_documentph === Entrez l'URL du document
+flowjs_upload_uploading === Téléchargement du fichier
+flowjs_upload_failed === Échec du téléchargement du fichier !
+flowjs_export_addsourceflow === Veuillez ajouter un nœud source au flux !
+flowjs_export_sourcemustconnode === Les nœuds sources doivent être connectés à d'autres nœuds !
+flowjs_export_nodesmustconnctflow === Tous les nœuds doivent être correctement connectés dans le flux !
+flowjs_export_mustselsmssource === Veuillez sélectionner un appareil pour le nœud source SMS !
+flowjs_export_mustselwasource === Veuillez sélectionner un compte pour le nœud source WhatsApp !
+flowjs_export_savingflow === Sauvegarde du flux
+flowjs_export_failedsave === Échec de l'enregistrement du flux !
+flow_table_nametitle === Nom
+flow_table_sourcetitle === Source
+flow_table_optionstitle === Options
+flow_page_title === Flux
+flow_page_createbtn === Créer un flux
+flow_page_header === Flux
+flow_page_sidebar === Flux
+logger_table_createdate === Créé
+logger_table_type === Tapez
+logger_table_reason === Raison
+logger_table_content === Contenu
+logger_page_sidebar === Journalisateur
+logger_page_header === Enregistreur
+logger_page_title === Enregistreur
+plugin_aicontext_breadcrumb === Intelligence artificielle
+plugin_aicontext_title === Fichiers de contexte
+plugin_aicontext_addbtn === Ajouter un fichier
+plugin_aicontext_formname === Fichier
+plugin_aicontext_formdesc === Sélectionnez un fichier à télécharger. Seuls les fichiers PDF, TXT et MD sont pris en charge. Ces fichiers seront utilisés par l'IA pour répondre aux questions.
+plugin_aicontext_headertitle === Fichiers de contexte
+plugin_aicontext_failupload === Impossible de télécharger le fichier !
+plugin_aicontext_successupload === Le fichier de contexte a été ajouté !
+plugin_aicontext_filedeleted === Le fichier de contexte a été supprimé !
+plugin_aicontext_tablecreated === Créé
+plugin_aicontext_tablefile === Nom du fichier
+plugin_aicontext_tableoptions === Options
+response_flow_deleted === Le flux a été supprimé !
+response_aikey_deleted === La clé AI a été supprimée !
+response_aiplugin_deleted === Le plugin AI a été supprimé !

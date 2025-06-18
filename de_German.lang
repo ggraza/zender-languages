@@ -3072,3 +3072,112 @@ response_admin_gateway_invalidapkfilename === Der APK-Dateiname muss die Version
 response_admin_gateway_invalidapkfile === Ungültige APK-Datei!
 response_admin_gateway_updatesuccess === Gateway-App erfolgreich aktualisiert!
 device_api_smspending === SMS _8880_ Ergebnis steht aus!
+flow_header_title === Ablauf-Generator
+flow_response_saved === Flow erfolgreich gespeichert!
+flow_response_nofile === Keine Datei hochgeladen oder Upload-Fehler!
+flow_response_fileuploaded === Datei erfolgreich hochgeladen
+flow_modal_upload_title === Datei hochladen
+flow_modal_upload_button_select === Datei auswählen
+flow_modal_upload_button_upload === Hochladen
+flow_modal_upload_progress_text === 0%
+flow_draw_sms_source === SMS-Quelle
+flow_draw_whatsapp_source === WhatsApp-Quelle
+flow_draw_condition === Bedingung
+flow_draw_send_text === Text senden
+flow_draw_send_image === Bild senden
+flow_draw_send_video === Video senden
+flow_draw_send_audio === Audio senden
+flow_draw_send_document === Dokument senden
+flow_draw_save_contact === Kontakt speichern
+flow_draw_button_save === Speichern
+flow_draw_button_clear === Löschen
+flow_draw_zoom_out === Auszoomen
+flow_draw_zoom_reset === Zoom zurücksetzen
+flow_draw_zoom_in === Vergrößern
+flowjs_fetching_data === Datenfluss wird abgerufen
+flowjs_failedload_data === Fehler beim Laden der Flussdaten!
+flowjs_flowbuilder_guidetitle === Flow-Generator
+flowjs_flowbuilder_guide1 === Ziehen Sie einen Quellknoten in den Flussbereich
+flowjs_flowbuilder_guide2 === Verbinde es mit Bedingungsknoten, um Nachrichten zu filtern
+flowjs_flowbuilder_guide3 === Fügen Sie Text- oder Medienaktionen basierend auf Bedingungen hinzu
+flowjs_flowbuilder_note === Im Flow kann nur ein Nachrichtenquellenknoten verwendet werden!
+flowjs_node_smstitle === SMS-Quelle
+flowjs_node_smsdevicesel === Gerät auswählen
+flowjs_node_textexample === Danke für Ihre Nachricht!
+flowjs_node_texttitle === Text senden
+flowjs_node_textinputtitle === Textnachricht
+flowjs_node_textinputplaholder === Geben Sie Ihre Nachricht ein
+flowjs_node_textpriority === Priorität
+flowjs_node_yes === Ja
+flowjs_node_no === Nein
+flowjs_node_watitle === WhatsApp Quelle
+flowjs_node_waselect === Konto auswählen
+flowjs_node_savecontact === Kontakt speichern
+flowjs_node_contactgroup === Kontaktgruppe
+flowjs_node_nocondition === Bedingungsknoten dürfen nicht mit anderen Bedingungsknoten verbunden werden!
+flowjs_node_nosmsmedia === SMS-Quelle kann nicht verwendet werden, wenn Bild-, Video-, Audio- und Dokumentknoten im Ablauf vorhanden sind!
+flowjs_node_wamediaonly === WhatsApp-Medienknoten können nur mit WhatsApp-Quelle verwendet werden!
+flowjs_node_onlyonesource === Es kann nur ein Quellknoten im Fluss verwendet werden!
+flowjs_node_condition === Bedingung
+flowjs_node_conditiontype === Bedingungstyp
+flowjs_node_condition1 === Beginnt mit
+flowjs_node_condition2 === Endet mit
+flowjs_node_condition3 === Enthält
+flowjs_node_condition4 === Gleich
+flowjs_node_condition5 === Nicht enthalten
+flowjs_node_condition6 === Regex
+flowjs_node_conditionval === Wert
+flowjs_node_conditionvalph === Wert eingeben
+flowjs_node_imagetitle === Bild senden
+flowjs_node_imageurl === Bild-URL
+flowjs_node_imageurlph === Bild-URL eingeben
+flowjs_node_uploadbtn === Hochladen
+flowjs_node_caption === Beschriftung (optional)
+flowjs_node_captionph === Beschriftung eingeben
+flowjs_node_video === Video senden
+flowjs_node_videourl === Video-URL
+flowjs_node_videoph === Video-URL eingeben
+flowjs_node_audio === Audio senden
+flowjs_node_audiourl === Audio-URL
+flowjs_node_audioph === Audio-URL eingeben
+flowjs_node_documennt === Dokument senden
+flowjs_node_documenturl === Dokument-URL
+flowjs_node_documentph === Dokument-URL eingeben
+flowjs_upload_uploading === Datei wird hochgeladen
+flowjs_upload_failed === Datei konnte nicht hochgeladen werden!
+flowjs_export_addsourceflow === Bitte fügen Sie dem Flow einen Quellknoten hinzu!
+flowjs_export_sourcemustconnode === Quellknoten müssen mit anderen Knoten verbunden sein!
+flowjs_export_nodesmustconnctflow === Alle Knoten müssen im Fluss richtig verbunden sein!
+flowjs_export_mustselsmssource === Bitte wählen Sie ein Gerät für den SMS-Quellknoten aus!
+flowjs_export_mustselwasource === Bitte wählen Sie ein Konto für den WhatsApp-Quellknoten!
+flowjs_export_savingflow === Speicherfluss
+flowjs_export_failedsave === Speichern des Flusses fehlgeschlagen!
+flow_table_nametitle === Name
+flow_table_sourcetitle === Quelle
+flow_table_optionstitle === Optionen
+flow_page_title === Ströme
+flow_page_createbtn === Flow erstellen
+flow_page_header === Abläufe
+flow_page_sidebar === Ströme
+logger_table_createdate === Erstellt
+logger_table_type === Typ
+logger_table_reason === Grund
+logger_table_content === Inhalt
+logger_page_sidebar === Protokollierer
+logger_page_header === Protokollierer
+logger_page_title === Protokollierer
+plugin_aicontext_breadcrumb === Künstliche Intelligenz
+plugin_aicontext_title === Kontextdateien
+plugin_aicontext_addbtn === Datei hinzufügen
+plugin_aicontext_formname === Datei
+plugin_aicontext_formdesc === Wählen Sie eine Datei zum Hochladen aus. Unterstützt werden nur PDF-, TXT- und MD-Dateien. Diese Dateien werden vom KI zur Beantwortung von Fragen verwendet.
+plugin_aicontext_headertitle === Kontextdateien
+plugin_aicontext_failupload === Datei kann nicht hochgeladen werden!
+plugin_aicontext_successupload === Die Kontextdatei wurde hinzugefügt!
+plugin_aicontext_filedeleted === Kontextdatei wurde gelöscht!
+plugin_aicontext_tablecreated === Erstellt
+plugin_aicontext_tablefile === Dateiname
+plugin_aicontext_tableoptions === Optionen
+response_flow_deleted === Der Flow wurde gelöscht!
+response_aikey_deleted === KI-Schlüssel wurde gelöscht!
+response_aiplugin_deleted === KI-Plugin wurde gelöscht!

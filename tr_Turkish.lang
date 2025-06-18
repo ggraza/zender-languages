@@ -3072,3 +3072,112 @@ response_admin_gateway_invalidapkfilename === APK dosya adı sürüm içermelidi
 response_admin_gateway_invalidapkfile === Geçersiz APK dosyası!
 response_admin_gateway_updatesuccess === Ağ geçidi uygulaması başarıyla güncellendi!
 device_api_smspending === SMS _8880_ sonucu beklemede!
+flow_header_title === Akış Oluşturucu
+flow_response_saved === Akış başarıyla kaydedildi!
+flow_response_nofile === Dosya yüklenmedi veya yükleme hatası!
+flow_response_fileuploaded === Dosya başarıyla yüklendi
+flow_modal_upload_title === Dosya Yükle
+flow_modal_upload_button_select === Dosya Seç
+flow_modal_upload_button_upload === Yükle
+flow_modal_upload_progress_text === 0%
+flow_draw_sms_source === SMS Kaynağı
+flow_draw_whatsapp_source === WhatsApp Kaynak
+flow_draw_condition === Durum
+flow_draw_send_text === Metin Gönder
+flow_draw_send_image === Resim Gönder
+flow_draw_send_video === Video Gönder
+flow_draw_send_audio === Ses Gönder
+flow_draw_send_document === Belge Gönder
+flow_draw_save_contact === Kişiyi Kaydet
+flow_draw_button_save === Kaydet
+flow_draw_button_clear === Temizle
+flow_draw_zoom_out === Uzaklaştır
+flow_draw_zoom_reset === Yakınlaştırmayı Sıfırla
+flow_draw_zoom_in === Yakınlaştır
+flowjs_fetching_data === akış verisi alınıyor
+flowjs_failedload_data === Akış verileri yüklenemedi!
+flowjs_flowbuilder_guidetitle === Akış Oluşturucu
+flowjs_flowbuilder_guide1 === Bir kaynak düğümünü akış alanına sürükleyin
+flowjs_flowbuilder_guide2 === Mesajları filtrelemek için koşul düğümlerine bağlayın
+flowjs_flowbuilder_guide3 === Metin veya medya işlemlerini koşullara göre ekle
+flowjs_flowbuilder_note === Akışta yalnızca bir mesaj kaynak düğümü kullanılabilir!
+flowjs_node_smstitle === SMS Kaynağı
+flowjs_node_smsdevicesel === Cihaz Seçiniz
+flowjs_node_textexample === Mesajınız için teşekkürler!
+flowjs_node_texttitle === Metin Gönder
+flowjs_node_textinputtitle === Mesaj
+flowjs_node_textinputplaholder === Mesajınızı girin
+flowjs_node_textpriority === Öncelik
+flowjs_node_yes === Evet
+flowjs_node_no === Hayır
+flowjs_node_watitle === WhatsApp Kaynağı
+flowjs_node_waselect === Hesap Seçiniz
+flowjs_node_savecontact === Kişiyi Kaydet
+flowjs_node_contactgroup === İletişim Grubu
+flowjs_node_nocondition === Koşul düğümleri diğer koşul düğümlerine bağlanamaz!
+flowjs_node_nosmsmedia === Akışta resim, video, ses ve belge düğümleri varken SMS kaynağı kullanılamaz!
+flowjs_node_wamediaonly === WhatsApp medya düğümleri yalnızca WhatsApp kaynağı ile kullanılabilir!
+flowjs_node_onlyonesource === Akışta yalnızca bir kaynak düğüm kullanılabilir!
+flowjs_node_condition === Durum
+flowjs_node_conditiontype === Durum Türü
+flowjs_node_condition1 === İle Başlar
+flowjs_node_condition2 === şununla biter
+flowjs_node_condition3 === İçerir
+flowjs_node_condition4 === Eşit
+flowjs_node_condition5 === İçermiyor
+flowjs_node_condition6 === Düzenli İfade
+flowjs_node_conditionval === Değer
+flowjs_node_conditionvalph === Değer Girin
+flowjs_node_imagetitle === Resim Gönder
+flowjs_node_imageurl === Görüntü URL'si
+flowjs_node_imageurlph === Resim URL'si Girin
+flowjs_node_uploadbtn === Yükle
+flowjs_node_caption === Başlık (İsteğe Bağlı)
+flowjs_node_captionph === Başlık Girin
+flowjs_node_video === Video Gönder
+flowjs_node_videourl === Video URL
+flowjs_node_videoph === Video URL'sini Girin
+flowjs_node_audio === Sesi Gönder
+flowjs_node_audiourl === Ses URL'si
+flowjs_node_audioph === Ses URL'sini Girin
+flowjs_node_documennt === Belge Gönder
+flowjs_node_documenturl === Belge URL'si
+flowjs_node_documentph === Belge URL'sini Girin
+flowjs_upload_uploading === Dosya Yükleniyor
+flowjs_upload_failed === Dosya yüklenemedi!
+flowjs_export_addsourceflow === Lütfen akışa bir kaynak düğümü ekleyin!
+flowjs_export_sourcemustconnode === Kaynak düğümler diğer düğümlere bağlanmalıdır!
+flowjs_export_nodesmustconnctflow === Tüm düğümler akışta doğru şekilde bağlanmalıdır!
+flowjs_export_mustselsmssource === Lütfen SMS kaynak düğümü için bir cihaz seçin!
+flowjs_export_mustselwasource === Lütfen WhatsApp kaynak düğümü için bir hesap seçin!
+flowjs_export_savingflow === Akışı kaydetme
+flowjs_export_failedsave === Akış kaydedilemedi!
+flow_table_nametitle === İsim
+flow_table_sourcetitle === Kaynak
+flow_table_optionstitle === Seçenekler
+flow_page_title === Akışlar
+flow_page_createbtn === Akış Oluştur
+flow_page_header === Akışlar
+flow_page_sidebar === Akışlar
+logger_table_createdate === Oluşturuldu
+logger_table_type === Yazınız
+logger_table_reason === Sebep
+logger_table_content === İçerik
+logger_page_sidebar === Günlükleyici
+logger_page_header === Günlükleyici
+logger_page_title === Günlükleyici
+plugin_aicontext_breadcrumb === Yapay Zeka
+plugin_aicontext_title === Bağlam Dosyaları
+plugin_aicontext_addbtn === Dosya Ekle
+plugin_aicontext_formname === Dosya
+plugin_aicontext_formdesc === Yüklemek için bir dosya seçin. Sadece PDF, TXT ve MD dosyaları desteklenmektedir. Bu dosyalar yapay zeka tarafından soruları yanıtlamak için kullanılacaktır.
+plugin_aicontext_headertitle === Bağlam Dosyaları
+plugin_aicontext_failupload === Dosya yüklenemedi!
+plugin_aicontext_successupload === Bağlam dosyası eklendi!
+plugin_aicontext_filedeleted === Bağlam dosyası silindi!
+plugin_aicontext_tablecreated === Oluşturuldu
+plugin_aicontext_tablefile === Dosya Adı
+plugin_aicontext_tableoptions === Seçenekler
+response_flow_deleted === Akış silindi!
+response_aikey_deleted === Yapay zeka anahtarı silindi!
+response_aiplugin_deleted === AI eklentisi silindi!

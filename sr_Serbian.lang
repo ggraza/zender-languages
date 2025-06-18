@@ -3072,3 +3072,112 @@ response_admin_gateway_invalidapkfilename === Naziv APK datoteke mora sadržati 
 response_admin_gateway_invalidapkfile === Nevažeći APK fajl!
 response_admin_gateway_updatesuccess === Aplikacija Gateway je uspešno ažurirana!
 device_api_smspending === SMS _8880_ rezultat je u toku!
+flow_header_title === Kreator tokova
+flow_response_saved === Tok je uspešno sačuvan!
+flow_response_nofile === Nije učitan fajl ili greška pri otpremanju!
+flow_response_fileuploaded === Datoteka je uspešno otpremljena
+flow_modal_upload_title === Otpremi fajl
+flow_modal_upload_button_select === Izaberi fajl
+flow_modal_upload_button_upload === Otpremi
+flow_modal_upload_progress_text === 0%
+flow_draw_sms_source === Izvor SMS-a
+flow_draw_whatsapp_source === WhatsApp Izvor
+flow_draw_condition === Uslov
+flow_draw_send_text === Pošalji tekst
+flow_draw_send_image === Pošalji sliku
+flow_draw_send_video === Pošalji video
+flow_draw_send_audio === Pošalji zvuk
+flow_draw_send_document === Pošalji dokument
+flow_draw_save_contact === Sačuvaj kontakt
+flow_draw_button_save === Sačuvaj
+flow_draw_button_clear === Izbriši
+flow_draw_zoom_out === Umanji prikaz
+flow_draw_zoom_reset === Resetuj zum
+flow_draw_zoom_in === Увећај
+flowjs_fetching_data === preuzimanje podataka toka
+flowjs_failedload_data === Неуспешно учитавање података о току!
+flowjs_flowbuilder_guidetitle === Izrađivač toka
+flowjs_flowbuilder_guide1 === Prevucite bilo koji izvorni čvor u područje toka
+flowjs_flowbuilder_guide2 === Povežite to sa čvorovima uslova za filtriranje poruka
+flowjs_flowbuilder_guide3 === Dodajte tekstualne ili medijske akcije na osnovu uslova
+flowjs_flowbuilder_note === U toku se može koristiti samo jedan čvor izvora poruke!
+flowjs_node_smstitle === Izvor SMS-a
+flowjs_node_smsdevicesel === Izaberi uređaj
+flowjs_node_textexample === Hvala vam na vašoj poruci!
+flowjs_node_texttitle === Pošalji tekst
+flowjs_node_textinputtitle === Tekstualna poruka
+flowjs_node_textinputplaholder === Unesite vašu poruku
+flowjs_node_textpriority === Prioritet
+flowjs_node_yes === Da
+flowjs_node_no === Ne
+flowjs_node_watitle === WhatsApp Izvor
+flowjs_node_waselect === Izaberite nalog
+flowjs_node_savecontact === Sačuvaj kontakt
+flowjs_node_contactgroup === Kontakt Grupa
+flowjs_node_nocondition === Čvorovi uslova ne mogu biti povezani sa drugim čvorovima uslova!
+flowjs_node_nosmsmedia === Nije moguće koristiti SMS izvor kada u toku postoje čvorovi slike, video zapisa, zvuka i dokumenata!
+flowjs_node_wamediaonly === WhatsApp medijski čvorovi mogu se koristiti samo sa WhatsApp izvorom!
+flowjs_node_onlyonesource === U toku se može koristiti samo jedan čvor izvora!
+flowjs_node_condition === Stanje
+flowjs_node_conditiontype === Vrsta uslova
+flowjs_node_condition1 === Počinje sa
+flowjs_node_condition2 === Završava sa
+flowjs_node_condition3 === Sadrži
+flowjs_node_condition4 === Jednako
+flowjs_node_condition5 === Ne sadrži
+flowjs_node_condition6 === Regex
+flowjs_node_conditionval === Vrednost
+flowjs_node_conditionvalph === Unesite vrednost
+flowjs_node_imagetitle === Pošalji sliku
+flowjs_node_imageurl === URL slike
+flowjs_node_imageurlph === Unesite URL slike
+flowjs_node_uploadbtn === Otpremi
+flowjs_node_caption === Natpis (opciono)
+flowjs_node_captionph === Unesite natpis
+flowjs_node_video === Pošalji Video
+flowjs_node_videourl === URL video zapisa
+flowjs_node_videoph === Unesite URL videa
+flowjs_node_audio === Pošalji audio
+flowjs_node_audiourl === URL zvuka
+flowjs_node_audioph === Unesite URL zvuka
+flowjs_node_documennt === Pošalji dokument
+flowjs_node_documenturl === URL dokumenta
+flowjs_node_documentph === Unesite URL dokumenta
+flowjs_upload_uploading === Otpremanje fajla
+flowjs_upload_failed === Neuspešno otpremanje fajla!
+flowjs_export_addsourceflow === Molimo dodajte izvorni čvor u tok!
+flowjs_export_sourcemustconnode === Početni čvorovi moraju biti povezani sa drugim čvorovima!
+flowjs_export_nodesmustconnctflow === Svi čvorovi moraju biti pravilno povezani u toku!
+flowjs_export_mustselsmssource === Molimo izaberite uređaj za čvor izvora SMS-a!
+flowjs_export_mustselwasource === Molimo izaberite nalog za WhatsApp izvorni čvor!
+flowjs_export_savingflow === Čuvanje toka
+flowjs_export_failedsave === Neuspešno čuvanje toka!
+flow_table_nametitle === Ime
+flow_table_sourcetitle === Izvor
+flow_table_optionstitle === Opcije
+flow_page_title === Tokovi
+flow_page_createbtn === Napravite tok
+flow_page_header === Tokovi
+flow_page_sidebar === Tokovi
+logger_table_createdate === Kreirano
+logger_table_type === Unesi
+logger_table_reason === Razlog
+logger_table_content === Sadržaj
+logger_page_sidebar === Dnevnik
+logger_page_header === Dnevnik
+logger_page_title === Логер
+plugin_aicontext_breadcrumb === Veštačka inteligencija
+plugin_aicontext_title === Kontekstualne datoteke
+plugin_aicontext_addbtn === Dodaj fajl
+plugin_aicontext_formname === Fajl
+plugin_aicontext_formdesc === Izaberite fajl za otpremanje. Podržani su samo PDF, TXT i MD fajlovi. Ovi fajlovi će biti korišćeni od strane AI za odgovaranje na pitanja.
+plugin_aicontext_headertitle === Kontekstualni fajlovi
+plugin_aicontext_failupload === Nije moguće postaviti fajl!
+plugin_aicontext_successupload === Fajl sa kontekstom je dodat!
+plugin_aicontext_filedeleted === Fajl konteksta je obrisan!
+plugin_aicontext_tablecreated === Kreirano
+plugin_aicontext_tablefile === Ime fajla
+plugin_aicontext_tableoptions === Opcije
+response_flow_deleted === Tok je obrisan!
+response_aikey_deleted === AI ključ je obrisan!
+response_aiplugin_deleted === AI dodatak je obrisan!

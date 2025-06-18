@@ -3072,3 +3072,112 @@ response_admin_gateway_invalidapkfilename === এপিকে ফাইলের
 response_admin_gateway_invalidapkfile === অ valido APK ফাইল!
 response_admin_gateway_updatesuccess === গেটওয়ে অ্যাপ সফলভাবে আপডেট হয়েছে!
 device_api_smspending === এসএমএস _8880_ ফলাফল অনিশ্চিত!
+flow_header_title === ফ্লো বিল্ডার
+flow_response_saved === প্রবাহ সফলভাবে সংরক্ষণ হয়েছে!
+flow_response_nofile === কোন ফাইল আপলোড হয়নি বা আপলোডে ত্রুটি হয়েছে!
+flow_response_fileuploaded === ফাইল সফলভাবে আপলোড হয়েছে
+flow_modal_upload_title === ফাইল আপলোড করুন
+flow_modal_upload_button_select === ফাইল নির্বাচন করুন
+flow_modal_upload_button_upload === আপলোড করুন
+flow_modal_upload_progress_text === ০%
+flow_draw_sms_source === এসএমএস উত্স
+flow_draw_whatsapp_source === হোয়াটসঅ্যাপ সোর্স
+flow_draw_condition === শর্ত
+flow_draw_send_text === টেক্সট পাঠান
+flow_draw_send_image === ছবি পাঠান
+flow_draw_send_video === ভিডিও পাঠান
+flow_draw_send_audio === অডিও পাঠান
+flow_draw_send_document === ডকুমেন্ট পাঠান
+flow_draw_save_contact === সংযোগ সংরক্ষণ করুন
+flow_draw_button_save === সংরক্ষণ করুন
+flow_draw_button_clear === পরিষ্কার করুন
+flow_draw_zoom_out === জুম আউট
+flow_draw_zoom_reset === জুম রিসেট করুন
+flow_draw_zoom_in === বড় করো
+flowjs_fetching_data === প্রবাহের তথ্য আহরণ হচ্ছে
+flowjs_failedload_data === ফ্লো ডেটা লোড করতে ব্যর্থ হয়েছে!
+flowjs_flowbuilder_guidetitle === ফ্লো বিল্ডার
+flowjs_flowbuilder_guide1 === একটি সোর্স নোডকে ফ্লো এলাকায় টেনে আনুন
+flowjs_flowbuilder_guide2 === বার্তাগুলি ফিল্টার করার জন্য এটিকে কন্ডিশন নোডের সাথে সংযুক্ত করুন
+flowjs_flowbuilder_guide3 === শর্ত অনুসারে পাঠ্য বা মিডিয়া ক্রিয়া যোগ করুন
+flowjs_flowbuilder_note === প্রবাহে শুধুমাত্র একটি মেসেজ সোর্স নোড ব্যবহার করা যেতে পারে!
+flowjs_node_smstitle === এসএমএস উৎস
+flowjs_node_smsdevicesel === যন্ত্র নির্বাচন করুন
+flowjs_node_textexample === আপনার বার্তার জন্য ধন্যবাদ!
+flowjs_node_texttitle === পাঠ্য পাঠান
+flowjs_node_textinputtitle === টেক্সট মেসেজ
+flowjs_node_textinputplaholder === আপনার বার্তা লিখুন
+flowjs_node_textpriority === অগ্রাধিকার
+flowjs_node_yes === হ্যাঁ
+flowjs_node_no === না
+flowjs_node_watitle === WhatsApp উত্স
+flowjs_node_waselect === অ্যাকাউন্ট নির্বাচন করুন
+flowjs_node_savecontact === সংরক্ষণ করুন যোগাযোগ
+flowjs_node_contactgroup === সंपর্ক গোষ্ঠী
+flowjs_node_nocondition === শর্ত নোডগুলি অন্য শর্ত নোডের সাথে সংযুক্ত করা যাবে না!
+flowjs_node_nosmsmedia === ইমেজ, ভিডিও, অডিও এবং ডকুমেন্ট নোড ফ্লোতে থাকলে SMS সোর্স ব্যবহার করা যাবে না!
+flowjs_node_wamediaonly === WhatsApp মিডিয়া নোডগুলি শুধুমাত্র WhatsApp সোর্সের সাথে ব্যবহার করা যেতে পারে!
+flowjs_node_onlyonesource === ফ্লোতে শুধুমাত্র একটি উৎস নোড ব্যবহার করা যেতে পারে!
+flowjs_node_condition === শর্ত
+flowjs_node_conditiontype === শর্তের ধরন
+flowjs_node_condition1 === শুরু হয় with
+flowjs_node_condition2 === শেষ হয়
+flowjs_node_condition3 === ধারন করে
+flowjs_node_condition4 === সমান
+flowjs_node_condition5 === অন্তর্ভুক্ত নয়
+flowjs_node_condition6 === রেগেক্স
+flowjs_node_conditionval === মান
+flowjs_node_conditionvalph === মান প্রবেশ করান
+flowjs_node_imagetitle === চিত্র পাঠান
+flowjs_node_imageurl === ছবির URL
+flowjs_node_imageurlph === ছবির URL প্রবেশ করান
+flowjs_node_uploadbtn === আপলোড করুন
+flowjs_node_caption === শিরোনাম (ঐচ্ছিক)
+flowjs_node_captionph === ক্যাপশন লিখুন
+flowjs_node_video === ভিডিও পাঠান
+flowjs_node_videourl === ভিডিও URL
+flowjs_node_videoph === ভিডিও URL লিখুন
+flowjs_node_audio === অডিও প্রেরণ করুন
+flowjs_node_audiourl === অডিও URL
+flowjs_node_audioph === অডিও URL প্রবেশ করান
+flowjs_node_documennt === ডকুমেন্ট পাঠান
+flowjs_node_documenturl === নথির URL
+flowjs_node_documentph === ডকুমেন্ট URL প্রবেশ করান
+flowjs_upload_uploading === ফাইল আপলোড হচ্ছে
+flowjs_upload_failed === ফাইল আপলোড করতে ব্যর্থ হয়েছে!
+flowjs_export_addsourceflow === অনুগ্রহ করে ফ্লোতে একটি উৎস নোড যোগ করুন!
+flowjs_export_sourcemustconnode === উৎস নোডগুলি অন্যান্য নোডের সাথে সংযুক্ত থাকতে হবে!
+flowjs_export_nodesmustconnctflow === সমস্ত নোড নিশ্চিতভাবে প্রবাহে সঠিকভাবে সংযুক্ত থাকতে হবে!
+flowjs_export_mustselsmssource === দয়া করে SMS সোর্স নোডের জন্য একটি ডিভাইস নির্বাচন করুন!
+flowjs_export_mustselwasource === অনুগ্রহ করে WhatsApp সোর্স নোডের জন্য একটি অ্যাকাউন্ট নির্বাচন করুন!
+flowjs_export_savingflow === ফ্লো সংরক্ষণ হচ্ছে
+flowjs_export_failedsave === ফ্লো সংরক্ষণে ব্যর্থ!
+flow_table_nametitle === নাম
+flow_table_sourcetitle === উৎস
+flow_table_optionstitle === বিকল্পসমূহ
+flow_page_title === প্রবাহসমূহ
+flow_page_createbtn === ফ্লো তৈরি করুন
+flow_page_header === প্রবাহসমূহ
+flow_page_sidebar === প্রবাহগুলি
+logger_table_createdate === তৈরি হয়েছে
+logger_table_type === টাইপ
+logger_table_reason === কারণ
+logger_table_content === সামগ্রী
+logger_page_sidebar === লগার
+logger_page_header === লগার
+logger_page_title === লগার
+plugin_aicontext_breadcrumb === কৃত্রিম বুদ্ধিমত্তা
+plugin_aicontext_title === প্রাসঙ্গিক ফাইলগুলি
+plugin_aicontext_addbtn === ফাইল যুক্ত করুন
+plugin_aicontext_formname === ফাইল
+plugin_aicontext_formdesc === একটি ফাইল আপলোড করার জন্য নির্বাচন করুন। শুধুমাত্র PDF, TXT, এবং MD ফাইল সমর্থিত। এই ফাইলগুলি AI দ্বারা প্রশ্নের উত্তর দেওয়ার জন্য ব্যবহার করা হবে।
+plugin_aicontext_headertitle === সন্দর্ভ ফাইলসমূহ
+plugin_aicontext_failupload === ফাইল আপলোড করা যাচ্ছে না!
+plugin_aicontext_successupload === কনটেক্সট ফাইল যুক্ত হয়েছে!
+plugin_aicontext_filedeleted === প্রসঙ্গ ফাইল মুছে ফেলা হয়েছে!
+plugin_aicontext_tablecreated === তৈরি হয়েছে
+plugin_aicontext_tablefile === ফাইল নাম
+plugin_aicontext_tableoptions === বিকল্পসমূহ
+response_flow_deleted === ফ্লো মুছে ফেলা হয়েছে!
+response_aikey_deleted === AI কী মুছে ফেলা হয়েছে!
+response_aiplugin_deleted === AI প্লাগইন মুছে ফেলা হয়েছে!

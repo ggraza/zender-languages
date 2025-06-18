@@ -3072,3 +3072,112 @@ response_admin_gateway_invalidapkfilename === ชื่อไฟล์ APK ต�
 response_admin_gateway_invalidapkfile === ไฟล์ APK ไม่ถูกต้อง!
 response_admin_gateway_updatesuccess === อัปเดตแอปเกตเวย์สำเร็จแล้ว!
 device_api_smspending === ผลลัพธ์ SMS _8880_ กำลังรออยู่!
+flow_header_title === ตัวสร้างโฟลว์
+flow_response_saved === บันทึกการไหลสำเร็จ!
+flow_response_nofile === ไม่มีไฟล์ที่อัปโหลดหรือเกิดข้อผิดพลาดในการอัปโหลด!
+flow_response_fileuploaded === ไฟล์อัปโหลดเรียบร้อยแล้ว
+flow_modal_upload_title === อัปโหลดไฟล์
+flow_modal_upload_button_select === เลือกไฟล์
+flow_modal_upload_button_upload === อัปโหลด
+flow_modal_upload_progress_text === 0%
+flow_draw_sms_source === แหล่งที่มาของ SMS
+flow_draw_whatsapp_source === ซอร์ส WhatsApp
+flow_draw_condition === เงื่อนไข
+flow_draw_send_text === ส่งข้อความ
+flow_draw_send_image === ส่งภาพ
+flow_draw_send_video === ส่งวิดีโอ
+flow_draw_send_audio === ส่งเสียง
+flow_draw_send_document === ส่งเอกสาร
+flow_draw_save_contact === บันทึกผู้ติดต่อ
+flow_draw_button_save === บันทึก
+flow_draw_button_clear === ล้างข้อมูล
+flow_draw_zoom_out === ย่อออก
+flow_draw_zoom_reset === รีเซ็ตซูม
+flow_draw_zoom_in === ซูมเข้า
+flowjs_fetching_data === กำลังดึงข้อมูลโฟลว์
+flowjs_failedload_data === โหลดข้อมูลโฟลวไม่สำเร็จ!
+flowjs_flowbuilder_guidetitle === ตัวสร้างโฟลว์
+flowjs_flowbuilder_guide1 === ลากโหนดต้นทางหนึ่งไปยังพื้นที่การไหล
+flowjs_flowbuilder_guide2 === เชื่อมต่อกับโหนดเงื่อนไขเพื่อกรองข้อความ
+flowjs_flowbuilder_guide3 === เพิ่มข้อความหรือการดำเนินการสื่อโดยอิงตามเงื่อนไข
+flowjs_flowbuilder_note === สามารถใช้โหนดแหล่งข้อความได้เพียงโหนดเดียวในโฟลว์เท่านั้น!
+flowjs_node_smstitle === แหล่งที่มาของ SMS
+flowjs_node_smsdevicesel === เลือกอุปกรณ์
+flowjs_node_textexample === ขอบคุณสำหรับข้อความของคุณ!
+flowjs_node_texttitle === ส่งข้อความ
+flowjs_node_textinputtitle === ข้อความข้อความ
+flowjs_node_textinputplaholder === ป้อนข้อความของคุณ
+flowjs_node_textpriority === ลำดับความสำคัญ
+flowjs_node_yes === ใช่
+flowjs_node_no === ไม่
+flowjs_node_watitle === แหล่งที่มาของ WhatsApp
+flowjs_node_waselect === เลือกบัญชี
+flowjs_node_savecontact === บันทึกผู้ติดต่อ
+flowjs_node_contactgroup === กลุ่มติดต่อ
+flowjs_node_nocondition === โหนดเงื่อนไขไม่สามารถเชื่อมต่อกับโหนดเงื่อนไขอื่นได้!
+flowjs_node_nosmsmedia === ไม่สามารถใช้แหล่งที่มาของ SMS ได้เมื่อมีโหนดรูปภาพ วิดีโอ เสียง และเอกสารอยู่ในโฟลว์!
+flowjs_node_wamediaonly === โหนดสื่อ WhatsApp สามารถใช้ได้เฉพาะกับแหล่งที่มาของ WhatsApp เท่านั้น!
+flowjs_node_onlyonesource === สามารถใช้ได้เพียงโหนดต้นทางเดียวในโฟลว์เท่านั้น!
+flowjs_node_condition === เงื่อนไข
+flowjs_node_conditiontype === ประเภทเงื่อนไข
+flowjs_node_condition1 === ขึ้นต้นด้วย
+flowjs_node_condition2 === ลงท้ายด้วย
+flowjs_node_condition3 === ประกอบด้วย
+flowjs_node_condition4 === เท่ากัน
+flowjs_node_condition5 === ไม่ประกอบด้วย
+flowjs_node_condition6 === เรกซ์
+flowjs_node_conditionval === ค่า
+flowjs_node_conditionvalph === ป้อนค่า
+flowjs_node_imagetitle === ส่งภาพ
+flowjs_node_imageurl === URL รูปภาพ
+flowjs_node_imageurlph === ป้อน URL รูปภาพ
+flowjs_node_uploadbtn === อัปโหลด
+flowjs_node_caption === คำบรรยาย (ไม่บังคับ)
+flowjs_node_captionph === ใส่คำบรรยาย
+flowjs_node_video === ส่งวิดีโอ
+flowjs_node_videourl === URL วิดีโอ
+flowjs_node_videoph === กรอก URL วิดีโอ
+flowjs_node_audio === ส่งเสียง
+flowjs_node_audiourl === URL เสียง
+flowjs_node_audioph === ป้อน URL เสียง
+flowjs_node_documennt === ส่งเอกสาร
+flowjs_node_documenturl === URL เอกสาร
+flowjs_node_documentph === ใส่ URL เอกสาร
+flowjs_upload_uploading === กำลังอัปโหลดไฟล์
+flowjs_upload_failed === อัปโหลดไฟล์ล้มเหลว!
+flowjs_export_addsourceflow === กรุณาเพิ่มโหนดต้นทางไปยังโฟลว์!
+flowjs_export_sourcemustconnode === โหนดต้นทางต้องเชื่อมต่อกับโหนดอื่น ๆ!
+flowjs_export_nodesmustconnctflow === โหนดทั้งหมดต้องเชื่อมต่อกันอย่างถูกต้องในโฟลว์!
+flowjs_export_mustselsmssource === โปรดเลือกอุปกรณ์สำหรับโหนดต้นทาง SMS!
+flowjs_export_mustselwasource === กรุณาเลือกบัญชีสำหรับโหนดต้นทาง WhatsApp!
+flowjs_export_savingflow === กำลังบันทึกการไหล
+flowjs_export_failedsave === ไม่สามารถบันทึกโฟลว์ได้!
+flow_table_nametitle === ชื่อ
+flow_table_sourcetitle === แหล่งที่มา
+flow_table_optionstitle === ตัวเลือก
+flow_page_title === การไหล
+flow_page_createbtn === สร้างโฟลว์
+flow_page_header === โฟลว์ส์
+flow_page_sidebar === กระแส
+logger_table_createdate === สร้างขึ้น
+logger_table_type === พิมพ์
+logger_table_reason === เหตุผล
+logger_table_content === เนื้อหา
+logger_page_sidebar === เครื่องบันทึกข้อมูล
+logger_page_header === ผู้บันทึกเหตุการณ์
+logger_page_title === เครื่องบันทึกเหตุการณ์
+plugin_aicontext_breadcrumb === ปัญญาประดิษฐ์
+plugin_aicontext_title === ไฟล์บริบท
+plugin_aicontext_addbtn === เพิ่มไฟล์
+plugin_aicontext_formname === แฟ้ม
+plugin_aicontext_formdesc === เลือกไฟล์เพื่ออัปโหลด รองรับไฟล์ PDF, TXT และ MD เท่านั้น ไฟล์เหล่านี้จะถูกใช้โดย AI ในการตอบคำถาม
+plugin_aicontext_headertitle === ไฟล์บริบท
+plugin_aicontext_failupload === ไม่สามารถอัปโหลดไฟล์ได้!
+plugin_aicontext_successupload === ไฟล์บริบทถูกเพิ่มแล้ว!
+plugin_aicontext_filedeleted === ไฟล์บริบทถูกลบแล้ว!
+plugin_aicontext_tablecreated === สร้างแล้ว
+plugin_aicontext_tablefile === ชื่อไฟล์
+plugin_aicontext_tableoptions === ตัวเลือก
+response_flow_deleted === การไหลถูกลบแล้ว!
+response_aikey_deleted === กุญแจ AI ถูกลบแล้ว!
+response_aiplugin_deleted === ปลั๊กอิน AI ถูกลบแล้ว!

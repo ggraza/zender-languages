@@ -3068,3 +3068,112 @@ response_admin_gateway_invalidapkfilename === APK filename must contain version 
 response_admin_gateway_invalidapkfile === Invalid APK file!
 response_admin_gateway_updatesuccess === Gateway app updated successfully!
 device_api_smspending === SMS _8880_ result is pending!
+flow_header_title === Flow Builder
+flow_response_saved === Flow saved successfully!
+flow_response_nofile === No file uploaded or upload error!
+flow_response_fileuploaded === File uploaded successfully
+flow_modal_upload_title === Upload File
+flow_modal_upload_button_select === Select File
+flow_modal_upload_button_upload === Upload
+flow_modal_upload_progress_text === 0%
+flow_draw_sms_source === SMS Source
+flow_draw_whatsapp_source === WhatsApp Source
+flow_draw_condition === Condition
+flow_draw_send_text === Send Text
+flow_draw_send_image === Send Image
+flow_draw_send_video === Send Video
+flow_draw_send_audio === Send Audio
+flow_draw_send_document === Send Document
+flow_draw_save_contact === Save Contact
+flow_draw_button_save === Save
+flow_draw_button_clear === Clear
+flow_draw_zoom_out === Zoom Out
+flow_draw_zoom_reset === Reset Zoom
+flow_draw_zoom_in === Zoom In
+flowjs_fetching_data === fetching flow data
+flowjs_failedload_data === Failed to load flow data!
+flowjs_flowbuilder_guidetitle === Flow Builder
+flowjs_flowbuilder_guide1 === Drag either a source node to the flow area
+flowjs_flowbuilder_guide2 === Connect it to condition nodes to filter messages
+flowjs_flowbuilder_guide3 === Add text or media actions based on conditions
+flowjs_flowbuilder_note === Only one message source node can be used in the flow!
+flowjs_node_smstitle === SMS Source
+flowjs_node_smsdevicesel === Select Device
+flowjs_node_textexample === Thank you for your message!
+flowjs_node_texttitle === Send Text
+flowjs_node_textinputtitle === Text Message
+flowjs_node_textinputplaholder === Enter your message
+flowjs_node_textpriority === Priority
+flowjs_node_yes === Yes
+flowjs_node_no === No
+flowjs_node_watitle === WhatsApp Source
+flowjs_node_waselect === Select Account
+flowjs_node_savecontact === Save Contact
+flowjs_node_contactgroup === Contact Group
+flowjs_node_nocondition === Condition nodes cannot be connected to other condition nodes!
+flowjs_node_nosmsmedia === Cannot use SMS source when image, video, audio, and document nodes exist in the flow!
+flowjs_node_wamediaonly === WhatsApp media nodes can only be used with WhatsApp source!
+flowjs_node_onlyonesource === Only one source node can be used in the flow!
+flowjs_node_condition === Condition
+flowjs_node_conditiontype === Condition Type
+flowjs_node_condition1 === Starts With
+flowjs_node_condition2 === Ends With
+flowjs_node_condition3 === Contains
+flowjs_node_condition4 === Equal
+flowjs_node_condition5 === Not Contain
+flowjs_node_condition6 === Regex
+flowjs_node_conditionval === Value
+flowjs_node_conditionvalph === Enter Value
+flowjs_node_imagetitle === Send Image
+flowjs_node_imageurl === Image URL
+flowjs_node_imageurlph === Enter Image URL
+flowjs_node_uploadbtn === Upload
+flowjs_node_caption === Caption (Optional)
+flowjs_node_captionph === Enter Caption
+flowjs_node_video === Send Video
+flowjs_node_videourl === Video URL
+flowjs_node_videoph === Enter Video URL
+flowjs_node_audio === Send Audio
+flowjs_node_audiourl === Audio URL
+flowjs_node_audioph === Enter Audio URL
+flowjs_node_documennt === Send Document
+flowjs_node_documenturl === Document URL 
+flowjs_node_documentph === Enter Document URL
+flowjs_upload_uploading === Uploading File
+flowjs_upload_failed === Failed to upload file!
+flowjs_export_addsourceflow === Please add a source node to the flow!
+flowjs_export_sourcemustconnode === Source nodes must be connected to other nodes!
+flowjs_export_nodesmustconnctflow === All nodes must be properly connected in the flow!
+flowjs_export_mustselsmssource === Please select a device for the SMS source node!
+flowjs_export_mustselwasource === Please select an account for the WhatsApp source node!
+flowjs_export_savingflow === Saving flow
+flowjs_export_failedsave === Failed to save flow!
+flow_table_nametitle === Name
+flow_table_sourcetitle === Source
+flow_table_optionstitle === Options
+flow_page_title === Flows
+flow_page_createbtn === Create Flow
+flow_page_header === Flows
+flow_page_sidebar === Flows
+logger_table_createdate === Created
+logger_table_type === Type
+logger_table_reason === Reason
+logger_table_content === Content
+logger_page_sidebar === Logger
+logger_page_header === Logger
+logger_page_title === Logger
+plugin_aicontext_breadcrumb === Artificial Intelligence
+plugin_aicontext_title === Context Files
+plugin_aicontext_addbtn === Add File
+plugin_aicontext_formname === File
+plugin_aicontext_formdesc === Select a file to upload. Only PDF, TXT, and MD files are supported. These files will be used by the AI to answer questions.
+plugin_aicontext_headertitle === Context Files
+plugin_aicontext_failupload === Unable to upload the file!
+plugin_aicontext_successupload === Context file has been added!
+plugin_aicontext_filedeleted === Context file has been deleted!
+plugin_aicontext_tablecreated === Created
+plugin_aicontext_tablefile === File Name
+plugin_aicontext_tableoptions === Options
+response_flow_deleted === Flow has been deleted!
+response_aikey_deleted === AI key has been deleted!
+response_aiplugin_deleted === AI plugin has been deleted!

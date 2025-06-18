@@ -3072,3 +3072,112 @@ response_admin_gateway_invalidapkfilename === يجب أن يحتوي اسم مل
 response_admin_gateway_invalidapkfile === ملف APK غير صالح!
 response_admin_gateway_updatesuccess === تم تحديث تطبيق البوابة بنجاح!
 device_api_smspending === نتيجة SMS _8880_ قيد الانتظار!
+flow_header_title === منشئ التدفقات
+flow_response_saved === تم حفظ التدفق بنجاح!
+flow_response_nofile === لم يتم رفع ملف أو حدث خطأ في الرفع!
+flow_response_fileuploaded === تم رفع الملف بنجاح
+flow_modal_upload_title === تحميل الملف
+flow_modal_upload_button_select === اختر ملف
+flow_modal_upload_button_upload === تحميل
+flow_modal_upload_progress_text === 0٪
+flow_draw_sms_source === مصدر الرسائل النصية القصيرة
+flow_draw_whatsapp_source === مصدر WhatsApp
+flow_draw_condition === الشرط
+flow_draw_send_text === إرسال نص
+flow_draw_send_image === إرسال الصورة
+flow_draw_send_video === إرسال فيديو
+flow_draw_send_audio === إرسال صوت
+flow_draw_send_document === إرسال المستند
+flow_draw_save_contact === حفظ جهة الاتصال
+flow_draw_button_save === حفظ
+flow_draw_button_clear === مسح
+flow_draw_zoom_out === تصغير
+flow_draw_zoom_reset === إعادة تعيين التكبير
+flow_draw_zoom_in === تكبير
+flowjs_fetching_data === جاري جلب بيانات التدفق
+flowjs_failedload_data === فشل تحميل بيانات التدفق!
+flowjs_flowbuilder_guidetitle === منشئ التدفق
+flowjs_flowbuilder_guide1 === اسحب أي عقدة مصدر إلى منطقة التدفق
+flowjs_flowbuilder_guide2 === قم بتوصيلها بعقد الحالة لتصفية الرسائل
+flowjs_flowbuilder_guide3 === أضف إجراءات نصية أو وسائط بناءً على الشروط
+flowjs_flowbuilder_note === يمكن استخدام عقدة مصدر رسالة واحدة فقط في التدفق!
+flowjs_node_smstitle === مصدر الرسائل النصية القصيرة
+flowjs_node_smsdevicesel === اختر الجهاز
+flowjs_node_textexample === شكراً لرسالتك!
+flowjs_node_texttitle === إرسال نص
+flowjs_node_textinputtitle === رسالة نصية
+flowjs_node_textinputplaholder === أدخل رسالتك
+flowjs_node_textpriority === الأولوية
+flowjs_node_yes === نعم
+flowjs_node_no === لا
+flowjs_node_watitle === مصدر WhatsApp
+flowjs_node_waselect === اختر الحساب
+flowjs_node_savecontact === حفظ جهة الاتصال
+flowjs_node_contactgroup === مجموعة الاتصال
+flowjs_node_nocondition === لا يمكن ربط عقد الشرط بعقد شرط أخرى!
+flowjs_node_nosmsmedia === لا يمكن استخدام مصدر الرسائل القصيرة عندما توجد عقد صور أو فيديو أو صوت أو مستند في التدفق!
+flowjs_node_wamediaonly === يمكن استخدام عقد وسائط WhatsApp فقط مع مصدر WhatsApp!
+flowjs_node_onlyonesource === يمكن استخدام عقدة مصدر واحدة فقط في التدفق!
+flowjs_node_condition === حالة
+flowjs_node_conditiontype === نوع الحالة
+flowjs_node_condition1 === يبدأ بـ
+flowjs_node_condition2 === ينتهي ب
+flowjs_node_condition3 === يحتوي على
+flowjs_node_condition4 === متساوٍ
+flowjs_node_condition5 === لا يحتوي
+flowjs_node_condition6 === التعبير النمطي
+flowjs_node_conditionval === القيمة
+flowjs_node_conditionvalph === أدخل القيمة
+flowjs_node_imagetitle === إرسال صورة
+flowjs_node_imageurl === رابط الصورة
+flowjs_node_imageurlph === أدخل رابط الصورة
+flowjs_node_uploadbtn === رفع
+flowjs_node_caption === التسمية التوضيحية (اختياري)
+flowjs_node_captionph === أدخل التسمية التوضيحية
+flowjs_node_video === إرسال فيديو
+flowjs_node_videourl === رابط الفيديو
+flowjs_node_videoph === أدخل رابط الفيديو
+flowjs_node_audio === إرسال الصوت
+flowjs_node_audiourl === رابط الصوت
+flowjs_node_audioph === أدخل رابط الصوت
+flowjs_node_documennt === إرسال المستند
+flowjs_node_documenturl === رابط الوثيقة
+flowjs_node_documentph === أدخل عنوان URL للوثيقة
+flowjs_upload_uploading === جارٍ رفع الملف
+flowjs_upload_failed === فشل في تحميل الملف!
+flowjs_export_addsourceflow === يرجى إضافة عقدة مصدر إلى التدفق!
+flowjs_export_sourcemustconnode === يجب ربط العقد المصدر بعقد أخرى!
+flowjs_export_nodesmustconnctflow === يجب توصيل جميع العقد بشكل صحيح في التدفق!
+flowjs_export_mustselsmssource === يرجى اختيار جهاز لعقدة مصدر الرسائل القصيرة!
+flowjs_export_mustselwasource === يرجى اختيار حساب لعقدة مصدر WhatsApp!
+flowjs_export_savingflow === حفظ التدفق
+flowjs_export_failedsave === فشل في حفظ التدفق!
+flow_table_nametitle === الاسم
+flow_table_sourcetitle === المصدر
+flow_table_optionstitle === خيارات
+flow_page_title === التدفقات
+flow_page_createbtn === إنشاء تدفق
+flow_page_header === تدفقات
+flow_page_sidebar === التدفقات
+logger_table_createdate === تم الإنشاء
+logger_table_type === اكتب
+logger_table_reason === السبب
+logger_table_content === المحتوى
+logger_page_sidebar === المسجل
+logger_page_header === المسجل
+logger_page_title === مسجل الدخول
+plugin_aicontext_breadcrumb === الذكاء الاصطناعي
+plugin_aicontext_title === ملفات السياق
+plugin_aicontext_addbtn === إضافة ملف
+plugin_aicontext_formname === ملف
+plugin_aicontext_formdesc === اختر ملفًا للتحميل. يتم دعم ملفات PDF وTXT وMD فقط. ستُستخدم هذه الملفات بواسطة الذكاء الاصطناعي للإجابة على الأسئلة.
+plugin_aicontext_headertitle === ملفات السياق
+plugin_aicontext_failupload === غير قادر على رفع الملف!
+plugin_aicontext_successupload === تمت إضافة ملف السياق!
+plugin_aicontext_filedeleted === تم حذف ملف السياق!
+plugin_aicontext_tablecreated === تم الإنشاء
+plugin_aicontext_tablefile === اسم الملف
+plugin_aicontext_tableoptions === خيارات
+response_flow_deleted === تم حذف التدفق!
+response_aikey_deleted === تم حذف مفتاح AI!
+response_aiplugin_deleted === تم حذف ملحق AI!

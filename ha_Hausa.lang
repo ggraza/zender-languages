@@ -3072,3 +3072,112 @@ response_admin_gateway_invalidapkfilename === Sunan fayil ɗin APK dole ne ya ƙ
 response_admin_gateway_invalidapkfile === Fayil ɗin APK ba daidai ba!
 response_admin_gateway_updatesuccess === An sabunta aikace-aikacen Gateway cikin nasara!
 device_api_smspending === Sakamakon SMS _8880_ yana jiran!
+flow_header_title === Mai Gina Gudana
+flow_response_saved === An adana gudana cikin nasara!
+flow_response_nofile === Babu fayil ɗin da aka ɗora ko kuskuren ɗora fayil!
+flow_response_fileuploaded === An loda fayil ɗin cikin nasara
+flow_modal_upload_title === Loda Fayil
+flow_modal_upload_button_select === Zaɓi Fayil
+flow_modal_upload_button_upload === Loda
+flow_modal_upload_progress_text === 0%
+flow_draw_sms_source === Asalin SMS
+flow_draw_whatsapp_source === Tushen WhatsApp
+flow_draw_condition === Yanayi
+flow_draw_send_text === Aika Saƙo
+flow_draw_send_image === Aika Hoto
+flow_draw_send_video === Aika Bidiyo
+flow_draw_send_audio === Aika Sauti
+flow_draw_send_document === Aika Takardu
+flow_draw_save_contact === Ajiye Tuntuɓa
+flow_draw_button_save === Ajiye
+flow_draw_button_clear === Goge
+flow_draw_zoom_out === Matsar da nesa
+flow_draw_zoom_reset === Sake saita Girman gani
+flow_draw_zoom_in === Kara Nisa
+flowjs_fetching_data === ana ɗaukar bayanan kwarara
+flowjs_failedload_data === An kasa ɗora bayanan gudu!
+flowjs_flowbuilder_guidetitle === Mai Gina Gudana
+flowjs_flowbuilder_guide1 === Jawo ko wanne tushen ƙwaƙwalwa zuwa yankin gudu
+flowjs_flowbuilder_guide2 === Haɗa shi da ƙwayoyin yanayi don tace saƙonni
+flowjs_flowbuilder_guide3 === Ƙara matani ko ayyukan kafofin watsa labarai bisa yanayi
+flowjs_flowbuilder_note === Ana iya amfani da tushen saƙon guda ɗaya kawai a cikin kwarara!
+flowjs_node_smstitle === Asalin SMS
+flowjs_node_smsdevicesel === Zaɓi Na'ura
+flowjs_node_textexample === Na gode da saƙonka!
+flowjs_node_texttitle === Aika Saƙo
+flowjs_node_textinputtitle === Saƙon Rubutu
+flowjs_node_textinputplaholder === Shigar da saƙonka
+flowjs_node_textpriority === Mahimmanci
+flowjs_node_yes === Iya
+flowjs_node_no === A'a
+flowjs_node_watitle === Asalin WhatsApp
+flowjs_node_waselect === Zaɓi Asusun
+flowjs_node_savecontact === Ajiye Lamba
+flowjs_node_contactgroup === Tuntuɓi Ƙungiya
+flowjs_node_nocondition === Ba za a iya haɗa nodes na yanayi da sauran nodes na yanayi ba!
+flowjs_node_nosmsmedia === Ba za a iya amfani da tushen SMS ba idan akwai ƙwayoyin hoto, bidiyo, sauti, da takardu a cikin tsarin!
+flowjs_node_wamediaonly === Ana iya amfani da nodes na WhatsApp media kawai tare da tushen WhatsApp!
+flowjs_node_onlyonesource === Ana iya amfani da ƙwayar tushe ɗaya kawai a cikin kwarara!
+flowjs_node_condition === Yanayi
+flowjs_node_conditiontype === Nau'in Yanayi
+flowjs_node_condition1 === Fara da
+flowjs_node_condition2 === Yana ƙarewa da
+flowjs_node_condition3 === Ya ƙunshi
+flowjs_node_condition4 === Daidai
+flowjs_node_condition5 === Ba Ya Kunshi
+flowjs_node_condition6 === Regex
+flowjs_node_conditionval === Kima
+flowjs_node_conditionvalph === Shigar da Kima
+flowjs_node_imagetitle === Aika Hoton
+flowjs_node_imageurl === Adireshin Hoto
+flowjs_node_imageurlph === Shigar da URL na Hoton
+flowjs_node_uploadbtn === Loda
+flowjs_node_caption === Taken lakabi (Zabi)
+flowjs_node_captionph === Shigar da Taken
+flowjs_node_video === Aika Bidiyo
+flowjs_node_videourl === URL na Bidiyo
+flowjs_node_videoph === Shigar da URL ɗin Bidiyo
+flowjs_node_audio === Aika Sauti
+flowjs_node_audiourl === Adireshin Audio
+flowjs_node_audioph === Shigar da URL na Audio
+flowjs_node_documennt === Aika Takardu
+flowjs_node_documenturl === Adireshin Takaddun shaida
+flowjs_node_documentph === Shigar da URL ɗin Takardu
+flowjs_upload_uploading === Ana ɗora Fayil
+flowjs_upload_failed === An kasa loda fayil!
+flowjs_export_addsourceflow === Da fatan za a ƙara nodin tushen zuwa kwarara!
+flowjs_export_sourcemustconnode === Dole ne a haɗa ƙwayoyin tushe da wasu ƙwayoyi!
+flowjs_export_nodesmustconnctflow === Dukkan nodes dole su kasance haɗe daidai cikin tsarin kwarara!
+flowjs_export_mustselsmssource === Da fatan za a zaɓi na'ura don tushen SMS!
+flowjs_export_mustselwasource === Da fatan zaɓi asusun don tushen WhatsApp!
+flowjs_export_savingflow === Ajiye gudana
+flowjs_export_failedsave === An kasa adana kwarara!
+flow_table_nametitle === Suna
+flow_table_sourcetitle === Tushe
+flow_table_optionstitle === Zaɓuɓɓuka
+flow_page_title === Gudana
+flow_page_createbtn === Ƙirƙiri Gudun aiki
+flow_page_header === Gudana
+flow_page_sidebar === Gudana
+logger_table_createdate === An ƙirƙira
+logger_table_type === Nau'i
+logger_table_reason === Dalili
+logger_table_content === Abun ciki
+logger_page_sidebar === Mai rikodin bayanai
+logger_page_header === Mai rubutu na bayanai
+logger_page_title === Mai rikodin bayanai
+plugin_aicontext_breadcrumb === Fasahar Wucin Gadi
+plugin_aicontext_title === Fayilolin Mahalli
+plugin_aicontext_addbtn === Ƙara Fayil
+plugin_aicontext_formname === Fayil
+plugin_aicontext_formdesc === Zaɓi fayil don ɗora. Ana tallafawa kawai fayilolin PDF, TXT, da MD. Za a yi amfani da waɗannan fayilolin don AI ta amsa tambayoyi.
+plugin_aicontext_headertitle === Fayilolin Mahallin
+plugin_aicontext_failupload === Ba za a iya ɗora fayil ɗin ba!
+plugin_aicontext_successupload === An ƙara fayil ɗin mahallin!
+plugin_aicontext_filedeleted === An share fayil ɗin mahallin!
+plugin_aicontext_tablecreated === An ƙirƙira
+plugin_aicontext_tablefile === Sunan Fayil
+plugin_aicontext_tableoptions === Zaɓuɓɓuka
+response_flow_deleted === An share gudanarwa!
+response_aikey_deleted === An share maɓallin AI!
+response_aiplugin_deleted === An goge ƙarin AI!

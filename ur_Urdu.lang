@@ -3071,3 +3071,112 @@ response_admin_gateway_invalidapkfilename === APK فائل کا نام ورژن 
 response_admin_gateway_invalidapkfile === غلط APK فائل!
 response_admin_gateway_updatesuccess === گیٹ وے ایپ کامیابی سے اپ ڈیٹ ہو گئی!
 device_api_smspending === ایس ایم ایس _8880_ کا نتیجہ زیر التوا ہے!
+flow_header_title === فلو بلڈر
+flow_response_saved === بہ ہی کامیابی سے محفوظ ہوگیا!
+flow_response_nofile === کوئی فائل اپ لوڈ نہیں ہوئی یا اپ لوڈ میں خرابی!
+flow_response_fileuploaded === فائل کامیابی سے اپ لوڈ ہو گئی ہے
+flow_modal_upload_title === فائل اپ لوڈ کریں
+flow_modal_upload_button_select === فائل منتخب کریں
+flow_modal_upload_button_upload === اپ لوڈ کریں
+flow_modal_upload_progress_text === 0٪
+flow_draw_sms_source === ایس ایم ایس ماخذ
+flow_draw_whatsapp_source === واٹس ایپ سورس
+flow_draw_condition === حالت
+flow_draw_send_text === متن بھیجیں
+flow_draw_send_image === تصویر بھیجیں
+flow_draw_send_video === ویڈیو بھیجیں
+flow_draw_send_audio === آڈیو بھیجیں
+flow_draw_send_document === دستاویز بھیجیں
+flow_draw_save_contact === رابطہ محفوظ کریں
+flow_draw_button_save === محفوظ کریں
+flow_draw_button_clear === صاف کریں
+flow_draw_zoom_out === زوم آؤٹ
+flow_draw_zoom_reset === زوم ری سیٹ کریں
+flow_draw_zoom_in === زوم ان
+flowjs_fetching_data === فلو ڈیٹا حاصل کیا جا رہا ہے
+flowjs_failedload_data === فلو ڈیٹا لوڈ کرنے میں ناکام!
+flowjs_flowbuilder_guidetitle === فلو بیلڈر
+flowjs_flowbuilder_guide1 === کسی بھی ماخذ نوڈ کو فلو ایریا میں گھسیٹیں۔
+flowjs_flowbuilder_guide2 === اسے کنڈیشن نوڈز سے جوڑیں تاکہ پیغامات کو فلٹر کیا جا سکے۔
+flowjs_flowbuilder_guide3 === شرائط کی بنیاد پر متن یا میڈیا کارروائیاں شامل کریں
+flowjs_flowbuilder_note === فلو میں صرف ایک ہی پیغام ماخذ نوڈ استعمال کیا جا سکتا ہے!
+flowjs_node_smstitle === ایس ایم ایس ماخذ
+flowjs_node_smsdevicesel === ڈیوائس منتخب کریں
+flowjs_node_textexample === آپ کے پیغام کا شکریہ!
+flowjs_node_texttitle === متن بھیجیں
+flowjs_node_textinputtitle === متن پیغام
+flowjs_node_textinputplaholder === اپنا پیغام درج کریں
+flowjs_node_textpriority === ترجیح
+flowjs_node_yes === ہاں
+flowjs_node_no === نہیں
+flowjs_node_watitle === واٹس ایپ سورس
+flowjs_node_waselect === اکاؤنٹ منتخب کریں
+flowjs_node_savecontact === رابطہ محفوظ کریں
+flowjs_node_contactgroup === رابطہ گروپ
+flowjs_node_nocondition === حالت کے نوڈز کو دوسرے حالت کے نوڈز سے نہیں جوڑا جا سکتا!
+flowjs_node_nosmsmedia === جب فلو میں تصویر، ویڈیو، آڈیو، اور دستاویز نوڈز موجود ہوں تو SMS ذریعہ استعمال نہیں کیا جا سکتا!
+flowjs_node_wamediaonly === واٹس ایپ میڈیا نوڈز صرف واٹس ایپ سورس کے ساتھ استعمال کیے جا سکتے ہیں!
+flowjs_node_onlyonesource === فلو میں صرف ایک ماخذ نوڈ استعمال کیا جا سکتا ہے!
+flowjs_node_condition === شرط
+flowjs_node_conditiontype === حالت کی قسم
+flowjs_node_condition1 === شروع ہوتا ہے
+flowjs_node_condition2 === پر ختم ہوتا ہے
+flowjs_node_condition3 === پر مشتمل ہے
+flowjs_node_condition4 === برابر
+flowjs_node_condition5 === شامل نہیں ہے
+flowjs_node_condition6 === ریگیکس
+flowjs_node_conditionval === قدر
+flowjs_node_conditionvalph === قدر درج کریں
+flowjs_node_imagetitle === تصویر بھیجیں
+flowjs_node_imageurl === تصویر کا یو آر ایل
+flowjs_node_imageurlph === تصویر کا URL درج کریں
+flowjs_node_uploadbtn === اپ لوڈ کریں
+flowjs_node_caption === عنوان (اختیاری)
+flowjs_node_captionph === کیپشن درج کریں
+flowjs_node_video === ویڈیو بھیجیں
+flowjs_node_videourl === ویڈیو یو آر ایل
+flowjs_node_videoph === ویڈیو کا URL درج کریں
+flowjs_node_audio === آڈیو بھیجیں
+flowjs_node_audiourl === آڈیو URL
+flowjs_node_audioph === آڈیو یو آر ایل درج کریں
+flowjs_node_documennt === دستاویز بھیجیں
+flowjs_node_documenturl === دستاویز URL
+flowjs_node_documentph === دستاویز یو آر ایل درج کریں
+flowjs_upload_uploading === فائل اپ لوڈ ہو رہی ہے
+flowjs_upload_failed === فائل اپ لوڈ کرنے میں ناکامی!
+flowjs_export_addsourceflow === براہ کرم فلو میں ایک ماخذ نوڈ شامل کریں!
+flowjs_export_sourcemustconnode === ماخذ نوڈز کو دوسرے نوڈز سے منسلک ہونا ضروری ہے!
+flowjs_export_nodesmustconnctflow === تمام نوڈز کو فلو میں صحیح طریقے سے جوڑنا ضروری ہے!
+flowjs_export_mustselsmssource === براہ کرم SMS ماخذ نوڈ کے لیے ایک ڈیوائس منتخب کریں!
+flowjs_export_mustselwasource === براہ کرم WhatsApp ماخذ نوڈ کے لیے ایک اکاؤنٹ منتخب کریں!
+flowjs_export_savingflow === بچت کا عمل
+flowjs_export_failedsave === فلو محفوظ کرنے میں ناکام!
+flow_table_nametitle === نام
+flow_table_sourcetitle === ماخذ
+flow_table_optionstitle === اختیارات
+flow_page_title === بہاؤ
+flow_page_createbtn === فلو بنائیں
+flow_page_header === بہاؤ
+flow_page_sidebar === بہاؤ
+logger_table_createdate === بنایا گیا
+logger_table_type === قسم
+logger_table_reason === وجہ
+logger_table_content === مواد
+logger_page_sidebar === لاگر
+logger_page_header === لاگر
+logger_page_title === لاجَر
+plugin_aicontext_breadcrumb === مصنوعی ذہانت
+plugin_aicontext_title === سیاق و سباق کی فائلیں
+plugin_aicontext_addbtn === فائل شامل کریں
+plugin_aicontext_formname === فائل
+plugin_aicontext_formdesc === اپلوڈ کے لیے فائل منتخب کریں۔ صرف PDF، TXT، اور MD فائلز کی حمایت کی جاتی ہے۔ یہ فائلز AI کے ذریعے سوالات کے جواب دینے کے لیے استعمال کی جائیں گی۔
+plugin_aicontext_headertitle === سیاق و سباق کی فائلیں
+plugin_aicontext_failupload === فائل اپ لوڈ کرنے میں ناکام!
+plugin_aicontext_successupload === سیاق و سباق کی فائل شامل کر دی گئی ہے!
+plugin_aicontext_filedeleted === کانٹیکسٹ فائل حذف کر دی گئی ہے!
+plugin_aicontext_tablecreated === بنا دیا گیا
+plugin_aicontext_tablefile === فائل کا نام
+plugin_aicontext_tableoptions === اختیارات
+response_flow_deleted === فلَو حذف کر دیا گیا ہے!
+response_aikey_deleted === AI کلید حذف کر دی گئی ہے!
+response_aiplugin_deleted === AI پلگ ان حذف کر دیا گیا ہے!

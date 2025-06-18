@@ -3072,3 +3072,112 @@ response_admin_gateway_invalidapkfilename === O nome do arquivo APK deve conter 
 response_admin_gateway_invalidapkfile === Arquivo APK inválido!
 response_admin_gateway_updatesuccess === Aplicativo de gateway atualizado com sucesso!
 device_api_smspending === O resultado do SMS _8880_ está pendente!
+flow_header_title === Construtor de Fluxo
+flow_response_saved === Fluxo salvo com sucesso!
+flow_response_nofile === Nenhum arquivo enviado ou erro no envio!
+flow_response_fileuploaded === Arquivo carregado com sucesso
+flow_modal_upload_title === Carregar Arquivo
+flow_modal_upload_button_select === Selecionar Arquivo
+flow_modal_upload_button_upload === Carregar
+flow_modal_upload_progress_text === 0%
+flow_draw_sms_source === Fonte do SMS
+flow_draw_whatsapp_source === Fonte do WhatsApp
+flow_draw_condition === Condição
+flow_draw_send_text === Enviar Texto
+flow_draw_send_image === Enviar Imagem
+flow_draw_send_video === Enviar Vídeo
+flow_draw_send_audio === Enviar Áudio
+flow_draw_send_document === Enviar Documento
+flow_draw_save_contact === Salvar Contato
+flow_draw_button_save === Salvar
+flow_draw_button_clear === Limpar
+flow_draw_zoom_out === Reduzir Zoom
+flow_draw_zoom_reset === Redefinir Zoom
+flow_draw_zoom_in === Aproximar
+flowjs_fetching_data === buscando dados do fluxo
+flowjs_failedload_data === Falha ao carregar os dados do fluxo!
+flowjs_flowbuilder_guidetitle === Construtor de Fluxo
+flowjs_flowbuilder_guide1 === Arraste um nó de origem para a área de fluxo
+flowjs_flowbuilder_guide2 === Conecte-o a nós de condição para filtrar mensagens
+flowjs_flowbuilder_guide3 === Adicionar ações de texto ou mídia com base em condições
+flowjs_flowbuilder_note === Apenas um nó fonte de mensagem pode ser usado no fluxo!
+flowjs_node_smstitle === Fonte do SMS
+flowjs_node_smsdevicesel === Selecionar Dispositivo
+flowjs_node_textexample === Obrigado pela sua mensagem!
+flowjs_node_texttitle === Enviar Texto
+flowjs_node_textinputtitle === Mensagem de Texto
+flowjs_node_textinputplaholder === Digite sua mensagem
+flowjs_node_textpriority === Prioridade
+flowjs_node_yes === Sim
+flowjs_node_no === Não
+flowjs_node_watitle === Fonte do WhatsApp
+flowjs_node_waselect === Selecionar Conta
+flowjs_node_savecontact === Salvar Contato
+flowjs_node_contactgroup === Grupo de Contato
+flowjs_node_nocondition === Nós de condição não podem ser conectados a outros nós de condição!
+flowjs_node_nosmsmedia === Não é possível usar a fonte SMS quando existem nós de imagem, vídeo, áudio e documento no fluxo!
+flowjs_node_wamediaonly === Os nós de mídia do WhatsApp só podem ser usados com a fonte do WhatsApp!
+flowjs_node_onlyonesource === Apenas um nó de origem pode ser usado no fluxo!
+flowjs_node_condition === Condição
+flowjs_node_conditiontype === Tipo de Condição
+flowjs_node_condition1 === Começa Com
+flowjs_node_condition2 === Termina Com
+flowjs_node_condition3 === Contém
+flowjs_node_condition4 === Igual
+flowjs_node_condition5 === Não Contém
+flowjs_node_condition6 === Expressão regular
+flowjs_node_conditionval === Valor
+flowjs_node_conditionvalph === Digite o Valor
+flowjs_node_imagetitle === Enviar Imagem
+flowjs_node_imageurl === URL da Imagem
+flowjs_node_imageurlph === Digite o URL da imagem
+flowjs_node_uploadbtn === Carregar
+flowjs_node_caption === Legenda (Opcional)
+flowjs_node_captionph === Digite a legenda
+flowjs_node_video === Enviar Vídeo
+flowjs_node_videourl === URL do vídeo
+flowjs_node_videoph === Digite a URL do Vídeo
+flowjs_node_audio === Enviar Áudio
+flowjs_node_audiourl === URL de áudio
+flowjs_node_audioph === Insira o URL do Áudio
+flowjs_node_documennt === Enviar Documento
+flowjs_node_documenturl === URL do Documento
+flowjs_node_documentph === Digite a URL do Documento
+flowjs_upload_uploading === Carregando Arquivo
+flowjs_upload_failed === Falha ao enviar o arquivo!
+flowjs_export_addsourceflow === Por favor, adicione um nó de origem ao fluxo!
+flowjs_export_sourcemustconnode === Os nós fonte devem estar conectados a outros nós!
+flowjs_export_nodesmustconnctflow === Todos os nós devem estar devidamente conectados no fluxo!
+flowjs_export_mustselsmssource === Por favor, selecione um dispositivo para o nó de origem SMS!
+flowjs_export_mustselwasource === Por favor, selecione uma conta para o nó de origem do WhatsApp!
+flowjs_export_savingflow === Salvando fluxo
+flowjs_export_failedsave === Falha ao salvar o fluxo!
+flow_table_nametitle === Nome
+flow_table_sourcetitle === Fonte
+flow_table_optionstitle === Opções
+flow_page_title === Fluxos
+flow_page_createbtn === Criar Fluxo
+flow_page_header === Fluxos
+flow_page_sidebar === Fluxos
+logger_table_createdate === Criado
+logger_table_type === Tipo
+logger_table_reason === Razão
+logger_table_content === Conteúdo
+logger_page_sidebar === Registrador
+logger_page_header === Registrador
+logger_page_title === Registrador
+plugin_aicontext_breadcrumb === Inteligência Artificial
+plugin_aicontext_title === Arquivos de Contexto
+plugin_aicontext_addbtn === Adicionar Arquivo
+plugin_aicontext_formname === Arquivo
+plugin_aicontext_formdesc === Selecione um arquivo para enviar. Apenas arquivos PDF, TXT e MD são suportados. Estes arquivos serão usados pela IA para responder perguntas.
+plugin_aicontext_headertitle === Arquivos de Contexto
+plugin_aicontext_failupload === Incapaz de carregar o arquivo!
+plugin_aicontext_successupload === Arquivo de contexto foi adicionado!
+plugin_aicontext_filedeleted === Arquivo de contexto foi excluído!
+plugin_aicontext_tablecreated === Criado
+plugin_aicontext_tablefile === Nome do Arquivo
+plugin_aicontext_tableoptions === Opções
+response_flow_deleted === Fluxo foi excluído!
+response_aikey_deleted === Chave AI foi deletada!
+response_aiplugin_deleted === O plugin de IA foi excluído!

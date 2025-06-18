@@ -3072,3 +3072,112 @@ response_admin_gateway_invalidapkfilename === Názov súboru APK musí obsahova�
 response_admin_gateway_invalidapkfile === Neplatný súbor APK!
 response_admin_gateway_updatesuccess === Aplikácia Gateway bola úspešne aktualizovaná!
 device_api_smspending === SMS _8880_ výsledok je v priebehu!
+flow_header_title === Tvorca toku
+flow_response_saved === Tok bol úspešne uložený!
+flow_response_nofile === Súbor nebol nahraný alebo chyba pri nahrávaní!
+flow_response_fileuploaded === Súbor bol úspešne nahraný
+flow_modal_upload_title === Nahrať súbor
+flow_modal_upload_button_select === Vybrať súbor
+flow_modal_upload_button_upload === Nahrať
+flow_modal_upload_progress_text === 0%
+flow_draw_sms_source === Zdroj SMS
+flow_draw_whatsapp_source === Zdroj WhatsApp
+flow_draw_condition === Podmienka
+flow_draw_send_text === Odoslať text
+flow_draw_send_image === Odoslať obrázok
+flow_draw_send_video === Odoslať video
+flow_draw_send_audio === Odoslať audio
+flow_draw_send_document === Odoslať dokument
+flow_draw_save_contact === Uložiť kontakt
+flow_draw_button_save === Uložiť
+flow_draw_button_clear === Vymazať
+flow_draw_zoom_out === Priblížiť menšie
+flow_draw_zoom_reset === Obnoviť zoom
+flow_draw_zoom_in === Priblížiť
+flowjs_fetching_data === načítavanie údajov toku
+flowjs_failedload_data === Nepodarilo sa načítať údaje toku!
+flowjs_flowbuilder_guidetitle === Tvorca toku
+flowjs_flowbuilder_guide1 === Presuňte zdrojový uzol do oblasti toku
+flowjs_flowbuilder_guide2 === Pripojte to k uzlom podmienok na filtrovanie správ
+flowjs_flowbuilder_guide3 === Pridajte textové alebo mediálne akcie na základe podmienok
+flowjs_flowbuilder_note === Vo flow môže byť použitý iba jeden zdrojový uzol správy!
+flowjs_node_smstitle === SMS Zdroj
+flowjs_node_smsdevicesel === Vyberte zariadenie
+flowjs_node_textexample === Ďakujeme za vašu správu!
+flowjs_node_texttitle === Odoslať text
+flowjs_node_textinputtitle === Textová správa
+flowjs_node_textinputplaholder === Zadajte svoju správu
+flowjs_node_textpriority === Priorita
+flowjs_node_yes === Áno
+flowjs_node_no === Nie
+flowjs_node_watitle === Zdroj WhatsApp
+flowjs_node_waselect === Vyberte účet
+flowjs_node_savecontact === Uložiť kontakt
+flowjs_node_contactgroup === Kontaktná skupina
+flowjs_node_nocondition === Uzly podmienok nemožno spájať s inými uzlami podmienok!
+flowjs_node_nosmsmedia === Nie je možné použiť zdroj SMS, keď vo flow existujú uzly obrázkov, videí, zvukových súborov a dokumentov!
+flowjs_node_wamediaonly === Mediálne uzly WhatsApp možno použiť iba so zdrojom WhatsApp!
+flowjs_node_onlyonesource === Vo toku môže byť použitý iba jeden zdrojový uzol!
+flowjs_node_condition === Podmienka
+flowjs_node_conditiontype === Typ podmienky
+flowjs_node_condition1 === Začína na
+flowjs_node_condition2 === Končí na
+flowjs_node_condition3 === Obsahuje
+flowjs_node_condition4 === Rovnaký
+flowjs_node_condition5 === Neobsahuje
+flowjs_node_condition6 === Regex
+flowjs_node_conditionval === Hodnota
+flowjs_node_conditionvalph === Zadajte hodnotu
+flowjs_node_imagetitle === Odošli obrázok
+flowjs_node_imageurl === URL obrázka
+flowjs_node_imageurlph === Zadajte URL obrázka
+flowjs_node_uploadbtn === Nahrať
+flowjs_node_caption === Popis (voliteľné)
+flowjs_node_captionph === Zadajte popis
+flowjs_node_video === Odoslať video
+flowjs_node_videourl === URL videa
+flowjs_node_videoph === Zadajte URL videa
+flowjs_node_audio === Odoslať zvuk
+flowjs_node_audiourl === URL zvuku
+flowjs_node_audioph === Zadajte URL adresu zvuku
+flowjs_node_documennt === Odoslať dokument
+flowjs_node_documenturl === URL dokumentu
+flowjs_node_documentph === Zadajte URL dokumentu
+flowjs_upload_uploading === Nahrávanie súboru
+flowjs_upload_failed === Nahratie súboru zlyhalo!
+flowjs_export_addsourceflow === Prosím, pridajte do toku zdrojový uzol!
+flowjs_export_sourcemustconnode === Zdrojové uzly musia byť pripojené k iným uzlom!
+flowjs_export_nodesmustconnctflow === Všetky uzly musia byť správne prepojené vo flow!
+flowjs_export_mustselsmssource === Vyberte prosím zariadenie pre SMS zdrojový uzol!
+flowjs_export_mustselwasource === Prosím vyberte účet pre uzol zdroja WhatsApp!
+flowjs_export_savingflow === Ukladanie toku
+flowjs_export_failedsave === Nepodarilo sa uložiť tok!
+flow_table_nametitle === Meno
+flow_table_sourcetitle === Zdroj
+flow_table_optionstitle === Možnosti
+flow_page_title === Toky
+flow_page_createbtn === Vytvoriť tok
+flow_page_header === Toky
+flow_page_sidebar === Toky
+logger_table_createdate === Vytvorené
+logger_table_type === Zadať
+logger_table_reason === Dôvod
+logger_table_content === Obsah
+logger_page_sidebar === Záznamník
+logger_page_header === Záznamník
+logger_page_title === Záznamník
+plugin_aicontext_breadcrumb === Umelá inteligencia
+plugin_aicontext_title === Súbory kontextu
+plugin_aicontext_addbtn === Pridať súbor
+plugin_aicontext_formname === Súbor
+plugin_aicontext_formdesc === Vyberte súbor na nahranie. Podporované sú iba PDF, TXT a MD súbory. Tieto súbory budú použité AI na odpovedanie na otázky.
+plugin_aicontext_headertitle === Súbory kontextu
+plugin_aicontext_failupload === Nepodarilo sa nahrať súbor!
+plugin_aicontext_successupload === Súbor kontextu bol pridaný!
+plugin_aicontext_filedeleted === Súbor kontextu bol odstránený!
+plugin_aicontext_tablecreated === Vytvorené
+plugin_aicontext_tablefile === Názov súboru
+plugin_aicontext_tableoptions === Možnosti
+response_flow_deleted === Tok bol odstránený!
+response_aikey_deleted === Kľúč AI bol odstránený!
+response_aiplugin_deleted === Plugin AI bol odstránený!

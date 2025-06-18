@@ -3072,3 +3072,112 @@ response_admin_gateway_invalidapkfilename === Jina la faili la APK lazima liwe n
 response_admin_gateway_invalidapkfile === Faili la APK halali!
 response_admin_gateway_updatesuccess === Programu ya Gateway imesasishwa kwa mafanikio!
 device_api_smspending === Matokeo ya SMS _8880_ yanakusubiri!
+flow_header_title === Mjenzi wa Mtiririko
+flow_response_saved === Mtiririko uliohifadhiwa kwa mafanikio!
+flow_response_nofile === Hakuna faili lililopakuliwa au hitilafu ya kupakia!
+flow_response_fileuploaded === Faili imepakiwa kwa mafanikio
+flow_modal_upload_title === Pakia Faili
+flow_modal_upload_button_select === Chagua Faili
+flow_modal_upload_button_upload === Pakia
+flow_modal_upload_progress_text === 0%
+flow_draw_sms_source === Chanzo cha SMS
+flow_draw_whatsapp_source === Chanzo cha WhatsApp
+flow_draw_condition === Hali
+flow_draw_send_text === Tuma maandishi
+flow_draw_send_image === Tuma Picha
+flow_draw_send_video === Tuma Video
+flow_draw_send_audio === Tuma Sauti
+flow_draw_send_document === Tuma Nyaraka
+flow_draw_save_contact === Hifadhi Mwasiliani
+flow_draw_button_save === Hifadhi
+flow_draw_button_clear === Futa
+flow_draw_zoom_out === Punguza Ukubwa
+flow_draw_zoom_reset === Weka Upya Ukuzaji
+flow_draw_zoom_in === Punguza Ukubwa
+flowjs_fetching_data === kukusanya data ya mtiririko
+flowjs_failedload_data === Imeshindwa kupakia data ya mtiririko!
+flowjs_flowbuilder_guidetitle === Mjenge wa Mtiririko
+flowjs_flowbuilder_guide1 === Vuta kiini chochote cha chanzo kwenye eneo la mtiririko
+flowjs_flowbuilder_guide2 === Iunganishe na nodi za hali kuchuja ujumbe
+flowjs_flowbuilder_guide3 === Ongeza maandishi au vitendo vya media kulingana na masharti
+flowjs_flowbuilder_note === Kipindi cha chanzo cha ujumbe moja tu kinaweza kutumika kwenye mtiririko!
+flowjs_node_smstitle === Chanzo cha SMS
+flowjs_node_smsdevicesel === Chagua Kifaa
+flowjs_node_textexample === Asante kwa ujumbe wako!
+flowjs_node_texttitle === Tuma Maandishi
+flowjs_node_textinputtitle === Ujumbe wa Maandishi
+flowjs_node_textinputplaholder === Weka ujumbe wako
+flowjs_node_textpriority === Kipaumbele
+flowjs_node_yes === Ndiyo
+flowjs_node_no === Hapana
+flowjs_node_watitle === Chanzo cha WhatsApp
+flowjs_node_waselect === Chagua Akaunti
+flowjs_node_savecontact === Hifadhi Mwasiliana
+flowjs_node_contactgroup === Kikundi cha Mawasiliano
+flowjs_node_nocondition === Nodizi za hali haziwezi kuunganishwa na nodizi zingine za hali!
+flowjs_node_nosmsmedia === Huwezi kutumia chanzo cha SMS wakati nodi za picha, video, sauti, na hati zipo katika mtiririko!
+flowjs_node_wamediaonly === Nodhi za media za WhatsApp zinaweza kutumika tu na chanzo cha WhatsApp!
+flowjs_node_onlyonesource === Chanzo kimoja tu cha nodi kinaweza kutumika katika mtiririko!
+flowjs_node_condition === Hali
+flowjs_node_conditiontype === Aina ya Hali
+flowjs_node_condition1 === Ina Anza Na
+flowjs_node_condition2 === Inavua na
+flowjs_node_condition3 === Inajumuisha
+flowjs_node_condition4 === Sawa
+flowjs_node_condition5 === Sijumuishi
+flowjs_node_condition6 === Regex
+flowjs_node_conditionval === Thamani
+flowjs_node_conditionvalph === Ingiza Thamani
+flowjs_node_imagetitle === Tuma Picha
+flowjs_node_imageurl === URL ya Picha
+flowjs_node_imageurlph === Ingiza URL ya Picha
+flowjs_node_uploadbtn === Pakia
+flowjs_node_caption === Maandishi ya Picha (Hiari)
+flowjs_node_captionph === Weka Kichwa
+flowjs_node_video === Tuma Video
+flowjs_node_videourl === URL ya Video
+flowjs_node_videoph === Ingiza URL ya Video
+flowjs_node_audio === Tuma Sauti
+flowjs_node_audiourl === URL ya Sauti
+flowjs_node_audioph === Ingiza URL ya Sauti
+flowjs_node_documennt === Tuma Nyaraka
+flowjs_node_documenturl === URL ya Hati
+flowjs_node_documentph === Ingiza URL ya Hati
+flowjs_upload_uploading === Inapakia Faili
+flowjs_upload_failed === Imeshindikana kupakia faili!
+flowjs_export_addsourceflow === Tafadhali ongeza nodi ya chanzo kwenye mtiririko!
+flowjs_export_sourcemustconnode === Nodes za chanzo lazima ziunganishwe na nodes nyingine!
+flowjs_export_nodesmustconnctflow === Vifurushi vyote lazima viunganishwe ipasavyo katika mzunguko!
+flowjs_export_mustselsmssource === Tafadhali chagua kifaa kwa kiini cha chanzo cha SMS!
+flowjs_export_mustselwasource === Tafadhali chagua akaunti kwa nodi chanzo ya WhatsApp!
+flowjs_export_savingflow === Kuhifadhi mtiririko
+flowjs_export_failedsave === Imeshindwa kuhifadhi mtiririko!
+flow_table_nametitle === Jina
+flow_table_sourcetitle === Chanzo
+flow_table_optionstitle === Chaguzi
+flow_page_title === Mtiririko
+flow_page_createbtn === Unda Mtiririko
+flow_page_header === Mtiririko
+flow_page_sidebar === Mito
+logger_table_createdate === Imeundwa
+logger_table_type === Aina
+logger_table_reason === Sababu
+logger_table_content === Yaliyomo
+logger_page_sidebar === Mwandishi wa kumbukumbu
+logger_page_header === Mwandishi wa kumbukumbu
+logger_page_title === Mwandishi wa kumbukumbu
+plugin_aicontext_breadcrumb === Akili Bandia
+plugin_aicontext_title === Faili za Muktadha
+plugin_aicontext_addbtn === Ongeza Faili
+plugin_aicontext_formname === Faili
+plugin_aicontext_formdesc === Chagua faili la kupakia. Faili zinazoungwa mkono ni PDF, TXT, na MD pekee. Faili hizi zitatumiwa na AI kujibu maswali.
+plugin_aicontext_headertitle === Vyombo vya Muktadha
+plugin_aicontext_failupload === Haiwezi kupakia faili!
+plugin_aicontext_successupload === Faili ya muktadha imeongezwa!
+plugin_aicontext_filedeleted === Faili la muktadha limefutwa!
+plugin_aicontext_tablecreated === Iliyoundwa
+plugin_aicontext_tablefile === Jina la Faili
+plugin_aicontext_tableoptions === Chaguzi
+response_flow_deleted === Mtiririko umefutwa!
+response_aikey_deleted === Ufunguo wa AI umefutwa!
+response_aiplugin_deleted === Kiendelezi cha AI kimefutwa!

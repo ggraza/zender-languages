@@ -3071,3 +3071,112 @@ response_admin_gateway_invalidapkfilename === Το όνομα του αρχεί�
 response_admin_gateway_invalidapkfile === Μη έγκυρο αρχείο APK!
 response_admin_gateway_updatesuccess === Η εφαρμογή Gateway ενημερώθηκε με επιτυχία!
 device_api_smspending === Η κατάσταση του SMS _8880_ είναι σε εκκρεμότητα!
+flow_header_title === Δημιουργός Ροής
+flow_response_saved === Η ροή αποθηκεύτηκε με επιτυχία!
+flow_response_nofile === Καμία αρχεία δεν ανέβηκε ή σφάλμα ανέβασματος!
+flow_response_fileuploaded === Το αρχείο ανέβηκε με επιτυχία
+flow_modal_upload_title === Ανέβασε Αρχείο
+flow_modal_upload_button_select === Επιλογή Αρχείου
+flow_modal_upload_button_upload === Ανέβασμα
+flow_modal_upload_progress_text === 0%
+flow_draw_sms_source === Πηγή SMS
+flow_draw_whatsapp_source === Πηγή WhatsApp
+flow_draw_condition === Κατάσταση
+flow_draw_send_text === Αποστολή Κειμένου
+flow_draw_send_image === Αποστολή Εικόνας
+flow_draw_send_video === Αποστολή Βίντεο
+flow_draw_send_audio === Αποστολή Ήχου
+flow_draw_send_document === Αποστολή Εγγράφου
+flow_draw_save_contact === Αποθήκευση Επαφής
+flow_draw_button_save === Αποθήκευση
+flow_draw_button_clear === Καθαρό
+flow_draw_zoom_out === Σμίκρυνση
+flow_draw_zoom_reset === Επαναφορά Ζουμ
+flow_draw_zoom_in === Μεγέθυνση
+flowjs_fetching_data === λήψη δεδομένων ροής
+flowjs_failedload_data === Αποτυχία φόρτωσης δεδομένων ροής!
+flowjs_flowbuilder_guidetitle === Δημιουργός Ροής
+flowjs_flowbuilder_guide1 === Σύρετε έναν κόμβο πηγής στην περιοχή ροής
+flowjs_flowbuilder_guide2 === Συνδέστε το με κόμβους συνθήκης για φιλτράρισμα μηνυμάτων
+flowjs_flowbuilder_guide3 === Προσθήκη ενεργειών κειμένου ή μέσων βάσει προϋποθέσεων
+flowjs_flowbuilder_note === Μπορεί να χρησιμοποιηθεί μόνο ένας κόμβος πηγής μηνυμάτων στη ροή!
+flowjs_node_smstitle === Προέλευση SMS
+flowjs_node_smsdevicesel === Επιλέξτε Συσκευή
+flowjs_node_textexample === Ευχαριστώ για το μήνυμά σας!
+flowjs_node_texttitle === Αποστολή Κειμένου
+flowjs_node_textinputtitle === Μήνυμα Κειμένου
+flowjs_node_textinputplaholder === Εισάγετε το μήνυμά σας
+flowjs_node_textpriority === Προτεραιότητα
+flowjs_node_yes === Ναι
+flowjs_node_no === Όχι
+flowjs_node_watitle === Πηγαίος κώδικας WhatsApp
+flowjs_node_waselect === Επιλέξτε Λογαριασμό
+flowjs_node_savecontact === Αποθήκευση Επαφής
+flowjs_node_contactgroup === Ομάδα Επαφών
+flowjs_node_nocondition === Οι κόμβοι συνθηκών δεν μπορούν να συνδεθούν με άλλους κόμβους συνθηκών!
+flowjs_node_nosmsmedia === Δεν είναι δυνατό να χρησιμοποιηθεί η πηγή SMS όταν στο ροή υπάρχουν κόμβοι εικόνας, βίντεο, ήχου και εγγράφων!
+flowjs_node_wamediaonly === Οι κόμβοι μέσων του WhatsApp μπορούν να χρησιμοποιηθούν μόνο με πηγή WhatsApp!
+flowjs_node_onlyonesource === Μπορεί να χρησιμοποιηθεί μόνο ένας κόμβος προέλευσης στην ροή!
+flowjs_node_condition === Κατάσταση
+flowjs_node_conditiontype === Τύπος Συνθήκης
+flowjs_node_condition1 === Ξεκινά Με
+flowjs_node_condition2 === Τελειώνει με
+flowjs_node_condition3 === Περιέχει
+flowjs_node_condition4 === Ισοδύναμο
+flowjs_node_condition5 === Δεν περιέχει
+flowjs_node_condition6 === Κανονική_Έκφραση
+flowjs_node_conditionval === Τιμή
+flowjs_node_conditionvalph === Εισαγάγετε Τιμή
+flowjs_node_imagetitle === Αποστολή Εικόνας
+flowjs_node_imageurl === Διεύθυνση URL εικόνας
+flowjs_node_imageurlph === Εισαγάγετε URL Εικόνας
+flowjs_node_uploadbtn === Μεταφόρτωση
+flowjs_node_caption === Λεζάντα (Προαιρετικό)
+flowjs_node_captionph === Εισάγετε λεζάντα
+flowjs_node_video === Αποστολή Βίντεο
+flowjs_node_videourl === URL βίντεο
+flowjs_node_videoph === Εισαγάγετε το URL του βίντεο
+flowjs_node_audio === Αποστολή ήχου
+flowjs_node_audiourl === Διεύθυνση URL ήχου
+flowjs_node_audioph === Εισαγάγετε URL ήχου
+flowjs_node_documennt === Αποστολή Εγγράφου
+flowjs_node_documenturl === Διεύθυνση URL εγγράφου
+flowjs_node_documentph === Εισαγάγετε τη διεύθυνση URL εγγράφου
+flowjs_upload_uploading === Μεταφόρτωση Αρχείου
+flowjs_upload_failed === Αποτυχία ανέβασμα αρχείου!
+flowjs_export_addsourceflow === Παρακαλώ προσθέστε έναν κόμβο πηγής στο ροή!
+flowjs_export_sourcemustconnode === Οι κόμβοι πηγής πρέπει να συνδεθούν με άλλους κόμβους!
+flowjs_export_nodesmustconnctflow === Όλοι οι κόμβοι πρέπει να είναι σωστά συνδεδεμένοι στη ροή!
+flowjs_export_mustselsmssource === Παρακαλώ επιλέξτε μια συσκευή για τον κόμβο πηγής SMS!
+flowjs_export_mustselwasource === Παρακαλώ επιλέξτε έναν λογαριασμό για τον κόμβο πηγής WhatsApp!
+flowjs_export_savingflow === Αποθήκευση ροής
+flowjs_export_failedsave === Αποτυχία αποθήκευσης ροής!
+flow_table_nametitle === Όνομα
+flow_table_sourcetitle === Πηγή
+flow_table_optionstitle === Επιλογές
+flow_page_title === Ροές
+flow_page_createbtn === Δημιουργία Flow
+flow_page_header === Ροές
+flow_page_sidebar === Ροές
+logger_table_createdate === Δημιουργήθηκε
+logger_table_type === Πληκτρολογήστε
+logger_table_reason === Αιτία
+logger_table_content === Περιεχόμενο
+logger_page_sidebar === Καταγραφέας
+logger_page_header === Καταγραφέας
+logger_page_title === Καταγραφέας
+plugin_aicontext_breadcrumb === Τεχνητή Νοημοσύνη
+plugin_aicontext_title === Αρχεία Πλαισίου
+plugin_aicontext_addbtn === Προσθήκη Αρχείου
+plugin_aicontext_formname === Αρχείο
+plugin_aicontext_formdesc === Επιλέξτε ένα αρχείο για ανέβασμα. Υποστηρίζονται μόνο αρχεία PDF, TXT και MD. Αυτά τα αρχεία θα χρησιμοποιηθούν από την AI για να απαντήσει σε ερωτήσεις.
+plugin_aicontext_headertitle === Αρχεία Συμφραζομένων
+plugin_aicontext_failupload === Αδυναμία μεταφόρτωσης του αρχείου!
+plugin_aicontext_successupload === Το αρχείο συμφραζομένων έχει προστεθεί!
+plugin_aicontext_filedeleted === Το αρχείο πλαισίου έχει διαγραφεί!
+plugin_aicontext_tablecreated === Δημιουργήθηκε
+plugin_aicontext_tablefile === Όνομα Αρχείου
+plugin_aicontext_tableoptions === Επιλογές
+response_flow_deleted === Η ροή έχει διαγραφεί!
+response_aikey_deleted === Το κλειδί AI έχει διαγραφεί!
+response_aiplugin_deleted === Το πρόσθετο AI έχει διαγραφεί!

@@ -3072,3 +3072,112 @@ response_admin_gateway_invalidapkfilename === APK-filnavnet må inneholde versjo
 response_admin_gateway_invalidapkfile === Ugyldig APK-fil!
 response_admin_gateway_updatesuccess === Gateway-appen ble oppdatert med suksess!
 device_api_smspending === SMS _8880_ resultatet venter!
+flow_header_title === Flytbygger
+flow_response_saved === Flyt lagret!
+flow_response_nofile === Ingen fil lastet opp eller opplastingsfeil!
+flow_response_fileuploaded === Filen lastet opp vellykket
+flow_modal_upload_title === Last opp fil
+flow_modal_upload_button_select === Velg fil
+flow_modal_upload_button_upload === Last opp
+flow_modal_upload_progress_text === 0%
+flow_draw_sms_source === SMS-kilde
+flow_draw_whatsapp_source === WhatsApp-kilde
+flow_draw_condition === Tilstand
+flow_draw_send_text === Send tekst
+flow_draw_send_image === Send bilde
+flow_draw_send_video === Send video
+flow_draw_send_audio === Send lyd
+flow_draw_send_document === Send dokument
+flow_draw_save_contact === Lagre kontakt
+flow_draw_button_save === Lagre
+flow_draw_button_clear === Tøm
+flow_draw_zoom_out === Zoom ut
+flow_draw_zoom_reset === Tilbakestill zoom
+flow_draw_zoom_in === Zoom inn
+flowjs_fetching_data === henter flytdata
+flowjs_failedload_data === Kunne ikke laste flytdata!
+flowjs_flowbuilder_guidetitle === Flytbygger
+flowjs_flowbuilder_guide1 === Dra en kildeknute til flytområdet
+flowjs_flowbuilder_guide2 === Koble det til betingelsesnoder for å filtrere meldinger
+flowjs_flowbuilder_guide3 === Legg til tekst- eller mediehandlinger basert på betingelser
+flowjs_flowbuilder_note === Kun én melding kilde-node kan brukes i flyten!
+flowjs_node_smstitle === SMS-kilde
+flowjs_node_smsdevicesel === Velg enhet
+flowjs_node_textexample === Takk for meldingen din!
+flowjs_node_texttitle === Send tekst
+flowjs_node_textinputtitle === Tekstmelding
+flowjs_node_textinputplaholder === Skriv inn meldingen din
+flowjs_node_textpriority === Prioritet
+flowjs_node_yes === Ja
+flowjs_node_no === Nei
+flowjs_node_watitle === WhatsApp Kilde
+flowjs_node_waselect === Velg konto
+flowjs_node_savecontact === Lagre kontakt
+flowjs_node_contactgroup === Kontaktgruppe
+flowjs_node_nocondition === Betingelsesnoder kan ikke kobles til andre betingelsesnoder!
+flowjs_node_nosmsmedia === Kan ikke bruke SMS-kilde når bilde-, video-, lyd- og dokumentnoder finnes i flyten!
+flowjs_node_wamediaonly === WhatsApp medienoder kan kun brukes med WhatsApp-kilde!
+flowjs_node_onlyonesource === Kun én kildenode kan brukes i flyten!
+flowjs_node_condition === Tilstand
+flowjs_node_conditiontype === Type tilstand
+flowjs_node_condition1 === Starter med
+flowjs_node_condition2 === Slutter med
+flowjs_node_condition3 === Inneholder
+flowjs_node_condition4 === Lik
+flowjs_node_condition5 === Ikke inneholde
+flowjs_node_condition6 === Regex
+flowjs_node_conditionval === Verdi
+flowjs_node_conditionvalph === Skriv inn verdi
+flowjs_node_imagetitle === Send bilde
+flowjs_node_imageurl === Bildelenke
+flowjs_node_imageurlph === Skriv inn bildeadresse(URL)
+flowjs_node_uploadbtn === Last opp
+flowjs_node_caption === Bildetekst (valgfritt)
+flowjs_node_captionph === Skriv inn bildetekst
+flowjs_node_video === Send video
+flowjs_node_videourl === Videoadresse
+flowjs_node_videoph === Skriv inn video-URL
+flowjs_node_audio === Send lyd
+flowjs_node_audiourl === Lyd URL
+flowjs_node_audioph === Skriv inn lyd-URL
+flowjs_node_documennt === Send dokument
+flowjs_node_documenturl === Dokument-URL
+flowjs_node_documentph === Skriv inn dokument-URL
+flowjs_upload_uploading === Laster opp fil
+flowjs_upload_failed === Opplasting av fil mislyktes!
+flowjs_export_addsourceflow === Vennligst legg til en kilde-node til flyten!
+flowjs_export_sourcemustconnode === Kildnoder må være koblet til andre noder!
+flowjs_export_nodesmustconnctflow === Alle noder må være riktig koblet i flyten!
+flowjs_export_mustselsmssource === Vennligst velg en enhet for SMS-kildens node!
+flowjs_export_mustselwasource === Vennligst velg en konto for WhatsApp kilde-node!
+flowjs_export_savingflow === Lagrer flyt
+flowjs_export_failedsave === Kunne ikke lagre flyt!
+flow_table_nametitle === Navn
+flow_table_sourcetitle === Kilde
+flow_table_optionstitle === Alternativer
+flow_page_title === Flyter
+flow_page_createbtn === Opprett flyt
+flow_page_header === Flyter
+flow_page_sidebar === Flyter
+logger_table_createdate === Opprettet
+logger_table_type === Skriv
+logger_table_reason === Årsak
+logger_table_content === Innhold
+logger_page_sidebar === Logger
+logger_page_header === Logger
+logger_page_title === Logger
+plugin_aicontext_breadcrumb === Kunstig intelligens
+plugin_aicontext_title === Kontekstfiler
+plugin_aicontext_addbtn === Legg til fil
+plugin_aicontext_formname === Fil
+plugin_aicontext_formdesc === Velg en fil å laste opp. Kun PDF-, TXT- og MD-filer støttes. Disse filene vil bli brukt av AI til å svare på spørsmål.
+plugin_aicontext_headertitle === Kontekstfiler
+plugin_aicontext_failupload === Kunne ikke laste opp filen!
+plugin_aicontext_successupload === Kontekstfil er lagt til!
+plugin_aicontext_filedeleted === Kontekstfilen er slettet!
+plugin_aicontext_tablecreated === Opprettet
+plugin_aicontext_tablefile === Filnavn
+plugin_aicontext_tableoptions === Alternativer
+response_flow_deleted === Flyt har blitt slettet!
+response_aikey_deleted === AI-nøkkelen er slettet!
+response_aiplugin_deleted === AI-pluginen er slettet!

@@ -3072,3 +3072,112 @@ response_admin_gateway_invalidapkfilename === שם קובץ ה-APK חייב לכ
 response_admin_gateway_invalidapkfile === קובץ APK אינו חוקי!
 response_admin_gateway_updatesuccess === האפליקציה של השער עודכנה בהצלחה!
 device_api_smspending === תוצאת SMS _8880_ ממתינה!
+flow_header_title === בונה זרימות
+flow_response_saved === הזרימה נשמרה בהצלחה!
+flow_response_nofile === לא הועלה קובץ או שגיאת העלאה!
+flow_response_fileuploaded === הקובץ הועלה בהצלחה
+flow_modal_upload_title === העלה קובץ
+flow_modal_upload_button_select === בחר קובץ
+flow_modal_upload_button_upload === העלה
+flow_modal_upload_progress_text === 0%
+flow_draw_sms_source === מקור SMS
+flow_draw_whatsapp_source === מקור WhatsApp
+flow_draw_condition === מצב
+flow_draw_send_text === שלח טקסט
+flow_draw_send_image === שלח תמונה
+flow_draw_send_video === שלח וידאו
+flow_draw_send_audio === שלח אודיו
+flow_draw_send_document === שלח מסמך
+flow_draw_save_contact === שמור איש קשר
+flow_draw_button_save === שמור
+flow_draw_button_clear === נקה
+flow_draw_zoom_out === הקטן זום
+flow_draw_zoom_reset === איפוס זום
+flow_draw_zoom_in === התקרבות
+flowjs_fetching_data === טוען נתוני זרימה
+flowjs_failedload_data === טען נתוני הזרימה נכשל!
+flowjs_flowbuilder_guidetitle === בונה זרימה
+flowjs_flowbuilder_guide1 === גרור צומת מקור כלשהו לאזור הזרימה
+flowjs_flowbuilder_guide2 === חבר זאת לצמתים התנאים כדי לסנן הודעות
+flowjs_flowbuilder_guide3 === הוסף טקסט או פעולות מדיה על בסיס תנאים
+flowjs_flowbuilder_note === ניתן להשתמש רק בקודקוד מקור הודעה אחד בזרם!
+flowjs_node_smstitle === מקור SMS
+flowjs_node_smsdevicesel === בחר מכשיר
+flowjs_node_textexample === תודה על ההודעה שלך!
+flowjs_node_texttitle === שלח טקסט
+flowjs_node_textinputtitle === הודעת טקסט
+flowjs_node_textinputplaholder === הזן את ההודעה שלך
+flowjs_node_textpriority === עדיפות
+flowjs_node_yes === כן
+flowjs_node_no === לא
+flowjs_node_watitle === מקור WhatsApp
+flowjs_node_waselect === בחר חשבון
+flowjs_node_savecontact === שמור איש קשר
+flowjs_node_contactgroup === קבוצת אנשי קשר
+flowjs_node_nocondition === צמתים של תנאים לא יכולים להיות מחוברים לצמתים של תנאים אחרים!
+flowjs_node_nosmsmedia === לא ניתן להשתמש במקור SMS כאשר קיימים צמתים של תמונה, וידאו, אודיו ומסמך בזרימה!
+flowjs_node_wamediaonly === קודי מדיה של WhatsApp ניתנים לשימוש רק עם מקור WhatsApp!
+flowjs_node_onlyonesource === ניתן להשתמש רק בצומת מקור אחד בזרימה!
+flowjs_node_condition === תנאי
+flowjs_node_conditiontype === סוג תנאי
+flowjs_node_condition1 === מתחיל עם
+flowjs_node_condition2 === מסתיים ב
+flowjs_node_condition3 === מכיל
+flowjs_node_condition4 === שווה
+flowjs_node_condition5 === לא מכיל
+flowjs_node_condition6 === רגקס
+flowjs_node_conditionval === ערך
+flowjs_node_conditionvalph === הכנס ערך
+flowjs_node_imagetitle === שלח תמונה
+flowjs_node_imageurl === כתובת URL של תמונה
+flowjs_node_imageurlph === הזן כתובת URL של תמונה
+flowjs_node_uploadbtn === העלה
+flowjs_node_caption === כותרת (אופציונלי)
+flowjs_node_captionph === הזן כיתוב
+flowjs_node_video === שלח וידאו
+flowjs_node_videourl === קישור וידאו
+flowjs_node_videoph === הזן כתובת URL של וידאו
+flowjs_node_audio === שלח שמע
+flowjs_node_audiourl === קישור אודיו
+flowjs_node_audioph === הזן כתובת URL של אודיו
+flowjs_node_documennt === שלח מסמך
+flowjs_node_documenturl === קישור למסמך
+flowjs_node_documentph === הזן URL למסמך
+flowjs_upload_uploading === מעלה קובץ
+flowjs_upload_failed === נכשל בהעלאת הקובץ!
+flowjs_export_addsourceflow === אנא הוסף צומת מקור לנפח!
+flowjs_export_sourcemustconnode === יש לחבר את צמתות המקור לצמתות אחרות!
+flowjs_export_nodesmustconnctflow === כל הצמתים חייבים להיות מחוברים כראוי בזרימה!
+flowjs_export_mustselsmssource === נא לבחור מכשיר לצומת מקור ה-SMS!
+flowjs_export_mustselwasource === אנא בחר חשבון עבור מציין המקור של WhatsApp!
+flowjs_export_savingflow === שומר תהליך
+flowjs_export_failedsave === נכשל בשריטת הזרימה!
+flow_table_nametitle === שם
+flow_table_sourcetitle === מקור
+flow_table_optionstitle === אפשרויות
+flow_page_title === זרמים
+flow_page_createbtn === צור זרימה
+flow_page_header === זרימות
+flow_page_sidebar === זרימות
+logger_table_createdate === נוצר
+logger_table_type === הקלד
+logger_table_reason === סיבה
+logger_table_content === תוכן
+logger_page_sidebar === מחבר יומן
+logger_page_header === לוגר
+logger_page_title === רשום
+plugin_aicontext_breadcrumb === בינה מלאכותית
+plugin_aicontext_title === קבצי הקשר
+plugin_aicontext_addbtn === הוסף קובץ
+plugin_aicontext_formname === קובץ
+plugin_aicontext_formdesc === בחר קובץ להעלאה. נתמכים רק קבצי PDF, TXT ו-MD. קבצים אלו ישמשו את ה-AI למתן תשובות.
+plugin_aicontext_headertitle === קבצי הקשר
+plugin_aicontext_failupload === לא ניתן להעלות את הקובץ!
+plugin_aicontext_successupload === קובץ ההקשר נוסף!
+plugin_aicontext_filedeleted === קובץ ההקשר נמחק!
+plugin_aicontext_tablecreated === נוצר
+plugin_aicontext_tablefile === שם קובץ
+plugin_aicontext_tableoptions === אפשרויות
+response_flow_deleted === הזרימה נמחקה!
+response_aikey_deleted === מפתח ה-AI נמחק!
+response_aiplugin_deleted === התוסף AI נמחק!

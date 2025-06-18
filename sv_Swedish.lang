@@ -3072,3 +3072,112 @@ response_admin_gateway_invalidapkfilename === APK-filnamnet måste innehålla ve
 response_admin_gateway_invalidapkfile === Ogiltig APK-fil!
 response_admin_gateway_updatesuccess === Gateway-appen har uppdaterats framgångsrikt!
 device_api_smspending === SMS _8880_ resultatet är under behandling!
+flow_header_title === Flödesbyggare
+flow_response_saved === Flöde sparat!
+flow_response_nofile === Ingen fil uppladdad eller uppladdningsfel!
+flow_response_fileuploaded === Filen har laddats upp framgångsrikt
+flow_modal_upload_title === Ladda upp fil
+flow_modal_upload_button_select === Välj fil
+flow_modal_upload_button_upload === Ladda upp
+flow_modal_upload_progress_text === 0%
+flow_draw_sms_source === SMS-källa
+flow_draw_whatsapp_source === WhatsApp-källa
+flow_draw_condition === Villkor
+flow_draw_send_text === Skicka text
+flow_draw_send_image === Skicka bild
+flow_draw_send_video === Skicka video
+flow_draw_send_audio === Skicka ljud
+flow_draw_send_document === Skicka dokument
+flow_draw_save_contact === Spara kontakt
+flow_draw_button_save === Spara
+flow_draw_button_clear === Rensa
+flow_draw_zoom_out === Zooma ut
+flow_draw_zoom_reset === Återställ zoom
+flow_draw_zoom_in === Zooma in
+flowjs_fetching_data === hämtar flödesdata
+flowjs_failedload_data === Misslyckades med att ladda flödesdata!
+flowjs_flowbuilder_guidetitle === Flödesbyggare
+flowjs_flowbuilder_guide1 === Dra en källnod till flödesområdet
+flowjs_flowbuilder_guide2 === Anslut det till villkorsnoder för att filtrera meddelanden
+flowjs_flowbuilder_guide3 === Lägg till text- eller medieåtgärder baserat på villkor
+flowjs_flowbuilder_note === Endast en meddelandekällnod kan användas i flödet!
+flowjs_node_smstitle === SMS-källa
+flowjs_node_smsdevicesel === Välj enhet
+flowjs_node_textexample === Tack för ditt meddelande!
+flowjs_node_texttitle === Skicka text
+flowjs_node_textinputtitle === Textmeddelande
+flowjs_node_textinputplaholder === Skriv ditt meddelande
+flowjs_node_textpriority === Prioritet
+flowjs_node_yes === Ja
+flowjs_node_no === Nej
+flowjs_node_watitle === WhatsApp-källa
+flowjs_node_waselect === Välj konto
+flowjs_node_savecontact === Spara kontakt
+flowjs_node_contactgroup === Kontaktgrupp
+flowjs_node_nocondition === Villkorsnoder får inte kopplas till andra villkorsnoder!
+flowjs_node_nosmsmedia === Kan inte använda SMS-källa när bild-, video-, ljud- och dokumentnoder finns i flödet!
+flowjs_node_wamediaonly === WhatsApp-medianoder kan endast användas med WhatsApp-källan!
+flowjs_node_onlyonesource === Endast en källnod kan användas i flödet!
+flowjs_node_condition === Villkor
+flowjs_node_conditiontype === Villkorstyp
+flowjs_node_condition1 === Börjar med
+flowjs_node_condition2 === Slutar med
+flowjs_node_condition3 === Innehåller
+flowjs_node_condition4 === Lika
+flowjs_node_condition5 === Innehåller inte
+flowjs_node_condition6 === Regex
+flowjs_node_conditionval === Värde
+flowjs_node_conditionvalph === Ange värde
+flowjs_node_imagetitle === Skicka bild
+flowjs_node_imageurl === Bild-URL
+flowjs_node_imageurlph === Ange bild-URL
+flowjs_node_uploadbtn === Ladda upp
+flowjs_node_caption === Bildtext (valfritt)
+flowjs_node_captionph === Ange bildtext
+flowjs_node_video === Skicka video
+flowjs_node_videourl === Videolänk
+flowjs_node_videoph === Ange video-URL
+flowjs_node_audio === Skicka ljud
+flowjs_node_audiourl === Ljud-URL
+flowjs_node_audioph === Ange ljud-URL
+flowjs_node_documennt === Skicka dokument
+flowjs_node_documenturl === Dokument-URL
+flowjs_node_documentph === Ange dokumentets URL
+flowjs_upload_uploading === Laddar upp fil
+flowjs_upload_failed === Misslyckades med att ladda upp fil!
+flowjs_export_addsourceflow === Lägg till en källnod till flödet!
+flowjs_export_sourcemustconnode === Källnoder måste vara anslutna till andra noder!
+flowjs_export_nodesmustconnctflow === Alla noder måste vara korrekt anslutna i flödet!
+flowjs_export_mustselsmssource === Vänligen välj en enhet för SMS-källanoden!
+flowjs_export_mustselwasource === Vänligen välj ett konto för WhatsApp-källanoden!
+flowjs_export_savingflow === Sparar flöde
+flowjs_export_failedsave === Misslyckades att spara flöde!
+flow_table_nametitle === Namn
+flow_table_sourcetitle === Källa
+flow_table_optionstitle === Alternativ
+flow_page_title === Flöden
+flow_page_createbtn === Skapa flöde
+flow_page_header === Flöden
+flow_page_sidebar === Flöden
+logger_table_createdate === Skapad
+logger_table_type === Skriv
+logger_table_reason === Anledning
+logger_table_content === Innehåll
+logger_page_sidebar === Loggare
+logger_page_header === Loggspanare
+logger_page_title === Loggare
+plugin_aicontext_breadcrumb === Artificiell Intelligens
+plugin_aicontext_title === Kontextfiler
+plugin_aicontext_addbtn === Lägg till fil
+plugin_aicontext_formname === Fil
+plugin_aicontext_formdesc === Välj en fil att ladda upp. Endast PDF-, TXT- och MD-filer stöds. Dessa filer kommer att användas av AI för att besvara frågor.
+plugin_aicontext_headertitle === Kontextfiler
+plugin_aicontext_failupload === Kan inte ladda upp filen!
+plugin_aicontext_successupload === Kontextfil har lagts till!
+plugin_aicontext_filedeleted === Contextfilen har raderats!
+plugin_aicontext_tablecreated === Skapad
+plugin_aicontext_tablefile === Filnamn
+plugin_aicontext_tableoptions === Alternativ
+response_flow_deleted === Flödet har tagits bort!
+response_aikey_deleted === AI-nyckel har raderats!
+response_aiplugin_deleted === AI-plugin har raderats!

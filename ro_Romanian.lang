@@ -3072,3 +3072,112 @@ response_admin_gateway_invalidapkfilename === Numele fișierului APK trebuie să
 response_admin_gateway_invalidapkfile === Fișier APK invalid!
 response_admin_gateway_updatesuccess === Aplicația Gateway a fost actualizată cu succes!
 device_api_smspending === Rezultatul SMS _8880_ este în așteptare!
+flow_header_title === Constructor Flux
+flow_response_saved === Flux salvat cu succes!
+flow_response_nofile === Niciun fișier încărcat sau eroare la încărcare!
+flow_response_fileuploaded === Fișier încărcat cu succes
+flow_modal_upload_title === Încarcă fișier
+flow_modal_upload_button_select === Selectează Fișierul
+flow_modal_upload_button_upload === Încărcați
+flow_modal_upload_progress_text === 0%
+flow_draw_sms_source === Sursa SMS
+flow_draw_whatsapp_source === Sursa WhatsApp
+flow_draw_condition === Condiție
+flow_draw_send_text === Trimiteți textul
+flow_draw_send_image === Trimite imaginea
+flow_draw_send_video === Trimite Video
+flow_draw_send_audio === Trimite Audio
+flow_draw_send_document === Trimite documentul
+flow_draw_save_contact === Salvează Contactul
+flow_draw_button_save === Salvează
+flow_draw_button_clear === Curat
+flow_draw_zoom_out === Micșorează zoom-ul
+flow_draw_zoom_reset === Resetează zoom-ul
+flow_draw_zoom_in === Mărește zoomul
+flowjs_fetching_data === preluarea datelor fluxului
+flowjs_failedload_data === Încărcarea datelor fluxului a eșuat!
+flowjs_flowbuilder_guidetitle === Constructor de flux
+flowjs_flowbuilder_guide1 === Trage un nod sursă în zona de flux
+flowjs_flowbuilder_guide2 === Conectează-l la nodurile de condiție pentru a filtra mesajele
+flowjs_flowbuilder_guide3 === Adăugați acțiuni de text sau media bazate pe condiții
+flowjs_flowbuilder_note === Poate fi folosit un singur nod sursă de mesaje în flux!
+flowjs_node_smstitle === Sursă SMS
+flowjs_node_smsdevicesel === Selectați dispozitivul
+flowjs_node_textexample === Mulțumim pentru mesajul dumneavoastră!
+flowjs_node_texttitle === Trimite Text
+flowjs_node_textinputtitle === Mesaj text
+flowjs_node_textinputplaholder === Introduceți mesajul dvs.
+flowjs_node_textpriority === Prioritate
+flowjs_node_yes === Da
+flowjs_node_no === Nu
+flowjs_node_watitle === Sursă WhatsApp
+flowjs_node_waselect === Selectați contul
+flowjs_node_savecontact === Salvează Contactul
+flowjs_node_contactgroup === Grup de contacte
+flowjs_node_nocondition === Nodurile de condiție nu pot fi conectate la alte noduri de condiție!
+flowjs_node_nosmsmedia === Nu se poate folosi sursa SMS când în flux există noduri de tip imagine, video, audio și document!
+flowjs_node_wamediaonly === Nodurile media WhatsApp pot fi utilizate doar cu sursa WhatsApp!
+flowjs_node_onlyonesource === Poate fi utilizat un singur nod sursă în flux!
+flowjs_node_condition === Condiție
+flowjs_node_conditiontype === Tip condiție
+flowjs_node_condition1 === Începe cu
+flowjs_node_condition2 === Se termină cu
+flowjs_node_condition3 === Conține
+flowjs_node_condition4 === Egal
+flowjs_node_condition5 === Nu conține
+flowjs_node_condition6 === Expresie regulată
+flowjs_node_conditionval === Valoare
+flowjs_node_conditionvalph === Introduceți valoarea
+flowjs_node_imagetitle === Trimite imaginea
+flowjs_node_imageurl === URL imagine
+flowjs_node_imageurlph === Introduceți URL-ul imaginii
+flowjs_node_uploadbtn === Încarcă
+flowjs_node_caption === Subtitrare (Opțional)
+flowjs_node_captionph === Introdu titlul
+flowjs_node_video === Trimite Video
+flowjs_node_videourl === URL Video
+flowjs_node_videoph === Introduceți URL-ul video
+flowjs_node_audio === Trimite audio
+flowjs_node_audiourl === URL audio
+flowjs_node_audioph === Introduceți URL-ul audio
+flowjs_node_documennt === Trimite Documentul
+flowjs_node_documenturl === URL-ul documentului
+flowjs_node_documentph === Introduceți URL-ul documentului
+flowjs_upload_uploading === Încărcare fișier
+flowjs_upload_failed === Încărcarea fișierului a eșuat!
+flowjs_export_addsourceflow === Vă rugăm să adăugați un nod sursă în flux!
+flowjs_export_sourcemustconnode === Nodurile sursă trebuie să fie conectate la alte noduri!
+flowjs_export_nodesmustconnctflow === Toate nodurile trebuie să fie conectate corespunzător în flux!
+flowjs_export_mustselsmssource === Vă rugăm să selectați un dispozitiv pentru nodul sursă SMS!
+flowjs_export_mustselwasource === Vă rugăm să selectați un cont pentru nodul sursă WhatsApp!
+flowjs_export_savingflow === Salvare flux
+flowjs_export_failedsave === Salvarea fluxului a eșuat!
+flow_table_nametitle === Nume
+flow_table_sourcetitle === Sursă
+flow_table_optionstitle === Opțiuni
+flow_page_title === Fluxuri
+flow_page_createbtn === Creează Flux
+flow_page_header === Fluxuri
+flow_page_sidebar === Fluxuri
+logger_table_createdate === Creat
+logger_table_type === Tiparește
+logger_table_reason === Motiv
+logger_table_content === Conținut
+logger_page_sidebar === Înregistrator
+logger_page_header === Jurnalist
+logger_page_title === Înregistrator
+plugin_aicontext_breadcrumb === Inteligență Artificială
+plugin_aicontext_title === Fișiere Contextuale
+plugin_aicontext_addbtn === Adaugă fișier
+plugin_aicontext_formname === Fișier
+plugin_aicontext_formdesc === Selectați un fișier pentru încărcare. Sunt acceptate doar fișiere PDF, TXT și MD. Aceste fișiere vor fi folosite de AI pentru a răspunde la întrebări.
+plugin_aicontext_headertitle === Fișiere Contextuale
+plugin_aicontext_failupload === Nu se poate încărca fișierul!
+plugin_aicontext_successupload === Fișierul de context a fost adăugat!
+plugin_aicontext_filedeleted === Fișierul de context a fost șters!
+plugin_aicontext_tablecreated === Creat
+plugin_aicontext_tablefile === Nume fișier
+plugin_aicontext_tableoptions === Opțiuni
+response_flow_deleted === Fluxul a fost șters!
+response_aikey_deleted === Cheia AI a fost ștearsă!
+response_aiplugin_deleted === Plugin-ul AI a fost șters!

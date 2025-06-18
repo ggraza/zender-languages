@@ -3072,3 +3072,112 @@ response_admin_gateway_invalidapkfilename === APK फाइलीमध्ये
 response_admin_gateway_invalidapkfile === अमान्य APK फाइल!
 response_admin_gateway_updatesuccess === गेटवे अॅप यशस्वीपणे अद्यतनित केले!
 device_api_smspending === SMS _8880_ परिणाम प्रलंबित आहे!
+flow_header_title === फ्लो बिल्डर
+flow_response_saved === प्रवाह यशस्वीरित्या जतन झाला!
+flow_response_nofile === कोणतीही फाईल अपलोड केली नाही किंवा अपलोड त्रुटी!
+flow_response_fileuploaded === फाइल यशस्वीरित्या अपलोड केली गेली आहे
+flow_modal_upload_title === फाइल अपलोड करा
+flow_modal_upload_button_select === फाइल निवडा
+flow_modal_upload_button_upload === अपलोड करा
+flow_modal_upload_progress_text === 0%
+flow_draw_sms_source === एसएमएस स्रोत
+flow_draw_whatsapp_source === व्हाट्सएप स्रोत
+flow_draw_condition === अट
+flow_draw_send_text === मजकूर पाठवा
+flow_draw_send_image === चित्र पाठवा
+flow_draw_send_video === व्हिडिओ पाठवा
+flow_draw_send_audio === ऑडिओ पाठवा
+flow_draw_send_document === दस्तऐवज पाठवा
+flow_draw_save_contact === संपर्क जतन करा
+flow_draw_button_save === जतन करा
+flow_draw_button_clear === साफ करा
+flow_draw_zoom_out === झूम आउट
+flow_draw_zoom_reset === झूम रीसट करा
+flow_draw_zoom_in === झूम इन
+flowjs_fetching_data === फ्लो डेटा मिळवत आहे
+flowjs_failedload_data === प्रवाह डेटा लोड करण्यात अयशस्वी!
+flowjs_flowbuilder_guidetitle === फ्लो बिल्डर
+flowjs_flowbuilder_guide1 === मोठ्या क्षेत्राकडे स्त्रोत नोड ड्रॅग करा
+flowjs_flowbuilder_guide2 === संदेशे फिल्टर करण्यासाठी ते कंडीशन नोडशी जोडा
+flowjs_flowbuilder_guide3 === अटींवर आधारित मजकूर किंवा माध्यम क्रिया जोडा
+flowjs_flowbuilder_note === फ्लोमध्ये फक्त एक संदेश स्रोत नोड वापरला जाऊ शकतो!
+flowjs_node_smstitle === एसएमएस स्रोत
+flowjs_node_smsdevicesel === साधन निवडा
+flowjs_node_textexample === आपल्या संदेशाबद्दल धन्यवाद!
+flowjs_node_texttitle === मजकूर पाठवा
+flowjs_node_textinputtitle === मजकूर संदेश
+flowjs_node_textinputplaholder === आपला संदेश टाका
+flowjs_node_textpriority === प्राधान्य
+flowjs_node_yes === हो
+flowjs_node_no === नाही
+flowjs_node_watitle === WhatsApp स्रोत
+flowjs_node_waselect === खाते निवडा
+flowjs_node_savecontact === संपर्क जतन करा
+flowjs_node_contactgroup === संपर्क गट
+flowjs_node_nocondition === स्थिती नोड्स इतर स्थिती नोड्सशी जोडले जाऊ शकत नाहीत!
+flowjs_node_nosmsmedia === फ्लोमध्ये प्रतिमा, व्हिडिओ, ऑडिओ आणि दस्तऐवज नोड्स असताना SMS स्रोत वापरता येणार नाही!
+flowjs_node_wamediaonly === WhatsApp मीडिया नोड्स केवळ WhatsApp स्रोतासोबत वापरता येतात!
+flowjs_node_onlyonesource === फ्लोमध्ये फक्त एक स्रोत नोड वापरला जाऊ शकतो!
+flowjs_node_condition === अट
+flowjs_node_conditiontype === स्थिती प्रकार
+flowjs_node_condition1 === यावर सुरू होते
+flowjs_node_condition2 === आखेरच्या शब्दांमध्ये समाप्त होते
+flowjs_node_condition3 === समाविष्ट आहे
+flowjs_node_condition4 === समसर
+flowjs_node_condition5 === समाविष्ट नाही
+flowjs_node_condition6 === रेग्युलर एक्सप्रेशन
+flowjs_node_conditionval === मूल्य
+flowjs_node_conditionvalph === मूल्य प्रविष्ट करा
+flowjs_node_imagetitle === प्रतिमा पाठवा
+flowjs_node_imageurl === प्रतिमा URL
+flowjs_node_imageurlph === प्रतिमा URL प्रविष्ट करा
+flowjs_node_uploadbtn === अपलोड करा
+flowjs_node_caption === शीर्षक (ऐच्छिक)
+flowjs_node_captionph === शीर्षक प्रविष्ट करा
+flowjs_node_video === व्हिडिओ पाठवा
+flowjs_node_videourl === व्हिडिओ URL
+flowjs_node_videoph === व्हिडिओ URL टाका
+flowjs_node_audio === ऑडिओ पाठवा
+flowjs_node_audiourl === ऑडिओ URL
+flowjs_node_audioph === ऑडिओ URL प्रविष्ट करा
+flowjs_node_documennt === कागदपत्र पाठवा
+flowjs_node_documenturl === दस्तऐवज URL
+flowjs_node_documentph === दस्तऐवज URL प्रविष्ट करा
+flowjs_upload_uploading === फाईल अपलोड करत आहे
+flowjs_upload_failed === फाइल अपलोड करण्यात अयशस्वी!
+flowjs_export_addsourceflow === कृपया फ्लोमध्ये एक स्रोत नोड जोडा!
+flowjs_export_sourcemustconnode === स्रोत नोड्स इतर नोड्सशी जोडलेले असावेत!
+flowjs_export_nodesmustconnctflow === सर्व नोड्स प्रवाहामध्ये योग्यरित्या जोडलेले असणे आवश्यक आहे!
+flowjs_export_mustselsmssource === कृपया SMS स्रोत नोडसाठी एक डिव्हाइस निवडा!
+flowjs_export_mustselwasource === कृपया WhatsApp स्रोत नोडसाठी खाते निवडा!
+flowjs_export_savingflow === प्रवाह जतन करणे
+flowjs_export_failedsave === फ्लो जतन करणे अयशस्वी!
+flow_table_nametitle === नाव
+flow_table_sourcetitle === स्रोत
+flow_table_optionstitle === पर्याय
+flow_page_title === प्रवाह
+flow_page_createbtn === प्रवाह तयार करा
+flow_page_header === प्रवाह
+flow_page_sidebar === प्रवाह
+logger_table_createdate === निर्मित
+logger_table_type === प्रकार
+logger_table_reason === कारण
+logger_table_content === सामग्री
+logger_page_sidebar === लॉगर
+logger_page_header === लॉगर
+logger_page_title === नोंदवही
+plugin_aicontext_breadcrumb === कृत्रिम बुद्धिमत्ता
+plugin_aicontext_title === संदर्भ फाइल्स
+plugin_aicontext_addbtn === फाइल जोडा
+plugin_aicontext_formname === फाइल
+plugin_aicontext_formdesc === अपलोड करण्यासाठी एक फाइल निवडा. केवळ PDF, TXT, आणि MD फाइल्स समर्थित आहेत. या फाइल्सचा उपयोग AI प्रश्नांना उत्तर देण्यासाठी करेल.
+plugin_aicontext_headertitle === संदर्भ फायली
+plugin_aicontext_failupload === फाईल अपलोड करणे शक्य नाही!
+plugin_aicontext_successupload === संदर्भ फाइल जोडली आहे!
+plugin_aicontext_filedeleted === संदर्भ फाइल हटविली गेली आहे!
+plugin_aicontext_tablecreated === निर्मित
+plugin_aicontext_tablefile === फाईल नाव
+plugin_aicontext_tableoptions === पर्याय
+response_flow_deleted === प्रवाह हटविला गेला आहे!
+response_aikey_deleted === एआय की हटवली गेली आहे!
+response_aiplugin_deleted === एआय प्लगइन हटवले गेले आहे!

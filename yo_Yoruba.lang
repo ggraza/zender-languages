@@ -3072,3 +3072,112 @@ response_admin_gateway_invalidapkfilename === Afijq _APK_ gbọdọ ni ẹya (�
 response_admin_gateway_invalidapkfile === Faili APK ti ko tọ!
 response_admin_gateway_updatesuccess === Àpẹrẹ ẹnu-ọna ti ni imudojuiwọn ni aṣeyọri!
 device_api_smspending === Iṣe SMS _8880_ n duro de!
+flow_header_title === Olùkọ́ṣàṣàṣàṣàṣàfẹsẹrẹ
+flow_response_saved === Ìṣàn náà ti fipamọ́ nípa àṣeyọrí!
+flow_response_nofile === Kò sí fáìlì tí a gbé sórí tàbí aṣìṣe àtẹ̀jáde!
+flow_response_fileuploaded === Fáìlì ti gbe wọlé ni aṣeyọri
+flow_modal_upload_title === Gbe Faili silẹ
+flow_modal_upload_button_select === Yan Faili
+flow_modal_upload_button_upload === Gbe sii
+flow_modal_upload_progress_text === 0%
+flow_draw_sms_source === Orisun SMS
+flow_draw_whatsapp_source === Orisun WhatsApp
+flow_draw_condition === Ìpò
+flow_draw_send_text === Firanṣẹ Ọrọ
+flow_draw_send_image === Firanṣẹ Aworan
+flow_draw_send_video === Firanṣẹ Fidio
+flow_draw_send_audio === Firanṣẹ́ Ìrópọ̀
+flow_draw_send_document === Firanṣẹ Ìwé-ẹ̀rí
+flow_draw_save_contact === Fipamọ Olubasọrọ
+flow_draw_button_save === Fipamọ
+flow_draw_button_clear === Kọ silẹ
+flow_draw_zoom_out === Yọ Kúrò Nínú Fàkàńrẹ́rẹ́
+flow_draw_zoom_reset === Tun wo Iwọn pada
+flow_draw_zoom_in === Fojú kọ́!
+flowjs_fetching_data === níkójọpọ̀ data sísàn
+flowjs_failedload_data === Ikuna lati kojọ data iṣan!
+flowjs_flowbuilder_guidetitle === Olùkópa Sísọjade
+flowjs_flowbuilder_guide1 === Fa ọkan ninu awọn ẹya orisun lọ si agbegbe ṣiṣan
+flowjs_flowbuilder_guide2 === So pọ mọ awọn nọọdu ipo lati ṣe àlẹmọ awọn ifiranṣẹ
+flowjs_flowbuilder_guide3 === Fi ọrọ tabi awọn iṣe media kun da lori ipo
+flowjs_flowbuilder_note === Aṣoju orisun ifiranṣẹ kan ṣoṣo nikan ni a le lo ninu ṣiṣan!
+flowjs_node_smstitle === Orisun SMS
+flowjs_node_smsdevicesel === Yan Ẹrọ
+flowjs_node_textexample === O ṣeun fún ifiranṣẹ rẹ!
+flowjs_node_texttitle === Firanṣẹ Ọrọ
+flowjs_node_textinputtitle === Ifiranṣẹ Ọrọ
+flowjs_node_textinputplaholder === Tẹ ifiranṣẹ rẹ sii
+flowjs_node_textpriority === Pataki
+flowjs_node_yes === Bẹ́ẹ̀ni
+flowjs_node_no === Rárá
+flowjs_node_watitle === Ọ̀rọ̀ WhatsApp
+flowjs_node_waselect === Yan Àkọọlẹ
+flowjs_node_savecontact === Fipamọ́ Àkótánpọ̀
+flowjs_node_contactgroup === Ẹgbẹ Ọmọwọpọ
+flowjs_node_nocondition === Ko le so awọn ẹka ipo pọ mọ awọn ẹka ipo miiran!
+flowjs_node_nosmsmedia === Ko le lo orisun SMS nigba ti awọn nọdù aworan, fidio, ohun, ati iwe aṣẹ ba wa ninu ṣiṣan!
+flowjs_node_wamediaonly === Awọn nodi media WhatsApp le ṣee lo nikan pẹlu orisun WhatsApp!
+flowjs_node_onlyonesource === Ikan ṣoṣo ọ̀kan orisuní-ọrọ ni a lè lò ninu sisan!
+flowjs_node_condition === Ìpò
+flowjs_node_conditiontype === Iru Ipò
+flowjs_node_condition1 === Bẹrẹ Pẹlu
+flowjs_node_condition2 === Pari Pẹlu
+flowjs_node_condition3 === Ní wọ̀nù
+flowjs_node_condition4 === Dogba
+flowjs_node_condition5 === Kò ní pọ̀nún
+flowjs_node_condition6 === Àmì-àtọka ilẹ̀kọ́ (Regex)
+flowjs_node_conditionval === Iye
+flowjs_node_conditionvalph === Tẹ iye sii
+flowjs_node_imagetitle === Firanṣẹ Aworan
+flowjs_node_imageurl === URL Aworan
+flowjs_node_imageurlph === Tẹ URL Aworan sii
+flowjs_node_uploadbtn === Gbe soke
+flowjs_node_caption === Akọle (Aṣayan)
+flowjs_node_captionph === Tẹ Àkọlé
+flowjs_node_video === Firanṣẹ Fidio
+flowjs_node_videourl === URL Fidio
+flowjs_node_videoph === Tẹ URL Fidio sii
+flowjs_node_audio === Firanṣẹ Ohun elo
+flowjs_node_audiourl === URL Gbọran
+flowjs_node_audioph === Tẹ URĹ Awọ́n Orin-sọ́rọ̀
+flowjs_node_documennt === Firanṣẹ Ìwé-ẹri
+flowjs_node_documenturl === Ọna asopọ iwe-ipamọ
+flowjs_node_documentph === Tẹ URL Ìwé-ẹ̀rí náà
+flowjs_upload_uploading === Fifi Faili silẹ
+flowjs_upload_failed === Ikuna lati gbe faili soke!
+flowjs_export_addsourceflow === Jowo ṣafikun orisun nódù si ṣiṣan!
+flowjs_export_sourcemustconnode === Awọn nọọdu orisun gbọdọ so mọ awọn nọọdu miiran!
+flowjs_export_nodesmustconnctflow === Gbogbo awọn nọọdu gbọdọ so pọ ni pipe ninu ṣiṣan!
+flowjs_export_mustselsmssource === Jọwọ yan ẹrọ kan fun orisun SMS node!
+flowjs_export_mustselwasource === Jowo yan akọọlẹ kan fun nœ́òdù orísun WhatsApp!
+flowjs_export_savingflow === Fipamọ ṣiṣan
+flowjs_export_failedsave === Ikuna lati fipamọ iṣan!
+flow_table_nametitle === Orukọ
+flow_table_sourcetitle === Orisun
+flow_table_optionstitle === Àṣàyàn
+flow_page_title === Awọn ṣiṣan
+flow_page_createbtn === Ṣẹda Ṣiṣan
+flow_page_header === Awọn ṣiṣan
+flow_page_sidebar === Awọn ṣiṣan
+logger_table_createdate === Ṣẹda
+logger_table_type === Tẹsiwaju
+logger_table_reason === Idi
+logger_table_content === Akoonu
+logger_page_sidebar === Olùkọ́rọ́rọrẹ
+logger_page_header === Olutọsọna
+logger_page_title === Olùkọjá ìmọlẹ́
+plugin_aicontext_breadcrumb === Imọ Ẹrọ Artificial
+plugin_aicontext_title === Awọn Faili Ayoọrọ
+plugin_aicontext_addbtn === Fikun Fáìlì
+plugin_aicontext_formname === Fáìlì
+plugin_aicontext_formdesc === Yan faili lati po si. Awọn faili PDF, TXT, ati MD nikan ni a ṣe atilẹyin. Awọn faili wọnyi ni AI yoo lo lati dahun awọn ibeere.
+plugin_aicontext_headertitle === Awọn faili ọrọ
+plugin_aicontext_failupload === Ko le gbe faili soke!
+plugin_aicontext_successupload === A ti fi faili Context kun!
+plugin_aicontext_filedeleted === Faili ọrọ-ọrọ ti parẹ!
+plugin_aicontext_tablecreated === Ṣẹda
+plugin_aicontext_tablefile === Orukọ Faili
+plugin_aicontext_tableoptions === Àṣàyàn
+response_flow_deleted === Sisan ti parẹ!
+response_aikey_deleted === Bọtini AI ti paarẹ!
+response_aiplugin_deleted === Ẹ̀rọ amúlò AI ti parẹ!

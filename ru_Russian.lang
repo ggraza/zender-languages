@@ -3072,3 +3072,112 @@ response_admin_gateway_invalidapkfilename === Имя файла APK должно
 response_admin_gateway_invalidapkfile === Неверный APK файл!
 response_admin_gateway_updatesuccess === Приложение Gateway успешно обновлено!
 device_api_smspending === Результат SMS _8880_ ожидает!
+flow_header_title === Конструктор потоков
+flow_response_saved === Поток успешно сохранён!
+flow_response_nofile === Файл не загружен или ошибка загрузки!
+flow_response_fileuploaded === Файл успешно загружен
+flow_modal_upload_title === Загрузить файл
+flow_modal_upload_button_select === Выбрать файл
+flow_modal_upload_button_upload === Загрузить
+flow_modal_upload_progress_text === 0%
+flow_draw_sms_source === Источник SMS
+flow_draw_whatsapp_source === Исходный код WhatsApp
+flow_draw_condition === Условие
+flow_draw_send_text === Отправить текст
+flow_draw_send_image === Отправить изображение
+flow_draw_send_video === Отправить видео
+flow_draw_send_audio === Отправить аудио
+flow_draw_send_document === Отправить документ
+flow_draw_save_contact === Сохранить контакт
+flow_draw_button_save === Сохранить
+flow_draw_button_clear === Очистить
+flow_draw_zoom_out === Отдалитьzoom
+flow_draw_zoom_reset === Сбросить масштаб
+flow_draw_zoom_in === Увеличить масштаб
+flowjs_fetching_data === получение данных потока
+flowjs_failedload_data === Не удалось загрузить данные потока!
+flowjs_flowbuilder_guidetitle === Конструктор потоков
+flowjs_flowbuilder_guide1 === Перетащите любой исходный узел в область потока
+flowjs_flowbuilder_guide2 === Подключите это к узлам условий для фильтрации сообщений
+flowjs_flowbuilder_guide3 === Добавить текст или действия с медиа на основе условий
+flowjs_flowbuilder_note === В потоке может использоваться только один исходный узел сообщения!
+flowjs_node_smstitle === Источник SMS
+flowjs_node_smsdevicesel === Выбрать устройство
+flowjs_node_textexample === Спасибо за ваше сообщение!
+flowjs_node_texttitle === Отправить текст
+flowjs_node_textinputtitle === Текстовое сообщение
+flowjs_node_textinputplaholder === Введите ваше сообщение
+flowjs_node_textpriority === Приоритет
+flowjs_node_yes === Да
+flowjs_node_no === Нет
+flowjs_node_watitle === Исходный код WhatsApp
+flowjs_node_waselect === Выберите аккаунт
+flowjs_node_savecontact === Сохранить контакт
+flowjs_node_contactgroup === Контактная группа
+flowjs_node_nocondition === Узлы условий не могут быть подключены к другим узлам условий!
+flowjs_node_nosmsmedia === Нельзя использовать источник SMS, если в потоке есть узлы изображения, видео, аудио и документа!
+flowjs_node_wamediaonly === Медиаданные WhatsApp можно использовать только с исходным файлом WhatsApp!
+flowjs_node_onlyonesource === В потоке можно использовать только один исходный узел!
+flowjs_node_condition === Условие
+flowjs_node_conditiontype === Тип условия
+flowjs_node_condition1 === Начинается с
+flowjs_node_condition2 === Заканчивается на
+flowjs_node_condition3 === Содержит
+flowjs_node_condition4 === Равно
+flowjs_node_condition5 === Не содержит
+flowjs_node_condition6 === Регулярное выражение
+flowjs_node_conditionval === Значение
+flowjs_node_conditionvalph === Введите значение
+flowjs_node_imagetitle === Отправить изображение
+flowjs_node_imageurl === URL изображения
+flowjs_node_imageurlph === Введите URL изображения
+flowjs_node_uploadbtn === Загрузить
+flowjs_node_caption === Подпись (необязательно)
+flowjs_node_captionph === Введите подпись
+flowjs_node_video === Отправить видео
+flowjs_node_videourl === URL видео
+flowjs_node_videoph === Введите URL видео
+flowjs_node_audio === Отправить аудио
+flowjs_node_audiourl === URL аудио
+flowjs_node_audioph === Введите URL аудио
+flowjs_node_documennt === Отправить документ
+flowjs_node_documenturl === URL документа
+flowjs_node_documentph === Введите URL документа
+flowjs_upload_uploading === Загрузка файла
+flowjs_upload_failed === Не удалось загрузить файл!
+flowjs_export_addsourceflow === Пожалуйста, добавьте исходный узел в поток!
+flowjs_export_sourcemustconnode === Исходные узлы должны быть связаны с другими узлами!
+flowjs_export_nodesmustconnctflow === Все узлы должны быть правильно соединены в потоке!
+flowjs_export_mustselsmssource === Пожалуйста, выберите устройство для узла источника SMS!
+flowjs_export_mustselwasource === Пожалуйста, выберите аккаунт для исходного узла WhatsApp!
+flowjs_export_savingflow === Сохранение потока
+flowjs_export_failedsave === Не удалось сохранить поток!
+flow_table_nametitle === Имя
+flow_table_sourcetitle === Источник
+flow_table_optionstitle === Опции
+flow_page_title === Потоки
+flow_page_createbtn === Создать поток
+flow_page_header === Потоки
+flow_page_sidebar === Потоки
+logger_table_createdate === Создано
+logger_table_type === Тип
+logger_table_reason === Причина
+logger_table_content === Содержание
+logger_page_sidebar === Журналируемый модуль
+logger_page_header === Регистратор
+logger_page_title === Журнал регистрации
+plugin_aicontext_breadcrumb === Искусственный интеллект
+plugin_aicontext_title === Файлы контекста
+plugin_aicontext_addbtn === Добавить файл
+plugin_aicontext_formname === Файл
+plugin_aicontext_formdesc === Выберите файл для загрузки. Поддерживаются только файлы PDF, TXT и MD. Эти файлы будут использоваться ИИ для ответов на вопросы.
+plugin_aicontext_headertitle === Файлы контекста
+plugin_aicontext_failupload === Не удалось загрузить файл!
+plugin_aicontext_successupload === Файл контекста добавлен!
+plugin_aicontext_filedeleted === Файл контекста был удалён!
+plugin_aicontext_tablecreated === Создано
+plugin_aicontext_tablefile === Имя файла
+plugin_aicontext_tableoptions === Опции
+response_flow_deleted === Поток был удалён!
+response_aikey_deleted === Ключ AI был удалён!
+response_aiplugin_deleted === Плагин AI был удалён!

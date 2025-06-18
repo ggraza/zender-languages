@@ -3072,3 +3072,112 @@ response_admin_gateway_invalidapkfilename === Az APK fájlnevének tartalmaznia 
 response_admin_gateway_invalidapkfile === Érvénytelen APK fájl!
 response_admin_gateway_updatesuccess === A Gateway alkalmazás sikeresen frissítve!
 device_api_smspending === SMS _8880_ eredménye függőben van!
+flow_header_title === Folyam Építő
+flow_response_saved === A folyamat sikeresen elmentve!
+flow_response_nofile === Nincs feltöltött fájl vagy feltöltési hiba!
+flow_response_fileuploaded === Fájl sikeresen feltöltve
+flow_modal_upload_title === Fájl feltöltése
+flow_modal_upload_button_select === Fájl kiválasztása
+flow_modal_upload_button_upload === Feltöltés
+flow_modal_upload_progress_text === 0%
+flow_draw_sms_source === SMS forrás
+flow_draw_whatsapp_source === WhatsApp Forrás
+flow_draw_condition === Feltétel
+flow_draw_send_text === Szöveg küldése
+flow_draw_send_image === Kép küldése
+flow_draw_send_video === Videó küldése
+flow_draw_send_audio === Hang küldése
+flow_draw_send_document === Dokumentum küldése
+flow_draw_save_contact === Kapcsolat mentése
+flow_draw_button_save === Mentés
+flow_draw_button_clear === Törlés
+flow_draw_zoom_out === Kicsinyítés
+flow_draw_zoom_reset === Nagyítás visszaállítása
+flow_draw_zoom_in === Nagyítás
+flowjs_fetching_data === folyamadatok lekérése
+flowjs_failedload_data === Nem sikerült betölteni a folyamatadatokat!
+flowjs_flowbuilder_guidetitle === Folyam Építő
+flowjs_flowbuilder_guide1 === Húzzon át egy forráscsomópontot a folyamat területére
+flowjs_flowbuilder_guide2 === Csatlakoztassa feltételcsomópontokhoz az üzenetek szűréséhez
+flowjs_flowbuilder_guide3 === Adj szöveg- vagy média műveleteket feltételek alapján
+flowjs_flowbuilder_note === A folyamatban csak egyetlen üzenetforrás-csomópont használható!
+flowjs_node_smstitle === SMS Forrás
+flowjs_node_smsdevicesel === Eszköz kiválasztása
+flowjs_node_textexample === Köszönöm az üzenetét!
+flowjs_node_texttitle === Szöveg küldése
+flowjs_node_textinputtitle === Szöveges Üzenet
+flowjs_node_textinputplaholder === Írd be az üzenetedet
+flowjs_node_textpriority === Prioritás
+flowjs_node_yes === Igen
+flowjs_node_no === Nem
+flowjs_node_watitle === WhatsApp Forrás
+flowjs_node_waselect === Számla kiválasztása
+flowjs_node_savecontact === Kontakt mentése
+flowjs_node_contactgroup === Kapcsolattartó csoport
+flowjs_node_nocondition === A feltételek csomópontjai nem kapcsolódhatnak más feltételek csomópontjaihoz!
+flowjs_node_nosmsmedia === Nem használható SMS forrás, ha a folyamatban kép, videó, hang és dokumentum csomópontok vannak!
+flowjs_node_wamediaonly === A WhatsApp média csomópontok csak WhatsApp forrással használhatók!
+flowjs_node_onlyonesource === A folyamatban csak egy forráscsomópont használható!
+flowjs_node_condition === Állapot
+flowjs_node_conditiontype === Feltétel típusa
+flowjs_node_condition1 === Azzal kezdődik
+flowjs_node_condition2 === Végződik ezzel
+flowjs_node_condition3 === Tartalmazza
+flowjs_node_condition4 === Egyenlő
+flowjs_node_condition5 === Nem tartalmazza
+flowjs_node_condition6 === Regex
+flowjs_node_conditionval === Érték
+flowjs_node_conditionvalph === Érték megadása
+flowjs_node_imagetitle === Kép küldése
+flowjs_node_imageurl === Kép URL
+flowjs_node_imageurlph === Kép URL megadása
+flowjs_node_uploadbtn === Feltöltés
+flowjs_node_caption === Felirat (opcionális)
+flowjs_node_captionph === Írd be a feliratot
+flowjs_node_video === Videó küldése
+flowjs_node_videourl === Videó URL
+flowjs_node_videoph === Adja meg a videó URL-jét
+flowjs_node_audio === Hang küldése
+flowjs_node_audiourl === Hang URL
+flowjs_node_audioph === Adja meg az audio URL-jét
+flowjs_node_documennt === Dokumentum küldése
+flowjs_node_documenturl === Dokumentum URL
+flowjs_node_documentph === Adja meg a dokumentum URL-jét
+flowjs_upload_uploading === Fájl feltöltése
+flowjs_upload_failed === Fájl feltöltése sikertelen!
+flowjs_export_addsourceflow === Kérjük, adj hozzá egy forráscsomópontot a folyamhoz!
+flowjs_export_sourcemustconnode === A forrás csomópontokat más csomópontokhoz kell csatlakoztatni!
+flowjs_export_nodesmustconnctflow === Minden csomópontot megfelelően kell összekapcsolni a folyamatban!
+flowjs_export_mustselsmssource === Kérjük, válasszon egy eszközt az SMS forráscsomóponthoz!
+flowjs_export_mustselwasource === Kérjük, válasszon fiókot a WhatsApp forráscsomópont számára!
+flowjs_export_savingflow === Folyamat mentése
+flowjs_export_failedsave === Nem sikerült elmenteni a folyamatot!
+flow_table_nametitle === Név
+flow_table_sourcetitle === Forrás
+flow_table_optionstitle === Beállítások
+flow_page_title === Folyamatok
+flow_page_createbtn === Folyamat létrehozása
+flow_page_header === Folyamatok
+flow_page_sidebar === Folyamatok
+logger_table_createdate === Létrehozva
+logger_table_type === Írd be
+logger_table_reason === Ok
+logger_table_content === Tartalom
+logger_page_sidebar === Naplózó
+logger_page_header === Naplózó
+logger_page_title === Naplózó
+plugin_aicontext_breadcrumb === Mesterséges intelligencia
+plugin_aicontext_title === Kontekstus fájlok
+plugin_aicontext_addbtn === Fájl hozzáadása
+plugin_aicontext_formname === Fájl
+plugin_aicontext_formdesc === Válasszon fájlt feltöltésre. Csak PDF, TXT és MD fájlok támogatottak. Ezeket a fájlokat az AI a kérdések megválaszolásához használja fel.
+plugin_aicontext_headertitle === Kontextus fájlok
+plugin_aicontext_failupload === Nem sikerült feltölteni a fájlt!
+plugin_aicontext_successupload === A kontextusfájl hozzáadva!
+plugin_aicontext_filedeleted === A kontextusfájl törölve lett!
+plugin_aicontext_tablecreated === Létrehozva
+plugin_aicontext_tablefile === Fájlnév
+plugin_aicontext_tableoptions === Beállítások
+response_flow_deleted === A folyamat törölve lett!
+response_aikey_deleted === Az AI kulcs törölve lett!
+response_aiplugin_deleted === Az AI plugin törölve lett!

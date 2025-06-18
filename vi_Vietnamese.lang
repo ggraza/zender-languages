@@ -3072,3 +3072,112 @@ response_admin_gateway_invalidapkfilename === Tên tệp APK phải chứa phiê
 response_admin_gateway_invalidapkfile === Tệp APK không hợp lệ!
 response_admin_gateway_updatesuccess === Ứng dụng Gateway đã được cập nhật thành công!
 device_api_smspending === Kết quả SMS _8880_ đang chờ!
+flow_header_title === Trình xây dựng luồng
+flow_response_saved === Lưu luồng thành công!
+flow_response_nofile === Không có tệp nào được tải lên hoặc lỗi tải lên!
+flow_response_fileuploaded === Tệp đã tải lên thành công
+flow_modal_upload_title === Tải Tệp lên
+flow_modal_upload_button_select === Chọn Tệp
+flow_modal_upload_button_upload === Tải lên
+flow_modal_upload_progress_text === 0%
+flow_draw_sms_source === Nguồn SMS
+flow_draw_whatsapp_source === Nguồn WhatsApp
+flow_draw_condition === Điều kiện
+flow_draw_send_text === Gửi Văn Bản
+flow_draw_send_image === Gửi hình ảnh
+flow_draw_send_video === Gửi Video
+flow_draw_send_audio === Gửi Âm thanh
+flow_draw_send_document === Gửi Tài liệu
+flow_draw_save_contact === Lưu Liên hệ
+flow_draw_button_save === Lưu
+flow_draw_button_clear === Xóa bỏ
+flow_draw_zoom_out === Thu nhỏ
+flow_draw_zoom_reset === Đặt lại Thu phóng
+flow_draw_zoom_in === Phóng to
+flowjs_fetching_data === đang lấy dữ liệu luồng
+flowjs_failedload_data === Không tải được dữ liệu luồng!
+flowjs_flowbuilder_guidetitle === Trình tạo luồng
+flowjs_flowbuilder_guide1 === Kéo một nút nguồn vào khu vực luồng
+flowjs_flowbuilder_guide2 === Kết nối với các nút điều kiện để lọc tin nhắn
+flowjs_flowbuilder_guide3 === Thêm hành động văn bản hoặc phương tiện dựa trên điều kiện
+flowjs_flowbuilder_note === Chỉ một nút nguồn tin nhắn được phép sử dụng trong luồng!
+flowjs_node_smstitle === Nguồn SMS
+flowjs_node_smsdevicesel === Chọn Thiết bị
+flowjs_node_textexample === Cảm ơn bạn đã gửi tin nhắn!
+flowjs_node_texttitle === Gửi Văn Bản
+flowjs_node_textinputtitle === Tin nhắn văn bản
+flowjs_node_textinputplaholder === Nhập tin nhắn của bạn
+flowjs_node_textpriority === Ưu tiên
+flowjs_node_yes === Có
+flowjs_node_no === Không
+flowjs_node_watitle === Nguồn WhatsApp
+flowjs_node_waselect === Chọn Tài khoản
+flowjs_node_savecontact === Lưu Liên Hệ
+flowjs_node_contactgroup === Nhóm Liên hệ
+flowjs_node_nocondition === Các nút điều kiện không thể kết nối với các nút điều kiện khác!
+flowjs_node_nosmsmedia === Không thể sử dụng nguồn SMS khi có các nút hình ảnh, video, âm thanh và tài liệu trong luồng!
+flowjs_node_wamediaonly === Các nút phương tiện WhatsApp chỉ có thể được sử dụng với nguồn WhatsApp!
+flowjs_node_onlyonesource === Chỉ có thể sử dụng một nút nguồn duy nhất trong luồng!
+flowjs_node_condition === Điều kiện
+flowjs_node_conditiontype === Loại điều kiện
+flowjs_node_condition1 === Bắt đầu với
+flowjs_node_condition2 === Kết thúc với
+flowjs_node_condition3 === Chứa
+flowjs_node_condition4 === Bằng nhau
+flowjs_node_condition5 === Không chứa
+flowjs_node_condition6 === Biểu thức chính quy
+flowjs_node_conditionval === Giá trị
+flowjs_node_conditionvalph === Nhập Giá Trị
+flowjs_node_imagetitle === Gửi Hình ảnh
+flowjs_node_imageurl === URL hình ảnh
+flowjs_node_imageurlph === Nhập URL hình ảnh
+flowjs_node_uploadbtn === Tải lên
+flowjs_node_caption === Chú thích (Tùy chọn)
+flowjs_node_captionph === Nhập Chú Thích
+flowjs_node_video === Gửi Video
+flowjs_node_videourl === URL video
+flowjs_node_videoph === Nhập URL video
+flowjs_node_audio === Gửi Âm thanh
+flowjs_node_audiourl === URL Âm thanh
+flowjs_node_audioph === Nhập URL Âm thanh
+flowjs_node_documennt === Gửi Tài liệu
+flowjs_node_documenturl === URL tài liệu
+flowjs_node_documentph === Nhập URL Tài liệu
+flowjs_upload_uploading === Đang tải tệp lên
+flowjs_upload_failed === Tải file thất bại!
+flowjs_export_addsourceflow === Vui lòng thêm một nút nguồn vào luồng!
+flowjs_export_sourcemustconnode === Các nút nguồn phải được kết nối với các nút khác!
+flowjs_export_nodesmustconnctflow === Tất cả các nút phải được kết nối chính xác trong luồng!
+flowjs_export_mustselsmssource === Vui lòng chọn thiết bị cho nút nguồn SMS!
+flowjs_export_mustselwasource === Vui lòng chọn một tài khoản cho nút nguồn WhatsApp!
+flowjs_export_savingflow === Lưu luồng
+flowjs_export_failedsave === Lưu quy trình thất bại!
+flow_table_nametitle === Tên
+flow_table_sourcetitle === Nguồn
+flow_table_optionstitle === Tùy chọn
+flow_page_title === Dòng chảy
+flow_page_createbtn === Tạo luồng
+flow_page_header === Luồng
+flow_page_sidebar === Dòng chảy
+logger_table_createdate === Đã tạo
+logger_table_type === Loại
+logger_table_reason === Lý do
+logger_table_content === Nội dung
+logger_page_sidebar === Ghi nhật ký
+logger_page_header === Ghi nhật ký
+logger_page_title === Bộ ghi nhật ký
+plugin_aicontext_breadcrumb === Trí tuệ nhân tạo
+plugin_aicontext_title === Tệp ngữ cảnh
+plugin_aicontext_addbtn === Thêm Tệp
+plugin_aicontext_formname === Tệp
+plugin_aicontext_formdesc === Chọn tệp để tải lên. Chỉ hỗ trợ các tệp PDF, TXT và MD. Các tệp này sẽ được AI sử dụng để trả lời câu hỏi.
+plugin_aicontext_headertitle === Tệp ngữ cảnh
+plugin_aicontext_failupload === Không thể tải lên tệp!
+plugin_aicontext_successupload === Tệp ngữ cảnh đã được thêm!
+plugin_aicontext_filedeleted === Tệp ngữ cảnh đã bị xóa!
+plugin_aicontext_tablecreated === Đã tạo
+plugin_aicontext_tablefile === Tên Tập tin
+plugin_aicontext_tableoptions === Tùy chọn
+response_flow_deleted === Luồng đã bị xóa!
+response_aikey_deleted === Khóa AI đã bị xóa!
+response_aiplugin_deleted === Plugin AI đã bị xóa!
