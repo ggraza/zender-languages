@@ -3181,3 +3181,22 @@ plugin_aicontext_tableoptions === Tùy chọn
 response_flow_deleted === Luồng đã bị xóa!
 response_aikey_deleted === Khóa AI đã bị xóa!
 response_aiplugin_deleted === Plugin AI đã bị xóa!
+flow_draw_ai_reply === Trả lời AI
+flowjs_node_aireply === Trả lời AI
+flowjs_node_aikey === Chọn Khóa AI
+flowjs_node_aiplugin === Chọn Plugin AI
+flowjs_node_none === Không có
+flow_draw_pause === Tạm dừng
+flow_draw_resume === Tiếp tục
+flowjs_node_context_all === Tất cả ngữ cảnh
+flowjs_node_context_autoreply === Chỉ trả lời tự động
+flowjs_node_context_flow === Chỉ Dòng Chảy
+flowjs_node_pause === Tạm dừng
+flowjs_node_pause_context === Bối cảnh
+flowjs_node_pause_description === Tạm dừng phản hồi tự động trong khoảng thời gian xác định
+flowjs_node_pause_duration === Thời gian (giây)
+flowjs_node_pause_duration_help === Nhập số giây để tạm dừng. Dùng 0 để tạm dừng vô thời hạn.
+flowjs_node_pause_duration_placeholder === Nhập thời lượng bằng giây (0 = vô hạn)
+flowjs_node_resume === Tiếp tục
+flowjs_node_resume_context === Bối cảnh
+flowjs_node_resume_description === Tiếp tục phản hồi tự động đang tạm dừng

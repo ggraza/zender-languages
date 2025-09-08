@@ -3181,3 +3181,22 @@ plugin_aicontext_tableoptions === Nhọrọ
 response_flow_deleted === Agba ahịhịa ehichapụrụ!
 response_aikey_deleted === E wepụrụ igodo AI!
 response_aiplugin_deleted === Plug-in AI ahụ ewepụla!
+flow_draw_ai_reply === Azịza AI
+flowjs_node_aireply === Azịza AI
+flowjs_node_aikey === Họrọ Igodo AI
+flowjs_node_aiplugin === Họrọ AI Plugin
+flowjs_node_none === Ndị ọ bụlaghị
+flow_draw_pause === Kwụsịtụrụ
+flow_draw_resume === Gaa n'ihu
+flowjs_node_context_all === Ihe niile gbasara ọnọdụ
+flowjs_node_context_autoreply === Azịza akpaghị aka naanị
+flowjs_node_context_flow === Ọsọ Naanị
+flowjs_node_pause === Kwụsịtụrụtụ
+flowjs_node_pause_context === Ozi ọdịnaya
+flowjs_node_pause_description === Na-eme ka nzaghachi akpaghị aka kwụsị maka oge a kapịrị ọnụ
+flowjs_node_pause_duration === Oge (n’ọsọndị)
+flowjs_node_pause_duration_help === Tinye sekọnd iji kwụsịtụ. Jiri 0 maka oge na-enweghị njedebe.
+flowjs_node_pause_duration_placeholder === Tinye oge na sekọndụ (0 = enweghị ngwụcha)
+flowjs_node_resume === Malitegharịa ọrụ
+flowjs_node_resume_context === Okwu nke ọrụ
+flowjs_node_resume_description === Na-emegharị azịza akpaaka kwụsịrị n'oge ahụ ọzọ

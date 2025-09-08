@@ -3181,3 +3181,22 @@ plugin_aicontext_tableoptions === Alternativ
 response_flow_deleted === Flödet har tagits bort!
 response_aikey_deleted === AI-nyckel har raderats!
 response_aiplugin_deleted === AI-plugin har raderats!
+flow_draw_ai_reply === AI Svar
+flowjs_node_aireply === AI Svar
+flowjs_node_aikey === Välj AI-nyckel
+flowjs_node_aiplugin === Välj AI-plugin
+flowjs_node_none === Ingen
+flow_draw_pause === Paus
+flow_draw_resume === Fortsätt
+flowjs_node_context_all === All Kontext
+flowjs_node_context_autoreply === Endast automatiskt svar
+flowjs_node_context_flow === Endast flöde
+flowjs_node_pause === Pausa
+flowjs_node_pause_context === Kontext
+flowjs_node_pause_description === Pausar automatiska svar under angiven tid
+flowjs_node_pause_duration === Varaktighet (sekunder)
+flowjs_node_pause_duration_help === Ange sekunder för paus. Använd 0 för oändlig varaktighet.
+flowjs_node_pause_duration_placeholder === Ange varaktighet i sekunder (0 = oändlig)
+flowjs_node_resume === Fortsätt
+flowjs_node_resume_context === Sammanhang
+flowjs_node_resume_description === Återupptar pausade automatiska svar

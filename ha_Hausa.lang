@@ -3181,3 +3181,22 @@ plugin_aicontext_tableoptions === Zaɓuɓɓuka
 response_flow_deleted === An share gudanarwa!
 response_aikey_deleted === An share maɓallin AI!
 response_aiplugin_deleted === An goge ƙarin AI!
+flow_draw_ai_reply === Amsa ta AI
+flowjs_node_aireply === Amsa na AI
+flowjs_node_aikey === Zaɓi Maɓallin AI
+flowjs_node_aiplugin === Zaɓi AI Plugin
+flowjs_node_none === Babu
+flow_draw_pause === Tsaida
+flow_draw_resume === Ci gaba
+flowjs_node_context_all === Dukkanin Mahallin
+flowjs_node_context_autoreply === Amsa ta atomatik kawai
+flowjs_node_context_flow === Gudana Kawai
+flowjs_node_pause === Tsaida
+flowjs_node_pause_context === Mahallin
+flowjs_node_pause_description === Dakatar da amsoshin atomatik na tsawon lokacin da aka kayyade
+flowjs_node_pause_duration === Tsawon lokaci (dakiku)
+flowjs_node_pause_duration_help === Shigar da dakikoki don dakatawa. Yi amfani da 0 don tsawon lokaci marar iyaka.
+flowjs_node_pause_duration_placeholder === Shigar da tsawon lokaci a cikin dakikoki (0 = mara iyaka)
+flowjs_node_resume === Sake farawa
+flowjs_node_resume_context === Mahallin
+flowjs_node_resume_description === Ci gaba da martani na atomatik da aka dakatar

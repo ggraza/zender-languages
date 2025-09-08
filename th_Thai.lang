@@ -3181,3 +3181,22 @@ plugin_aicontext_tableoptions === ตัวเลือก
 response_flow_deleted === การไหลถูกลบแล้ว!
 response_aikey_deleted === กุญแจ AI ถูกลบแล้ว!
 response_aiplugin_deleted === ปลั๊กอิน AI ถูกลบแล้ว!
+flow_draw_ai_reply === ตอบกลับ AI
+flowjs_node_aireply === ตอบกลับ AI
+flowjs_node_aikey === เลือกคีย์ AI
+flowjs_node_aiplugin === เลือกปลั๊กอิน AI
+flowjs_node_none === ไม่มี
+flow_draw_pause === หยุดชั่วคราว
+flow_draw_resume === ประวัติย่อ
+flowjs_node_context_all === บริบททั้งหมด
+flowjs_node_context_autoreply === ตอบกลับอัตโนมัติเท่านั้น
+flowjs_node_context_flow === เฉพาะการไหล
+flowjs_node_pause === หยุดชั่วคราว
+flowjs_node_pause_context === บริบท
+flowjs_node_pause_description === หยุดการตอบกลับอัตโนมัติชั่วคราวเป็นเวลาที่กำหนด
+flowjs_node_pause_duration === ระยะเวลา (วินาที)
+flowjs_node_pause_duration_help === ป้อนวินาทีเพื่อหยุดชั่วคราว ใช้ 0 สำหรับระยะเวลาไม่สิ้นสุด
+flowjs_node_pause_duration_placeholder === ป้อนระยะเวลาเป็นวินาที (0 = ไม่จำกัด)
+flowjs_node_resume === ดำเนินการต่อ
+flowjs_node_resume_context === บริบท
+flowjs_node_resume_description === ดำเนินการตอบกลับอัตโนมัติที่หยุดชั่วคราวต่อ

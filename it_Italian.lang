@@ -3181,3 +3181,22 @@ plugin_aicontext_tableoptions === Opzioni
 response_flow_deleted === Il flusso è stato eliminato!
 response_aikey_deleted === La chiave AI è stata eliminata!
 response_aiplugin_deleted === Il plugin AI è stato eliminato!
+flow_draw_ai_reply === Risposta AI
+flowjs_node_aireply === Risposta AI
+flowjs_node_aikey === Seleziona la chiave AI
+flowjs_node_aiplugin === Seleziona Plugin AI
+flowjs_node_none === Nessuno
+flow_draw_pause === Pausa
+flow_draw_resume === Riprendi
+flowjs_node_context_all === Tutto il Contesto
+flowjs_node_context_autoreply === Solo risposta automatica
+flowjs_node_context_flow === Solo Flusso
+flowjs_node_pause === Pausa
+flowjs_node_pause_context === Contesto
+flowjs_node_pause_description === Mette in pausa le risposte automatiche per la durata specificata
+flowjs_node_pause_duration === Durata (secondi)
+flowjs_node_pause_duration_help === Inserisci i secondi per la pausa. Usa 0 per durata infinita.
+flowjs_node_pause_duration_placeholder === Inserisci la durata in secondi (0 = infinito)
+flowjs_node_resume === Curriculum Vitae
+flowjs_node_resume_context === Contesto
+flowjs_node_resume_description === Riprende le risposte automatiche in pausa

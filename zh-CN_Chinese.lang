@@ -3181,3 +3181,22 @@ plugin_aicontext_tableoptions === 选项
 response_flow_deleted === 流程已被删除！
 response_aikey_deleted === AI密钥已被删除！
 response_aiplugin_deleted === AI插件已被删除！
+flow_draw_ai_reply === AI 回复
+flowjs_node_aireply === 人工智能回复
+flowjs_node_aikey === 选择AI密钥
+flowjs_node_aiplugin === 选择 AI 插件
+flowjs_node_none === 无
+flow_draw_pause === 暂停
+flow_draw_resume === 简历
+flowjs_node_context_all === 所有上下文
+flowjs_node_context_autoreply === 仅自动回复
+flowjs_node_context_flow === 仅限流程
+flowjs_node_pause === 暂停
+flowjs_node_pause_context === 上下文
+flowjs_node_pause_description === 暂停自动回复指定时长
+flowjs_node_pause_duration === 持续时间（秒）
+flowjs_node_pause_duration_help === 输入暂停秒数，使用0表示无限时长。
+flowjs_node_pause_duration_placeholder === 输入持续时间（秒）（0 = 无限）
+flowjs_node_resume === 简历
+flowjs_node_resume_context === 上下文
+flowjs_node_resume_description === 恢复暂停的自动回复

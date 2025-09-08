@@ -3181,3 +3181,22 @@ plugin_aicontext_tableoptions === Chaguzi
 response_flow_deleted === Mtiririko umefutwa!
 response_aikey_deleted === Ufunguo wa AI umefutwa!
 response_aiplugin_deleted === Kiendelezi cha AI kimefutwa!
+flow_draw_ai_reply === Majibu ya AI
+flowjs_node_aireply === Jibu la AI
+flowjs_node_aikey === Chagua AI Key
+flowjs_node_aiplugin === Chagua Plugin ya AI
+flowjs_node_none === Hakuna
+flow_draw_pause === Sitisha
+flow_draw_resume === Endelea
+flowjs_node_context_all === Muktadha Wote
+flowjs_node_context_autoreply === Majibu ya Kiotomatiki Pekee
+flowjs_node_context_flow === Mtiririko Tu
+flowjs_node_pause === Sitisha
+flowjs_node_pause_context === Muktadha
+flowjs_node_pause_description === Inasimamisha majibu ya moja kwa moja kwa muda uliobainishwa
+flowjs_node_pause_duration === Muda (sekunde)
+flowjs_node_pause_duration_help === Weka sekunde za kusimamisha. Tumia 0 kwa muda usio na kikomo.
+flowjs_node_pause_duration_placeholder === Weka muda kwa sekunde (0 = isiyo na mwisho)
+flowjs_node_resume === Endelea
+flowjs_node_resume_context === Muktadha
+flowjs_node_resume_description === Inaanza tena majibu ya moja kwa moja yaliyosimamishwa

@@ -3181,3 +3181,22 @@ plugin_aicontext_tableoptions === Beállítások
 response_flow_deleted === A folyamat törölve lett!
 response_aikey_deleted === Az AI kulcs törölve lett!
 response_aiplugin_deleted === Az AI plugin törölve lett!
+flow_draw_ai_reply === MI Válasz
+flowjs_node_aireply === Mesterséges intelligencia válasz
+flowjs_node_aikey === Válassza ki az AI kulcsot
+flowjs_node_aiplugin === Válassza ki az AI bővítményt
+flowjs_node_none === Nincs
+flow_draw_pause === Szünet
+flow_draw_resume === Önéletrajz
+flowjs_node_context_all === Az összes kontextus
+flowjs_node_context_autoreply === Csak automatikus válasz
+flowjs_node_context_flow === Csak áramlás
+flowjs_node_pause === Szünet
+flowjs_node_pause_context === Környezet
+flowjs_node_pause_description === Automatikus válaszok szüneteltetése a megadott időtartamra
+flowjs_node_pause_duration === Időtartam (másodperc)
+flowjs_node_pause_duration_help === Adja meg a szünet másodperceit. Használjon 0-t végtelen időtartamhoz.
+flowjs_node_pause_duration_placeholder === Adja meg az időtartamot másodpercben (0 = végtelen)
+flowjs_node_resume === Önéletrajz
+flowjs_node_resume_context === Kontekstus
+flowjs_node_resume_description === Folytatja a szüneteltetett automatizált válaszokat

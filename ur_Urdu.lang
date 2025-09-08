@@ -3180,3 +3180,22 @@ plugin_aicontext_tableoptions === اختیارات
 response_flow_deleted === فلَو حذف کر دیا گیا ہے!
 response_aikey_deleted === AI کلید حذف کر دی گئی ہے!
 response_aiplugin_deleted === AI پلگ ان حذف کر دیا گیا ہے!
+flow_draw_ai_reply === مصنوعی ذہانت کا جواب
+flowjs_node_aireply === مصنوعی ذہانت کا جواب
+flowjs_node_aikey === AI کلید منتخب کریں
+flowjs_node_aiplugin === AI پلگ ان منتخب کریں
+flowjs_node_none === کوئی نہیں
+flow_draw_pause === وقف کریں
+flow_draw_resume === ریزیومے
+flowjs_node_context_all === تمام سیاق و سباق
+flowjs_node_context_autoreply === صرف خودکار جواب
+flowjs_node_context_flow === صرف بہاؤ
+flowjs_node_pause === رک جانا
+flowjs_node_pause_context === سیاق و سباق
+flowjs_node_pause_description === خودکار جوابات کو مخصوص مدت کے لیے روک دیں
+flowjs_node_pause_duration === دورانیہ (سیکنڈ)
+flowjs_node_pause_duration_help === رکنے کے لیے سیکنڈز درج کریں۔ لامتناہی وقفے کے لیے 0 استعمال کریں۔
+flowjs_node_pause_duration_placeholder === مدت سیکنڈز میں درج کریں (0 = لامتناہی)
+flowjs_node_resume === ریزیومے
+flowjs_node_resume_context === سیاق و سباق
+flowjs_node_resume_description === خودکار جوابات کو روکے جانے سے دوبارہ شروع کرتا ہے۔

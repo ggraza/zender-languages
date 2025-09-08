@@ -3181,3 +3181,22 @@ plugin_aicontext_tableoptions === 옵션
 response_flow_deleted === Flow가 삭제되었습니다!
 response_aikey_deleted === AI 키가 삭제되었습니다!
 response_aiplugin_deleted === AI 플러그인이 삭제되었습니다!
+flow_draw_ai_reply === AI 답변
+flowjs_node_aireply === AI 응답
+flowjs_node_aikey === AI 키 선택
+flowjs_node_aiplugin === AI 플러그인 선택
+flowjs_node_none === 없음
+flow_draw_pause === 일시 정지
+flow_draw_resume === 이력서
+flowjs_node_context_all === 모든 컨텍스트
+flowjs_node_context_autoreply === 자동 응답 전용
+flowjs_node_context_flow === 흐름만
+flowjs_node_pause === 일시정지
+flowjs_node_pause_context === 문맥
+flowjs_node_pause_description === 지정된 시간 동안 자동 응답을 일시 중지합니다
+flowjs_node_pause_duration === 지속 시간(초)
+flowjs_node_pause_duration_help === 일시 중지할 초를 입력하세요. 무한 지속은 0을 사용하세요.
+flowjs_node_pause_duration_placeholder === 지속 시간을 초 단위로 입력하세요 (0 = 무한)
+flowjs_node_resume === 이력서
+flowjs_node_resume_context === 맥락
+flowjs_node_resume_description === 일시 중지된 자동 응답 재개

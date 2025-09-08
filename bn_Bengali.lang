@@ -3181,3 +3181,22 @@ plugin_aicontext_tableoptions === বিকল্পসমূহ
 response_flow_deleted === ফ্লো মুছে ফেলা হয়েছে!
 response_aikey_deleted === AI কী মুছে ফেলা হয়েছে!
 response_aiplugin_deleted === AI প্লাগইন মুছে ফেলা হয়েছে!
+flow_draw_ai_reply === কৃত্রিম বুদ্ধিমত্তার উত্তর
+flowjs_node_aireply === এআই উত্তর
+flowjs_node_aikey === AI কী নির্বাচন করুন
+flowjs_node_aiplugin === এআই প্লাগইন নির্বাচন করুন
+flowjs_node_none === কোনো নেই
+flow_draw_pause === বিরতি দিন
+flow_draw_resume === পুনরায় শুরু করুন
+flowjs_node_context_all === সমস্ত প্রসঙ্গ
+flowjs_node_context_autoreply === স্বয়ংক্রিয় উত্তর শুধুমাত্র
+flowjs_node_context_flow === শুধুমাত্র প্রবাহ
+flowjs_node_pause === বিরতি দিন
+flowjs_node_pause_context === প্রসঙ্গ
+flowjs_node_pause_description === নির্দিষ্ট সময়ের জন্য স্বয়ংক্রিয় প্রতিক্রিয়া বিরত রাখে
+flowjs_node_pause_duration === মেয়াদ (সেকেন্ড)
+flowjs_node_pause_duration_help === বিরতির জন্য সেকেন্ড লিখুন। অসীম সময়ের জন্য 0 ব্যবহার করুন।
+flowjs_node_pause_duration_placeholder === সময়কাল সেকেন্ডে লিখুন (0 = অসীম)
+flowjs_node_resume === পুনরায় শুরু করুন
+flowjs_node_resume_context === প্রসঙ্গ
+flowjs_node_resume_description === অবরুদ্ধ স্বয়ংক্রিয় প্রতিক্রিয়া পুনরায় শুরু হয়

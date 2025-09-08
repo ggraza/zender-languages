@@ -3180,3 +3180,22 @@ plugin_aicontext_tableoptions === Επιλογές
 response_flow_deleted === Η ροή έχει διαγραφεί!
 response_aikey_deleted === Το κλειδί AI έχει διαγραφεί!
 response_aiplugin_deleted === Το πρόσθετο AI έχει διαγραφεί!
+flow_draw_ai_reply === Απάντηση AI
+flowjs_node_aireply === Απάντηση AI
+flowjs_node_aikey === Επιλογή Κλειδιού AI
+flowjs_node_aiplugin === Επιλογή AI Plugin
+flowjs_node_none === Κανένα
+flow_draw_pause === Παύση
+flow_draw_resume === Συνέχεια
+flowjs_node_context_all === Όλο το Περιεχόμενο
+flowjs_node_context_autoreply === Αυτόματη απάντηση μόνο
+flowjs_node_context_flow === Μόνο Ροή
+flowjs_node_pause === Παύση
+flowjs_node_pause_context === Πλαίσιο
+flowjs_node_pause_description === Παύει τις αυτόματες απαντήσεις για την καθορισμένη διάρκεια
+flowjs_node_pause_duration === Διάρκεια (δευτερόλεπτα)
+flowjs_node_pause_duration_help === Εισάγετε δευτερόλεπτα παύσης. Χρησιμοποιήστε 0 για απεριόριστη διάρκεια.
+flowjs_node_pause_duration_placeholder === Εισαγάγετε διάρκεια σε δευτερόλεπτα (0 = απεριόριστο)
+flowjs_node_resume === Συνέχεια
+flowjs_node_resume_context === Πλαίσιο
+flowjs_node_resume_description === Επαναλαμβάνει τις παύλες αυτοματοποιημένες απαντήσεις

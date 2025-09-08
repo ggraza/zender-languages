@@ -3181,3 +3181,22 @@ plugin_aicontext_tableoptions === Optionen
 response_flow_deleted === Der Flow wurde gelöscht!
 response_aikey_deleted === KI-Schlüssel wurde gelöscht!
 response_aiplugin_deleted === KI-Plugin wurde gelöscht!
+flow_draw_ai_reply === KI-Antwort
+flowjs_node_aireply === KI-Antwort
+flowjs_node_aikey === AI-Schlüssel auswählen
+flowjs_node_aiplugin === KI-Plugin auswählen
+flowjs_node_none === Keine
+flow_draw_pause === Pause
+flow_draw_resume === Lebenslauf
+flowjs_node_context_all === Alles Kontext
+flowjs_node_context_autoreply === Nur automatische Antwort
+flowjs_node_context_flow === Nur Fluss
+flowjs_node_pause === Pause
+flowjs_node_pause_context === Kontext
+flowjs_node_pause_description === Pausiert automatisierte Antworten für die angegebene Dauer
+flowjs_node_pause_duration === Dauer (Sekunden)
+flowjs_node_pause_duration_help === Geben Sie Sekunden für die Pause ein. Verwenden Sie 0 für unendliche Dauer.
+flowjs_node_pause_duration_placeholder === Dauer in Sekunden eingeben (0 = unendlich)
+flowjs_node_resume === Fortsetzen
+flowjs_node_resume_context === Kontext
+flowjs_node_resume_description === Setzt pausierte automatische Antworten fort

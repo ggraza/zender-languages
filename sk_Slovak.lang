@@ -3181,3 +3181,22 @@ plugin_aicontext_tableoptions === Možnosti
 response_flow_deleted === Tok bol odstránený!
 response_aikey_deleted === Kľúč AI bol odstránený!
 response_aiplugin_deleted === Plugin AI bol odstránený!
+flow_draw_ai_reply === Odpoveď AI
+flowjs_node_aireply === Odpoveď AI
+flowjs_node_aikey === Vybrať AI kľúč
+flowjs_node_aiplugin === Vyberte AI plugin
+flowjs_node_none === Žiadne
+flow_draw_pause === Pozastaviť
+flow_draw_resume === Životopis
+flowjs_node_context_all === Všetok Kontext
+flowjs_node_context_autoreply === Automatická odpoveď iba
+flowjs_node_context_flow === Len tok
+flowjs_node_pause === Pauza
+flowjs_node_pause_context === Kontext
+flowjs_node_pause_description === Pozastaví automatické odpovede na zadanú dobu
+flowjs_node_pause_duration === Trvanie (sekundy)
+flowjs_node_pause_duration_help === Zadajte počet sekúnd na pauzu. Použite 0 pre nekonečnú dobu.
+flowjs_node_pause_duration_placeholder === Zadajte trvanie v sekundách (0 = nekonečno)
+flowjs_node_resume === Životopis
+flowjs_node_resume_context === Kontext
+flowjs_node_resume_description === Pokračuje v pozastavených automatických odpovediach

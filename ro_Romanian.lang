@@ -3181,3 +3181,22 @@ plugin_aicontext_tableoptions === Opțiuni
 response_flow_deleted === Fluxul a fost șters!
 response_aikey_deleted === Cheia AI a fost ștearsă!
 response_aiplugin_deleted === Plugin-ul AI a fost șters!
+flow_draw_ai_reply === Răspuns AI
+flowjs_node_aireply === Răspuns AI
+flowjs_node_aikey === Selectați cheia AI
+flowjs_node_aiplugin === Selectați pluginul AI
+flowjs_node_none === Niciunul
+flow_draw_pause === Pauză
+flow_draw_resume === Reluare
+flowjs_node_context_all === Tot contextul
+flowjs_node_context_autoreply === Răspuns automat doar
+flowjs_node_context_flow === Doar Flux
+flowjs_node_pause === Pauză
+flowjs_node_pause_context === Context
+flowjs_node_pause_description === Pune în pauză răspunsurile automate pentru durata specificată
+flowjs_node_pause_duration === Durată (secunde)
+flowjs_node_pause_duration_help === Introduceți secundele pentru pauză. Folosiți 0 pentru durată infinită.
+flowjs_node_pause_duration_placeholder === Introduceți durata în secunde (0 = infinit)
+flowjs_node_resume === Reluare
+flowjs_node_resume_context === Context
+flowjs_node_resume_description === Reia răspunsurile automate puse pe pauză

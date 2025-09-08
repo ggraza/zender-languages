@@ -3181,3 +3181,22 @@ plugin_aicontext_tableoptions === Opcije
 response_flow_deleted === Tok je obrisan!
 response_aikey_deleted === AI ključ je obrisan!
 response_aiplugin_deleted === AI dodatak je obrisan!
+flow_draw_ai_reply === AI Odgovor
+flowjs_node_aireply === AI Odgovor
+flowjs_node_aikey === Izaberi AI ključ
+flowjs_node_aiplugin === Izaberite AI dodatak
+flowjs_node_none === Nijedan
+flow_draw_pause === Pauza
+flow_draw_resume === Nastavi
+flowjs_node_context_all === Sav kontekst
+flowjs_node_context_autoreply === Samo automatski odgovor
+flowjs_node_context_flow === Samo tok
+flowjs_node_pause === Pauza
+flowjs_node_pause_context === Kontekst
+flowjs_node_pause_description === Pauzira automatske odgovore na određeni vremenski period
+flowjs_node_pause_duration === Trajanje (sekundi)
+flowjs_node_pause_duration_help === Unesite broj sekundi za pauzu. Koristite 0 za neograničeno trajanje.
+flowjs_node_pause_duration_placeholder === Unesite trajanje u sekundama (0 = beskonačno)
+flowjs_node_resume === Nastavak
+flowjs_node_resume_context === Kontekst
+flowjs_node_resume_description === Nastavlja pauzirane automatske odgovore

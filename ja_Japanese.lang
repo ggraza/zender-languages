@@ -3181,3 +3181,22 @@ plugin_aicontext_tableoptions === オプション
 response_flow_deleted === フローが削除されました！
 response_aikey_deleted === AIキーが削除されました！
 response_aiplugin_deleted === AIプラグインが削除されました！
+flow_draw_ai_reply === AI返信
+flowjs_node_aireply === AI返信
+flowjs_node_aikey === AIキーを選択してください
+flowjs_node_aiplugin === AIプラグインを選択
+flowjs_node_none === なし
+flow_draw_pause === 一時停止
+flow_draw_resume === 履歴書
+flowjs_node_context_all === すべてのコンテキスト
+flowjs_node_context_autoreply === 自動返信のみ
+flowjs_node_context_flow === フローのみ
+flowjs_node_pause === 一時停止
+flowjs_node_pause_context === コンテキスト
+flowjs_node_pause_description === 指定した期間、自動応答を一時停止します
+flowjs_node_pause_duration === 時間（秒）
+flowjs_node_pause_duration_help === 一時停止する秒数を入力してください。無限の場合は0を使用してください。
+flowjs_node_pause_duration_placeholder === 秒数を入力してください（0 = 無限）
+flowjs_node_resume === 再開する
+flowjs_node_resume_context === コンテキスト
+flowjs_node_resume_description === 一時停止された自動応答を再開します

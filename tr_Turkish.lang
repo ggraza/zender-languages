@@ -3181,3 +3181,22 @@ plugin_aicontext_tableoptions === Seçenekler
 response_flow_deleted === Akış silindi!
 response_aikey_deleted === Yapay zeka anahtarı silindi!
 response_aiplugin_deleted === AI eklentisi silindi!
+flow_draw_ai_reply === Yapay Zeka Yanıtı
+flowjs_node_aireply === Yapay Zeka Yanıtı
+flowjs_node_aikey === AI Anahtarını Seçin
+flowjs_node_aiplugin === AI Eklentisini Seçin
+flowjs_node_none === Yok
+flow_draw_pause === Duraklat
+flow_draw_resume === Özgeçmiş
+flowjs_node_context_all === Tüm Bağlam
+flowjs_node_context_autoreply === Sadece Otomatik Yanıt
+flowjs_node_context_flow === Sadece Akış
+flowjs_node_pause === Duraklat
+flowjs_node_pause_context === Bağlam
+flowjs_node_pause_description === Belirtilen süre için otomatik yanıtları duraklatır
+flowjs_node_pause_duration === Süre (saniye)
+flowjs_node_pause_duration_help === Duraklama süresi için saniye girin. Sonsuz süre için 0 kullanın.
+flowjs_node_pause_duration_placeholder === Süreyi saniye cinsinden girin (0 = sonsuz)
+flowjs_node_resume === Devam et
+flowjs_node_resume_context === Bağlam
+flowjs_node_resume_description === Durdurulan otomatik yanıtları devam ettirir

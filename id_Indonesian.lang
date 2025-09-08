@@ -3181,3 +3181,22 @@ plugin_aicontext_tableoptions === Opsi
 response_flow_deleted === Aliran telah dihapus!
 response_aikey_deleted === Kunci AI telah dihapus!
 response_aiplugin_deleted === Plugin AI telah dihapus!
+flow_draw_ai_reply === Balasan AI
+flowjs_node_aireply === Balasan AI
+flowjs_node_aikey === Pilih Kunci AI
+flowjs_node_aiplugin === Pilih Plugin AI
+flowjs_node_none === Tidak ada
+flow_draw_pause === Jeda
+flow_draw_resume === Lanjutkan
+flowjs_node_context_all === Semua Konteks
+flowjs_node_context_autoreply === Balasan Otomatis Saja
+flowjs_node_context_flow === Hanya Aliran
+flowjs_node_pause === Jeda
+flowjs_node_pause_context === Konteks
+flowjs_node_pause_description === Menjeda respons otomatis selama durasi yang ditentukan
+flowjs_node_pause_duration === Durasi (detik)
+flowjs_node_pause_duration_help === Masukkan detik untuk jeda. Gunakan 0 untuk durasi tak terbatas.
+flowjs_node_pause_duration_placeholder === Masukkan durasi dalam detik (0 = tak terbatas)
+flowjs_node_resume === Lanjutkan
+flowjs_node_resume_context === Konteks
+flowjs_node_resume_description === Melanjutkan tanggapan otomatis yang dijeda

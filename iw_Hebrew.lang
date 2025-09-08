@@ -3181,3 +3181,22 @@ plugin_aicontext_tableoptions === אפשרויות
 response_flow_deleted === הזרימה נמחקה!
 response_aikey_deleted === מפתח ה-AI נמחק!
 response_aiplugin_deleted === התוסף AI נמחק!
+flow_draw_ai_reply === תשובת AI
+flowjs_node_aireply === תשובת AI
+flowjs_node_aikey === בחר מפתח AI
+flowjs_node_aiplugin === בחר תוסף AI
+flowjs_node_none === אין
+flow_draw_pause === השהה
+flow_draw_resume === קורות חיים
+flowjs_node_context_all === כל ההקשר
+flowjs_node_context_autoreply === תשובת אוטומטי בלבד
+flowjs_node_context_flow === זרם בלבד
+flowjs_node_pause === השהה
+flowjs_node_pause_context === הקשר
+flowjs_node_pause_description === מפסיק תגובות אוטומטיות לתקופה שצוינה
+flowjs_node_pause_duration === משך (שניות)
+flowjs_node_pause_duration_help === הזן שניות להפסקה. השתמש ב-0 למשך אין-סופי.
+flowjs_node_pause_duration_placeholder === הזן משך בשניות (0 = אין הגבלה)
+flowjs_node_resume === קורות חיים
+flowjs_node_resume_context === הקשר
+flowjs_node_resume_description === מחדש תגובות אוטומטיות מושהות

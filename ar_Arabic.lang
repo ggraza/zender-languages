@@ -3181,3 +3181,22 @@ plugin_aicontext_tableoptions === خيارات
 response_flow_deleted === تم حذف التدفق!
 response_aikey_deleted === تم حذف مفتاح AI!
 response_aiplugin_deleted === تم حذف ملحق AI!
+flow_draw_ai_reply === رد الذكاء الاصطناعي
+flowjs_node_aireply === رد الذكاء الاصطناعي
+flowjs_node_aikey === اختر مفتاح AI
+flowjs_node_aiplugin === اختر إضافة الذكاء الاصطناعي
+flowjs_node_none === لا شيء
+flow_draw_pause === إيقاف مؤقت
+flow_draw_resume === استئناف
+flowjs_node_context_all === كل السياق
+flowjs_node_context_autoreply === الرد التلقائي فقط
+flowjs_node_context_flow === التدفق فقط
+flowjs_node_pause === توقف
+flowjs_node_pause_context === السياق
+flowjs_node_pause_description === يقوم بإيقاف الردود التلقائية لمدة المدة المحددة
+flowjs_node_pause_duration === المدة (بالثواني)
+flowjs_node_pause_duration_help === أدخل عدد الثواني للتوقف. استخدم 0 للمدة غير المحدودة.
+flowjs_node_pause_duration_placeholder === أدخل المدة بالثواني (0 = غير محدود)
+flowjs_node_resume === السيرة الذاتية
+flowjs_node_resume_context === السياق
+flowjs_node_resume_description === يستأنف الردود الآلية المتوقفة مؤقتًا

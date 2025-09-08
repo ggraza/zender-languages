@@ -3181,3 +3181,22 @@ plugin_aicontext_tableoptions === Alternativer
 response_flow_deleted === Flyt har blitt slettet!
 response_aikey_deleted === AI-nøkkelen er slettet!
 response_aiplugin_deleted === AI-pluginen er slettet!
+flow_draw_ai_reply === AI-svar
+flowjs_node_aireply === AI-svar
+flowjs_node_aikey === Velg AI-nøkkel
+flowjs_node_aiplugin === Velg AI-plugin
+flowjs_node_none === Ingen
+flow_draw_pause === Pause
+flow_draw_resume === Fortsett
+flowjs_node_context_all === All Kontekst
+flowjs_node_context_autoreply === Automatisk svar kun
+flowjs_node_context_flow === Kun flyt
+flowjs_node_pause === Pause
+flowjs_node_pause_context === Kontekst
+flowjs_node_pause_description === Setter automatiske svar på pause i den angitte varigheten
+flowjs_node_pause_duration === Varighet (sekunder)
+flowjs_node_pause_duration_help === Angi sekunder for pause. Bruk 0 for uendelig varighet.
+flowjs_node_pause_duration_placeholder === Skriv inn varighet i sekunder (0 = uendelig)
+flowjs_node_resume === Fortsett
+flowjs_node_resume_context === Kontekst
+flowjs_node_resume_description === Gjenopptar pause i automatiske svar

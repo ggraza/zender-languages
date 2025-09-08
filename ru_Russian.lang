@@ -3181,3 +3181,22 @@ plugin_aicontext_tableoptions === Опции
 response_flow_deleted === Поток был удалён!
 response_aikey_deleted === Ключ AI был удалён!
 response_aiplugin_deleted === Плагин AI был удалён!
+flow_draw_ai_reply === Ответ ИИ
+flowjs_node_aireply === Ответ ИИ
+flowjs_node_aikey === Выберите ключ ИИ
+flowjs_node_aiplugin === Выберите AI плагин
+flowjs_node_none === Нет
+flow_draw_pause === Пауза
+flow_draw_resume === Резюме
+flowjs_node_context_all === Весь контекст
+flowjs_node_context_autoreply === Только автоответчик
+flowjs_node_context_flow === Только поток
+flowjs_node_pause === Пауза
+flowjs_node_pause_context === Контекст
+flowjs_node_pause_description === Приостанавливает автоматические ответы на указанный период
+flowjs_node_pause_duration === Длительность (секунды)
+flowjs_node_pause_duration_help === Введите количество секунд для паузы. Используйте 0 для бесконечной длительности.
+flowjs_node_pause_duration_placeholder === Введите длительность в секундах (0 = бесконечно)
+flowjs_node_resume === Резюме
+flowjs_node_resume_context === Контекст
+flowjs_node_resume_description === Возобновляет приостановленные автоматические ответы

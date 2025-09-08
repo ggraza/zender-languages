@@ -3181,3 +3181,22 @@ plugin_aicontext_tableoptions === पर्याय
 response_flow_deleted === प्रवाह हटविला गेला आहे!
 response_aikey_deleted === एआय की हटवली गेली आहे!
 response_aiplugin_deleted === एआय प्लगइन हटवले गेले आहे!
+flow_draw_ai_reply === एआय उत्तर
+flowjs_node_aireply === एआय उत्तर
+flowjs_node_aikey === एआय की निवडा
+flowjs_node_aiplugin === AI प्लगइन निवडा
+flowjs_node_none === काही नाही
+flow_draw_pause === थांबा
+flow_draw_resume === पुनरारंभ
+flowjs_node_context_all === सर्व संदर्भ
+flowjs_node_context_autoreply === फक्त स्वयंचलित प्रत्युत्तर
+flowjs_node_context_flow === फक्त प्रवाह
+flowjs_node_pause === थांबा
+flowjs_node_pause_context === संदर्भ
+flowjs_node_pause_description === निर्दिष्ट केलेल्या कालावधीसाठी स्वयंचलित प्रतिसादांना थांबवा
+flowjs_node_pause_duration === कालावधी (सेकंद)
+flowjs_node_pause_duration_help === थांबण्याचे सेकंद टाका. अमर्याद कालावधीसाठी 0 वापरा.
+flowjs_node_pause_duration_placeholder === कालावधी सेकंदांत टाका (0 = अनंत)
+flowjs_node_resume === पुन्हा सुरू करा
+flowjs_node_resume_context === परिप्रेक्ष्य
+flowjs_node_resume_description === स्वयंचलित प्रतिसाद पुन्हा सुरू करतो

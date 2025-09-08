@@ -3182,3 +3182,22 @@ plugin_aicontext_tableoptions === विकल्प
 response_flow_deleted === फ्लो हटा दिया गया है!
 response_aikey_deleted === AI कुंजी हटा दी गई है!
 response_aiplugin_deleted === AI प्लगइन हटा दिया गया है!
+flow_draw_ai_reply === एआई उत्तर
+flowjs_node_aireply === एआई जवाब
+flowjs_node_aikey === AI कुंजी चुनें
+flowjs_node_aiplugin === AI प्लगइन चुनें
+flowjs_node_none === कोई नहीं
+flow_draw_pause === रोकें
+flow_draw_resume === रिज्यूमे
+flowjs_node_context_all === सभी संदर्भ
+flowjs_node_context_autoreply === स्वतःउत्तर केवल
+flowjs_node_context_flow === केवल प्रवाह
+flowjs_node_pause === रोकें
+flowjs_node_pause_context === संदर्भ
+flowjs_node_pause_description === निर्धारित अवधि के लिए स्वचालित प्रतिक्रियाएँ विरामित करता है।
+flowjs_node_pause_duration === अवधि (सेकंड)
+flowjs_node_pause_duration_help === रुकने के लिए सेकंड दर्ज करें। अनंत अवधि के लिए 0 का उपयोग करें।
+flowjs_node_pause_duration_placeholder === समय अवधि सेकंड में दर्ज करें (0 = अनंत)
+flowjs_node_resume === रिज़्यूमे
+flowjs_node_resume_context === संदर्भ
+flowjs_node_resume_description === विरामित स्वचालित प्रतिक्रियाओं को पुनः शुरू करता है

@@ -3181,3 +3181,22 @@ plugin_aicontext_tableoptions === Àṣàyàn
 response_flow_deleted === Sisan ti parẹ!
 response_aikey_deleted === Bọtini AI ti paarẹ!
 response_aiplugin_deleted === Ẹ̀rọ amúlò AI ti parẹ!
+flow_draw_ai_reply === Ìdáhùn AI
+flowjs_node_aireply === Idahun AI
+flowjs_node_aikey === Yan Bọtini AI
+flowjs_node_aiplugin === Yan Amugbooro AI
+flowjs_node_none === Ko si nkankan
+flow_draw_pause === Duro
+flow_draw_resume === Tesiwaju iṣẹ
+flowjs_node_context_all === Gbogbo Àyíká
+flowjs_node_context_autoreply === Ìdáhùn laifọwọyi péré
+flowjs_node_context_flow === Oṣuwọn Nikan
+flowjs_node_pause === Duro
+flowjs_node_pause_context === Àkọsílẹ
+flowjs_node_pause_description === Da idahun ẹrọ aifọwọyi duro fun akoko ti a tọka si
+flowjs_node_pause_duration === Iye akoko (aaya)
+flowjs_node_pause_duration_help === Tẹ awọn iṣẹju-aaya lati dawọ duro. Lo 0 fun akoko ailopin.
+flowjs_node_pause_duration_placeholder === Tẹ akoko ni iṣẹju-aaya (0 = ailopin)
+flowjs_node_resume === Tun bẹrẹ
+flowjs_node_resume_context === Àkóónú
+flowjs_node_resume_description === Tun tẹsiwaju awọn idahun ẹrọ ti a da duro pọ

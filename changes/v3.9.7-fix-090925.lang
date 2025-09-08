@@ -1,0 +1,19 @@
+flow_draw_ai_reply === AI Reply
+flowjs_node_aireply === AI Reply
+flowjs_node_aikey === Select AI Key
+flowjs_node_aiplugin === Select AI Plugin
+flowjs_node_none === None
+flow_draw_pause === Pause
+flow_draw_resume === Resume
+flowjs_node_context_all === All Context
+flowjs_node_context_autoreply === Autoreply Only
+flowjs_node_context_flow === Flow Only
+flowjs_node_pause === Pause
+flowjs_node_pause_context === Context
+flowjs_node_pause_description === Pauses automated responses for the specified duration
+flowjs_node_pause_duration === Duration (seconds)
+flowjs_node_pause_duration_help === Enter seconds to pause. Use 0 for infinite duration.
+flowjs_node_pause_duration_placeholder === Enter duration in seconds (0 = infinite)
+flowjs_node_resume === Resume
+flowjs_node_resume_context === Context
+flowjs_node_resume_description === Resumes paused automated responses
