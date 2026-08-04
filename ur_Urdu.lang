@@ -1501,7 +1501,7 @@ response_shortener_editsuccess === شارٹنر کو اپ ڈیٹ کر دیا گ�
 response_editplugin_success === پلگ ان کی ترتیبات کو اپ ڈیٹ کر دیا گیا ہے!
 response_updatepluin_corrupted === پلگ ان اپ ڈیٹ فائل خراب ہے!
 response_updateplugin_updated === پلگ ان کو اپ ڈیٹ کر دیا گیا ہے!
-response_builder_invalidgooglefile === غلط گوگل سروسز کی اسناد کی فائل!
+response_builder_invalidgooglefile === google-services.json فائل درست نہیں ہے۔ اسے اپنے Firebase پروجیکٹ کی اینڈرائیڈ ایپ سے ڈاؤن لوڈ کریں اور بغیر تبدیلی کے اپ لوڈ کریں۔
 response_builder_invalidfirebasefile === غلط فائربیس اسناد کی فائل!
 response_theme_sitelogofailed === سائٹ کا لوگو اپ لوڈ ناکام ہو گیا!
 response_theme_sitebgfailed === سائٹ کا پس منظر اپ لوڈ ناکام ہو گیا!
@@ -2973,3 +2973,4 @@ modal_adminsettings_realtimetest === کنکشن جانچیں
 js_realtime_testing === فوری کنکشن جانچا جا رہا ہے...
 response_realtime_testok === فوری کنکشن کامیاب رہا!
 response_realtime_testfailed === فوری کنکشن ناکام۔ اسناد اور سرور کا پتہ جانچیں۔
+device_pair_invalidtoken === یہ پیئرنگ کوڈ ختم ہو چکا ہے یا پہلے ہی استعمال ہو چکا ہے۔ نیا کوڈ حاصل کرنے کے لیے اپنی سائٹ پر دوبارہ "ڈیوائس شامل کریں۔" کھولیں۔

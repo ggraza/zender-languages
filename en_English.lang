@@ -2974,3 +2974,4 @@ modal_adminsettings_realtimetest === Test Connection
 js_realtime_testing === Testing the realtime connection...
 response_realtime_testok === Realtime connection successful!
 response_realtime_testfailed === Realtime connection failed. Check the credentials and the server URL.
+device_pair_invalidtoken === This pairing code has expired or was already used. Open Add Device on your site again for a fresh code.

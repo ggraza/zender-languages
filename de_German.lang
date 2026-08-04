@@ -1502,7 +1502,7 @@ response_shortener_editsuccess === Shortener wurde aktualisiert!
 response_editplugin_success === Plugin-Einstellungen wurden aktualisiert!
 response_updatepluin_corrupted === Plugin-Update-Datei ist beschädigt!
 response_updateplugin_updated === Plugin wurde aktualisiert!
-response_builder_invalidgooglefile === Ungültige Anmeldedatendatei für Google-Dienste!
+response_builder_invalidgooglefile === Die Datei google-services.json ist ungültig. Laden Sie sie aus der Android-App Ihres Firebase-Projekts herunter und laden Sie sie unverändert hoch.
 response_builder_invalidfirebasefile === Ungültige Firebase-Anmeldedatendatei!
 response_theme_sitelogofailed === Hochladen des Website-Logos fehlgeschlagen!
 response_theme_sitebgfailed === Hochladen des Site-Hintergrunds fehlgeschlagen!
@@ -2973,3 +2973,4 @@ modal_adminsettings_realtimetest === Verbindung testen
 js_realtime_testing === Echtzeitverbindung wird getestet...
 response_realtime_testok === Echtzeitverbindung erfolgreich!
 response_realtime_testfailed === Echtzeitverbindung fehlgeschlagen. Prüfen Sie die Zugangsdaten und die Server-URL.
+device_pair_invalidtoken === Dieser Kopplungscode ist abgelaufen oder wurde bereits verwendet. Öffnen Sie „Gerät hinzufügen“ auf Ihrer Website erneut, um einen neuen Code zu erhalten.

@@ -1501,7 +1501,7 @@ response_shortener_editsuccess === Το Shortener ενημερώθηκε!
 response_editplugin_success === Οι ρυθμίσεις της προσθήκης έχουν ενημερωθεί!
 response_updatepluin_corrupted === Το αρχείο ενημέρωσης της προσθήκης είναι κατεστραμμένο!
 response_updateplugin_updated === Η προσθήκη έχει ενημερωθεί!
-response_builder_invalidgooglefile === Μη έγκυρο αρχείο διαπιστευτηρίων υπηρεσιών Google!
+response_builder_invalidgooglefile === Το αρχείο google-services.json δεν είναι έγκυρο. Κατεβάστε το από την εφαρμογή Android του έργου σας στο Firebase και ανεβάστε το χωρίς τροποποιήσεις.
 response_builder_invalidfirebasefile === Μη έγκυρο αρχείο διαπιστευτηρίων firebase!
 response_theme_sitelogofailed === Η μεταφόρτωση λογότυπου ιστότοπου απέτυχε!
 response_theme_sitebgfailed === Η μεταφόρτωση στο παρασκήνιο του ιστότοπου απέτυχε!
@@ -2973,3 +2973,4 @@ modal_adminsettings_realtimetest === Δοκιμή σύνδεσης
 js_realtime_testing === Δοκιμή σύνδεσης πραγματικού χρόνου...
 response_realtime_testok === Η σύνδεση πραγματικού χρόνου πέτυχε!
 response_realtime_testfailed === Η σύνδεση πραγματικού χρόνου απέτυχε. Ελέγξτε τα διαπιστευτήρια και τη διεύθυνση του διακομιστή.
+device_pair_invalidtoken === Αυτός ο κωδικός σύζευξης έχει λήξει ή έχει ήδη χρησιμοποιηθεί. Ανοίξτε ξανά την επιλογή «Προσθέστε ΣΥΣΚΕΥΗ» στον ιστότοπό σας για νέο κωδικό.

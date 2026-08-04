@@ -1502,7 +1502,7 @@ response_shortener_editsuccess === Emelitere Shortener!
 response_editplugin_success === Emelitela ntọala ngwa mgbakwunye!
 response_updatepluin_corrupted === E mebiela faịlụ mmelite ngwa mgbakwunye!
 response_updateplugin_updated === Emelitela ngwa mgbakwunye!
-response_builder_invalidgooglefile === Faịlụ nzere ọrụ google ezighi ezi!
+response_builder_invalidgooglefile === Faịlụ google-services.json ezighi ezi. Budata ya site na ngwa Android nke ọrụ Firebase gị wee bulite ya n'agbanweghị ya.
 response_builder_invalidfirebasefile === Faịlụ nzere firebase na ezighi ezi!
 response_theme_sitelogofailed === Ibugo akara saịtị dara!
 response_theme_sitebgfailed === Nbulite ndabere saịtị dara!
@@ -2973,3 +2973,4 @@ modal_adminsettings_realtimetest === Nwalee Njikọ
 js_realtime_testing === Na-anwale njikọ ozugbo...
 response_realtime_testok === Njikọ ozugbo gara nke ọma!
 response_realtime_testfailed === Njikọ ozugbo dara. Lelee nzere na adreesi ihe nkesa.
+device_pair_invalidtoken === Koodu njikọ a agwụla ma ọ bụ ejirila ya. Meghee "Tinye ngwaọrụ" na saịtị gị ọzọ maka koodu ọhụrụ.

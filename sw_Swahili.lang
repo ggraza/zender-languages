@@ -1502,7 +1502,7 @@ response_shortener_editsuccess === Shortener imesasishwa!
 response_editplugin_success === Mipangilio ya programu-jalizi imesasishwa!
 response_updatepluin_corrupted === Faili ya kusasisha programu-jalizi imeharibika!
 response_updateplugin_updated === Programu-jalizi imesasishwa!
-response_builder_invalidgooglefile === Faili batili ya vitambulisho vya huduma za google!
+response_builder_invalidgooglefile === Faili la google-services.json si sahihi. Lipakue kutoka programu ya Android ya mradi wako wa Firebase na ulipakie bila kulibadilisha.
 response_builder_invalidfirebasefile === Faili batili ya vitambulisho vya firebase!
 response_theme_sitelogofailed === Imeshindwa kupakia nembo ya tovuti!
 response_theme_sitebgfailed === Upakiaji wa usuli wa tovuti umeshindwa!
@@ -2973,3 +2973,4 @@ modal_adminsettings_realtimetest === Jaribu Muunganisho
 js_realtime_testing === Inajaribu muunganisho wa papo hapo...
 response_realtime_testok === Muunganisho wa papo hapo umefaulu!
 response_realtime_testfailed === Muunganisho wa papo hapo umeshindwa. Angalia vitambulisho na anwani ya seva.
+device_pair_invalidtoken === Msimbo huu wa kuoanisha umeisha muda au tayari umetumika. Fungua "Ongeza Kifaa" kwenye tovuti yako tena ili kupata msimbo mpya.

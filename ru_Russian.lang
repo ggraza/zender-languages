@@ -1502,7 +1502,7 @@ response_shortener_editsuccess === Сокращатель был обновле�
 response_editplugin_success === Настройки плагина обновлены!
 response_updatepluin_corrupted === Файл обновления плагина поврежден!
 response_updateplugin_updated === Плагин обновлен!
-response_builder_invalidgooglefile === Недействительный файл учетных данных служб Google!
+response_builder_invalidgooglefile === Файл google-services.json недействителен. Скачайте его из Android-приложения вашего проекта Firebase и загрузите без изменений.
 response_builder_invalidfirebasefile === Неверный файл учетных данных firebase!
 response_theme_sitelogofailed === Не удалось загрузить логотип сайта!
 response_theme_sitebgfailed === Не удалось загрузить фон сайта!
@@ -2973,3 +2973,4 @@ modal_adminsettings_realtimetest === Проверить подключение
 js_realtime_testing === Проверка подключения в реальном времени...
 response_realtime_testok === Подключение в реальном времени установлено!
 response_realtime_testfailed === Не удалось подключиться. Проверьте учётные данные и адрес сервера.
+device_pair_invalidtoken === Этот код сопряжения истёк или уже был использован. Откройте «Добавить устройство» на сайте ещё раз, чтобы получить новый код.

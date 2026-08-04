@@ -1502,7 +1502,7 @@ response_shortener_editsuccess === ตัวย่อได้รับการ
 response_editplugin_success === อัปเดตการตั้งค่าปลั๊กอินแล้ว!
 response_updatepluin_corrupted === ไฟล์อัพเดทปลั๊กอินเสียหาย!
 response_updateplugin_updated === ปลั๊กอินได้รับการอัพเดต!
-response_builder_invalidgooglefile === ไฟล์ข้อมูลรับรองบริการของ Google ไม่ถูกต้อง!
+response_builder_invalidgooglefile === ไฟล์ google-services.json ไม่ถูกต้อง ดาวน์โหลดจากแอป Android ในโปรเจกต์ Firebase ของคุณ แล้วอัปโหลดโดยไม่ต้องแก้ไข
 response_builder_invalidfirebasefile === ไฟล์ข้อมูลรับรอง firebase ไม่ถูกต้อง!
 response_theme_sitelogofailed === การอัปโหลดโลโก้เว็บไซต์ล้มเหลว!
 response_theme_sitebgfailed === การอัปโหลดพื้นหลังของไซต์ล้มเหลว!
@@ -2973,3 +2973,4 @@ modal_adminsettings_realtimetest === ทดสอบการเชื่อม�
 js_realtime_testing === กำลังทดสอบการเชื่อมต่อแบบเรียลไทม์...
 response_realtime_testok === เชื่อมต่อแบบเรียลไทม์สำเร็จ
 response_realtime_testfailed === การเชื่อมต่อแบบเรียลไทม์ล้มเหลว ตรวจสอบข้อมูลรับรองและที่อยู่เซิร์ฟเวอร์
+device_pair_invalidtoken === รหัสจับคู่นี้หมดอายุหรือถูกใช้ไปแล้ว เปิด "เพิ่มอุปกรณ์" บนเว็บไซต์ของคุณอีกครั้งเพื่อรับรหัสใหม่

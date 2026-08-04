@@ -1502,7 +1502,7 @@ response_shortener_editsuccess === Shortener telah diperbarui!
 response_editplugin_success === Pengaturan plugin telah diperbarui!
 response_updatepluin_corrupted === File pembaruan plugin rusak!
 response_updateplugin_updated === Plugin telah diperbarui!
-response_builder_invalidgooglefile === File kredensial layanan google tidak valid!
+response_builder_invalidgooglefile === File google-services.json tidak valid. Unduh dari aplikasi Android proyek Firebase Anda dan unggah tanpa diubah.
 response_builder_invalidfirebasefile === File kredensial firebase tidak valid!
 response_theme_sitelogofailed === Unggahan logo situs gagal!
 response_theme_sitebgfailed === Unggahan latar belakang situs gagal!
@@ -2973,3 +2973,4 @@ modal_adminsettings_realtimetest === Uji Koneksi
 js_realtime_testing === Menguji koneksi waktu nyata...
 response_realtime_testok === Koneksi waktu nyata berhasil!
 response_realtime_testfailed === Koneksi waktu nyata gagal. Periksa kredensial dan URL server.
+device_pair_invalidtoken === Kode penyandingan ini sudah kedaluwarsa atau telah digunakan. Buka "Tambahkan Perangkat" lagi di situs Anda untuk mendapatkan kode baru.

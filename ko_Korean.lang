@@ -1502,7 +1502,7 @@ response_shortener_editsuccess === 쇼트너가 업데이트되었습니다!
 response_editplugin_success === 플러그인 설정이 업데이트되었습니다!
 response_updatepluin_corrupted === 플러그인 업데이트 파일이 손상되었습니다!
 response_updateplugin_updated === 플러그인이 업데이트되었습니다!
-response_builder_invalidgooglefile === 잘못된 Google 서비스 자격 증명 파일입니다!
+response_builder_invalidgooglefile === google-services.json 파일이 올바르지 않습니다. Firebase 프로젝트의 Android 앱에서 내려받아 수정하지 말고 업로드하세요.
 response_builder_invalidfirebasefile === 잘못된 Firebase 자격 증명 파일입니다!
 response_theme_sitelogofailed === 사이트 로고 업로드 실패!
 response_theme_sitebgfailed === 사이트 배경 업로드에 실패했습니다!
@@ -2973,3 +2973,4 @@ modal_adminsettings_realtimetest === 연결 테스트
 js_realtime_testing === 실시간 연결을 테스트하는 중...
 response_realtime_testok === 실시간 연결에 성공했습니다!
 response_realtime_testfailed === 실시간 연결에 실패했습니다. 자격 증명과 서버 주소를 확인하세요.
+device_pair_invalidtoken === 이 페어링 코드는 만료되었거나 이미 사용되었습니다. 새 코드를 받으려면 사이트에서 "기기 추가"를 다시 여세요.

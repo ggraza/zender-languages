@@ -1502,7 +1502,7 @@ response_shortener_editsuccess === Le raccourcisseur a été mis à jour!
 response_editplugin_success === Les paramètres du plugin ont été mis à jour!
 response_updatepluin_corrupted === Le fichier de mise à jour du plugin est corrompu!
 response_updateplugin_updated === Le plugin a été mis à jour!
-response_builder_invalidgooglefile === Fichier d'informations d'identification des services Google non valide!
+response_builder_invalidgooglefile === Le fichier google-services.json n'est pas valide. Téléchargez-le depuis l'application Android de votre projet Firebase et importez-le sans le modifier.
 response_builder_invalidfirebasefile === Fichier d'informations d'identification Firebase non valide!
 response_theme_sitelogofailed === Le téléchargement du logo du site a échoué!
 response_theme_sitebgfailed === Échec du téléchargement de l'arrière-plan du site!
@@ -2973,3 +2973,4 @@ modal_adminsettings_realtimetest === Tester la connexion
 js_realtime_testing === Test de la connexion en temps réel...
 response_realtime_testok === Connexion en temps réel réussie !
 response_realtime_testfailed === Échec de la connexion en temps réel. Vérifiez les identifiants et l'URL du serveur.
+device_pair_invalidtoken === Ce code d'association a expiré ou a déjà été utilisé. Ouvrez de nouveau « Ajouter un appareil » sur votre site pour obtenir un nouveau code.

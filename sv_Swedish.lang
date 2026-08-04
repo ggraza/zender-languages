@@ -1502,7 +1502,7 @@ response_shortener_editsuccess === Shortener har uppdaterats!
 response_editplugin_success === Plugin-inställningarna har uppdaterats!
 response_updatepluin_corrupted === Plugin-uppdateringsfilen är skadad!
 response_updateplugin_updated === Plugin har uppdaterats!
-response_builder_invalidgooglefile === Ogiltig google services autentiseringsfil!
+response_builder_invalidgooglefile === Filen google-services.json är ogiltig. Ladda ned den från Android-appen i ditt Firebase-projekt och ladda upp den oförändrad.
 response_builder_invalidfirebasefile === Ogiltig Firebase-referensfil!
 response_theme_sitelogofailed === Uppladdning av webbplatslogotypen misslyckades!
 response_theme_sitebgfailed === Uppladdning av webbplatsens bakgrund misslyckades!
@@ -2973,3 +2973,4 @@ modal_adminsettings_realtimetest === Testa anslutning
 js_realtime_testing === Testar realtidsanslutningen...
 response_realtime_testok === Realtidsanslutningen lyckades!
 response_realtime_testfailed === Realtidsanslutningen misslyckades. Kontrollera uppgifterna och serveradressen.
+device_pair_invalidtoken === Den här kopplingskoden har gått ut eller har redan använts. Öppna ”Lägg till enhet” på din webbplats igen för en ny kod.

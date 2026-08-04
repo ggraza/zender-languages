@@ -1502,7 +1502,7 @@ response_shortener_editsuccess === শর্টনার আপডেট কর�
 response_editplugin_success === প্লাগইন সেটিংস আপডেট করা হয়েছে!
 response_updatepluin_corrupted === প্লাগইন আপডেট ফাইল নষ্ট!
 response_updateplugin_updated === প্লাগইন আপডেট করা হয়েছে!
-response_builder_invalidgooglefile === অবৈধ google পরিষেবার শংসাপত্র ফাইল!
+response_builder_invalidgooglefile === google-services.json ফাইলটি বৈধ নয়। আপনার Firebase প্রকল্পের অ্যান্ড্রয়েড অ্যাপ থেকে এটি ডাউনলোড করুন এবং অপরিবর্তিত অবস্থায় আপলোড করুন।
 response_builder_invalidfirebasefile === অবৈধ ফায়ারবেস শংসাপত্র ফাইল!
 response_theme_sitelogofailed === সাইট লোগো আপলোড ব্যর্থ হয়েছে!
 response_theme_sitebgfailed === সাইটের পটভূমি আপলোড ব্যর্থ হয়েছে!
@@ -2973,3 +2973,4 @@ modal_adminsettings_realtimetest === সংযোগ পরীক্ষা ক�
 js_realtime_testing === রিয়েলটাইম সংযোগ পরীক্ষা করা হচ্ছে...
 response_realtime_testok === রিয়েলটাইম সংযোগ সফল!
 response_realtime_testfailed === রিয়েলটাইম সংযোগ ব্যর্থ হয়েছে। শংসাপত্র ও সার্ভার ঠিকানা যাচাই করুন।
+device_pair_invalidtoken === এই পেয়ারিং কোডের মেয়াদ শেষ হয়ে গেছে বা এটি ইতিমধ্যে ব্যবহৃত হয়েছে। নতুন কোডের জন্য আপনার সাইটে আবার "যন্ত্র সংযুক্ত করুন" খুলুন।

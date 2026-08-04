@@ -1502,7 +1502,7 @@ response_shortener_editsuccess === A rövidítő frissítve lett!
 response_editplugin_success === A beépülő modul beállításai frissültek!
 response_updatepluin_corrupted === A beépülő modul frissítő fájlja sérült!
 response_updateplugin_updated === A bővítmény frissítve lett!
-response_builder_invalidgooglefile === Érvénytelen Google Services hitelesítési fájl!
+response_builder_invalidgooglefile === A google-services.json fájl érvénytelen. Töltse le a Firebase-projekt Android-alkalmazásából, és módosítás nélkül töltse fel.
 response_builder_invalidfirebasefile === Érvénytelen Firebase hitelesítési adatfájl!
 response_theme_sitelogofailed === A webhely logójának feltöltése sikertelen!
 response_theme_sitebgfailed === A webhely háttérfeltöltése nem sikerült!
@@ -2973,3 +2973,4 @@ modal_adminsettings_realtimetest === Kapcsolat tesztelése
 js_realtime_testing === Valós idejű kapcsolat tesztelése...
 response_realtime_testok === A valós idejű kapcsolat sikeres!
 response_realtime_testfailed === A valós idejű kapcsolat sikertelen. Ellenőrizze a hitelesítő adatokat és a kiszolgáló címét.
+device_pair_invalidtoken === Ez a párosítási kód lejárt, vagy már felhasználták. Nyissa meg újra az „Eszköz hozzáadása” lehetőséget az oldalán egy új kódért.

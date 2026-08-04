@@ -1502,7 +1502,7 @@ response_shortener_editsuccess === Kısaltıcı güncellendi!
 response_editplugin_success === Eklenti ayarları güncellendi!
 response_updatepluin_corrupted === Eklenti güncelleme dosyası bozuk!
 response_updateplugin_updated === Eklenti güncellendi!
-response_builder_invalidgooglefile === Geçersiz google hizmetleri kimlik bilgileri dosyası!
+response_builder_invalidgooglefile === google-services.json dosyası geçersiz. Firebase projenizdeki Android uygulamasından indirin ve değiştirmeden yükleyin.
 response_builder_invalidfirebasefile === Geçersiz firebase kimlik bilgileri dosyası!
 response_theme_sitelogofailed === Site logosu yüklenemedi!
 response_theme_sitebgfailed === Site arka planı yüklenemedi!
@@ -2973,3 +2973,4 @@ modal_adminsettings_realtimetest === Bağlantıyı Test Et
 js_realtime_testing === Gerçek zamanlı bağlantı test ediliyor...
 response_realtime_testok === Gerçek zamanlı bağlantı başarılı!
 response_realtime_testfailed === Gerçek zamanlı bağlantı başarısız. Kimlik bilgilerini ve sunucu adresini kontrol edin.
+device_pair_invalidtoken === Bu eşleştirme kodunun süresi dolmuş veya kod zaten kullanılmış. Yeni bir kod için sitenizde "Cihaz ekle" bölümünü yeniden açın.

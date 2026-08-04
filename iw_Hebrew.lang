@@ -1502,7 +1502,7 @@ response_shortener_editsuccess === מקצר עודכן!
 response_editplugin_success === הגדרות הפלאגין עודכנו!
 response_updatepluin_corrupted === קובץ עדכון הפלאגין פגום!
 response_updateplugin_updated === הפלאגין עודכן!
-response_builder_invalidgooglefile === קובץ אישורים לא חוקי של שירותי Google!
+response_builder_invalidgooglefile === הקובץ google-services.json אינו תקין. הורד אותו מאפליקציית האנדרואיד של פרויקט ה-Firebase שלך והעלה אותו ללא שינוי.
 response_builder_invalidfirebasefile === קובץ אישורי Firebase לא חוקי!
 response_theme_sitelogofailed === העלאת לוגו האתר נכשלה!
 response_theme_sitebgfailed === העלאת הרקע לאתר נכשלה!
@@ -2973,3 +2973,4 @@ modal_adminsettings_realtimetest === בדיקת חיבור
 js_realtime_testing === בודק את החיבור בזמן אמת...
 response_realtime_testok === החיבור בזמן אמת הצליח!
 response_realtime_testfailed === החיבור בזמן אמת נכשל. בדוק את פרטי הגישה ואת כתובת השרת.
+device_pair_invalidtoken === קוד ההתאמה פג או שכבר נעשה בו שימוש. פתח שוב את "הוסף מכשיר" באתר שלך כדי לקבל קוד חדש.

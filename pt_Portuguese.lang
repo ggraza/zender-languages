@@ -1502,7 +1502,7 @@ response_shortener_editsuccess === O encurtador foi atualizado!
 response_editplugin_success === As configurações do plugin foram atualizadas!
 response_updatepluin_corrupted === O arquivo de atualização do plug-in está corrompido!
 response_updateplugin_updated === O plugin foi atualizado!
-response_builder_invalidgooglefile === Arquivo de credenciais de serviços do Google inválido!
+response_builder_invalidgooglefile === O ficheiro google-services.json é inválido. Transfira-o a partir da aplicação Android do seu projeto Firebase e carregue-o sem alterações.
 response_builder_invalidfirebasefile === Arquivo de credenciais do Firebase inválido!
 response_theme_sitelogofailed === Falha no upload do logotipo do site!
 response_theme_sitebgfailed === Falha no upload do plano de fundo do site!
@@ -2973,3 +2973,4 @@ modal_adminsettings_realtimetest === Testar ligação
 js_realtime_testing === A testar a ligação em tempo real...
 response_realtime_testok === Ligação em tempo real bem-sucedida!
 response_realtime_testfailed === A ligação em tempo real falhou. Verifique as credenciais e o URL do servidor.
+device_pair_invalidtoken === Este código de emparelhamento expirou ou já foi utilizado. Abra novamente "Adicionar Dispositivo" no seu site para obter um código novo.

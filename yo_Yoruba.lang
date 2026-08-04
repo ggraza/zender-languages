@@ -1502,7 +1502,7 @@ response_shortener_editsuccess === Shortener ti ni imudojuiwọn!
 response_editplugin_success === Eto itanna ti ni imudojuiwọn!
 response_updatepluin_corrupted === Faili imudojuiwọn ohun itanna ti bajẹ!
 response_updateplugin_updated === Ohun itanna ti ni imudojuiwọn!
-response_builder_invalidgooglefile === Faili awọn iṣẹ google ti ko tọ!
+response_builder_invalidgooglefile === Fáìlì google-services.json kò tọ́. Ṣe àgbàsílẹ̀ rẹ̀ láti inú ohun-èlò Android ti iṣẹ́ Firebase rẹ, kí o sì gbé e sókè láìṣe àyípadà.
 response_builder_invalidfirebasefile === Faili awọn ẹrí firebase ti ko tọ!
 response_theme_sitelogofailed === Ikojọpọ logo ojula kuna!
 response_theme_sitebgfailed === Ikojọpọ isale aaye kuna!
@@ -2973,3 +2973,4 @@ modal_adminsettings_realtimetest === Dan Isopo Wo
 js_realtime_testing === N dan isopo akoko gidi wo...
 response_realtime_testok === Isopo akoko gidi yori si rere!
 response_realtime_testfailed === Isopo akoko gidi kuna. Yewo awon iwe eri ati adiresi olupese.
+device_pair_invalidtoken === Kóòdù ìsopọ̀ yìí ti pé tàbí a ti lò ó tẹ́lẹ̀. Ṣí "Fi ẹrọ kun" lórí ojúlé rẹ lẹ́ẹ̀kansí fún kóòdù tuntun.

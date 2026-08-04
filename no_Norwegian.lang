@@ -1502,7 +1502,7 @@ response_shortener_editsuccess === Shortener har blitt oppdatert!
 response_editplugin_success === Plugin-innstillingene har blitt oppdatert!
 response_updatepluin_corrupted === Plugin-oppdateringsfilen er ødelagt!
 response_updateplugin_updated === Plugin har blitt oppdatert!
-response_builder_invalidgooglefile === Ugyldig google services-legitimasjonsfil!
+response_builder_invalidgooglefile === Filen google-services.json er ugyldig. Last den ned fra Android-appen i Firebase-prosjektet ditt, og last den opp uendret.
 response_builder_invalidfirebasefile === Ugyldig firebase-legitimasjonsfil!
 response_theme_sitelogofailed === Opplasting av nettstedslogo mislyktes!
 response_theme_sitebgfailed === Opplasting av nettstedets bakgrunn mislyktes!
@@ -2973,3 +2973,4 @@ modal_adminsettings_realtimetest === Test tilkobling
 js_realtime_testing === Tester sanntidstilkoblingen...
 response_realtime_testok === Sanntidstilkoblingen lyktes!
 response_realtime_testfailed === Sanntidstilkoblingen mislyktes. Kontroller legitimasjonen og server-URL-en.
+device_pair_invalidtoken === Denne paringskoden er utløpt eller allerede brukt. Åpne «Legg til enhet» på nettstedet ditt på nytt for å få en ny kode.

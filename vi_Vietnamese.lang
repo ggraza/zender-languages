@@ -1502,7 +1502,7 @@ response_shortener_editsuccess === Shortener đã được cập nhật!
 response_editplugin_success === Cài đặt plugin đã được cập nhật!
 response_updatepluin_corrupted === Tệp cập nhật plugin bị hỏng!
 response_updateplugin_updated === Plugin đã được cập nhật!
-response_builder_invalidgooglefile === Tệp thông tin xác thực các dịch vụ của google không hợp lệ!
+response_builder_invalidgooglefile === Tệp google-services.json không hợp lệ. Hãy tải tệp từ ứng dụng Android trong dự án Firebase của bạn và tải lên mà không chỉnh sửa.
 response_builder_invalidfirebasefile === Tệp thông tin xác thực firebase không hợp lệ!
 response_theme_sitelogofailed === Tải lên biểu trưng trang web không thành công!
 response_theme_sitebgfailed === Tải lên nền trang web không thành công!
@@ -2973,3 +2973,4 @@ modal_adminsettings_realtimetest === Kiểm tra kết nối
 js_realtime_testing === Đang kiểm tra kết nối thời gian thực...
 response_realtime_testok === Kết nối thời gian thực thành công!
 response_realtime_testfailed === Kết nối thời gian thực thất bại. Hãy kiểm tra thông tin đăng nhập và địa chỉ máy chủ.
+device_pair_invalidtoken === Mã ghép nối này đã hết hạn hoặc đã được sử dụng. Hãy mở lại "Thêm thiết bị" trên trang của bạn để lấy mã mới.

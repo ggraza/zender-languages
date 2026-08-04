@@ -1502,7 +1502,7 @@ response_shortener_editsuccess === Scurtatorul a fost actualizat!
 response_editplugin_success === Setările pluginului au fost actualizate!
 response_updatepluin_corrupted === Fișierul de actualizare a pluginului este corupt!
 response_updateplugin_updated === Pluginul a fost actualizat!
-response_builder_invalidgooglefile === Fișier de acreditări Google Services nevalid!
+response_builder_invalidgooglefile === Fișierul google-services.json nu este valid. Descărcați-l din aplicația Android a proiectului dumneavoastră Firebase și încărcați-l nemodificat.
 response_builder_invalidfirebasefile === Fișier de acreditări Firebase nevalid!
 response_theme_sitelogofailed === Încărcarea siglei site-ului a eșuat!
 response_theme_sitebgfailed === Încărcarea în fundal a site-ului nu a reușit!
@@ -2973,3 +2973,4 @@ modal_adminsettings_realtimetest === Testați conexiunea
 js_realtime_testing === Se testează conexiunea în timp real...
 response_realtime_testok === Conexiune în timp real reușită!
 response_realtime_testfailed === Conexiunea în timp real a eșuat. Verificați datele de autentificare și adresa serverului.
+device_pair_invalidtoken === Acest cod de asociere a expirat sau a fost deja folosit. Deschideți din nou „Adăugați dispozitiv” pe site pentru un cod nou.

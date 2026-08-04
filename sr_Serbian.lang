@@ -1502,7 +1502,7 @@ response_shortener_editsuccess === Схортенер је ажуриран!
 response_editplugin_success === Подешавања додатка су ажурирана!
 response_updatepluin_corrupted === Датотека за ажурирање додатка је оштећена!
 response_updateplugin_updated === Додатак је ажуриран!
-response_builder_invalidgooglefile === Неважећа датотека акредитива за Гоогле услуге!
+response_builder_invalidgooglefile === Датотека google-services.json није исправна. Преузмите је из Android апликације вашег Firebase пројекта и отпремите је неизмењену.
 response_builder_invalidfirebasefile === Неважећа датотека Фиребасе акредитива!
 response_theme_sitelogofailed === Отпремање логотипа сајта није успело!
 response_theme_sitebgfailed === Отпремање у позадини сајта није успело!
@@ -2973,3 +2973,4 @@ modal_adminsettings_realtimetest === Тестирај везу
 js_realtime_testing === Тестирање везе у реалном времену...
 response_realtime_testok === Веза у реалном времену је успешна!
 response_realtime_testfailed === Веза у реалном времену није успела. Проверите акредитиве и адресу сервера.
+device_pair_invalidtoken === Овај код за упаривање је истекао или је већ искоришћен. Поново отворите „Додај уређај“ на свом сајту за нови код.

@@ -1502,7 +1502,7 @@ response_shortener_editsuccess === शॉर्टनर अद्यतनि�
 response_editplugin_success === प्लगइन सेटिंग्ज अद्यतनित केल्या गेल्या आहेत!
 response_updatepluin_corrupted === प्लगइन अपडेट फाइल करप्ट झाली आहे!
 response_updateplugin_updated === प्लगइन अद्यतनित केले गेले आहे!
-response_builder_invalidgooglefile === अवैध google सेवा क्रेडेंशियल फाइल!
+response_builder_invalidgooglefile === google-services.json फाइल अवैध आहे. ती तुमच्या Firebase प्रकल्पाच्या Android ॲपमधून डाउनलोड करा आणि बदल न करता अपलोड करा.
 response_builder_invalidfirebasefile === अवैध फायरबेस क्रेडेन्शियल फाइल!
 response_theme_sitelogofailed === साइट लोगो अपलोड अयशस्वी!
 response_theme_sitebgfailed === साइट पार्श्वभूमी अपलोड अयशस्वी!
@@ -2973,3 +2973,4 @@ modal_adminsettings_realtimetest === जोडणी तपासा
 js_realtime_testing === रिअल-टाइम जोडणी तपासत आहे...
 response_realtime_testok === रिअल-टाइम जोडणी यशस्वी!
 response_realtime_testfailed === रिअल-टाइम जोडणी अयशस्वी. क्रेडेन्शियल्स आणि सर्व्हर पत्ता तपासा.
+device_pair_invalidtoken === हा पेअरिंग कोड कालबाह्य झाला आहे किंवा आधीच वापरला गेला आहे. नवीन कोडसाठी तुमच्या साइटवर पुन्हा "डिव्हाइस जोडा" उघडा.

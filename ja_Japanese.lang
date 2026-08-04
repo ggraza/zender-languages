@@ -1502,7 +1502,7 @@ response_shortener_editsuccess === ショーターが更新されました！
 response_editplugin_success === プラグイン設定が更新されました！
 response_updatepluin_corrupted === プラグイン更新ファイルが壊れています！
 response_updateplugin_updated === プラグインが更新されました！
-response_builder_invalidgooglefile === 無効なGoogleサービスのクレデンシャルファイル！
+response_builder_invalidgooglefile === google-services.json ファイルが正しくありません。Firebase プロジェクトの Android アプリからダウンロードし、変更せずにアップロードしてください。
 response_builder_invalidfirebasefile === Firebaseクレデンシャルファイルが無効です！
 response_theme_sitelogofailed === サイトのロゴのアップロードに失敗しました！
 response_theme_sitebgfailed === サイトのバックグラウンドアップロードに失敗しました！
@@ -2973,3 +2973,4 @@ modal_adminsettings_realtimetest === 接続テスト
 js_realtime_testing === リアルタイム接続をテストしています...
 response_realtime_testok === リアルタイム接続に成功しました。
 response_realtime_testfailed === リアルタイム接続に失敗しました。認証情報とサーバー URL を確認してください。
+device_pair_invalidtoken === このペアリングコードは有効期限が切れているか、すでに使用されています。新しいコードを取得するには、サイトで「デバイスを追加」をもう一度開いてください。

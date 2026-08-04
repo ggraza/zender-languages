@@ -1502,7 +1502,7 @@ response_shortener_editsuccess === Skracovač bol aktualizovaný!
 response_editplugin_success === Nastavenia pluginu boli aktualizované!
 response_updatepluin_corrupted === Súbor aktualizácie doplnku je poškodený!
 response_updateplugin_updated === Plugin bol aktualizovaný!
-response_builder_invalidgooglefile === Neplatný súbor poverení služieb Google!
+response_builder_invalidgooglefile === Súbor google-services.json je neplatný. Stiahnite ho z aplikácie Android vo vašom projekte Firebase a nahrajte ho bez úprav.
 response_builder_invalidfirebasefile === Neplatný súbor poverení Firebase!
 response_theme_sitelogofailed === Nahranie loga stránky zlyhalo!
 response_theme_sitebgfailed === Nahranie stránky na pozadí zlyhalo!
@@ -2973,3 +2973,4 @@ modal_adminsettings_realtimetest === Otestovať pripojenie
 js_realtime_testing === Testuje sa pripojenie v reálnom čase...
 response_realtime_testok === Pripojenie v reálnom čase je úspešné!
 response_realtime_testfailed === Pripojenie v reálnom čase zlyhalo. Skontrolujte údaje a adresu servera.
+device_pair_invalidtoken === Tento párovací kód vypršal alebo už bol použitý. Znova otvorte „Pridať zariadenie“ na svojej stránke a získajte nový kód.

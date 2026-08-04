@@ -22,3 +22,5 @@ modal_adminsettings_realtimetest === Test Connection
 js_realtime_testing === Testing the realtime connection...
 response_realtime_testok === Realtime connection successful!
 response_realtime_testfailed === Realtime connection failed. Check the credentials and the server URL.
+response_builder_invalidgooglefile === The google-services.json file is invalid. Download it from your Firebase project's Android app and upload it unmodified.
+device_pair_invalidtoken === This pairing code has expired or was already used. Open Add Device on your site again for a fresh code.

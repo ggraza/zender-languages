@@ -1502,7 +1502,7 @@ response_shortener_editsuccess === 缩短器已更新！
 response_editplugin_success === 插件设置已更新！
 response_updatepluin_corrupted === 插件更新文件已损坏！
 response_updateplugin_updated === 插件已更新！
-response_builder_invalidgooglefile === 谷歌服务凭证文件无效！
+response_builder_invalidgooglefile === google-services.json 文件无效。请从您的 Firebase 项目的 Android 应用中下载该文件，并原样上传。
 response_builder_invalidfirebasefile === Firebase 凭据文件无效！
 response_theme_sitelogofailed === 网站标志上传失败！
 response_theme_sitebgfailed === 网站后台上传失败！
@@ -2973,3 +2973,4 @@ modal_adminsettings_realtimetest === 测试连接
 js_realtime_testing === 正在测试实时连接...
 response_realtime_testok === 实时连接成功！
 response_realtime_testfailed === 实时连接失败。请检查凭据和服务器地址。
+device_pair_invalidtoken === 此配对码已过期或已被使用。请在您的网站上重新打开“添加设备”以获取新的配对码。

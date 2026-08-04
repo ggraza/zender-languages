@@ -1502,7 +1502,7 @@ response_shortener_editsuccess === An sabunta Shortener!
 response_editplugin_success === An sabunta saitunan plugin!
 response_updatepluin_corrupted === Fayil ɗin sabunta plugin ɗin ya lalace!
 response_updateplugin_updated === An sabunta plugin!
-response_builder_invalidgooglefile === Fayil ɗin bayanan bayanan sabis na google mara inganci!
+response_builder_invalidgooglefile === Fayil ɗin google-services.json ba shi da inganci. Sauke shi daga manhajar Android ta aikin Firebase naka sannan ka ɗora shi ba tare da canjawa ba.
 response_builder_invalidfirebasefile === Fayil bayanan shaidar wuta mara inganci!
 response_theme_sitelogofailed === Loda tambarin rukunin yanar gizo ya kasa!
 response_theme_sitebgfailed === An kasa loda bayanan bayanan yanar gizo!
@@ -2973,3 +2973,4 @@ modal_adminsettings_realtimetest === Gwada Haduwa
 js_realtime_testing === Ana gwada haduwa kai tsaye...
 response_realtime_testok === Haduwa kai tsaye ta yi nasara!
 response_realtime_testfailed === Haduwa kai tsaye ta gaza. Ka duba bayanan shiga da adireshin uwar garke.
+device_pair_invalidtoken === Wannan lambar haɗin ta ƙare ko an riga an yi amfani da ita. Buɗe "Ƙara Na'ura" a shafinka kuma don samun sabuwar lamba.

@@ -1502,7 +1502,7 @@ response_shortener_editsuccess === تم تحديث أداة التقصير!
 response_editplugin_success === تم تحديث إعدادات البرنامج المساعد!
 response_updatepluin_corrupted === ملف تحديث البرنامج المساعد تالف!
 response_updateplugin_updated === تم تحديث البرنامج المساعد!
-response_builder_invalidgooglefile === ملف بيانات اعتماد خدمات Google غير صالح!
+response_builder_invalidgooglefile === ملف google-services.json غير صالح. قم بتنزيله من تطبيق أندرويد في مشروع Firebase الخاص بك وارفعه دون تعديل.
 response_builder_invalidfirebasefile === ملف بيانات اعتماد firebase غير صالح!
 response_theme_sitelogofailed === فشل تحميل شعار الموقع!
 response_theme_sitebgfailed === فشل تحميل خلفية الموقع!
@@ -2973,3 +2973,4 @@ modal_adminsettings_realtimetest === اختبار الاتصال
 js_realtime_testing === جارٍ اختبار الاتصال الفوري...
 response_realtime_testok === نجح الاتصال الفوري!
 response_realtime_testfailed === فشل الاتصال الفوري. تحقق من بيانات الاعتماد ورابط الخادم.
+device_pair_invalidtoken === انتهت صلاحية رمز الاقتران هذا أو تم استخدامه بالفعل. افتح "اضف جهاز" في موقعك مرة أخرى للحصول على رمز جديد.

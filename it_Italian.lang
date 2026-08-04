@@ -1502,7 +1502,7 @@ response_shortener_editsuccess === Lo ShortLink è stato aggiornato!
 response_editplugin_success === Le impostazioni del plugin sono state aggiornate!
 response_updatepluin_corrupted === Il file di aggiornamento del plugin è danneggiato!
 response_updateplugin_updated === Il plugin è stato aggiornato!
-response_builder_invalidgooglefile === File delle credenziali dei servizi Google non valido!
+response_builder_invalidgooglefile === Il file google-services.json non è valido. Scaricalo dall'app Android del tuo progetto Firebase e caricalo senza modificarlo.
 response_builder_invalidfirebasefile === File delle credenziali Firebase non valido!
 response_theme_sitelogofailed === Caricamento del logo del sito non riuscito!
 response_theme_sitebgfailed === Caricamento in background del sito non riuscito!
@@ -2973,3 +2973,4 @@ modal_adminsettings_realtimetest === Prova connessione
 js_realtime_testing === Prova della connessione in tempo reale...
 response_realtime_testok === Connessione in tempo reale riuscita!
 response_realtime_testfailed === Connessione in tempo reale non riuscita. Controlla le credenziali e l'URL del server.
+device_pair_invalidtoken === Questo codice di associazione è scaduto o è già stato utilizzato. Apri di nuovo «Aggiungi dispositivo» sul tuo sito per ottenere un nuovo codice.

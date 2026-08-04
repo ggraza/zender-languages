@@ -1502,7 +1502,7 @@ response_shortener_editsuccess === ¡El acortador ha sido actualizado!
 response_editplugin_success === ¡La configuración del complemento ha sido actualizada!
 response_updatepluin_corrupted === ¡El archivo de actualización del complemento está dañado!
 response_updateplugin_updated === ¡El complemento ha sido actualizado!
-response_builder_invalidgooglefile === ¡Archivo de credenciales de servicios de Google no válido!
+response_builder_invalidgooglefile === El archivo google-services.json no es válido. Descárguelo desde la aplicación Android de su proyecto de Firebase y súbalo sin modificar.
 response_builder_invalidfirebasefile === ¡Archivo de credenciales de Firebase no válido!
 response_theme_sitelogofailed === ¡Falló la carga del logotipo del sitio!
 response_theme_sitebgfailed === ¡Falló la carga en segundo plano del sitio!
@@ -2973,3 +2973,4 @@ modal_adminsettings_realtimetest === Probar conexión
 js_realtime_testing === Probando la conexión en tiempo real...
 response_realtime_testok === ¡Conexión en tiempo real correcta!
 response_realtime_testfailed === La conexión en tiempo real falló. Revisa las credenciales y la URL del servidor.
+device_pair_invalidtoken === Este código de vinculación ha caducado o ya se ha utilizado. Abra «Añadir dispositivo» de nuevo en su sitio para obtener un código nuevo.
