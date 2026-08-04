@@ -11,18 +11,12 @@ and_dashboard_pages_defailt_line37 === Gateway Awọn ošuwọn
 and_dashboard_pages_default_line42 === Awọn iwe aṣẹ
 and_dashboard_pages_default_line58 === Awọn ifiranṣẹ
 and_dashboard_pages_default_line60 === Awọn ọjọ 7 kẹhin
-and_dashboard_pages_default_line74 === Awọn iṣẹlẹ
-and_dashboard_pages_default_line76 === Awọn ọjọ 7 kẹhin
-and_dashboard_pages_default_line90 === Awọn ohun elo
-and_dashboard_pages_default_line92 === Awọn ọjọ 7 kẹhin
-and_dashboard_pages_default_line109 === Awọn alabaṣepọ
 and_dashboard_pages_default_line117 === Awọn owo-owo
 and_dashboard_pages_default_line131 === Isanwo
 and_dashboard_pages_default_line140 === Iwontunwonsi
 and_dashboard_pages_default_line148 === Awọn kirediti
 and_dashboard_pages_default_line162 === Top soke
 and_dashboard_pages_default_line170 === Ipin Ifijiṣẹ
-and_dash_pg_def_line178 === Aseyori
 and_dash_pg_def_line190 === Kuna
 and_dash_pg_def_line204 === Awọn olufiranṣẹ
 and_dash_pg_def_line209 === O ko ṣe alabapin si eyikeyi awọn idii Ere wa!
@@ -32,11 +26,9 @@ and_dash_pg_def_line232 === Awọn iroyin
 and_dash_pg_def_line239 === Ti sopọ mọ
 and_dash_pg_def_line250 === Ṣe igbasilẹ ati fi sori ẹrọ app osise wa lati ni iriri olumulo ti o dara julọ
 and_dash_pg_doc_line10 === Awọn iwe aṣẹ
-and_dash_pg_doc_line28 === API
 and_dash_pg_doc_line34 === Webhooks
 and_dash_pg_doc_line40 === Awọn iṣe
 and_dash_pg_doc_line46 === Awọn ẹrọ
-and_dash_pg_doc_line52 === Ìbàkẹgbẹ
 and_dash_pg_for_line29 === Fagilee
 and_dash_pg_log_line14 === Buwolu wọle pẹlu Facebook
 and_dash_pg_log_line17 === Buwolu wọle pẹlu Google
@@ -50,15 +42,10 @@ and_dash_pg_reg_line20 === Forukọsilẹ pẹlu Google
 and_dash_pg_reg_line25 === Forukọsilẹ pẹlu VKontakte
 and_dash_pg_whats_line10 === WhatsApp
 and_dash_pg_whats_line10_1 === Beta
-and_dash_pg_whats_line28 === Ti firanṣẹ
 and_dash_pg_whats_line34 === Ti gba
 and_dash_pg_whats_line40 === Eto
 and_dash_pg_whats_line46 === Awọn iroyin
-and_dash_api_line17 === Orukọ bọtini.
-and_dash_api_line19 === fun apẹẹrẹ. Fun Olupin Mi
-and_dash_api_line24 === Awọn igbanilaaye bọtini.
 and_dash_auto_line17 === Orukọ iṣẹ.
-and_dash_auto_line19 === fun apẹẹrẹ. Michael
 and_dash_auto_line24 === Orisun
 and_dash_auto_line24_1 === Orisun ti iṣẹlẹ gbigba.
 and_dash_auto_line27 === SMS
@@ -75,23 +62,16 @@ and_dash_cre_line28 === Ra
 and_dash_gate_line17 === Oruko
 and_dash_gate_line17_1 === Eyi ni orukọ ẹnu-ọna ti yoo han si awọn olumulo rẹ.
 and_dash_gate_line19 === fun apẹẹrẹ. Twilio
-and_dash_gate_line24 === Adarí
 and_dash_gate_line24_1 === Yan faili oluṣakoso ẹnu-ọna, eyi yoo ni imọran ẹnu-ọna ati koodu rẹ ninu. O ti wa ni niyanju lati ṣayẹwo awọn iwe.
-and_dash_gate_line27 === Adari igbomikana:
 and_dash_gate_line34 === Ipepada
 and_dash_gate_line34_1 === Ti o ba muu ṣiṣẹ, awọn ifiranṣẹ yoo nilo lati rii daju nipa lilo ẹya ipe pada ti ẹnu-ọna ẹgbẹ kẹta fun ipo fifiranṣẹ, bibẹẹkọ, awọn ifiranṣẹ yoo jẹ samisi lẹsẹkẹsẹ bi fifiranṣẹ lori fifiranṣẹ.
-and_dash_gate_line37 === Mu ṣiṣẹ
-and_dash_gate_line38 === Pa a
 and_dash_gate_line44 === ID ipe pada
 and_dash_gate_line44_1 === Ti o ba ti mu ipe pada ṣiṣẹ, o gbọdọ daakọ ID yii ki o si lẹẹmọ si oludari rẹ ki ẹrọ naa le ṣe idanimọ awọn ipe pada.
 and_dash_gate_line47 === Daakọ ati lẹẹ mọ fun ID ipe pada
-and_dash_gate_line54 === Ifowoleri
 and_dash_gate_line54_1 === Tabili idiyele aṣa rẹ fun ẹnu-ọna yii. Eyi yoo gba ọ laaye lati gba owo lori oke awọn idiyele ẹgbẹ kẹta. Fun apẹẹrẹ, ti twilio ba gba agbara 0.01 fun orilẹ-ede kan pato, lẹhinna o le gba agbara 0.02 dipo, owo da lori owo eto rẹ. Jọwọ tẹle ọna kika idiyele ni deede.
 and_dash_gate_line57 === Apeere JSON Ifowoleri:
-and_dash_gate_line57_1 === Gba lati ayelujara
 and_dash_grp_line17 === Orukọ ẹgbẹ.
 and_dash_grp_line19 === fun apẹẹrẹ. Awọn ọrẹ
-and_dash_hook_line17 === Orukọ iṣẹ.
 and_dash_hook_line19 === fun apẹẹrẹ. Igbeyewo Igbese
 and_dash_hook_line24 === Orisun
 and_dash_hook_line24_1 === Orisun iṣẹlẹ.
@@ -100,8 +80,6 @@ and_dash_hook_line44 === Ẹya ọna asopọ kio, eyi ni url ti yoo pe nipasẹ 
 and_dash_hook_line51 === Ṣeto awọn oniyipada ti o le lo ninu URL kio rẹ.
 and_dash_hook_line27 === SMS
 and_dash_hook_line28 === WhatsApp
-and_dash_hook_line37 === Lori Firanṣẹ
-and_dash_hook_line38 === Lori Gbigba
 and_dash_lang_line17 === Orukọ ede.
 and_dash_lang_line19 === fun apẹẹrẹ. Korean
 and_dash_lang_line24 === Koodu orilẹ-ede.
@@ -110,19 +88,14 @@ and_dash_lang_line35_1 === Ti o ba mu ṣiṣẹ, ede yoo jẹ idanimọ bi it�
 and_dash_lang_line38 === Bẹẹni
 and_dash_lang_line39 === Rara
 and_dash_lang_line45 === Awọn gbolohun ọrọ itumọ.
-and_dash_mail_line17 === Akọle
 and_dash_mail_line17_1 === Akọle ifiweranṣẹ.
-and_dash_mail_line19 === fun apẹẹrẹ. Ikede
 and_dash_mail_line24 === Awọn olumulo
 and_dash_mail_line24_1 === Firanṣẹ nipasẹ awọn olumulo.
-and_dash_mail_line36 === Awọn ipa
 and_dash_mail_line36_1 === Firanṣẹ nipasẹ awọn ipa.
 and_dash_mail_line48 === Akoonu
 and_dash_mail_line48_1 === Akoonu meeli, html laaye.
 and_dash_mail_line50 === Mo ki O Ile Aiye!
-and_dash_not_line17 === Akọle
 and_dash_not_line17_1 === Ṣe akiyesi akọle.
-and_dash_not_line19 === fun apẹẹrẹ. Ikede
 and_dash_not_line24 === Ifiranṣẹ
 and_dash_not_line24_1 === Fi leti ifiranṣẹ.
 and_dash_not_line31 === Àwọ̀
@@ -130,13 +103,8 @@ and_dash_not_line31_1 === Ṣe akiyesi awọ.
 and_dash_not_line35 === Aseyori
 and_dash_not_line36 === Ikilo
 and_dash_not_line37 === Ijamba
-and_dash_not_line43 === Aworan
 and_dash_not_line43_1 === Fi aworan leti, eyi jẹ iyan.
-and_dash_not_line46 === iyan
 and_dash_not_line53 === Awọn olumulo
-and_dash_not_line53_1 === Itẹjade nipasẹ awọn olumulo.
-and_dash_not_line65 === Awọn ipa
-and_dash_not_line65_1 === Itẹjade nipasẹ awọn ipa.
 and_pack_line17 === Orukọ idii.
 and_pack_line19 === fun apẹẹrẹ. VIP Package
 and_pack_line24 === Owo idii, eyi yẹ ki o tẹle owo eto naa. Awọn iye leefofo ko gba laaye.
@@ -151,33 +119,25 @@ and_pack_line65_1 === Nọmba awọn ifiranṣẹ ti o pọ julọ ti olumulo le
 and_pack_line67 === fun apẹẹrẹ. 150
 and_pack_line72 === USSD iye to
 and_pack_line72_1 === Nọmba ti o pọju ussd ti olumulo le beere ṣaaju ki o to tunto. Tẹ 0 fun ailopin.
-and_pack_line74 === fun apẹẹrẹ. 25
 and_pack_line79 === Ifilelẹ Ifitonileti
 and_pack_line79_1 === Nọmba awọn iwifunni ti o pọ julọ ti olumulo le gba ṣaaju atunto. Tẹ 0 fun ailopin.
 and_pack_line81 === fun apẹẹrẹ. 1300
 and_pack_line86 === Nọmba ti o pọ julọ ti awọn ẹrọ Android ti o le sopọ mọ akọọlẹ olumulo. Tẹ 0 fun ailopin.
-and_pack_line88 === fun apẹẹrẹ. 25
 and_pack_line92 === Awọn Eto WhatsApp
 and_pack_line97 === Nọmba awọn ibaraẹnisọrọ to pọ julọ ti olumulo le firanṣẹ ṣaaju atunto. Tẹ 0 fun ailopin.
-and_pack_line99 === fun apẹẹrẹ. 300
 and_pack_line104 === Nọmba awọn ibaraẹnisọrọ to pọ julọ ti olumulo le gba ṣaaju atunto. Tẹ 0 fun ailopin.
-and_pack_line106 === fun apẹẹrẹ. 150
 and_pack_line111 === Ifilelẹ iroyin
 and_pack_line111_1 === Nọmba ti o pọ julọ ti awọn akọọlẹ WhatsApp ti o le sopọ mọ akọọlẹ olumulo. Tẹ 0 fun ailopin.
 and_pack_line113 === fun apẹẹrẹ. 10
 and_pack_line117 === Eto IwUlO
 and_pack_line122 === Nọmba awọn olubasọrọ ti o pọju ti olumulo le wa ni fipamọ. Tẹ 0 fun ailopin.
-and_pack_line124 === fun apẹẹrẹ. 25
 and_pack_line129 === Ifilelẹ iṣeto
 and_pack_line129_1 === Nọmba ti o pọ julọ ti awọn ifiranse iṣeto/iwiregbe ti o le wa ni fipamọ nipasẹ olumulo. Tẹ 0 fun ailopin. Eyi ni idapo fun mejeeji SMS ati whatsapp.
-and_pack_line131 === fun apẹẹrẹ. 25
 and_pack_line136 === Nọmba ti o pọju ti awọn bọtini API ti o le ṣẹda. Tẹ 0 fun ailopin.
-and_pack_line138 === fun apẹẹrẹ. 10
 and_pack_line143 === Nọmba ti o pọju ti Webhooks ti o le ṣẹda. Tẹ 0 fun ailopin.
 and_pack_line145 === fun apẹẹrẹ. 5
 and_pack_line150 === Ifilelẹ awọn iṣe
 and_pack_line150_1 === Nọmba ti o pọju ti Awọn iṣe ti o le ṣẹda. Tẹ 0 fun ailopin.
-and_pack_line152 === fun apẹẹrẹ. 5
 and_page_line17 === Orukọ oju-iwe.
 and_page_line24 === Awọn ipa ti a yan nikan yoo ni anfani lati wọle si oju-iwe yii.
 and_page_line35 === Ti o ba mu ṣiṣẹ, oju-iwe kii yoo ni iwọle ti ko ba wọle.
@@ -189,13 +149,10 @@ and_payout_line24 === Olupese
 and_payout_line24_1 === Yan olupese isanwo ti o fẹ lo fun gbigba owo naa.
 and_payout_line27 === Paypal
 and_payout_line28 === Payoneer
-and_payout_line34 === Adirẹsi owo sisan
 and_payout_line34_1 === Adirẹsi isanwo tabi imeeli, jọwọ ṣayẹwo ni pẹkipẹki lati ṣe idiwọ awọn ọran isanwo.
 and_payout_line36 === fun apẹẹrẹ. Imeeli PayPal rẹ
-and_payout_line43 === Ibere
 and_plug_line17 === Faili ohun itanna
 and_plug_line17_1 === Plugin zip file, jọwọ rii daju pe o yan faili to pe.
-and_push_line17 === Akọle
 and_push_line17_1 === Titari akọle.
 and_push_line19 === fun apẹẹrẹ. Ikede
 and_push_line24 === Aworan
@@ -205,7 +162,6 @@ and_push_line34 === Ifiranṣẹ
 and_push_line34_1 === Titari ifiranṣẹ.
 and_push_line41 === Awọn olumulo
 and_push_line41_1 === Itẹjade nipasẹ awọn olumulo.
-and_push_line53 === Awọn ipa
 and_push_line53_1 === Itẹjade nipasẹ awọn ipa.
 and_role_line17 === Orukọ ipa.
 and_role_line19 === fun apẹẹrẹ. Olùgbéejáde
@@ -224,19 +180,14 @@ and_sms_line31 === Ti o ba ti ṣiṣẹ, ifiranṣẹ naa yoo ṣe eto ni gbogb
 and_sms_line42 === Awọn nọmba E.164 pupọ ti o yapa nipasẹ fifọ laini.
 and_sms_line55 === Yan ọpọ olubasọrọ awọn ẹgbẹ
 and_sms_line67 === Kikuru
-and_sms_line67_1 === Ti o ba mu ṣiṣẹ, awọn ọna asopọ ninu awọn ifiranṣẹ yoo kuru laifọwọyi nipa lilo kuru ti o yan.
 and_sms_line70 === Ma ṣe kuru awọn ọna asopọ
 and_sms_line79 === Ipo ẹnu-ọna
-and_sms_line79_1 === Ipo ẹnu-ọna ti o fẹ lo. Ti o ba yan awọn ẹrọ, awọn ẹrọ ti o sopọ mọ yoo han fun fifiranṣẹ, bibẹẹkọ, ẹgbẹ kẹta ati awọn ẹnu-ọna alabaṣepọ yoo han.
 and_sms_line82 === Awọn ẹrọ
 and_sms_line83 === Awọn kirediti
 and_sms_line88 === Iho kaadi SIM lati lo.
-and_sms_line91 === SIM1
-and_sms_line92 === SIM2
 and_sms_line97 === Awọn awoṣe ifiranṣẹ ti a ṣe tẹlẹ.
 and_sms_line110 === Awọn ẹrọ ti o sopọ mọ, yan ohun ti o fẹ lo fun fifiranṣẹ.
 and_sms_line121 === SMS Gateway
-and_sms_line121_1 === Ẹgbẹ kẹta ati awọn ẹnu-ọna alabaṣepọ, awọn kirẹditi rẹ yoo ṣee lo nigbati o ba fi awọn ifiranṣẹ ranṣẹ nipa lilo awọn ẹnu-ọna wọnyi. A ṣeduro pe ki o ṣayẹwo awọn idiyele ẹnu-ọna ṣaaju lilo wọn.
 and_sms_line141 === Spintax
 and_sms_line144 === Apeere:
 and_sms_line144_1 === Tom jẹ a
@@ -270,8 +221,6 @@ and_user_line31 === Tẹ ọrọigbaniwọle olumulo sii.
 and_user_line38 === Akoko agbegbe ipo olumulo, yi eyi pada ti wọn ba wa ni orilẹ-ede miiran. Aago aago jẹ lilo fun ọjọ ati deede akoko ti awọn ifiranṣẹ ti a firanṣẹ ati data miiran.
 and_user_line49 === Orilẹ-ede
 and_user_line49_1 === Orilẹ-ede olumulo, eyi ni a lo fun awọn sisanwo ati tito nọmba foonu.
-and_user_line60 === Awọn ohun iwifunni
-and_user_line60_1 === Ti o ba jẹ alaabo, awọn iwifunni yoo dakẹ.
 and_user_line70 === Yan ipa olumulo.
 and_user_line81 === Yan ede olumulo.
 and_user_line92 === Eto Alabaṣepọ
@@ -280,17 +229,12 @@ and_ussd_line17 === USSD koodu
 and_ussd_line17_1 === USSD ìbéèrè koodu.
 and_ussd_line19 === fun apẹẹrẹ. *121#
 and_ussd_line24 === Iho kaadi SIM lati lo.
-and_ussd_line27 === SIM1
-and_ussd_line28 === SIM2
 and_ussd_line34 === Awọn ẹrọ ti o sopọ mọ, yan ohun ti o fẹ lati lo fun ibeere ussd.
 and_ussd_line47 === Ibere
 and_vouch_line17 === Orukọ iwe-ẹri.
 and_vouch_line19 === fun apẹẹrẹ. Pataki
 and_vouch_line24 === Iye awọn iwe-ẹri ti o fẹ ṣẹda. Iwọn ti o pọju jẹ 1000!
 and_vouch_line26 === fun apẹẹrẹ. 100
-and_vouch_line31 === Iye akoko ṣiṣe alabapin.
-and_vouch_line33 === fun apẹẹrẹ. 12
-and_vouch_line38 === package alabapin.
 and_web_line17 === Webhook orukọ.
 and_web_line24 === Gba Awọn iṣẹlẹ
 and_web_line24_1 === Yan awọn iṣẹlẹ gbigba ti o nilo, wọn yoo firanṣẹ si url kio wẹẹbu rẹ nipasẹ ọna POST.
@@ -300,18 +244,11 @@ and_web_line29 === USSD
 and_web_line30 === Awọn iwifunni
 and_web_line36 === url webhook rẹ, gbogbo data fifuye ni yoo firanṣẹ nibi nipasẹ ọna POST.
 and_web_line38 === fun apẹẹrẹ. http://yourdomain.com/hook_listen.php
-and_whatssched_line17 === Orukọ iwiregbe iṣeto.
-and_whatssched_line19 === fun apẹẹrẹ. Ifiranṣẹ mi
-and_whatssched_line24 === Yan ọjọ iṣeto.
-and_whatssched_line26 === fun apẹẹrẹ. 22/06/2020 12:00
 and_whatssched_line31 === Ti o ba ti ṣiṣẹ, iwiregbe yoo wa ni iṣeto ni gbogbo igba ti ọjọ ti a ṣeto ba baamu.
 and_whatssched_line42 === Awọn nọmba E.164 pupọ ti o yapa nipasẹ fifọ laini.
-and_whatssched_line55 === Yan ọpọ olubasọrọ awọn ẹgbẹ
 and_whatssched_line67 === Kikuru
-and_whatssched_line67_1 === Ti o ba mu ṣiṣẹ, awọn ọna asopọ ninu awọn ifiranṣẹ yoo kuru laifọwọyi nipa lilo kuru ti o yan.
 and_whatssched_line70 === Ma ṣe kuru awọn ọna asopọ
 and_whatssched_line79 === Iroyin
-and_whatssched_line79_1 === Yan akọọlẹ WhatsApp ti o fẹ lo.
 and_whatsached_line88 === Awọn awoṣe ifiranṣẹ ti a ṣe tẹlẹ.
 and_whatssched_line103 === Spintax
 and_whatssched_line103_1 === Ẹya kan ti o fun ọ laaye lati ṣe aileto awọn ọrọ ninu awọn ifiranṣẹ rẹ eyiti o ṣe idiwọ awọn awari spamming ni imunadoko.
@@ -366,14 +303,11 @@ and_admin_build_line95_1 === Aami aworan iwọle app, eyi ni aworan ti o han nin
 and_admin_build_line103 === Aami aworan ohun elo, eyi ni a fihan ninu duroa app ati eto Android. Awọn iwọn ti a ṣeduro jẹ 1024x1024 ni px ati ọna kika png.
 and_admin_build_line111 === App splashscreen image, yi ti han nigbati awọn olumulo ṣi awọn app. Awọn iwọn ti a ṣeduro jẹ 2732x2732 ni px ati ọna kika png.
 and_admin_build_line118 === Ilana
-and_admin_build_line123 === JavaScript aṣa
 and_admin_build_line123_1 === Ti o ba fẹ lo koodu JavaScript ti aṣa, jọwọ fi sii nibi. Eyi ni a kojọpọ ni agbara ninu ohun elo naa.
 and_admin_build_line125 === apere, gbigbọn ('Hello World!');
-and_admin_build_line130 === CSS aṣa
 and_admin_build_line130_1 === Ti o ba fẹ lo koodu css aṣa, jọwọ fi sii nibi. Eyi ni a kojọpọ ni agbara ninu ohun elo naa.
 and_admin_build_line137 === Aṣa Ìfilélẹ
 and_admin_build_line137_1 === Ti o ba fẹ lo eto ohun elo aṣa, jọwọ ṣe atunṣe akoonu html, ti o ko ba mọ ohun ti o n ṣe, jọwọ fi iye aiyipada silẹ.
-and_admin_build_line139 === Mo ki O Ile Aiye!
 and_settings_line21 === Orukọ aaye, eyi ni a fihan nibi gbogbo nibiti o ti nilo iyasọtọ.
 and_settings_line23 === fun apẹẹrẹ. Zender
 and_settings_line28 === Apejuwe aaye, eyi jẹ fun iṣapeye ẹrọ wiwa, nitorinaa jẹ ẹda.
@@ -388,14 +322,12 @@ and_settings_line70 === Ti o ba jẹ alaabo, awọn iforukọsilẹ nipasẹ oju
 and_settings_line80 === Package Tun Ipo
 and_settings_line80_1 === Aarin atunkọ ti awọn opin bii fifiranṣẹ, gbigba, ussd ati awọn iwifunni. Eyi kan fun awọn ẹya Android ati WhatsApp mejeeji. Aṣayan rẹ nibi gbọdọ tun lo ninu iṣeto cron.
 and_settings_line83 === Ojoojumọ
-and_settings_line84 === Oṣooṣu
 and_settings_line90 === Awoṣe Ọfẹ
 and_settings_line90_1 === Ti o ba mu ṣiṣẹ, package ọfẹ aiyipada jẹ sọtọ laifọwọyi si olumulo lẹhin iforukọsilẹ.
 and_settings_line100 === Ti o ba jẹ alaabo, oju-iwe akọọkan ko ni lo. Gbogbo awọn ọdọọdun ti o wa ninu itọsọna gbongbo yoo jẹ darí si dasibodu.
 and_settings_line110 === TAWK Wijeti ẹrọ ailorukọ
 and_settings_line110_1 === Ti o ba ṣiṣẹ, ẹrọ ailorukọ iwiregbe tawk yoo han si awọn olumulo.
 and_settings_line120 === Ọna asopọ ẹrọ ailorukọ tawk iwiregbe rẹ, eyi nilo ti o ba fẹ lo atilẹyin iwiregbe tawk.
-and_settings_line127 === API alábòójútó
 and_settings_line127_1 === Yan awọn aaye ipari API abojuto ti o fẹ mu ṣiṣẹ. O ti wa ni niyanju wipe ki o nikan mu endpoints ti o nilo.
 and_settings_line159 === Àmi yìí kò gbọdọ̀ pín fún ẹnikẹ́ni. Eyi ni a lo fun aabo awọn cronjobs, API eto ati awọn ibeere ita miiran. Ti o ba ro pe aami eto rẹ ti gbogun, jọwọ ṣe atunto tuntun kan, iwọ yoo nilo lati tunto awọn cronjobs rẹ, API eto ati awọn eto miiran ti o jọmọ lẹhin atunbi ami tuntun kan.
 and_settings_line160 === Tuntun-pada
@@ -419,9 +351,7 @@ and_settings_line263 === fun apẹẹrẹ. test_4vzuJVhRCFSyNyuc6gwvJpQ474Vngp
 and_settings_line268 === Owo eto lati lo, eyi yoo ṣee lo bi ipilẹ nigba iyipada awọn iṣowo si USD.
 and_settings_line279 === Yan awọn olupese sisanwo ti o fẹ lo.
 and_settings_line293 === Awọn lẹta to kere julọ fun awọn ifiranṣẹ. Eyi kan si SMS mejeeji ati WhatsApp.
-and_settings_line295 === fun apẹẹrẹ. 5
 and_settings_line300 === Awọn lẹta ti o pọju fun awọn ifiranṣẹ. Eyi kan si SMS mejeeji ati WhatsApp. Tẹ 0 sii fun awọn ohun kikọ ailopin.
-and_settings_line302 === fun apẹẹrẹ. 300
 and_settings_line307 === Aami ẹlẹsẹ ifiranṣẹ, eyi ni a fikun si awọn ifiranṣẹ ti package wọn ba ni ami ifẹsẹsẹ ṣiṣẹ.
 and_settings_line309 === fun apẹẹrẹ. Rán lati Zender System
 and_settings_line318 === Nọmba aiyipada ti awọn ori ila lati ṣafihan ni tabili awọn ifiranṣẹ ti a firanṣẹ. Eyi kan si SMS mejeeji ati WhatsApp.
@@ -484,16 +414,11 @@ and_edit_auto_line36 === fun apẹẹrẹ. o ṣeun, dara, ṣe alabapin, bẹ�
 and_edit_auto_line41 === Ifiranṣẹ lati firanṣẹ si olufiranṣẹ.
 and_edit_auto_line43 === fun apẹẹrẹ. Ifiranṣẹ esi rẹ nibi, awọn koodu kukuru ti gba
 and_edit_auto_line48 === Ṣeto awọn oniyipada ti o le lo ninu ifiranṣẹ rẹ.
-and_edit_con_line17 === Orukọ olubasọrọ.
 and_edit_con_line19 === fun apẹẹrẹ. Michael
-and_edit_con_line24 === Nọmba olubasọrọ.
-and_edit_con_line31 === Ẹgbẹ olubasọrọ.
-and_edit_dev_line16 === Awọn alaye ẹrọ
 and_edit_dev_line21 === Orukọ ẹrọ.
 and_edit_dev_line23 === fun apẹẹrẹ. Ẹrọ mi
 and_edit_dev_line28 === Ti o ba ti ṣiṣẹ, awọn ifiranṣẹ yoo wa ni awọn aaye arin laileto laarin awọn iye 2. O le tunto wọn ni isalẹ.
 and_edit_dev_line38 === Aarin ti o kere julọ ni iṣẹju-aaya.
-and_edit_dev_line41 === fun apẹẹrẹ. 5
 and_edit_dev_line46 === Aarin ti o pọju ni iṣẹju-aaya.
 and_edit_dev_line49 === fun apẹẹrẹ. 20
 and_edit_dev_line53 === Eto iwifunni
@@ -514,109 +439,25 @@ and_edit_dev_line112_1 === Yan awọn iho SIM ti o fẹ lati lo fun fifiranṣ�
 and_edit_email_line16 === Imeeli Awoṣe
 and_edit_email_line18 === HTML laaye
 and_edit_gate_line17 === Oruko
-and_edit_gate_line17_1 === Eyi ni orukọ ẹnu-ọna ti yoo han si awọn olumulo rẹ.
-and_edit_gate_line19 === fun apẹẹrẹ. Twilio
-and_edit_gate_line24 === Adarí
-and_edit_gate_line24_1 === Yan faili oluṣakoso ẹnu-ọna, eyi yoo ni imọran ẹnu-ọna ati koodu rẹ ninu. O ti wa ni niyanju lati ṣayẹwo awọn iwe.
-and_edit_gate_line31 === Ipepada
-and_edit_gate_line31_1 === Ti o ba muu ṣiṣẹ, awọn ifiranṣẹ yoo nilo lati rii daju nipa lilo ẹya ipe pada ti ẹnu-ọna ẹgbẹ kẹta fun ipo fifiranṣẹ, bibẹẹkọ, awọn ifiranṣẹ yoo jẹ samisi lẹsẹkẹsẹ bi fifiranṣẹ lori fifiranṣẹ.
-and_edit_gate_line34 === Mu ṣiṣẹ
-and_edit_gate_line35 === Pa a
 and_edit_gate_line41 === ID ipe pada
-and_edit_gate_line41_1 === Ti o ba ti mu ipe pada ṣiṣẹ, o gbọdọ daakọ ID yii ki o si lẹẹmọ si oludari rẹ ki ẹrọ naa le ṣe idanimọ awọn ipe pada.
-and_edit_gate_line44 === Daakọ ati lẹẹ mọ fun ID ipe pada
-and_edit_gate_line51 === Ifowoleri
-and_edit_gate_line51_1 === Tabili idiyele aṣa rẹ fun ẹnu-ọna yii. Eyi yoo gba ọ laaye lati gba owo lori oke awọn idiyele ẹgbẹ kẹta. Fun apẹẹrẹ, ti twilio ba gba agbara 0.01 fun orilẹ-ede kan pato, lẹhinna o le gba agbara 0.02 dipo, owo da lori owo eto rẹ. Jọwọ tẹle ọna kika idiyele ni deede.
-and_edit_gate_line54 === Apeere JSON Ifowoleri:
-and_edit_gate_line54_1 === Gba lati ayelujara
-and_edit_grp_line17 === Orukọ ẹgbẹ.
-and_edit_grp_line19 === fun apẹẹrẹ. Awọn ọrẹ
-and_edit_hook_line17 === Orukọ iṣẹ.
-and_edit_hook_line19 === fun apẹẹrẹ. Igbeyewo Igbese
 and_edit_hook_line24 === Orisun
-and_edit_hook_line24_1 === Orisun iṣẹlẹ.
 and_edit_hook_line27 === SMS
 and_edit_hook_line28 === WhatsApp
-and_edit_hook_line34 === Yan iṣẹlẹ nibiti kio yii yoo pe.
-and_edit_hook_line37 === Lori Firanṣẹ
-and_edit_hook_line38 === Lori Gbigba
-and_edit_hook_line44 === Ẹya ọna asopọ kio, eyi ni url ti yoo pe nipasẹ eto naa. Ọna GET nikan ni atilẹyin.
-and_edit_hook_line51 === Ṣeto awọn oniyipada ti o le lo ninu URL kio rẹ.
-and_edit_lang_line17 === fun apẹẹrẹ. Korean
-and_edit_lang_line30 === RTL
 and_edit_lang_line32 === Bẹẹni
 and_edit_lang_line33 === Rara
-and_edit_pack_line17 === Orukọ idii.
-and_edit_pack_line19 === fun apẹẹrẹ. VIP Package
-and_edit_pack_line24 === Owo idii, eyi yẹ ki o tẹle owo eto naa. Awọn iye leefofo ko gba laaye.
-and_edit_pack_line29 === fun apẹẹrẹ. 25
-and_edit_pack_line34 === Ti o ba ti ṣiṣẹ, awọn ifiranṣẹ ati awọn ibaraẹnisọrọ whatsapp yoo ni ami ẹlẹsẹ ninu nigbati awọn olugba gba wọle.
-and_edit_pack_line44 === Ti o ba mu ṣiṣẹ, package yoo farapamọ lati modal package ati oju-iwe akọkọ.
 and_edit_pack_line53 === Eto Android
-and_edit_pack_line58 === SMS Fi opin si
-and_edit_pack_line58_1 === Nọmba awọn ifiranṣẹ ti o pọ julọ ti olumulo le firanṣẹ ṣaaju atunto. Tẹ 0 fun ailopin.
-and_edit_pack_line60 === fun apẹẹrẹ. 300
-and_edit_pack_line65 === Ifilelẹ Gbigba SMS
-and_edit_pack_line65_1 === Nọmba awọn ifiranṣẹ ti o pọ julọ ti olumulo le gba ṣaaju atunto. Tẹ 0 fun ailopin.
-and_edit_pack_line67 === fun apẹẹrẹ. 150
-and_edit_pack_line72 === USSD iye to
-and_edit_pack_line72_1 === Nọmba ti o pọju ussd ti olumulo le beere ṣaaju ki o to tunto. Tẹ 0 fun ailopin.
-and_edit_pack_line74 === fun apẹẹrẹ. 25
 and_edit_pack_line79 === Ifilelẹ Ifitonileti
 and_edit_pack_line79_1 === Nọmba awọn iwifunni ti o pọ julọ ti olumulo le gba ṣaaju atunto. Tẹ 0 fun ailopin.
 and_edit_pack_line81 === fun apẹẹrẹ. 1300
-and_edit_pack_line86 === Nọmba ti o pọ julọ ti awọn ẹrọ Android ti o le sopọ mọ akọọlẹ olumulo. Tẹ 0 fun ailopin.
-and_edit_pack_line88 === fun apẹẹrẹ. 25
-and_edit_pack_line92 === Awọn Eto WhatsApp
-and_edit_pack_line97 === Nọmba awọn ibaraẹnisọrọ to pọ julọ ti olumulo le firanṣẹ ṣaaju atunto. Tẹ 0 fun ailopin.
-and_edit_pack_line99 === fun apẹẹrẹ. 300
-and_edit_pack_line104 === Nọmba awọn ibaraẹnisọrọ to pọ julọ ti olumulo le gba ṣaaju atunto. Tẹ 0 fun ailopin.
-and_edit_pack_line106 === fun apẹẹrẹ. 150
-and_edit_pack_line111 === Ifilelẹ iroyin
-and_edit_pack_line111_1 === Nọmba ti o pọ julọ ti awọn akọọlẹ WhatsApp ti o le sopọ mọ akọọlẹ olumulo. Tẹ 0 fun ailopin.
-and_edit_pack_line113 === fun apẹẹrẹ. 10
-and_edit_pack_line117 === Eto IwUlO
-and_edit_pack_line122 === Nọmba awọn olubasọrọ ti o pọju ti olumulo le wa ni fipamọ. Tẹ 0 fun ailopin.
-and_edit_pack_line124 === fun apẹẹrẹ. 25
 and_edit_pack_line129 === Ifilelẹ iṣeto
-and_edit_pack_line129_1 === Nọmba ti o pọ julọ ti awọn ifiranse iṣeto/iwiregbe ti o le wa ni fipamọ nipasẹ olumulo. Tẹ 0 fun ailopin. Eyi ni idapo fun mejeeji SMS ati whatsapp.
-and_edit_pack_line131 === fun apẹẹrẹ. 25
-and_edit_pack_line136 === Nọmba ti o pọju ti awọn bọtini API ti o le ṣẹda. Tẹ 0 fun ailopin.
-and_edit_pack_line138 === fun apẹẹrẹ. 10
-and_edit_pack_line143 === Nọmba ti o pọju ti Webhooks ti o le ṣẹda. Tẹ 0 fun ailopin.
-and_edit_pack_line145 === fun apẹẹrẹ. 5
-and_edit_pack_line150 === Ifilelẹ awọn iṣe
-and_edit_pack_line150_1 === Nọmba ti o pọju ti Awọn iṣe ti o le ṣẹda. Tẹ 0 fun ailopin.
-and_edit_pack_line152 === fun apẹẹrẹ. 5
-and_edit_page_line17 === Orukọ oju-iwe.
-and_edit_page_line24 === Awọn ipa ti a yan nikan yoo ni anfani lati wọle si oju-iwe yii.
-and_edit_page_line35 === Ti o ba mu ṣiṣẹ, oju-iwe kii yoo ni iwọle ti ko ba wọle.
-and_edit_page_line45 === Awọn akoonu oju-iwe. Gbogbo awọn afi html laaye, ṣọra nigbati o ba nfi awọn iwe afọwọkọ kun lati awọn orisun aimọ!
-and_edit_role_line17 === Orukọ ipa.
-and_edit_role_line19 === fun apẹẹrẹ. Olùgbéejáde
-and_edit_role_line24 === Yan awọn igbanilaaye ati awọn ẹya ti o fẹ mu / mu ṣiṣẹ fun ipa yii. Awọn iyipada ti wa ni lilo ni akoko gidi, awọn taabu aṣawakiri ti awọn olumulo ti o sopọ pẹlu ipa naa ni a tun gbejade laifọwọyi.
 and_edit_short_line17 === Oruko
-and_edit_short_line17_1 === Orukọ Shortener.
-and_edit_short_line19 === fun apẹẹrẹ. Dije
-and_edit_short_line24 === Adarí
-and_edit_short_line24_1 === Yan faili oluṣakoso kikuru, eyi yoo ni ọgbọn kukuru ati koodu rẹ ninu. O ti wa ni niyanju lati ṣayẹwo awọn iwe.
-and_edit_sms_line17 === Orukọ ifiranṣẹ ti a ṣeto.
-and_edit_sms_line19 === fun apẹẹrẹ. Ifiranṣẹ mi
-and_edit_sms_line24 === Yan ọjọ iṣeto.
-and_edit_sms_line26 === fun apẹẹrẹ. 22/06/2020 12:00
 and_edit_sms_line31 === Ti o ba ti ṣiṣẹ, ifiranṣẹ naa yoo ṣe eto ni gbogbo igba ti ọjọ ti a ṣeto ba baamu.
-and_edit_sms_line42 === Awọn nọmba E.164 pupọ ti o yapa nipasẹ fifọ laini.
-and_edit_sms_line55 === Yan ọpọ olubasọrọ awọn ẹgbẹ
 and_edit_sms_line67 === Ipo ẹnu-ọna
-and_edit_sms_line67_1 === Ipo ẹnu-ọna ti o fẹ lo. Ti o ba yan awọn ẹrọ, awọn ẹrọ ti o sopọ mọ yoo han fun fifiranṣẹ, bibẹẹkọ, ẹgbẹ kẹta ati awọn ẹnu-ọna alabaṣepọ yoo han.
 and_edit_sms_line70 === Awọn ẹrọ
 and_edit_sms_line71 === Awọn kirediti
 and_edit_sms_line76 === Iho kaadi SIM lati lo.
-and_edit_sms_line79 === SIM1
-and_edit_sms_line80 === SIM2
 and_edit_sms_line88 === Awọn ẹrọ ti o sopọ mọ, yan ohun ti o fẹ lo fun fifiranṣẹ.
 and_edit_sms_line99 === SMS Gateway
-and_edit_sms_line99_1 === Ẹgbẹ kẹta ati awọn ẹnu-ọna alabaṣepọ, awọn kirẹditi rẹ yoo ṣee lo nigbati o ba fi awọn ifiranṣẹ ranṣẹ nipa lilo awọn ẹnu-ọna wọnyi. A ṣeduro pe ki o ṣayẹwo awọn idiyele ẹnu-ọna ṣaaju lilo wọn.
 and_edit_sms_line119 === Spintax
 and_edit_sms_line122 === Apeere:
 and_edit_sms_line122_1 === Tom jẹ a
@@ -626,8 +467,6 @@ and_edit_sms_line125_1 === dara
 and_edit_sms_line125_2 === ati
 and_edit_sms_line125_3 === buburu
 and_edit_sms_line125_4 === ao lo laileto.
-and_edit_temp_line17 === Orukọ awoṣe.
-and_edit_temp_line24 === Awoṣe kika.
 and_edit_temp_line31 === Spintax
 and_edit_temp_line31_1 === Ẹya kan ti o fun ọ laaye lati ṣe aileto awọn ọrọ ninu awọn ifiranṣẹ rẹ eyiti o ṣe idiwọ awọn awari spamming ni imunadoko.
 and_edit_temp_line35 === Apeere:
@@ -639,35 +478,16 @@ and_edit_temp_line38_2 === ati
 and_edit_temp_line38_3 === buburu
 and_edit_temp_line38_4 === ao lo laileto.
 and_edit_temp_line43 === Ṣeto awọn oniyipada ti o le lo ninu awọn ifiranṣẹ rẹ.
-and_eduse_line17 === Orukọ ofin rẹ ni kikun, jọwọ ṣe akiyesi pe lilo orukọ iro le jẹ ki akọọlẹ rẹ daduro.
-and_eduse_line19 === fun apẹẹrẹ. Michael Cors
 and_eduse_line24 === Adirẹsi imeeli to wulo, foju aaye yii ti o ba fẹ tọju adirẹsi imeeli lọwọlọwọ.
-and_eduse_line26 === fun apẹẹrẹ. olumulo@mail.com
 and_eduse_line31 === Ti o ba fẹ tọju ọrọ igbaniwọle lọwọlọwọ, jọwọ foju aaye yii, bibẹẹkọ, tẹ ọrọ igbaniwọle tuntun sii.
-and_eduse_line38 === Aago ipo ipo rẹ, yi eyi pada ti o ba wa ni orilẹ-ede miiran. Aago aago jẹ lilo fun ọjọ ati deede akoko ti awọn ifiranṣẹ ti a firanṣẹ ati data miiran.
 and_eduse_line49 === Orilẹ-ede
-and_eduse_line49_1 === Orilẹ-ede rẹ, eyi ni a lo fun awọn sisanwo ati tito nọmba foonu.
-and_eduse_line60 === Awọn ohun iwifunni
-and_eduse_line60_1 === Ti o ba jẹ alaabo, awọn iwifunni yoo dakẹ.
-and_eduse_line70 === Yan ipa olumulo.
-and_eduse_line81 === Yan ede olumulo.
-and_eduse_line92 === Eto Alabaṣepọ
-and_eduse_line92_1 === Ti o ba ṣiṣẹ, olumulo yoo ni anfani lati lo awọn ẹrọ wọn bi awọn ẹrọ agbaye eyiti yoo gba wọn laaye lati ni owo nigbati olumulo miiran ba fi awọn ifiranṣẹ ranṣẹ nipa lilo awọn ẹrọ wọn.
-and_edweb_line17 === Webhook orukọ.
 and_edweb_line24 === Gba Awọn iṣẹlẹ
-and_edweb_line24_1 === Yan awọn iṣẹlẹ gbigba ti o nilo, wọn yoo firanṣẹ si url kio wẹẹbu rẹ nipasẹ ọna POST.
 and_edweb_line30 === Awọn iwifunni
-and_edweb_line36 === url webhook rẹ, gbogbo data fifuye ni yoo firanṣẹ nibi nipasẹ ọna POST.
 and_edweb_line38 === fun apẹẹrẹ. https://yourdomain.com/reply.php
 and_edwhat_line17 === Orukọ iwiregbe iṣeto.
-and_edwhat_line19 === fun apẹẹrẹ. Ifiranṣẹ mi
-and_edwhat_line24 === Yan ọjọ iṣeto.
-and_edwhat_line26 === fun apẹẹrẹ. 22/06/2020 12:00
 and_edwhat_line31 === Ti o ba ti ṣiṣẹ, iwiregbe yoo wa ni iṣeto ni gbogbo igba ti ọjọ ti a ṣeto ba baamu.
 and_edwhat_line42 === Awọn nọmba E.164 pupọ ti o yapa nipasẹ fifọ laini.
-and_edwhat_line55 === Yan ọpọ olubasọrọ awọn ẹgbẹ
 and_edwhat_line67 === Iroyin
-and_edwhat_line67_1 === Yan akọọlẹ WhatsApp ti o fẹ lo.
 and_edwhat_line76 === Awọn awoṣe ifiranṣẹ ti a ṣe tẹlẹ.
 and_edwhat_line91 === Spintax
 and_edwhat_line91_1 === Ẹya kan ti o fun ọ laaye lati ṣe aileto awọn ọrọ ninu awọn ifiranṣẹ rẹ eyiti o ṣe idiwọ awọn awari spamming ni imunadoko.
@@ -691,34 +511,23 @@ and_edwid_line53 === Ipo ailorukọ, fun awọn awoṣe nikan.
 and_edwid_line64 === Akoonu ailorukọ. Gbogbo awọn afi HTML ni a gba laaye, ṣọra nigbati o ba ṣafikun awọn iwe afọwọkọ lati awọn orisun aimọ!
 and_import_line17 === Faili Excel ti o fẹ gbe wọle, jọwọ rii daju pe o tẹle ọna kika ti o nilo.
 and_import_line20 === Faili Apeere:
-and_import_line20_1 === Gba lati ayelujara
-and_package_line36 === Gbigba SMS
-and_package_line41 === WhatsApp Firanṣẹ
-and_package_line46 === WhatsApp Gba
 and_package_line51 === USSD
 and_package_line56 === Awọn iwifunni
-and_package_line61 === SMS/Chats ti a ṣeto
 and_package_line66 === Awọn olubasọrọ
 and_package_line71 === Awọn bọtini API
 and_package_line76 === Webhooks
 and_package_line81 === Awọn iṣe
-and_package_line86 === Awọn ẹrọ Android
 and_package_line91 === Awọn iroyin WhatsApp
 and_redeem_line18 === Rà koodu.
 and_redeem_line20 === fun apẹẹrẹ. 2f5b4727c7c8596779b21d7644e2ebb8
 and_sms_bulk_18 === Awọn nọmba E.164 pupọ ti o yapa nipasẹ fifọ laini. Ifiranṣẹ 1 nikan ni yoo firanṣẹ si nọmba kan paapaa ti o ba yan awọn ẹgbẹ nibiti o ti ṣafikun.
 and_sms_bulk_31 === Yan ọpọ olubasọrọ awọn ẹgbẹ. Ifiranṣẹ 1 nikan ni yoo firanṣẹ si olubasọrọ kan paapaa ti o ba yan awọn ẹgbẹ lọpọlọpọ nibiti o ti ṣafikun.
 and_sms_bulk_43 === Kikuru
-and_sms_bulk_43_1 === Ti o ba mu ṣiṣẹ, awọn ọna asopọ ninu awọn ifiranṣẹ yoo kuru laifọwọyi nipa lilo kuru ti o yan.
 and_sms_bulk_46 === Ma ṣe kuru awọn ọna asopọ
 and_sms_bulk_55 === Ipo ẹnu-ọna
-and_sms_bulk_55_1 === Ipo ẹnu-ọna ti o fẹ lo. Ti o ba yan awọn ẹrọ, awọn ẹrọ ti o sopọ mọ yoo han fun fifiranṣẹ, bibẹẹkọ, ẹgbẹ kẹta ati awọn ẹnu-ọna alabaṣepọ yoo han.
 and_sms_bulk_58 === Awọn ẹrọ
 and_sms_bulk_59 === Awọn kirediti
 and_sms_bulk_64 === Iho kaadi SIM lati lo.
-and_sms_bulk_67 === SIM1
-and_sms_bulk_68 === SIM2
-and_sms_bulk_72 === Ti o ba ti ṣiṣẹ, awọn ifiranṣẹ wọnyi yoo firanṣẹ ṣaaju ohunkohun miiran.
 and_sms_bulk_81 === Awọn awoṣe ifiranṣẹ ti a ṣe tẹlẹ.
 and_sms_bulk_94 === Awọn ẹrọ ti o sopọ mọ, yan ohun ti o fẹ lo fun fifiranṣẹ.
 and_sms_bulk_105 === SMS Gateway
@@ -730,9 +539,7 @@ and_sms_bulk_135 === Apeere:
 and_sms_bulk_143 === Ṣeto awọn oniyipada ti o le lo ninu awọn ifiranṣẹ rẹ.
 and_sms_exe17 === Faili Excel ti o fẹ gbe wọle, jọwọ rii daju pe o tẹle ọna kika ti o nilo.
 and_sms_exe20 === Faili Apeere:
-and_sms_exe20_1 === Gba lati ayelujara
 and_sms_exe27 === Kikuru
-and_sms_exe27_1 === Ti o ba mu ṣiṣẹ, awọn ọna asopọ ninu awọn ifiranṣẹ yoo kuru laifọwọyi nipa lilo kuru ti o yan.
 and_sms_exe30 === Ma ṣe kuru awọn ọna asopọ
 and_sms_exe39 === Ipo ẹnu-ọna
 and_sms_exe39_1 === Ipo ẹnu-ọna ti o fẹ lo. Ti o ba yan awọn ẹrọ, awọn ẹrọ ti o sopọ mọ yoo han fun fifiranṣẹ, bibẹẹkọ, ẹgbẹ kẹta ati awọn ẹnu-ọna alabaṣepọ yoo han.
@@ -748,11 +555,9 @@ and_sms_exe97_1 === Ẹya kan ti o fun ọ laaye lati ṣe aileto awọn ọrọ
 and_sms_exe109 === Ṣeto awọn oniyipada ti o le lo ninu awọn ifiranṣẹ rẹ.
 and_sms_quick17 === Nọmba foonu olugba.
 and_sms_quick24 === Ipo ẹnu-ọna
-and_sms_quick24_1 === Ipo ẹnu-ọna ti o fẹ lo. Ti o ba yan awọn ẹrọ, awọn ẹrọ ti o sopọ mọ yoo han fun fifiranṣẹ, bibẹẹkọ, ẹgbẹ kẹta ati awọn ẹnu-ọna alabaṣepọ yoo han.
 and_sms_quick27 === Awọn ẹrọ
 and_sms_quick28 === Awọn kirediti
 and_sms_quick34 === Kikuru
-and_sms_quick34_1 === Ti o ba mu ṣiṣẹ, awọn ọna asopọ ninu awọn ifiranṣẹ yoo kuru laifọwọyi nipa lilo kuru ti o yan.
 and_sms_quick37 === Ma ṣe kuru awọn ọna asopọ
 and_sms_quick46 === Iho kaadi SIM lati lo.
 and_sms_quick49 === SIM1
@@ -760,13 +565,11 @@ and_sms_quick50 === SIM2
 and_sms_quick56 === Ti o ba ti ṣiṣẹ, awọn ifiranṣẹ wọnyi yoo firanṣẹ ṣaaju ohunkohun miiran.
 and_sms_quick66 === Awọn ẹrọ ti o sopọ mọ, yan ohun ti o fẹ lo fun fifiranṣẹ.
 and_sms_quick77 === SMS Gateway
-and_sms_quick77_1 === Ẹgbẹ kẹta ati awọn ẹnu-ọna alabaṣepọ, awọn kirẹditi rẹ yoo ṣee lo nigbati o ba fi awọn ifiranṣẹ ranṣẹ nipa lilo awọn ẹnu-ọna wọnyi. A ṣeduro pe ki o ṣayẹwo awọn idiyele ẹnu-ọna ṣaaju lilo wọn.
 and_sms_quick104 === Spintax
 and_sms_quick104_1 === Ẹya kan ti o fun ọ laaye lati ṣe aileto awọn ọrọ ninu awọn ifiranṣẹ rẹ eyiti o ṣe idiwọ awọn awari spamming ni imunadoko.
 and_sysup17 === Ṣe imudojuiwọn Faili
 and_sysup17_1 === Ṣe imudojuiwọn faili zip, jọwọ rii daju pe o yan faili to pe.
 and_upplug17 === Ṣe imudojuiwọn Faili
-and_upplug17_1 === Ṣe imudojuiwọn faili zip, jọwọ rii daju pe o yan faili to pe.
 and_uset17 === Aworan profaili rẹ.
 and_uset24 === Orukọ ofin rẹ ni kikun, jọwọ ṣe akiyesi pe lilo orukọ iro le jẹ ki akọọlẹ rẹ daduro.
 and_uset26 === fun apẹẹrẹ. Michael Shmuck
@@ -793,18 +596,14 @@ and_view20 === Wiwo ni kikun
 and_whatsbulk_18 === Awọn nọmba E.164 pupọ ti o yapa nipasẹ fifọ laini.
 and_whatsbulk_31 === Yan ọpọ olubasọrọ awọn ẹgbẹ. Jọwọ ṣe akiyesi pe ti olubasọrọ kan ba ni awọn ẹgbẹ lọpọlọpọ, ifiranṣẹ naa le firanṣẹ ni ọpọlọpọ igba si rẹ ti o ba yan awọn ẹgbẹ nibiti o ti wa.
 and_whatsbulk_43 === Kikuru
-and_whatsbulk_43_1 === Ti o ba mu ṣiṣẹ, awọn ọna asopọ ninu awọn ifiranṣẹ yoo kuru laifọwọyi nipa lilo kuru ti o yan.
 and_whatsbulk_46 === Ma ṣe kuru awọn ọna asopọ
 and_whatsbulk_55 === Iroyin
-and_whatsbulk_55_1 === Yan akọọlẹ WhatsApp ti o fẹ lo.
 and_whatsbulk_64 === Awọn awoṣe ifiranṣẹ ti a ṣe tẹlẹ.
-and_whatsbulk_79 === Tumọ ifiranṣẹ naa.
 and_whatsbulk_84 === Spintax
 and_whatsbulk_84_1 === Ẹya kan ti o fun ọ laaye lati ṣe aileto awọn ọrọ ninu awọn ifiranṣẹ rẹ eyiti o ṣe idiwọ awọn awari spamming ni imunadoko.
 and_whatsbulk_96 === Ṣeto awọn oniyipada ti o le lo ninu awọn ifiranṣẹ rẹ.
 and_whatex17 === Faili Excel ti o fẹ gbe wọle, jọwọ rii daju pe o tẹle ọna kika ti o nilo.
 and_whatex20 === Faili Apeere:
-and_whatex20_1 === Gba lati ayelujara
 and_whatex27 === Kikuru
 and_whatex27_1 === Ti o ba mu ṣiṣẹ, awọn ọna asopọ ninu awọn ifiranṣẹ yoo kuru laifọwọyi nipa lilo kuru ti o yan.
 and_whatex30 === Ma ṣe kuru awọn ọna asopọ
@@ -817,31 +616,17 @@ and_whatex68_1 === Ẹya kan ti o fun ọ laaye lati ṣe aileto awọn ọrọ 
 and_whatex80 === Ṣeto awọn oniyipada ti o le lo ninu awọn ifiranṣẹ rẹ.
 and_whatquick_17 === E.164 nọmba foonu olugba.
 and_whatquick_24 === Kikuru
-and_whatquick_24_1 === Ti o ba mu ṣiṣẹ, awọn ọna asopọ ninu awọn ifiranṣẹ yoo kuru laifọwọyi nipa lilo kuru ti o yan.
 and_whatquick_27 === Ma ṣe kuru awọn ọna asopọ
 and_whatquick_36 === Iroyin
-and_whatquick_36_1 === Yan akọọlẹ WhatsApp ti o fẹ lo.
 and_whatquick_50 === Tumọ ifiranṣẹ naa.
 and_whatquick_55 === Spintax
 and_whatquick_55_1 === Ẹya kan ti o fun ọ laaye lati ṣe aileto awọn ọrọ ninu awọn ifiranṣẹ rẹ eyiti o ṣe idiwọ awọn awari spamming ni imunadoko.
 and_admin_api_3 === API isakoso
 and_admin_fileman_3 === Olootu awoṣe
 and_admin_gate_3 === SMS Gateways
-and_admin_gate_8 === Fi Gateway sii
 and_admin_lang_6 === Tun awọn ede paṣẹ
-and_admin_mark_3 === Titaja
-and_admin_mark_6 === Pa awọn ohun ti o yan rẹ
-and_admin_mark_12 === Ti
-and_admin_mark_17 === Fi leti
-and_admin_mark_22 === Oluranse
 and_admin_payout_3 === Payout ibeere
-and_admin_short_3 === Awọn kukuru
 and_admin_short_8 === Fi Shortener kun
-and_admin_subs_8 === Fi Alabapin kun
-and_admin_vouch_6 === Pa awọn ohun ti o yan rẹ
-and_droid_dev_3 === Awọn ẹrọ Android
-and_droid_dev_6 === Ka iwe
-and_droid_dev_8 === Awọn iwe aṣẹ
 and_droid_dev_11 === Waye lati jẹ olupese ẹnu-ọna alabaṣepọ
 and_droid_dev_13 === Ìbàkẹgbẹ
 and_droid_dev_16 === Forukọsilẹ ẹrọ Android tuntun kan
@@ -851,29 +636,21 @@ and_droid_rev_3 === SMS ti o gba
 and_droid_rev_6 === Pa awọn ifiranṣẹ ti o yan
 and_droid_sched_6 === Pa awọn ohun ti o yan rẹ
 and_droid_sent_3 === Ti firanṣẹ SMS
-and_droid_sent_6 === Pa awọn ohun ti o yan rẹ
 and_droid_sent_10 === Pa gbogbo awọn ifiranṣẹ ti o nduro kuro
 and_droid_sent_14 === Firanṣẹ SMS kiakia
-and_droid_sent_16 === Iyara
 and_droid_sent_19 === Firanṣẹ olopobobo SMS
-and_droid_sent_21 === Olopobobo
 and_droid_sent_24 === Firanṣẹ olopobobo SMS nipasẹ Excel
 and_droid_ussd_3 === USSD Awọn ibeere
-and_droid_ussd_6 === Pa awọn ohun ti o yan rẹ
 and_droid_ussd_10 === Pa gbogbo awọn ibeere ti o wa ni isunmọtosi rẹ
 and_droid_ussd_14 === Titun USSD Ibeere
-and_droid_ussd_16 === Ibere
 and_con_grp_6 === Pa awọn ohun ti o yan rẹ
 and_con_grp_10 === Fi ẹgbẹ olubasọrọ titun kun
-and_con_sav_6 === Pa awọn ohun ti o yan rẹ
 and_con_sav_10 === Fi olubasọrọ titun kun
 and_con_sav_15 === Gbe awọn olubasọrọ wọle lati faili Excel
 and_con_unsub_3 === Ko ṣe alabapin
-and_con_unsub_6 === Pa awọn ohun ti o yan rẹ
 and_doc_act_3 === Awọn iṣe
 and_doc_api_3 === API Documentation
 and_doc_dev_3 === Awọn ẹrọ
-and_doc_partner_3 === Ìbàkẹgbẹ
 and_doc_webhook_3 === Webhooks
 and_rate_gate_3 === Awọn oṣuwọn
 and_rate_gate_10 === Orilẹ-ede
@@ -886,21 +663,12 @@ and_tool_act_8 === Awọn iwe aṣẹ
 and_tool_act_11 === Fi titun kio igbese
 and_tool_act_13 === Ìkọ́
 and_tool_act_16 === Ṣafikun iṣe adaṣe adaṣe tuntun
-and_tool_act_18 === Idahun laifọwọyi
-and_tool_key_6 === Ka iwe
-and_tool_key_8 === Awọn iwe aṣẹ
 and_tool_key_11 === Ṣẹda bọtini API tuntun kan
-and_tool_webhook_6 === Ka iwe
-and_tool_webhook_8 === Awọn iwe aṣẹ
 and_what_accnt_6 === So akọọlẹ tuntun kan pọ
-and_what_accnt_8 === Fi Account
 and_what_attach_8 === Pa awọn ifiranṣẹ ti o yan
 and_what_rev_3 === Ti gba Chats
-and_what_rev_6 === Pa awọn ohun ti o yan rẹ
 and_what_sched_6 === Pa awọn ohun ti o yan rẹ
-and_what_sched_12 === Iwiregbe iṣeto
 and_what_sent_3 === Ti firanṣẹ Awọn ibaraẹnisọrọ
-and_what_sent_6 === Pa awọn ohun ti o yan rẹ
 and_what_sent_10 === Firanṣẹ Awo ni kiakia
 and_what_sent_12 === Iyara
 and_what_sent_15 === Fi Olopobobo chats
@@ -912,10 +680,8 @@ and_def_f_blck_8 === Darapo mo wa
 and_def_f_blck_35 === Wọle Fọwọkan
 and_head_blck_21 === Ile
 and_head_blck_24 === Awọn ẹya ara ẹrọ
-and_head_blck_27 === Ifowoleri
 and_head_blck_30 === Awọn onibara
 and_head_blck_39 === Dasibodu
-and_head_blck_42 === Jade jade
 and_pages_default_8 === SMS ati WhatsApp tita ni o dara julọ
 and_pages_default_29 === Fifiranṣẹ SMS
 and_pages_default_31 === Lo awọn ẹrọ Android rẹ bi ẹnu-ọna SMS, eyi jẹ din owo daradara ju lilo awọn ẹnu-ọna ẹnikẹta.
@@ -929,11 +695,9 @@ and_pages_default_73 === Kini idi ti o lo iṣẹ wa?
 and_pages_default_74 === Eyi ni diẹ ninu awọn idi ti o yẹ ki o bẹrẹ lilo iṣẹ wa
 and_pages_default_84 === Awọn ọna ati olopobobo fifiranṣẹ
 and_pages_default_86 === Firanṣẹ awọn toonu ti awọn ifiranṣẹ si oriṣiriṣi awọn ẹgbẹ olubasọrọ ni irọrun ati pe o tun le firanṣẹ awọn ifiranṣẹ iyara fun awọn iṣowo iyara. Syeed wa tun pẹlu dasibodu ifiwe, gba awọn iwifunni nigbati awọn ifiranṣẹ rẹ ba firanṣẹ tabi gba!
-and_pages_default_89 === Awọn koodu kukuru
 and_pages_default_89_1 === fun kikọ awọn ifiranṣẹ rẹ pẹlu data ti a ti pinnu tẹlẹ.
 and_pages_default_90 === Spintax
 and_pages_default_90_1 === fun randomizing ṣeto ti ọrọ si ogun spamming oran.
-and_pages_default_91 === Onitumọ
 and_pages_default_91_1 === fun ifọkansi awọn olugbo ti o da lori awọn ede wọn.
 and_pages_default_98 === Aládàáṣiṣẹ ati ki o smati irinṣẹ
 and_pages_default_100 === Ṣakoso iṣowo rẹ lakoko ti a ṣe abojuto iṣẹ idọti, pẹpẹ wa jẹ ọlọgbọn ati pe o nilo awọn ifiranṣẹ ti o fẹ firanṣẹ lẹhinna a yoo ṣe iyoku!
@@ -955,17 +719,12 @@ and_pages_default_156 === Awọn irinṣẹ ogbon inu ati dasibodu
 and_pages_default_159 === Iyara ati aisun iriri ọfẹ lakoko ti o ta awọn ọja rẹ
 and_pages_default_171 === Ifowoleri Iṣẹ
 and_pages_default_187 === SMS Firanṣẹ
-and_pages_default_194 === Gbigba SMS
-and_pages_default_201 === WhatsApp Firanṣẹ
-and_pages_default_208 === WhatsApp Gba
 and_pages_default_215 === USSD
 and_pages_default_222 === Awọn iwifunni
-and_pages_default_229 === SMS/Chats ti a ṣeto
 and_pages_default_236 === Awọn olubasọrọ
 and_pages_default_243 === Awọn bọtini API
 and_pages_default_250 === Webhooks
 and_pages_default_257 === Awọn iṣe
-and_pages_default_264 === Awọn ẹrọ Android
 and_pages_default_271 === Awọn iroyin WhatsApp
 and_pages_default_287 === Awọn onibara wa
 and_pages_default_290 === Ni igbẹkẹle nipasẹ awọn alabara to ju 3,000+ lọ. Bẹrẹ tita awọn ọja rẹ ki o dagba iṣowo rẹ pẹlu wa!
@@ -1330,10 +1089,6 @@ form_fullname === Akokun Oruko
 form_cpassword === So ni pato orukoabawole re
 form_haveaccount === Mo Ni Account
 datatable_processing === Ṣiṣẹ, jọwọ duro...
-datatable_length === Nfihan awọn titẹ sii _MENU_
-datatable_info === Nfihan _START_ si _END_ ti awọn titẹ sii _TOTAL_
-datatable_empty === Nfihan 0 si 0 ti awọn titẹ sii 0
-datatable_filtered === (fifọ lati _MAX_ awọn titẹ sii lapapọ)
 datatable_loading === Nkojọpọ, jọwọ duro...
 datatable_zero === A ko le ri ohunkohun ti o baamu ibeere rẹ!
 datatable_null === Ko si data lati ṣafihan!
@@ -1968,7 +1723,7 @@ table_ratespartners_simsingle === SIM _8880_
 table_adminusers_exportcopy === Daakọ agekuru oníṣe _8880_
 table_adminusers_exportexcel === Awọn olumulo Tayo okeere _8880_
 table_adminusers_exportpdf === Awọn olumulo PDF okeere _8880_
-table_adminusersexportdata === Ipa: _8880_, Orilẹ-ede: _8881_, Ede: _8882_, Aago: _8883_, Awọn owo ti n wọle: _8884_, Awọn kirẹditi: _8885_, Ṣiṣe alabapin: _8886_, Awọn ohun: _8887_, Idaduro: _888
+table_adminusersexportdata === Ipa: _8880_, Orilẹ-ede: _8881_, Ede: _8882_, Aago: _8883_, Awọn owo ti n wọle: _8884_, Awọn kirẹditi: _8885_, Ṣiṣe alabapin: _8886_, Awọn ohun: _8887_, Idaduro: _8888_
 table_adminusers_exportdata1 === Ipa: _8880_
 table_adminusers_exportdata2 === Orilẹ-ede: _8880_
 table_adminusers_exportdata3 === Ede: _8880_
@@ -2403,7 +2158,6 @@ js_calendarall_monoct === Oṣu Kẹwa
 js_calendarall_monnov === Oṣu kọkanla
 js_calendarall_mondec === Oṣu kejila
 response_ussddelete_success === USSD ìbéèrè ti paarẹ!
-response_titanecho_invaltoken === Aṣiṣe iṣeto ni eto!
 widgets_addplugin_loader === Fifi ohun itanna titun si eto
 widgets_addwhatsapp_newmodal === So WhatsApp rẹ pọ nipa titẹ bọtini lati ṣafihan QRCode lẹhinna ṣe ayẹwo nipasẹ bọtini _8880_ ninu ohun elo naa. O ni iṣẹju-aaya 15 nikan lati ṣayẹwo QRCode naa.
 widgets_addwhatsapp_newmodal2 === _8880_ ti pari, ti akọọlẹ rẹ ba ti sopọ, tabi rara, jọwọ tẹ bọtini ni isalẹ.
@@ -2419,7 +2173,6 @@ widget_waquick_requireaccountnew1 === WhatsApp iroyin
 requests_whatsapp_notavail === Olupin WhatsApp ko si!
 requests_whatsapp_unablegenqr === Ko le ṣe ipilẹṣẹ WhatsApp QRCode!
 requests_charts_commisionstitle === Awọn igbimọ
-requests_token_refreshecho === Àmì fún _8880_ ti jẹ ìtura!
 requests_remote_smscampaignresumed === Ipolowo SMS ti tun bẹrẹ!
 requests_remote_smscampaignpaused === Ipolowo SMS ti da duro!
 requests_remote_wacampaignresumed === Ipolongo WhatsApp ti tun bẹrẹ!
@@ -2500,8 +2253,6 @@ table_android_copydeviceid === Da Device Alailẹgbẹ ID
 table_partnerrates_devicename === Orukọ ẹrọ
 widget_fetchgroups_titlefetch === Fa Awọn ẹgbẹ
 widget_fetchgroups_loaderfetch === Gbigba awọn ẹgbẹ lati akọọlẹ
-pages_admin_tokenrefreshbutt === Àmi
-pages_admin_tokenrefreshbutthelp === Sọsọ àmi ibaraẹnisọrọ iho. Ti eto naa ko ba ṣe afihan eyikeyi awọn iwifunni tositi laaye tabi ko ṣe imudojuiwọn ni akoko gidi, jọwọ tẹ bọtini yii.
 pages_admin_cachehelp === Ko gbogbo kaṣe eto kuro. Ikilọ! Eyi yoo tun ko awọn caches ti o ni ibatan si API, ijẹrisi ati isanwo kuro. O ti wa ni niyanju lati nikan ṣe eyi nigba ti igbegasoke awọn eto.
 pages_admin_themehelp === Ṣatunṣe awoṣe aaye ati apẹrẹ.
 pages_admin_systemsettingshelp === Ṣatunṣe awọn eto eto pataki.
@@ -2600,7 +2351,6 @@ app_fetching_messages === Gbigba Awọn ifiranṣẹ
 app_fetching_ussd === Gbigba USSD
 app_campaign_resumed === Fifiranṣẹ tun bẹrẹ fun ipolongo:
 app_campaign_paused === Fifiranṣẹ duro fun ipolongo:
-js_response_titanechorefreshdesc === Sọ àmi fun ibaraẹnisọrọ iho-akoko gidi?
 form_wa_templatetype_knownissue === Oro ti a mọ
 form_wa_templatetype_knownissuedesc === Iru ifiranṣẹ WhatsApp yii ko han daradara lori iOS. Ohun elo WhatsApp iOS yoo ṣafihan ifiranṣẹ ofo kan.
 app_response_devicealreadylinked === Ẹrọ yii ti ni asopọ tẹlẹ si akọọlẹ miiran!
@@ -3076,6 +2826,9 @@ flow_header_title === Olùkọ́ṣàṣàṣàṣàṣàfẹsẹrẹ
 flow_response_saved === Ìṣàn náà ti fipamọ́ nípa àṣeyọrí!
 flow_response_nofile === Kò sí fáìlì tí a gbé sórí tàbí aṣìṣe àtẹ̀jáde!
 flow_response_fileuploaded === Fáìlì ti gbe wọlé ni aṣeyọri
+flow_response_ai_key_required === Jọwọ yan bọtini AI fún gbogbo ọ̀nà Ìdáhùn AI!
+flow_response_file_too_large === Fáìlì tí a gbé sókè tóbi jù, ìwọ̀n tí ó pọ̀ jù ni 10MB!
+flow_response_invalid_filetype === Irú fáìlì yìí kò gbà láàyè!
 flow_modal_upload_title === Gbe Faili silẹ
 flow_modal_upload_button_select === Yan Faili
 flow_modal_upload_button_upload === Gbe sii
@@ -3200,3 +2953,23 @@ flowjs_node_pause_duration_placeholder === Tẹ akoko ni iṣẹju-aaya (0 = ail
 flowjs_node_resume === Tun bẹrẹ
 flowjs_node_resume_context === Àkóónú
 flowjs_node_resume_description === Tun tẹsiwaju awọn idahun ẹrọ ti a da duro pọ
+modal_adminsettings_currencyapikey === Kọ́kọ́rọ́ API Òsùwọ̀n Pàṣípààrọ̀
+modal_adminsettings_currencyapikeyinfo === Kọ́kọ́rọ́ API tìrẹ láti ọ̀dọ̀ olùpèsè òsùwọ̀n pàṣípààrọ̀. Ìyípadà owó yóò wà ní pípa títí tí a ó fi ṣètò rẹ̀.
+modal_adminsettings_realtimetitle === Ifitonileti Akoko Gidi
+modal_adminsettings_realtimeinfo === Awon imudojuiwon taara maa n lo ilana Pusher. Yan ise Pusher tabi olupese eyikeyi to ba mu bii Sockety, Soketi tabi Reverb. Fi awon iwe eri sile ni ofo lati pa akoko gidi.
+modal_adminsettings_realtimeappid === ID Aapu
+modal_adminsettings_realtimekey === Kokoro Aapu
+modal_adminsettings_realtimesecret === Asiri Aapu
+modal_adminsettings_realtimecluster === Idipo
+modal_adminsettings_realtimehost === URL Olupese
+modal_adminsettings_realtimehostinfo === Adiresi kikun ti olupese re, bi apeere https://sockets.example.com:6001
+modal_adminsettings_realtimedriver === Olupese
+modal_adminsettings_realtimedriverpusher === Pusher (Awosanma)
+modal_adminsettings_realtimedrivercompatible === Olupese To Ba Mu (Tire)
+modal_adminsettings_realtimecredentials === Gba awon iwe eri re lati ori dashboard Pusher
+modal_adminsettings_realtimeconfigured === A Ti To O
+modal_adminsettings_realtimekeepblank === Fi sile ni ofo lati mu iye lowolowo duro
+modal_adminsettings_realtimetest === Dan Isopo Wo
+js_realtime_testing === N dan isopo akoko gidi wo...
+response_realtime_testok === Isopo akoko gidi yori si rere!
+response_realtime_testfailed === Isopo akoko gidi kuna. Yewo awon iwe eri ati adiresi olupese.

@@ -1,0 +1,24 @@
+modal_adminsettings_currencyapikey === Exchange Rate API Key
+modal_adminsettings_currencyapikeyinfo === Your own exchange rate provider API key. Currency conversion stays disabled until this is set.
+flow_response_ai_key_required === Please select an AI key for every AI Reply node!
+flow_response_file_too_large === The uploaded file is too large, the maximum size is 10MB!
+flow_response_invalid_filetype === This file type is not allowed!
+modal_adminsettings_realtimetitle === Realtime Notifications
+modal_adminsettings_realtimeinfo === Live updates use the Pusher protocol. Choose Pusher's hosted service, or any compatible server such as Sockety, Soketi or Reverb. Leave the credentials blank to turn realtime off.
+modal_adminsettings_realtimeappid === App ID
+modal_adminsettings_realtimekey === App Key
+modal_adminsettings_realtimesecret === App Secret
+modal_adminsettings_realtimecluster === Cluster
+modal_adminsettings_realtimehost === Server URL
+modal_adminsettings_realtimehostinfo === The full address of your server, for example https://sockets.example.com:6001
+
+modal_adminsettings_realtimedriver === Provider
+modal_adminsettings_realtimedriverpusher === Pusher (Cloud)
+modal_adminsettings_realtimedrivercompatible === Compatible Server (Self-hosted)
+modal_adminsettings_realtimecredentials === Get your credentials from the Pusher dashboard
+modal_adminsettings_realtimeconfigured === Configured
+modal_adminsettings_realtimekeepblank === Leave blank to keep the current value
+modal_adminsettings_realtimetest === Test Connection
+js_realtime_testing === Testing the realtime connection...
+response_realtime_testok === Realtime connection successful!
+response_realtime_testfailed === Realtime connection failed. Check the credentials and the server URL.

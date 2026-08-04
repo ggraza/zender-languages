@@ -11,18 +11,12 @@ and_dashboard_pages_defailt_line37 === Tarifas de puerta de enlace
 and_dashboard_pages_default_line42 === documentos
 and_dashboard_pages_default_line58 === Mensajes
 and_dashboard_pages_default_line60 === Los últimos 7 días
-and_dashboard_pages_default_line74 === Eventos
-and_dashboard_pages_default_line76 === Los últimos 7 días
-and_dashboard_pages_default_line90 === Utilidades
-and_dashboard_pages_default_line92 === Los últimos 7 días
-and_dashboard_pages_default_line109 === Socios
 and_dashboard_pages_default_line117 === Ganancias
 and_dashboard_pages_default_line131 === Pagar
 and_dashboard_pages_default_line140 === Balance
 and_dashboard_pages_default_line148 === Créditos
 and_dashboard_pages_default_line162 === Completar
 and_dashboard_pages_default_line170 === Relación de entrega
-and_dash_pg_def_line178 === Éxito
 and_dash_pg_def_line190 === Ha fallado
 and_dash_pg_def_line204 === remitentes
 and_dash_pg_def_line209 === ¡No estás suscrito a ninguno de nuestros paquetes premium!
@@ -32,11 +26,9 @@ and_dash_pg_def_line232 === cuentas
 and_dash_pg_def_line239 === Vinculado
 and_dash_pg_def_line250 === Descarga e instala nuestra aplicación oficial para obtener la mejor experiencia de usuario
 and_dash_pg_doc_line10 === Documentos
-and_dash_pg_doc_line28 === API
 and_dash_pg_doc_line34 === Webhooks
 and_dash_pg_doc_line40 === Comportamiento
 and_dash_pg_doc_line46 === Dispositivos
-and_dash_pg_doc_line52 === Camaradería
 and_dash_pg_for_line29 === Cancelar
 and_dash_pg_log_line14 === Iniciar sesión con Facebook
 and_dash_pg_log_line17 === Iniciar sesión con Google
@@ -50,15 +42,10 @@ and_dash_pg_reg_line20 === Regístrese con Google
 and_dash_pg_reg_line25 === Regístrate en VKontakte
 and_dash_pg_whats_line10 === WhatsApp
 and_dash_pg_whats_line10_1 === Beta
-and_dash_pg_whats_line28 === Enviado
 and_dash_pg_whats_line34 === Recibió
 and_dash_pg_whats_line40 === Programado
 and_dash_pg_whats_line46 === cuentas
-and_dash_api_line17 === Nombre clave.
-and_dash_api_line19 === p.ej. para mi servidor
-and_dash_api_line24 === Permisos clave.
 and_dash_auto_line17 === Nombre de la acción.
-and_dash_auto_line19 === p.ej. Miguel
 and_dash_auto_line24 === Fuente
 and_dash_auto_line24_1 === Origen del evento de recepción.
 and_dash_auto_line27 === SMS
@@ -75,23 +62,16 @@ and_dash_cre_line28 === Compra
 and_dash_gate_line17 === Nombre
 and_dash_gate_line17_1 === Este es el nombre de la puerta de enlace que se mostrará a sus usuarios.
 and_dash_gate_line19 === p.ej. Twilio
-and_dash_gate_line24 === Controlador
 and_dash_gate_line24_1 === Seleccione el archivo del controlador de la puerta de enlace, este contendrá la lógica y el código de su puerta de enlace. Se recomienda consultar la documentación.
-and_dash_gate_line27 === Modelo del controlador:
 and_dash_gate_line34 === Llamar de vuelta
 and_dash_gate_line34_1 === Si está habilitado, los mensajes deberán verificarse mediante la función de devolución de llamada de la puerta de enlace de terceros para el estado de envío; de lo contrario, los mensajes se marcarán inmediatamente como enviados al enviarse.
-and_dash_gate_line37 === Habilitar
-and_dash_gate_line38 === Deshabilitar
 and_dash_gate_line44 === ID de devolución de llamada
 and_dash_gate_line44_1 === Si la devolución de llamada está habilitada, debe copiar este ID y pegarlo en su controlador para que el sistema pueda identificar las devoluciones de llamada.
 and_dash_gate_line47 === Copiar y pegar para ID de devolución de llamada
-and_dash_gate_line54 === Precios
 and_dash_gate_line54_1 === Su tabla de precios personalizada para esta puerta de enlace. Esto le permitirá cobrar por encima de los precios de terceros. Por ejemplo, si twilio cobra 0,01 para un país específico, entonces puede cobrar 0,02 en su lugar, la moneda se basa en la moneda de su sistema. Siga el formato de precios correctamente.
 and_dash_gate_line57 === Ejemplo de precios de JSON:
-and_dash_gate_line57_1 === Descargar
 and_dash_grp_line17 === Nombre del grupo.
 and_dash_grp_line19 === p.ej. Amigos
-and_dash_hook_line17 === Nombre de la acción.
 and_dash_hook_line19 === p.ej. Acción de prueba
 and_dash_hook_line24 === Fuente
 and_dash_hook_line24_1 === Fuente del evento.
@@ -100,8 +80,6 @@ and_dash_hook_line44 === Estructura de enlace de gancho, esta es la URL que invo
 and_dash_hook_line51 === Conjunto de variables que puedes usar en tu URL de gancho.
 and_dash_hook_line27 === SMS
 and_dash_hook_line28 === WhatsApp
-and_dash_hook_line37 === Al enviar
-and_dash_hook_line38 === Al recibir
 and_dash_lang_line17 === Nombre del lenguaje.
 and_dash_lang_line19 === p.ej. coreano
 and_dash_lang_line24 === Código de país.
@@ -110,19 +88,14 @@ and_dash_lang_line35_1 === Si está habilitado, el idioma se identificará como 
 and_dash_lang_line38 === Sí
 and_dash_lang_line39 === No
 and_dash_lang_line45 === Cadenas de traducción.
-and_dash_mail_line17 === Título
 and_dash_mail_line17_1 === Título del correo.
-and_dash_mail_line19 === p.ej. Anuncio
 and_dash_mail_line24 === Usuarios
 and_dash_mail_line24_1 === Enviar por los usuarios.
-and_dash_mail_line36 === roles
 and_dash_mail_line36_1 === Enviar por roles.
 and_dash_mail_line48 === Contenido
 and_dash_mail_line48_1 === Contenido del correo, html permitido.
 and_dash_mail_line50 === ¡Hola Mundo!
-and_dash_not_line17 === Título
 and_dash_not_line17_1 === Notificar título.
-and_dash_not_line19 === p.ej. Anuncio
 and_dash_not_line24 === Mensaje
 and_dash_not_line24_1 === Notificar mensaje.
 and_dash_not_line31 === Color
@@ -130,13 +103,8 @@ and_dash_not_line31_1 === Notificar color.
 and_dash_not_line35 === Éxito
 and_dash_not_line36 === Advertencia
 and_dash_not_line37 === Peligro
-and_dash_not_line43 === Imagen
 and_dash_not_line43_1 === Notificar imagen, esto es opcional.
-and_dash_not_line46 === Opcional
 and_dash_not_line53 === Usuarios
-and_dash_not_line53_1 === Emitido por los usuarios.
-and_dash_not_line65 === roles
-and_dash_not_line65_1 === Difusión por roles.
 and_pack_line17 === Nombre del paquete.
 and_pack_line19 === p.ej. Paquete VIP
 and_pack_line24 === Precio del paquete, este debe seguir la moneda del sistema. No se permiten valores flotantes.
@@ -151,33 +119,25 @@ and_pack_line65_1 === El número máximo de mensajes que puede recibir el usuari
 and_pack_line67 === p.ej. 150
 and_pack_line72 === Límite USSD
 and_pack_line72_1 === El número máximo de ussd que puede solicitar el usuario antes del reinicio. Ingrese 0 para ilimitado.
-and_pack_line74 === p.ej. 25
 and_pack_line79 === Límite de notificación
 and_pack_line79_1 === El número máximo de notificaciones que puede recibir el usuario antes del reinicio. Ingrese 0 para ilimitado.
 and_pack_line81 === p.ej. 1300
 and_pack_line86 === El número máximo de dispositivos Android que se pueden vincular a la cuenta del usuario. Ingrese 0 para ilimitado.
-and_pack_line88 === p.ej. 25
 and_pack_line92 === Configuración de WhatsApp
 and_pack_line97 === El número máximo de chats que puede enviar el usuario antes del reinicio. Ingrese 0 para ilimitado.
-and_pack_line99 === p.ej. 300
 and_pack_line104 === El número máximo de chats que puede recibir el usuario antes del reinicio. Ingrese 0 para ilimitado.
-and_pack_line106 === p.ej. 150
 and_pack_line111 === Límite de cuenta
 and_pack_line111_1 === El número máximo de cuentas de WhatsApp que se pueden vincular a la cuenta del usuario. Ingrese 0 para ilimitado.
 and_pack_line113 === p.ej. 10
 and_pack_line117 === Configuración de utilidad
 and_pack_line122 === El número máximo de contactos que puede guardar el usuario. Ingrese 0 para ilimitado.
-and_pack_line124 === p.ej. 25
 and_pack_line129 === Límite programado
 and_pack_line129_1 === El número máximo de mensajes/chats programados que puede guardar el usuario. Ingrese 0 para ilimitado. Esto se combina tanto para sms como para whatsapp.
-and_pack_line131 === p.ej. 25
 and_pack_line136 === El número máximo de claves de API que se pueden crear. Ingrese 0 para ilimitado.
-and_pack_line138 === p.ej. 10
 and_pack_line143 === El número máximo de Webhooks que se pueden crear. Ingrese 0 para ilimitado.
 and_pack_line145 === p.ej. 5
 and_pack_line150 === Límite de acciones
 and_pack_line150_1 === El número máximo de Acciones que se pueden crear. Ingrese 0 para ilimitado.
-and_pack_line152 === p.ej. 5
 and_page_line17 === Nombre de la página.
 and_page_line24 === Solo los roles seleccionados podrán acceder a esta página.
 and_page_line35 === Si está habilitado, no se podrá acceder a la página si no se ha iniciado sesión.
@@ -189,13 +149,10 @@ and_payout_line24 === Proveedor
 and_payout_line24_1 === Seleccione el proveedor de pago que desea utilizar para recibir el dinero.
 and_payout_line27 === PayPal
 and_payout_line28 === Payoneer
-and_payout_line34 === Dirección de Pago
 and_payout_line34_1 === Dirección de pago o correo electrónico, verifique cuidadosamente para evitar problemas de pago.
 and_payout_line36 === p.ej. Su correo electrónico de PayPal
-and_payout_line43 === Solicitud
 and_plug_line17 === Archivo de complemento
 and_plug_line17_1 === Archivo zip del complemento, asegúrese de seleccionar el archivo correcto.
-and_push_line17 === Título
 and_push_line17_1 === Empuje el título.
 and_push_line19 === p.ej. Anuncio
 and_push_line24 === Imagen
@@ -205,7 +162,6 @@ and_push_line34 === Mensaje
 and_push_line34_1 === Mensaje de empuje.
 and_push_line41 === Usuarios
 and_push_line41_1 === Emitido por los usuarios.
-and_push_line53 === roles
 and_push_line53_1 === Difusión por roles.
 and_role_line17 === Nombre de rol.
 and_role_line19 === p.ej. Desarrollador
@@ -224,19 +180,14 @@ and_sms_line31 === Si está habilitado, el mensaje se programará cada vez que c
 and_sms_line42 === Múltiples números E.164 separados por salto de línea.
 and_sms_line55 === Seleccione varios grupos de contactos
 and_sms_line67 === acortador
-and_sms_line67_1 === Si está habilitado, los enlaces en los mensajes se acortarán automáticamente usando el acortador seleccionado.
 and_sms_line70 === No acortar enlaces
 and_sms_line79 === Modo de puerta de enlace
-and_sms_line79_1 === El modo de puerta de enlace que desea utilizar. Si elige dispositivos, sus dispositivos vinculados se mostrarán para el envío; de lo contrario, se mostrarán las puertas de enlace de socios y de terceros.
 and_sms_line82 === Dispositivos
 and_sms_line83 === Créditos
 and_sms_line88 === Ranura para tarjeta SIM para usar.
-and_sms_line91 === SIM1
-and_sms_line92 === SIM2
 and_sms_line97 === Tus plantillas de mensajes prefabricados.
 and_sms_line110 === Sus dispositivos vinculados, elija lo que desea usar para enviar.
 and_sms_line121 === Puerta de enlace de SMS
-and_sms_line121_1 === Puertas de enlace de socios y de terceros, sus créditos se utilizarán cuando envíe mensajes usando estas puertas de enlace. Te recomendamos que consultes los precios de las pasarelas antes de utilizarlas.
 and_sms_line141 === Spintax
 and_sms_line144 === Ejemplo:
 and_sms_line144_1 === Tom es un
@@ -270,8 +221,6 @@ and_user_line31 === Introduzca la contraseña de usuario.
 and_user_line38 === Zona horaria de la ubicación del usuario, cambie esto si se encuentra en un país diferente. La zona horaria se utiliza para la precisión de la fecha y la hora de los mensajes enviados y otros datos.
 and_user_line49 === País
 and_user_line49_1 === País de usuario, esto se usa para pagos y formateo de números de teléfono.
-and_user_line60 === Sonidos de notificación
-and_user_line60_1 === Si está deshabilitado, las notificaciones serán silenciosas.
 and_user_line70 === Seleccionar rol de usuario.
 and_user_line81 === Seleccione el idioma del usuario.
 and_user_line92 === Programa de socios
@@ -280,17 +229,12 @@ and_ussd_line17 === Código USSD
 and_ussd_line17_1 === Código de solicitud USSD.
 and_ussd_line19 === p.ej. *121#
 and_ussd_line24 === Ranura para tarjeta SIM para usar.
-and_ussd_line27 === SIM1
-and_ussd_line28 === SIM2
 and_ussd_line34 === Sus dispositivos vinculados, elija lo que desea usar para la solicitud de ussd.
 and_ussd_line47 === Solicitud
 and_vouch_line17 === Nombre del cupón.
 and_vouch_line19 === p.ej. Especial
 and_vouch_line24 === La cantidad de comprobantes que desea crear. ¡El valor máximo es 1000!
 and_vouch_line26 === p.ej. 100
-and_vouch_line31 === Duración de la suscripción.
-and_vouch_line33 === p.ej. 12
-and_vouch_line38 === Paquete de suscripción.
 and_web_line17 === Nombre del webhook.
 and_web_line24 === Recibir eventos
 and_web_line24_1 === Seleccione los eventos de recepción que necesita, se enviarán a su URL de enlace web a través del método POST.
@@ -300,18 +244,11 @@ and_web_line29 === USSD
 and_web_line30 === Notificaciones
 and_web_line36 === Su URL de webhook, todos los datos de carga útil se enviarán aquí a través del método POST.
 and_web_line38 === p.ej. http://tudominio.com/hook_listen.php
-and_whatssched_line17 === Nombre del chat programado.
-and_whatssched_line19 === p.ej. Mi mensaje
-and_whatssched_line24 === Seleccionar fecha de programación.
-and_whatssched_line26 === p.ej. 22/06/2020 00:00
 and_whatssched_line31 === Si está habilitado, el chat se programará cada vez que coincida la fecha programada.
 and_whatssched_line42 === Múltiples números E.164 separados por salto de línea.
-and_whatssched_line55 === Seleccione varios grupos de contactos
 and_whatssched_line67 === acortador
-and_whatssched_line67_1 === Si está habilitado, los enlaces en los mensajes se acortarán automáticamente usando el acortador seleccionado.
 and_whatssched_line70 === No acortar enlaces
 and_whatssched_line79 === Cuenta
-and_whatssched_line79_1 === Seleccione la cuenta de WhatsApp que desea utilizar.
 and_whatsached_line88 === Tus plantillas de mensajes prefabricados.
 and_whatssched_line103 === Spintax
 and_whatssched_line103_1 === Una función que le permite aleatorizar palabras en sus mensajes, lo que evita de manera efectiva las detecciones de spam.
@@ -366,14 +303,11 @@ and_admin_build_line95_1 === Logotipo de la imagen de inicio de sesión de la ap
 and_admin_build_line103 === Ícono de imagen de la aplicación, esto se muestra en el cajón de la aplicación y en el sistema Android. Las dimensiones recomendadas son 1024x1024 en formato px y png.
 and_admin_build_line111 === Imagen de la pantalla de inicio de la aplicación, se muestra cuando el usuario abre la aplicación. Las dimensiones recomendadas son 2732x2732 en formato px y png.
 and_admin_build_line118 === Estructura
-and_admin_build_line123 === JavaScript personalizado
 and_admin_build_line123_1 === Si desea utilizar un código javascript personalizado, agréguelo aquí. Esto se carga dinámicamente en la aplicación.
 and_admin_build_line125 === por ejemplo, alert('¡Hola Mundo!');
-and_admin_build_line130 === CSS personalizado
 and_admin_build_line130_1 === Si desea utilizar un código css personalizado, agréguelo aquí. Esto se carga dinámicamente en la aplicación.
 and_admin_build_line137 === Diseño personalizado
 and_admin_build_line137_1 === Si desea utilizar una estructura de aplicación personalizada, modifique el contenido html; si no sabe lo que está haciendo, deje el valor predeterminado.
-and_admin_build_line139 === Hola Mundo!
 and_settings_line21 === Nombre del sitio, esto se muestra en todas partes donde se necesita la marca.
 and_settings_line23 === p.ej. Zender
 and_settings_line28 === Descripción del sitio, esto es para la optimización de motores de búsqueda, así que sea creativo.
@@ -388,14 +322,12 @@ and_settings_line70 === Si está deshabilitado, no se permitirán registros a tr
 and_settings_line80 === Modo de reinicio del paquete
 and_settings_line80_1 === El intervalo de restablecimiento de límites como enviar, recibir, ussd y notificaciones. Esto se aplica tanto a las funciones de Android como a las de WhatsApp. Su selección aquí también debe aplicarse en la configuración de cron.
 and_settings_line83 === Diariamente
-and_settings_line84 === Mensual
 and_settings_line90 === modelo libre
 and_settings_line90_1 === Si está habilitado, el paquete gratuito predeterminado se asigna automáticamente al usuario después del registro.
 and_settings_line100 === Si está desactivada, no se utilizará la página de inicio. Todas las visitas en el directorio raíz se redirigirán al panel de control.
 and_settings_line110 === Widget de chat TAWK
 and_settings_line110_1 === Si está habilitado, el widget de chat Tawk aparecerá para los usuarios.
 and_settings_line120 === Su enlace de widget de chat de tawk, esto es necesario si desea utilizar el soporte de chat de tawk.
-and_settings_line127 === API de administración
 and_settings_line127_1 === Seleccione los puntos finales de la API de administración que desea habilitar. Se recomienda que solo habilite los puntos finales que necesite.
 and_settings_line159 === Este token no debe compartirse con nadie. Esto se usa para la seguridad de cronjobs, API del sistema y otras solicitudes externas. Si cree que su token del sistema se vio comprometido, regenere uno nuevo, deberá volver a configurar sus cronjobs, la API del sistema y otras configuraciones relacionadas después de regenerar un nuevo token.
 and_settings_line160 === Regenerado
@@ -419,9 +351,7 @@ and_settings_line263 === p.ej. test_4vzuJVhRCFSyNyuc6gwvJpQ474Vngp
 and_settings_line268 === La moneda del sistema a usar, se usará como base al convertir transacciones a USD.
 and_settings_line279 === Seleccione los proveedores de pago que desea utilizar.
 and_settings_line293 === Caracteres mínimos para los mensajes. Esto se aplica tanto a SMS como a WhatsApp.
-and_settings_line295 === p.ej. 5
 and_settings_line300 === Máximo de caracteres para los mensajes. Esto se aplica tanto a SMS como a WhatsApp. Introduzca 0 para infinitos caracteres.
-and_settings_line302 === p.ej. 300
 and_settings_line307 === Marca de pie de página del mensaje, esto se agrega a los mensajes si su paquete tiene la marca de pie de página habilitada.
 and_settings_line309 === p.ej. Enviado desde el sistema Zender
 and_settings_line318 === El número predeterminado de filas para mostrar en la tabla de mensajes enviados. Esto se aplica tanto a SMS como a WhatsApp.
@@ -484,16 +414,11 @@ and_edit_auto_line36 === p.ej. gracias, ok, suscríbete, sí
 and_edit_auto_line41 === El mensaje que se enviará al remitente.
 and_edit_auto_line43 === p.ej. Su mensaje de respuesta aquí, códigos abreviados aceptados
 and_edit_auto_line48 === Conjunto de variables que puedes utilizar en tu mensaje.
-and_edit_con_line17 === Nombre de contacto.
 and_edit_con_line19 === p.ej. Miguel
-and_edit_con_line24 === Número de contacto.
-and_edit_con_line31 === Grupo de contacto.
-and_edit_dev_line16 === Detalles del dispositivo
 and_edit_dev_line21 === Nombre del dispositivo.
 and_edit_dev_line23 === p.ej. Mi dispositivo
 and_edit_dev_line28 === Si está habilitado, los mensajes se enviarán en intervalos aleatorios entre 2 valores. Puede configurarlos a continuación.
 and_edit_dev_line38 === El intervalo mínimo en segundos.
-and_edit_dev_line41 === p.ej. 5
 and_edit_dev_line46 === El intervalo máximo en segundos.
 and_edit_dev_line49 === p.ej. 20
 and_edit_dev_line53 === Configuración de las notificaciones
@@ -514,109 +439,25 @@ and_edit_dev_line112_1 === Seleccione las ranuras de sim que desea usar para env
 and_edit_email_line16 === Plantilla de correo electrónico
 and_edit_email_line18 === HTML permitido
 and_edit_gate_line17 === Nombre
-and_edit_gate_line17_1 === Este es el nombre de la puerta de enlace que se mostrará a sus usuarios.
-and_edit_gate_line19 === p.ej. Twilio
-and_edit_gate_line24 === Controlador
-and_edit_gate_line24_1 === Seleccione el archivo del controlador de la puerta de enlace, este contendrá la lógica y el código de su puerta de enlace. Se recomienda consultar la documentación.
-and_edit_gate_line31 === Llamar de vuelta
-and_edit_gate_line31_1 === Si está habilitado, los mensajes deberán verificarse mediante la función de devolución de llamada de la puerta de enlace de terceros para el estado de envío; de lo contrario, los mensajes se marcarán inmediatamente como enviados al enviarse.
-and_edit_gate_line34 === Habilitar
-and_edit_gate_line35 === Deshabilitar
 and_edit_gate_line41 === ID de devolución de llamada
-and_edit_gate_line41_1 === Si la devolución de llamada está habilitada, debe copiar este ID y pegarlo en su controlador para que el sistema pueda identificar las devoluciones de llamada.
-and_edit_gate_line44 === Copiar y pegar para ID de devolución de llamada
-and_edit_gate_line51 === Precios
-and_edit_gate_line51_1 === Su tabla de precios personalizada para esta puerta de enlace. Esto le permitirá cobrar por encima de los precios de terceros. Por ejemplo, si twilio cobra 0,01 para un país específico, entonces puede cobrar 0,02 en su lugar, la moneda se basa en la moneda de su sistema. Siga el formato de precios correctamente.
-and_edit_gate_line54 === Ejemplo de precios de JSON:
-and_edit_gate_line54_1 === Descargar
-and_edit_grp_line17 === Nombre del grupo.
-and_edit_grp_line19 === p.ej. Amigos
-and_edit_hook_line17 === Nombre de la acción.
-and_edit_hook_line19 === p.ej. Acción de prueba
 and_edit_hook_line24 === Fuente
-and_edit_hook_line24_1 === Fuente del evento.
 and_edit_hook_line27 === SMS
 and_edit_hook_line28 === WhatsApp
-and_edit_hook_line34 === Seleccione el evento donde se invocará este gancho.
-and_edit_hook_line37 === Al enviar
-and_edit_hook_line38 === Al recibir
-and_edit_hook_line44 === Estructura de enlace de gancho, esta es la URL que invocará el sistema. Solo se admite el método GET.
-and_edit_hook_line51 === Conjunto de variables que puedes usar en tu URL de gancho.
-and_edit_lang_line17 === p.ej. coreano
-and_edit_lang_line30 === RTL
 and_edit_lang_line32 === Sí
 and_edit_lang_line33 === No
-and_edit_pack_line17 === Nombre del paquete.
-and_edit_pack_line19 === p.ej. Paquete VIP
-and_edit_pack_line24 === Precio del paquete, este debe seguir la moneda del sistema. No se permiten valores flotantes.
-and_edit_pack_line29 === p.ej. 25
-and_edit_pack_line34 === Si está habilitado, los mensajes y los chats de WhatsApp contendrán una marca de pie de página cuando los reciban los destinatarios.
-and_edit_pack_line44 === Si está habilitado, el paquete se ocultará del modal del paquete y de la página de inicio.
 and_edit_pack_line53 === Configuración de Android
-and_edit_pack_line58 === Límite de envío de SMS
-and_edit_pack_line58_1 === El número máximo de mensajes que puede enviar el usuario antes del reinicio. Ingrese 0 para ilimitado.
-and_edit_pack_line60 === p.ej. 300
-and_edit_pack_line65 === Límite de recepción de SMS
-and_edit_pack_line65_1 === El número máximo de mensajes que puede recibir el usuario antes del reinicio. Ingrese 0 para ilimitado.
-and_edit_pack_line67 === p.ej. 150
-and_edit_pack_line72 === Límite USSD
-and_edit_pack_line72_1 === El número máximo de ussd que puede solicitar el usuario antes del reinicio. Ingrese 0 para ilimitado.
-and_edit_pack_line74 === p.ej. 25
 and_edit_pack_line79 === Límite de notificación
 and_edit_pack_line79_1 === El número máximo de notificaciones que puede recibir el usuario antes del reinicio. Ingrese 0 para ilimitado.
 and_edit_pack_line81 === p.ej. 1300
-and_edit_pack_line86 === El número máximo de dispositivos Android que se pueden vincular a la cuenta del usuario. Ingrese 0 para ilimitado.
-and_edit_pack_line88 === p.ej. 25
-and_edit_pack_line92 === Configuración de WhatsApp
-and_edit_pack_line97 === El número máximo de chats que puede enviar el usuario antes del reinicio. Ingrese 0 para ilimitado.
-and_edit_pack_line99 === p.ej. 300
-and_edit_pack_line104 === El número máximo de chats que puede recibir el usuario antes del reinicio. Ingrese 0 para ilimitado.
-and_edit_pack_line106 === p.ej. 150
-and_edit_pack_line111 === Límite de cuenta
-and_edit_pack_line111_1 === El número máximo de cuentas de WhatsApp que se pueden vincular a la cuenta del usuario. Ingrese 0 para ilimitado.
-and_edit_pack_line113 === p.ej. 10
-and_edit_pack_line117 === Configuración de utilidad
-and_edit_pack_line122 === El número máximo de contactos que puede guardar el usuario. Ingrese 0 para ilimitado.
-and_edit_pack_line124 === p.ej. 25
 and_edit_pack_line129 === Límite programado
-and_edit_pack_line129_1 === El número máximo de mensajes/chats programados que puede guardar el usuario. Ingrese 0 para ilimitado. Esto se combina tanto para sms como para whatsapp.
-and_edit_pack_line131 === p.ej. 25
-and_edit_pack_line136 === El número máximo de claves de API que se pueden crear. Ingrese 0 para ilimitado.
-and_edit_pack_line138 === p.ej. 10
-and_edit_pack_line143 === El número máximo de Webhooks que se pueden crear. Ingrese 0 para ilimitado.
-and_edit_pack_line145 === p.ej. 5
-and_edit_pack_line150 === Límite de acciones
-and_edit_pack_line150_1 === El número máximo de Acciones que se pueden crear. Ingrese 0 para ilimitado.
-and_edit_pack_line152 === p.ej. 5
-and_edit_page_line17 === Nombre de la página.
-and_edit_page_line24 === Solo los roles seleccionados podrán acceder a esta página.
-and_edit_page_line35 === Si está habilitado, no se podrá acceder a la página si no se ha iniciado sesión.
-and_edit_page_line45 === Contenido de página. Se permiten todas las etiquetas html, ¡tenga cuidado al agregar scripts de fuentes desconocidas!
-and_edit_role_line17 === Nombre de rol.
-and_edit_role_line19 === p.ej. Desarrollador
-and_edit_role_line24 === Seleccione los permisos y las funciones que desea deshabilitar/habilitar para este rol. Los cambios se aplican en tiempo real, las pestañas del navegador de los usuarios conectados con el rol se recargan automáticamente.
 and_edit_short_line17 === Nombre
-and_edit_short_line17_1 === Nombre del acortador.
-and_edit_short_line19 === p.ej. poco
-and_edit_short_line24 === Controlador
-and_edit_short_line24_1 === Seleccione el archivo del controlador de acortador, este contendrá su lógica y código de acortador. Se recomienda consultar la documentación.
-and_edit_sms_line17 === Nombre del mensaje programado.
-and_edit_sms_line19 === p.ej. Mi mensaje
-and_edit_sms_line24 === Seleccionar fecha de programación.
-and_edit_sms_line26 === p.ej. 22/06/2020 00:00
 and_edit_sms_line31 === Si está habilitado, el mensaje se programará cada vez que coincida la fecha programada.
-and_edit_sms_line42 === Múltiples números E.164 separados por salto de línea.
-and_edit_sms_line55 === Seleccione varios grupos de contactos
 and_edit_sms_line67 === Modo de puerta de enlace
-and_edit_sms_line67_1 === El modo de puerta de enlace que desea utilizar. Si elige dispositivos, sus dispositivos vinculados se mostrarán para el envío; de lo contrario, se mostrarán las puertas de enlace de socios y de terceros.
 and_edit_sms_line70 === Dispositivos
 and_edit_sms_line71 === Créditos
 and_edit_sms_line76 === Ranura para tarjeta SIM para usar.
-and_edit_sms_line79 === SIM1
-and_edit_sms_line80 === SIM2
 and_edit_sms_line88 === Sus dispositivos vinculados, elija lo que desea usar para enviar.
 and_edit_sms_line99 === Puerta de enlace de SMS
-and_edit_sms_line99_1 === Puertas de enlace de socios y de terceros, sus créditos se utilizarán cuando envíe mensajes usando estas puertas de enlace. Te recomendamos que consultes los precios de las pasarelas antes de utilizarlas.
 and_edit_sms_line119 === Spintax
 and_edit_sms_line122 === Ejemplo:
 and_edit_sms_line122_1 === Tom es un
@@ -626,8 +467,6 @@ and_edit_sms_line125_1 === bueno
 and_edit_sms_line125_2 === y
 and_edit_sms_line125_3 === malo
 and_edit_sms_line125_4 === se usará al azar.
-and_edit_temp_line17 === Nombre de la plantilla.
-and_edit_temp_line24 === Formato de plantilla.
 and_edit_temp_line31 === Spintax
 and_edit_temp_line31_1 === Una función que le permite aleatorizar palabras en sus mensajes, lo que evita de manera efectiva las detecciones de spam.
 and_edit_temp_line35 === Ejemplo:
@@ -639,35 +478,16 @@ and_edit_temp_line38_2 === y
 and_edit_temp_line38_3 === malo
 and_edit_temp_line38_4 === se usará al azar.
 and_edit_temp_line43 === Conjunto de variables que puedes utilizar en tus mensajes.
-and_eduse_line17 === Su nombre legal completo, tenga en cuenta que el uso de un nombre falso podría suspender su cuenta.
-and_eduse_line19 === p.ej. miguel cors
 and_eduse_line24 === Dirección de correo electrónico válida, ignore este campo si desea mantener la dirección de correo electrónico actual.
-and_eduse_line26 === p.ej. usuario@correo.com
 and_eduse_line31 === Si desea mantener la contraseña actual, ignore este campo; de lo contrario, ingrese una nueva contraseña.
-and_eduse_line38 === La zona horaria de su ubicación, cambie esto si se encuentra en un país diferente. La zona horaria se utiliza para la precisión de la fecha y la hora de los mensajes enviados y otros datos.
 and_eduse_line49 === País
-and_eduse_line49_1 === Su país, esto se usa para pagos y formateo de números de teléfono.
-and_eduse_line60 === Sonidos de notificación
-and_eduse_line60_1 === Si está deshabilitado, las notificaciones serán silenciosas.
-and_eduse_line70 === Seleccionar rol de usuario.
-and_eduse_line81 === Seleccione el idioma del usuario.
-and_eduse_line92 === Programa de socios
-and_eduse_line92_1 === Si está habilitado, el usuario podrá usar sus dispositivos como dispositivos globales, lo que le permitirá ganar dinero cuando otros usuarios envíen mensajes usando sus dispositivos.
-and_edweb_line17 === Nombre del webhook.
 and_edweb_line24 === Recibir eventos
-and_edweb_line24_1 === Seleccione los eventos de recepción que necesita, se enviarán a su URL de enlace web a través del método POST.
 and_edweb_line30 === Notificaciones
-and_edweb_line36 === Su URL de webhook, todos los datos de carga útil se enviarán aquí a través del método POST.
 and_edweb_line38 === p.ej. https://tudominio.com/respuesta.php
 and_edwhat_line17 === Nombre del chat programado.
-and_edwhat_line19 === p.ej. Mi mensaje
-and_edwhat_line24 === Seleccionar fecha de programación.
-and_edwhat_line26 === p.ej. 22/06/2020 00:00
 and_edwhat_line31 === Si está habilitado, el chat se programará cada vez que coincida la fecha programada.
 and_edwhat_line42 === Múltiples números E.164 separados por salto de línea.
-and_edwhat_line55 === Seleccione varios grupos de contactos
 and_edwhat_line67 === Cuenta
-and_edwhat_line67_1 === Seleccione la cuenta de WhatsApp que desea utilizar.
 and_edwhat_line76 === Tus plantillas de mensajes prefabricados.
 and_edwhat_line91 === Spintax
 and_edwhat_line91_1 === Una función que le permite aleatorizar palabras en sus mensajes, lo que evita de manera efectiva las detecciones de spam.
@@ -691,34 +511,23 @@ and_edwid_line53 === Posición del widget, solo para modales.
 and_edwid_line64 === Contenido de widgets. Todas las etiquetas html están permitidas, ¡tenga cuidado al agregar scripts de fuentes desconocidas!
 and_import_line17 === El archivo de Excel que desea importar, asegúrese de seguir el formato requerido.
 and_import_line20 === Archivo de muestra:
-and_import_line20_1 === Descargar
-and_package_line36 === Recibir SMS
-and_package_line41 === WhatsApp Enviar
-and_package_line46 === WhatsApp Recibir
 and_package_line51 === USSD
 and_package_line56 === Notificaciones
-and_package_line61 === SMS/chats programados
 and_package_line66 === Contactos
 and_package_line71 === Claves API
 and_package_line76 === Webhooks
 and_package_line81 === Comportamiento
-and_package_line86 === Dispositivos Android
 and_package_line91 === Cuentas de WhatsApp
 and_redeem_line18 === Canjear código.
 and_redeem_line20 === p.ej. 2f5b4727c7c8596779b21d7644e2ebb8
 and_sms_bulk_18 === Múltiples números E.164 separados por salto de línea. Solo se enviará 1 mensaje a un número, incluso si seleccionó grupos donde se agregó.
 and_sms_bulk_31 === Seleccione varios grupos de contactos. Solo se enviará 1 mensaje a un contacto, incluso si seleccionó varios grupos donde se agregó.
 and_sms_bulk_43 === acortador
-and_sms_bulk_43_1 === Si está habilitado, los enlaces en los mensajes se acortarán automáticamente usando el acortador seleccionado.
 and_sms_bulk_46 === No acortar enlaces
 and_sms_bulk_55 === Modo de puerta de enlace
-and_sms_bulk_55_1 === El modo de puerta de enlace que desea utilizar. Si elige dispositivos, sus dispositivos vinculados se mostrarán para el envío; de lo contrario, se mostrarán las puertas de enlace de socios y de terceros.
 and_sms_bulk_58 === Dispositivos
 and_sms_bulk_59 === Créditos
 and_sms_bulk_64 === Ranura para tarjeta SIM para usar.
-and_sms_bulk_67 === SIM1
-and_sms_bulk_68 === SIM2
-and_sms_bulk_72 === Si está habilitado, estos mensajes se enviarán antes que nada.
 and_sms_bulk_81 === Tus plantillas de mensajes prefabricados.
 and_sms_bulk_94 === Sus dispositivos vinculados, elija lo que desea usar para enviar.
 and_sms_bulk_105 === Puerta de enlace de SMS
@@ -730,9 +539,7 @@ and_sms_bulk_135 === Ejemplo:
 and_sms_bulk_143 === Conjunto de variables que puedes utilizar en tus mensajes.
 and_sms_exe17 === El archivo de Excel que desea importar, asegúrese de seguir el formato requerido.
 and_sms_exe20 === Archivo de muestra:
-and_sms_exe20_1 === Descargar
 and_sms_exe27 === acortador
-and_sms_exe27_1 === Si está habilitado, los enlaces en los mensajes se acortarán automáticamente usando el acortador seleccionado.
 and_sms_exe30 === No acortar enlaces
 and_sms_exe39 === Modo de puerta de enlace
 and_sms_exe39_1 === El modo de puerta de enlace que desea utilizar. Si elige dispositivos, sus dispositivos vinculados se mostrarán para el envío; de lo contrario, se mostrarán las puertas de enlace de socios y de terceros.
@@ -748,11 +555,9 @@ and_sms_exe97_1 === Una función que le permite aleatorizar palabras en sus mens
 and_sms_exe109 === Conjunto de variables que puedes utilizar en tus mensajes.
 and_sms_quick17 === Número de teléfono del destinatario.
 and_sms_quick24 === Modo de puerta de enlace
-and_sms_quick24_1 === El modo de puerta de enlace que desea utilizar. Si elige dispositivos, sus dispositivos vinculados se mostrarán para el envío; de lo contrario, se mostrarán las puertas de enlace de socios y de terceros.
 and_sms_quick27 === Dispositivos
 and_sms_quick28 === Créditos
 and_sms_quick34 === acortador
-and_sms_quick34_1 === Si está habilitado, los enlaces en los mensajes se acortarán automáticamente usando el acortador seleccionado.
 and_sms_quick37 === No acortar enlaces
 and_sms_quick46 === Ranura para tarjeta SIM para usar.
 and_sms_quick49 === SIM1
@@ -760,13 +565,11 @@ and_sms_quick50 === SIM2
 and_sms_quick56 === Si está habilitado, estos mensajes se enviarán antes que nada.
 and_sms_quick66 === Sus dispositivos vinculados, elija lo que desea usar para enviar.
 and_sms_quick77 === Puerta de enlace de SMS
-and_sms_quick77_1 === Puertas de enlace de socios y de terceros, sus créditos se utilizarán cuando envíe mensajes usando estas puertas de enlace. Te recomendamos que consultes los precios de las pasarelas antes de utilizarlas.
 and_sms_quick104 === Spintax
 and_sms_quick104_1 === Una función que le permite aleatorizar palabras en sus mensajes, lo que evita de manera efectiva las detecciones de spam.
 and_sysup17 === Actualizar archivo
 and_sysup17_1 === Actualice el archivo zip, asegúrese de seleccionar el archivo correcto.
 and_upplug17 === Actualizar archivo
-and_upplug17_1 === Actualice el archivo zip, asegúrese de seleccionar el archivo correcto.
 and_uset17 === La imagen de tu avatar de perfil.
 and_uset24 === Su nombre legal completo, tenga en cuenta que el uso de un nombre falso podría suspender su cuenta.
 and_uset26 === p.ej. Michael Shmuck
@@ -793,18 +596,14 @@ and_view20 === Vista completa
 and_whatsbulk_18 === Múltiples números E.164 separados por salto de línea.
 and_whatsbulk_31 === Seleccione varios grupos de contactos. Tenga en cuenta que si un contacto tiene varios grupos, es posible que se le envíe el mensaje varias veces si selecciona los grupos en los que se incluyó.
 and_whatsbulk_43 === acortador
-and_whatsbulk_43_1 === Si está habilitado, los enlaces en los mensajes se acortarán automáticamente usando el acortador seleccionado.
 and_whatsbulk_46 === No acortar enlaces
 and_whatsbulk_55 === Cuenta
-and_whatsbulk_55_1 === Seleccione la cuenta de WhatsApp que desea utilizar.
 and_whatsbulk_64 === Tus plantillas de mensajes prefabricados.
-and_whatsbulk_79 === Traduce el mensaje.
 and_whatsbulk_84 === Spintax
 and_whatsbulk_84_1 === Una función que le permite aleatorizar palabras en sus mensajes, lo que evita de manera efectiva las detecciones de spam.
 and_whatsbulk_96 === Conjunto de variables que puedes utilizar en tus mensajes.
 and_whatex17 === El archivo de Excel que desea importar, asegúrese de seguir el formato requerido.
 and_whatex20 === Archivo de muestra:
-and_whatex20_1 === Descargar
 and_whatex27 === acortador
 and_whatex27_1 === Si está habilitado, los enlaces en los mensajes se acortarán automáticamente usando el acortador seleccionado.
 and_whatex30 === No acortar enlaces
@@ -817,31 +616,17 @@ and_whatex68_1 === Una función que le permite aleatorizar palabras en sus mensa
 and_whatex80 === Conjunto de variables que puedes utilizar en tus mensajes.
 and_whatquick_17 === Número de teléfono del destinatario E.164.
 and_whatquick_24 === acortador
-and_whatquick_24_1 === Si está habilitado, los enlaces en los mensajes se acortarán automáticamente usando el acortador seleccionado.
 and_whatquick_27 === No acortar enlaces
 and_whatquick_36 === Cuenta
-and_whatquick_36_1 === Seleccione la cuenta de WhatsApp que desea utilizar.
 and_whatquick_50 === Traduce el mensaje.
 and_whatquick_55 === Spintax
 and_whatquick_55_1 === Una función que le permite aleatorizar palabras en sus mensajes, lo que evita de manera efectiva las detecciones de spam.
 and_admin_api_3 === API de administración
 and_admin_fileman_3 === Editor de plantillas
 and_admin_gate_3 === Pasarelas SMS
-and_admin_gate_8 === Agregar puerta de enlace
 and_admin_lang_6 === Reordenar idiomas
-and_admin_mark_3 === Marketing
-and_admin_mark_6 === Eliminar elementos seleccionados
-and_admin_mark_12 === Empujar
-and_admin_mark_17 === Notificar
-and_admin_mark_22 === Remitente
 and_admin_payout_3 === Solicitudes de pago
-and_admin_short_3 === acortadores
 and_admin_short_8 === Añadir acortador
-and_admin_subs_8 === Agregar suscripción
-and_admin_vouch_6 === Eliminar elementos seleccionados
-and_droid_dev_3 === Dispositivos Android
-and_droid_dev_6 === Leer documentación
-and_droid_dev_8 === documentos
 and_droid_dev_11 === Solicite ser un proveedor de puerta de enlace de socios
 and_droid_dev_13 === Camaradería
 and_droid_dev_16 === Registrar un nuevo dispositivo Android
@@ -851,29 +636,21 @@ and_droid_rev_3 === SMS recibido
 and_droid_rev_6 === Eliminar mensajes seleccionados
 and_droid_sched_6 === Eliminar elementos seleccionados
 and_droid_sent_3 === SMS enviado
-and_droid_sent_6 === Eliminar elementos seleccionados
 and_droid_sent_10 === Borrar todos los mensajes pendientes
 and_droid_sent_14 === Enviar SMS rápido
-and_droid_sent_16 === Rápido
 and_droid_sent_19 === Enviar SMS masivos
-and_droid_sent_21 === A granel
 and_droid_sent_24 === Enviar SMS masivos a través de Excel
 and_droid_ussd_3 === Solicitudes de USSD
-and_droid_ussd_6 === Eliminar elementos seleccionados
 and_droid_ussd_10 === Eliminar todas las solicitudes pendientes
 and_droid_ussd_14 === Nueva solicitud de USSD
-and_droid_ussd_16 === Solicitud
 and_con_grp_6 === Eliminar elementos seleccionados
 and_con_grp_10 === Añadir nuevo grupo de contactos
-and_con_sav_6 === Eliminar elementos seleccionados
 and_con_sav_10 === Añadir nuevo contacto
 and_con_sav_15 === Importar contactos desde un archivo de Excel
 and_con_unsub_3 === dado de baja
-and_con_unsub_6 === Eliminar elementos seleccionados
 and_doc_act_3 === Comportamiento
 and_doc_api_3 === Documentación API
 and_doc_dev_3 === Dispositivos
-and_doc_partner_3 === Camaradería
 and_doc_webhook_3 === Webhooks
 and_rate_gate_3 === Tarifas
 and_rate_gate_10 === País
@@ -886,21 +663,12 @@ and_tool_act_8 === documentos
 and_tool_act_11 === Agregar nueva acción de gancho
 and_tool_act_13 === Gancho
 and_tool_act_16 === Agregar nueva acción de respuesta automática
-and_tool_act_18 === Respuesta automática
-and_tool_key_6 === Leer documentación
-and_tool_key_8 === documentos
 and_tool_key_11 === Crear una nueva clave de API
-and_tool_webhook_6 === Leer documentación
-and_tool_webhook_8 === documentos
 and_what_accnt_6 === Conectar una nueva cuenta
-and_what_accnt_8 === Añadir cuenta
 and_what_attach_8 === Eliminar mensajes seleccionados
 and_what_rev_3 === Chats recibidos
-and_what_rev_6 === Eliminar elementos seleccionados
 and_what_sched_6 === Eliminar elementos seleccionados
-and_what_sched_12 === Programar chat
 and_what_sent_3 === Chats enviados
-and_what_sent_6 === Eliminar elementos seleccionados
 and_what_sent_10 === Enviar chat rápido
 and_what_sent_12 === Rápido
 and_what_sent_15 === Enviar chats masivos
@@ -912,10 +680,8 @@ and_def_f_blck_8 === Únete a nosotros
 and_def_f_blck_35 === Ponerse en contacto
 and_head_blck_21 === Hogar
 and_head_blck_24 === Características
-and_head_blck_27 === Precios
 and_head_blck_30 === Clientela
 and_head_blck_39 === Tablero
-and_head_blck_42 === Cerrar sesión
 and_pages_default_8 === Marketing por SMS y WhatsApp en su máxima expresión
 and_pages_default_29 === Mensajería SMS
 and_pages_default_31 === Use sus dispositivos Android como puerta de enlace de SMS, esto es efectivamente más barato que usar puertas de enlace de terceros.
@@ -929,11 +695,9 @@ and_pages_default_73 === ¿Por qué utilizar nuestro servicio?
 and_pages_default_74 === Aquí hay algunas razones por las que debería comenzar a usar nuestro servicio
 and_pages_default_84 === Envío rápido y masivo
 and_pages_default_86 === Envíe toneladas de mensajes a diferentes grupos de contactos fácilmente y también puede enviar mensajes rápidos para transacciones rápidas. Nuestra plataforma también incluye un tablero en vivo, ¡reciba notificaciones cuando se envíen o reciban sus mensajes!
-and_pages_default_89 === Códigos cortos
 and_pages_default_89_1 === para componer sus mensajes con datos predefinidos.
 and_pages_default_90 === Spintax
 and_pages_default_90_1 === para aleatorizar un conjunto de palabras para combatir los problemas de spam.
-and_pages_default_91 === Traductor
 and_pages_default_91_1 === para dirigirse a la audiencia en función de sus idiomas.
 and_pages_default_98 === Herramientas automatizadas e inteligentes
 and_pages_default_100 === Administre su negocio mientras nosotros nos encargamos del trabajo sucio, nuestra plataforma es inteligente y solo necesita los mensajes que desea enviar, ¡nosotros haremos el resto!
@@ -955,17 +719,12 @@ and_pages_default_156 === Herramientas intuitivas y tablero
 and_pages_default_159 === Experiencia rápida y sin demoras mientras comercializa sus productos
 and_pages_default_171 === Precios del servicio
 and_pages_default_187 === Enviar SMS
-and_pages_default_194 === Recibir SMS
-and_pages_default_201 === WhatsApp Enviar
-and_pages_default_208 === WhatsApp Recibir
 and_pages_default_215 === USSD
 and_pages_default_222 === Notificaciones
-and_pages_default_229 === SMS/chats programados
 and_pages_default_236 === Contactos
 and_pages_default_243 === Claves API
 and_pages_default_250 === Webhooks
 and_pages_default_257 === Comportamiento
-and_pages_default_264 === Dispositivos Android
 and_pages_default_271 === Cuentas de WhatsApp
 and_pages_default_287 === Nuestros clientes
 and_pages_default_290 === Con la confianza de más de 3000 clientes. ¡Comienza a comercializar tus productos y haz crecer tu negocio con nosotros!
@@ -1330,10 +1089,6 @@ form_fullname === Nombre completo
 form_cpassword === Confirmar contraseña
 form_haveaccount === Tengo una cuenta
 datatable_processing === Procesando .. por favor espere...
-datatable_length === Mostrando _MENU_ entradas
-datatable_info === Mostrando _START_ a _END_ de _TOTAL_ entradas
-datatable_empty === Mostrando 0 a 0 de 0 entradas
-datatable_filtered === (filtrado de _MAX_ entradas totales)
 datatable_loading === Cargando por favor espere...
 datatable_zero === ¡No podemos encontrar nada que coincida con su consulta!
 datatable_null === ¡No hay datos para mostrar!
@@ -2403,7 +2158,6 @@ js_calendarall_monoct === Octubre
 js_calendarall_monnov === Noviembre
 js_calendarall_mondec === Diciembre
 response_ussddelete_success === ¡La solicitud de USSD ha sido eliminada!
-response_titanecho_invaltoken === ¡Error de configuración del sistema!
 widgets_addplugin_loader === Instalación de un nuevo complemento en el sistema
 widgets_addwhatsapp_newmodal === Conecte su WhatsApp haciendo clic en el botón para mostrar el QRCode y luego escanéelo a través del botón _8880_ en la aplicación. Solo tienes 15 segundos para escanear el QRCode.
 widgets_addwhatsapp_newmodal2 === _8880_ ha caducado, si su cuenta ha sido vinculada o no, haga clic en el botón a continuación.
@@ -2419,7 +2173,6 @@ widget_waquick_requireaccountnew1 === cuenta whatsapp
 requests_whatsapp_notavail === ¡El servidor de WhatsApp no ​​está disponible!
 requests_whatsapp_unablegenqr === ¡No se puede generar el QRCode de WhatsApp!
 requests_charts_commisionstitle === Comisiones
-requests_token_refreshecho === ¡El token para _8880_ se ha actualizado!
 requests_remote_smscampaignresumed === ¡Se ha reanudado la campaña de SMS!
 requests_remote_smscampaignpaused === ¡La campaña de SMS ha sido pausada!
 requests_remote_wacampaignresumed === ¡Se ha reanudado la campaña de WhatsApp!
@@ -2500,8 +2253,6 @@ table_android_copydeviceid === Copiar identificación única del dispositivo
 table_partnerrates_devicename === Nombre del dispositivo
 widget_fetchgroups_titlefetch === Obtener grupos
 widget_fetchgroups_loaderfetch === Obteniendo grupos de la cuenta
-pages_admin_tokenrefreshbutt === Simbólico
-pages_admin_tokenrefreshbutthelp === Actualice el token de comunicación del socket. Si el sistema no muestra ninguna notificación de brindis en vivo o no se actualiza en tiempo real, haga clic en este botón.
 pages_admin_cachehelp === Borre todo el caché del sistema. ¡Advertencia! Esto también borrará los cachés relacionados con la API, la autenticación y el pago. Se recomienda hacer esto solo al actualizar el sistema.
 pages_admin_themehelp === Modificar la plantilla y el diseño del sitio.
 pages_admin_systemsettingshelp === Ajuste la configuración importante del sistema.
@@ -2600,7 +2351,6 @@ app_fetching_messages === Obtener mensajes
 app_fetching_ussd === Obteniendo USSD
 app_campaign_resumed === Envío reanudado para campaña:
 app_campaign_paused === Enviando en pausa para la campaña:
-js_response_titanechorefreshdesc === ¿Actualizar token para la comunicación de socket en tiempo real?
 form_wa_templatetype_knownissue === Problema conocido
 form_wa_templatetype_knownissuedesc === Este tipo de mensaje de WhatsApp no ​​se muestra correctamente en iOS. La aplicación WhatsApp para iOS mostrará un mensaje en blanco.
 app_response_devicealreadylinked === ¡Este dispositivo ya estaba vinculado a otra cuenta!
@@ -3076,6 +2826,9 @@ flow_header_title === Constructor de Flujo
 flow_response_saved === ¡Flujo guardado con éxito!
 flow_response_nofile === ¡No se ha subido ningún archivo o error de carga!
 flow_response_fileuploaded === Archivo subido con éxito
+flow_response_ai_key_required === ¡Seleccione una clave de IA para cada nodo de respuesta de IA!
+flow_response_file_too_large === ¡El archivo subido es demasiado grande, el tamaño máximo es 10 MB!
+flow_response_invalid_filetype === ¡Este tipo de archivo no está permitido!
 flow_modal_upload_title === Subir archivo
 flow_modal_upload_button_select === Seleccionar archivo
 flow_modal_upload_button_upload === Subir
@@ -3200,3 +2953,23 @@ flowjs_node_pause_duration_placeholder === Introduzca la duración en segundos (
 flowjs_node_resume === Currículum
 flowjs_node_resume_context === Contexto
 flowjs_node_resume_description === Reanuda respuestas automáticas pausadas
+modal_adminsettings_currencyapikey === Clave API de tipos de cambio
+modal_adminsettings_currencyapikeyinfo === Tu propia clave API del proveedor de tipos de cambio. La conversión de divisas permanece desactivada hasta que la configures.
+modal_adminsettings_realtimetitle === Notificaciones en tiempo real
+modal_adminsettings_realtimeinfo === Las actualizaciones en vivo usan el protocolo Pusher. Elige el servicio alojado de Pusher o cualquier servidor compatible como Sockety, Soketi o Reverb. Deja las credenciales vacías para desactivar el tiempo real.
+modal_adminsettings_realtimeappid === ID de la aplicación
+modal_adminsettings_realtimekey === Clave de la aplicación
+modal_adminsettings_realtimesecret === Secreto de la aplicación
+modal_adminsettings_realtimecluster === Clúster
+modal_adminsettings_realtimehost === URL del servidor
+modal_adminsettings_realtimehostinfo === La dirección completa de tu servidor, por ejemplo https://sockets.example.com:6001
+modal_adminsettings_realtimedriver === Proveedor
+modal_adminsettings_realtimedriverpusher === Pusher (nube)
+modal_adminsettings_realtimedrivercompatible === Servidor compatible (autoalojado)
+modal_adminsettings_realtimecredentials === Consigue tus credenciales en el panel de Pusher
+modal_adminsettings_realtimeconfigured === Configurado
+modal_adminsettings_realtimekeepblank === Déjalo vacío para conservar el valor actual
+modal_adminsettings_realtimetest === Probar conexión
+js_realtime_testing === Probando la conexión en tiempo real...
+response_realtime_testok === ¡Conexión en tiempo real correcta!
+response_realtime_testfailed === La conexión en tiempo real falló. Revisa las credenciales y la URL del servidor.

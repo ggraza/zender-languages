@@ -11,18 +11,12 @@ and_dashboard_pages_defailt_line37 === Viwango vya lango
 and_dashboard_pages_default_line42 === Hati
 and_dashboard_pages_default_line58 === Ujumbe
 and_dashboard_pages_default_line60 === Siku 7 zilizopita
-and_dashboard_pages_default_line74 === Matukio
-and_dashboard_pages_default_line76 === Siku 7 zilizopita
-and_dashboard_pages_default_line90 === Huduma
-and_dashboard_pages_default_line92 === Siku 7 zilizopita
-and_dashboard_pages_default_line109 === Washirika
 and_dashboard_pages_default_line117 === Mapato
 and_dashboard_pages_default_line131 === Malipo
 and_dashboard_pages_default_line140 === Mizani
 and_dashboard_pages_default_line148 === Mikopo
 and_dashboard_pages_default_line162 === Juu juu
 and_dashboard_pages_default_line170 === Uwiano wa Uwasilishaji
-and_dash_pg_def_line178 === Mafanikio
 and_dash_pg_def_line190 === Imeshindwa
 and_dash_pg_def_line204 === Watumaji
 and_dash_pg_def_line209 === Hujajisajili kwa kifurushi chetu chochote cha malipo!
@@ -32,11 +26,9 @@ and_dash_pg_def_line232 === Akaunti
 and_dash_pg_def_line239 === Imeunganishwa
 and_dash_pg_def_line250 === Pakua na usakinishe programu yetu rasmi ili kupata matumizi bora ya mtumiaji
 and_dash_pg_doc_line10 === Nyaraka
-and_dash_pg_doc_line28 === API
 and_dash_pg_doc_line34 === Viboko vya mtandao
 and_dash_pg_doc_line40 === Vitendo
 and_dash_pg_doc_line46 === Vifaa
-and_dash_pg_doc_line52 === Ushirikiano
 and_dash_pg_for_line29 === Ghairi
 and_dash_pg_log_line14 === Ingia kwa kutumia Facebook
 and_dash_pg_log_line17 === Ingia kwa kutumia Google
@@ -50,15 +42,10 @@ and_dash_pg_reg_line20 === Jisajili na Google
 and_dash_pg_reg_line25 === Jisajili na VKontakte
 and_dash_pg_whats_line10 === WhatsApp
 and_dash_pg_whats_line10_1 === Beta
-and_dash_pg_whats_line28 === Imetumwa
 and_dash_pg_whats_line34 === Imepokelewa
 and_dash_pg_whats_line40 === Imepangwa
 and_dash_pg_whats_line46 === Akaunti
-and_dash_api_line17 === Jina muhimu.
-and_dash_api_line19 === km. Kwa Seva Yangu
-and_dash_api_line24 === Ruhusa muhimu.
 and_dash_auto_line17 === Jina la kitendo.
-and_dash_auto_line19 === km. Mikaeli
 and_dash_auto_line24 === Chanzo
 and_dash_auto_line24_1 === Chanzo cha tukio la kupokea.
 and_dash_auto_line27 === SMS
@@ -75,23 +62,16 @@ and_dash_cre_line28 === Nunua
 and_dash_gate_line17 === Jina
 and_dash_gate_line17_1 === Hili ndilo jina la lango litakaloonyeshwa kwa watumiaji wako.
 and_dash_gate_line19 === km. Twilio
-and_dash_gate_line24 === Kidhibiti
 and_dash_gate_line24_1 === Chagua faili ya kidhibiti lango, hii itakuwa na mantiki ya lango lako na msimbo. Inashauriwa kuangalia nyaraka.
-and_dash_gate_line27 === Boilerplate ya Kidhibiti:
 and_dash_gate_line34 === Nipigie
 and_dash_gate_line34_1 === Ikiwashwa, ujumbe utahitaji kuthibitishwa kwa kutumia kipengele cha kupiga simu cha lango la wahusika wengine kwa hali ya kutuma, vinginevyo, ujumbe utawekwa alama mara moja kuwa umetumwa unapotumwa.
-and_dash_gate_line37 === Washa
-and_dash_gate_line38 === Zima
 and_dash_gate_line44 === Kitambulisho cha kupiga simu
 and_dash_gate_line44_1 === Ikiwa upigaji simu tena umewezeshwa, lazima unakili kitambulisho hiki na ukibandike kwa kidhibiti chako ili mfumo uweze kutambua upigaji simu.
 and_dash_gate_line47 === Nakili na ubandike ili upate kitambulisho cha kurudisha nyuma simu
-and_dash_gate_line54 === Kuweka bei
 and_dash_gate_line54_1 === Jedwali lako maalum la bei la lango hili. Hii itakuruhusu kutoza juu ya bei za watu wengine. Kwa mfano, ikiwa twilio inatoza 0.01 kwa nchi mahususi, basi unaweza kutoza 0.02 badala yake, sarafu inatokana na sarafu ya mfumo wako. Tafadhali fuata umbizo la bei kwa usahihi.
 and_dash_gate_line57 === Mfano wa Bei ya JSON:
-and_dash_gate_line57_1 === Pakua
 and_dash_grp_line17 === Jina la kikundi.
 and_dash_grp_line19 === km. Marafiki
-and_dash_hook_line17 === Jina la kitendo.
 and_dash_hook_line19 === km. Kitendo cha Mtihani
 and_dash_hook_line24 === Chanzo
 and_dash_hook_line24_1 === Chanzo cha tukio.
@@ -100,8 +80,6 @@ and_dash_hook_line44 === Muundo wa kiungo cha ndoano, hii ndiyo url ambayo itatu
 and_dash_hook_line51 === Seti ya vigeu ambavyo unaweza kutumia kwenye ndoano yako ya URL.
 and_dash_hook_line27 === SMS
 and_dash_hook_line28 === WhatsApp
-and_dash_hook_line37 === Kwenye Tuma
-and_dash_hook_line38 === Juu ya Kupokea
 and_dash_lang_line17 === Jina la lugha.
 and_dash_lang_line19 === km. Kikorea
 and_dash_lang_line24 === Msimbo wa nchi.
@@ -110,19 +88,14 @@ and_dash_lang_line35_1 === Ikiwashwa, lugha itatambuliwa kama mwelekeo wa kulia 
 and_dash_lang_line38 === Ndiyo
 and_dash_lang_line39 === Hapana
 and_dash_lang_line45 === Mistari ya tafsiri.
-and_dash_mail_line17 === Kichwa
 and_dash_mail_line17_1 === Kichwa cha barua.
-and_dash_mail_line19 === km. Tangazo
 and_dash_mail_line24 === Watumiaji
 and_dash_mail_line24_1 === Tuma na watumiaji.
-and_dash_mail_line36 === Majukumu
 and_dash_mail_line36_1 === Tuma kwa majukumu.
 and_dash_mail_line48 === Maudhui
 and_dash_mail_line48_1 === Maudhui ya barua pepe, html inaruhusiwa.
 and_dash_mail_line50 === Salamu, Dunia!
-and_dash_not_line17 === Kichwa
 and_dash_not_line17_1 === Arifu kichwa.
-and_dash_not_line19 === km. Tangazo
 and_dash_not_line24 === Ujumbe
 and_dash_not_line24_1 === Arifu ujumbe.
 and_dash_not_line31 === Rangi
@@ -130,13 +103,8 @@ and_dash_not_line31_1 === Arifu rangi.
 and_dash_not_line35 === Mafanikio
 and_dash_not_line36 === Onyo
 and_dash_not_line37 === Hatari
-and_dash_not_line43 === Picha
 and_dash_not_line43_1 === Arifu picha, hii ni hiari.
-and_dash_not_line46 === Hiari
 and_dash_not_line53 === Watumiaji
-and_dash_not_line53_1 === Tangazo na watumiaji.
-and_dash_not_line65 === Majukumu
-and_dash_not_line65_1 === Tangaza kwa majukumu.
 and_pack_line17 === Jina la kifurushi.
 and_pack_line19 === km. Kifurushi cha VIP
 and_pack_line24 === Bei ya kifurushi, hii inapaswa kufuata sarafu ya mfumo. Thamani za kuelea haziruhusiwi.
@@ -151,33 +119,25 @@ and_pack_line65_1 === Idadi ya juu zaidi ya ujumbe unaoweza kupokelewa na mtumia
 and_pack_line67 === km. 150
 and_pack_line72 === Kiwango cha juu cha USSD
 and_pack_line72_1 === Idadi ya juu zaidi ya ussd inayoweza kuombwa na mtumiaji kabla ya kuweka upya. Weka 0 bila kikomo.
-and_pack_line74 === km. 25
 and_pack_line79 === Kikomo cha Arifa
 and_pack_line79_1 === Idadi ya juu zaidi ya arifa zinazoweza kupokelewa na mtumiaji kabla ya kuweka upya. Weka 0 bila kikomo.
 and_pack_line81 === km. 1300
 and_pack_line86 === Idadi ya juu zaidi ya vifaa vya android vinavyoweza kuunganishwa kwenye akaunti ya mtumiaji. Weka 0 bila kikomo.
-and_pack_line88 === km. 25
 and_pack_line92 === Mipangilio ya WhatsApp
 and_pack_line97 === Idadi ya juu zaidi ya soga inayoweza kutumwa na mtumiaji kabla ya kuweka upya. Weka 0 bila kikomo.
-and_pack_line99 === km. 300
 and_pack_line104 === Idadi ya juu zaidi ya soga inayoweza kupokelewa na mtumiaji kabla ya kuweka upya. Weka 0 bila kikomo.
-and_pack_line106 === km. 150
 and_pack_line111 === Ukomo wa Akaunti
 and_pack_line111_1 === Idadi ya juu zaidi ya akaunti za WhatsApp ambazo zinaweza kuunganishwa kwa akaunti ya mtumiaji. Weka 0 bila kikomo.
 and_pack_line113 === km. 10
 and_pack_line117 === Mipangilio ya Ultility
 and_pack_line122 === Idadi ya juu zaidi ya anwani zinazoweza kuhifadhiwa na mtumiaji. Weka 0 bila kikomo.
-and_pack_line124 === km. 25
 and_pack_line129 === Ukomo Uliopangwa
 and_pack_line129_1 === Idadi ya juu zaidi ya ujumbe/soga zilizoratibiwa ambazo zinaweza kuhifadhiwa na mtumiaji. Weka 0 bila kikomo. Hii imeunganishwa kwa sms na whatsapp.
-and_pack_line131 === km. 25
 and_pack_line136 === Idadi ya juu zaidi ya funguo za API zinazoweza kuundwa. Weka 0 bila kikomo.
-and_pack_line138 === km. 10
 and_pack_line143 === Idadi ya juu zaidi ya Webhooks zinazoweza kuundwa. Weka 0 bila kikomo.
 and_pack_line145 === km. 5
 and_pack_line150 === Ukomo wa Vitendo
 and_pack_line150_1 === Idadi ya juu zaidi ya Vitendo vinavyoweza kuundwa. Weka 0 bila kikomo.
-and_pack_line152 === km. 5
 and_page_line17 === Jina la ukurasa.
 and_page_line24 === Majukumu yaliyochaguliwa pekee yataweza kufikia ukurasa huu.
 and_page_line35 === Ikiwashwa, ukurasa hautapatikana ikiwa haujaingia.
@@ -189,13 +149,10 @@ and_payout_line24 === Mtoa huduma
 and_payout_line24_1 === Chagua mtoa huduma wa malipo unayotaka kutumia kupokea pesa.
 and_payout_line27 === Paypal
 and_payout_line28 === Payoneer
-and_payout_line34 === Anwani ya Malipo
 and_payout_line34_1 === Anwani ya malipo au barua pepe, tafadhali angalia kwa makini ili kuzuia matatizo ya malipo.
 and_payout_line36 === km. Barua pepe yako ya PayPal
-and_payout_line43 === Ombi
 and_plug_line17 === Faili ya programu-jalizi
 and_plug_line17_1 === Jalizi faili ya zip, tafadhali hakikisha kuwa umechagua faili sahihi.
-and_push_line17 === Kichwa
 and_push_line17_1 === Kichwa cha kushinikiza.
 and_push_line19 === km. Tangazo
 and_push_line24 === Picha
@@ -205,7 +162,6 @@ and_push_line34 === Ujumbe
 and_push_line34_1 === Push ujumbe.
 and_push_line41 === Watumiaji
 and_push_line41_1 === Tangazo na watumiaji.
-and_push_line53 === Majukumu
 and_push_line53_1 === Tangaza kwa majukumu.
 and_role_line17 === Jina la jukumu.
 and_role_line19 === km. Msanidi
@@ -224,19 +180,14 @@ and_sms_line31 === Ikiwashwa, ujumbe utaratibiwa kila wakati tarehe iliyoratibiw
 and_sms_line42 === Nambari nyingi za E.164 zikitenganishwa na kukatika kwa mstari.
 and_sms_line55 === Chagua vikundi vingi vya anwani
 and_sms_line67 === Kifupi
-and_sms_line67_1 === Ikiwashwa, viungo katika ujumbe vitafupishwa kiotomatiki kwa kutumia kifupisho kilichochaguliwa.
 and_sms_line70 === Usifupishe viungo
 and_sms_line79 === Njia ya lango
-and_sms_line79_1 === Njia ya lango unayotaka kutumia. Ukichagua vifaa, vifaa vyako vilivyounganishwa vitaonyeshwa kwa ajili ya kutumwa, vinginevyo, lango la washirika na wengine litaonyeshwa.
 and_sms_line82 === Vifaa
 and_sms_line83 === Mikopo
 and_sms_line88 === Slot ya SIM kadi ya kutumia.
-and_sms_line91 === SIM1
-and_sms_line92 === SIM2
 and_sms_line97 === Violezo vya ujumbe wako uliotayarishwa mapema.
 and_sms_line110 === Vifaa vyako vilivyounganishwa, chagua unachotaka kutumia kutuma.
 and_sms_line121 === Lango la SMS
-and_sms_line121_1 === Lango la wahusika wengine na la washirika, mikopo yako itatumika unapotuma ujumbe kwa kutumia lango hili. Tunapendekeza uangalie bei za lango kabla ya kuzitumia.
 and_sms_line141 === Spintax
 and_sms_line144 === Mfano:
 and_sms_line144_1 === Tom ni
@@ -270,8 +221,6 @@ and_user_line31 === Weka nenosiri la mtumiaji.
 and_user_line38 === Saa za eneo la mtumiaji, badilisha hii ikiwa wako katika nchi tofauti. Saa za eneo hutumika kwa tarehe na saa usahihi wa ujumbe uliotumwa na data nyingine.
 and_user_line49 === Nchi
 and_user_line49_1 === Nchi ya watumiaji, hii inatumika kwa malipo na uumbizaji wa nambari za simu.
-and_user_line60 === Sauti za Arifa
-and_user_line60_1 === Ikizimwa, arifa zitakuwa kimya.
 and_user_line70 === Chagua jukumu la mtumiaji.
 and_user_line81 === Chagua lugha ya mtumiaji.
 and_user_line92 === Mpango wa Washirika
@@ -280,17 +229,12 @@ and_ussd_line17 === Msimbo wa USSD
 and_ussd_line17_1 === msimbo wa ombi la USSD.
 and_ussd_line19 === km. *121#
 and_ussd_line24 === Slot ya SIM kadi ya kutumia.
-and_ussd_line27 === SIM1
-and_ussd_line28 === SIM2
 and_ussd_line34 === Vifaa vyako vilivyounganishwa, chagua unachotaka kutumia kwa ombi la ussd.
 and_ussd_line47 === Ombi
 and_vouch_line17 === Jina la vocha.
 and_vouch_line19 === km. Maalum
 and_vouch_line24 === Kiasi cha vocha unayotaka kuunda. Thamani ya juu ni 1000!
 and_vouch_line26 === km. 100
-and_vouch_line31 === Muda wa usajili.
-and_vouch_line33 === km. 12
-and_vouch_line38 === Kifurushi cha usajili.
 and_web_line17 === Jina la Webhook.
 and_web_line24 === Pokea Matukio
 and_web_line24_1 === Chagua matukio ya kupokea unayohitaji, yatatumwa kwa url yako ya ndoano ya wavuti kupitia njia ya POST.
@@ -300,18 +244,11 @@ and_web_line29 === USSD
 and_web_line30 === Arifa
 and_web_line36 === Url yako ya mtandao, data yote ya upakiaji itatumwa hapa kupitia njia ya POST.
 and_web_line38 === km. http://yourdomain.com/hook_listen.php
-and_whatssched_line17 === Jina la soga iliyoratibiwa.
-and_whatssched_line19 === km. Ujumbe Wangu
-and_whatssched_line24 === Chagua tarehe ya ratiba.
-and_whatssched_line26 === km. 06/22/2020 12:00 AM
 and_whatssched_line31 === Ikiwashwa, soga itaratibiwa kila wakati tarehe iliyoratibiwa inapolingana.
 and_whatssched_line42 === Nambari nyingi za E.164 zikitenganishwa na kukatika kwa mstari.
-and_whatssched_line55 === Chagua vikundi vingi vya anwani
 and_whatssched_line67 === Kifupi
-and_whatssched_line67_1 === Ikiwashwa, viungo katika ujumbe vitafupishwa kiotomatiki kwa kutumia kifupisho kilichochaguliwa.
 and_whatssched_line70 === Usifupishe viungo
 and_whatssched_line79 === Akaunti
-and_whatssched_line79_1 === Chagua akaunti ya WhatsApp unayotaka kutumia.
 and_whatsached_line88 === Violezo vya ujumbe wako uliotayarishwa mapema.
 and_whatssched_line103 === Spintax
 and_whatssched_line103_1 === Kipengele kinachokuruhusu kuweka maneno nasibu katika ujumbe wako ambayo huzuia ugunduzi wa barua taka.
@@ -366,14 +303,11 @@ and_admin_build_line95_1 === Nembo ya picha ya kuingia kwenye programu, hii ndiy
 and_admin_build_line103 === Aikoni ya picha ya programu, hii inaonyeshwa kwenye droo ya programu na mfumo wa android. Vipimo vinavyopendekezwa ni 1024x1024 katika umbizo la px na png.
 and_admin_build_line111 === Picha ya skrini ya programu, hii inaonyeshwa wakati mtumiaji anafungua programu. Vipimo vinavyopendekezwa ni 2732x2732 katika umbizo la px na png.
 and_admin_build_line118 === Muundo
-and_admin_build_line123 === JavaScript Maalum
 and_admin_build_line123_1 === Ikiwa ungependa kutumia msimbo maalum wa javascript, tafadhali uiongeze hapa. Hii imepakiwa kwa nguvu katika programu.
 and_admin_build_line125 === kwa mfano, tahadhari('Hujambo Ulimwengu!');
-and_admin_build_line130 === CSS maalum
 and_admin_build_line130_1 === Ikiwa ungependa kutumia msimbo maalum wa css, tafadhali uiongeze hapa. Hii imepakiwa kwa nguvu katika programu.
 and_admin_build_line137 === Muundo Maalum
 and_admin_build_line137_1 === Ikiwa ungependa kutumia muundo maalum wa programu, tafadhali rekebisha maudhui ya html, ikiwa hujui unachofanya, tafadhali acha thamani chaguomsingi.
-and_admin_build_line139 === Salamu, Dunia!
 and_settings_line21 === Jina la tovuti, hili linaonyeshwa kila mahali ambapo chapa inahitajika.
 and_settings_line23 === km. Zender
 and_settings_line28 === Maelezo ya tovuti, hii ni kwa ajili ya uboreshaji wa injini ya utafutaji, kwa hivyo kuwa mbunifu.
@@ -388,14 +322,12 @@ and_settings_line70 === Ikiwa imezimwa, usajili kupitia ukurasa wa usajili hauta
 and_settings_line80 === Modi ya Kuweka upya Kifurushi
 and_settings_line80_1 === Muda wa kuweka upya vikomo kama vile kutuma, kupokea, ussd na arifa. Hii inatumika kwa vipengele vyote vya Android na WhatsApp. Chaguo lako hapa lazima pia litumike katika usanidi wa cron.
 and_settings_line83 === Kila siku
-and_settings_line84 === Kila mwezi
 and_settings_line90 === Mfano wa Bure
 and_settings_line90_1 === Ikiwashwa, kifurushi cha chaguo-msingi kisicholipishwa huwekwa kiotomatiki kwa mtumiaji baada ya usajili.
 and_settings_line100 === Ikiwa imezimwa, ukurasa wa nyumbani hautatumika. Matembeleo yote katika saraka ya mizizi yataelekezwa kwenye dashibodi.
 and_settings_line110 === Wijeti ya Gumzo ya TAWK
 and_settings_line110_1 === Ikiwashwa, wijeti ya gumzo la tawk itaonekana kwa watumiaji.
 and_settings_line120 === Kiungo chako cha wijeti ya gumzo la tawk, hii inahitajika ikiwa unataka kutumia usaidizi wa gumzo la tawk.
-and_settings_line127 === API ya Msimamizi
 and_settings_line127_1 === Chagua miisho ya API ya msimamizi unayotaka kuwezesha. Inapendekezwa kuwa uwashe sehemu za mwisho ambazo unahitaji pekee.
 and_settings_line159 === Tokeni hii haipaswi kushirikiwa na mtu yeyote. Hii inatumika kwa usalama wa cronjobs, API ya mfumo na maombi mengine ya nje. Iwapo unafikiri, tokeni ya mfumo wako iliingiliwa, tafadhali tengeneza mpya, utahitaji kusanidi upya cronjobs zako, API ya mfumo na mipangilio mingine inayohusiana baada ya kuunda upya tokeni mpya.
 and_settings_line160 === Tengeneza upya
@@ -419,9 +351,7 @@ and_settings_line263 === km. test_4vzuJVhRCFSyNyuc6gwvJpQ474Vngp
 and_settings_line268 === Sarafu ya mfumo ya kutumia, hii itatumika kama msingi wakati wa kubadilisha miamala hadi USD.
 and_settings_line279 === Chagua watoa huduma za malipo unaotaka kutumia.
 and_settings_line293 === Vibambo vya chini zaidi vya ujumbe. Hii inatumika kwa SMS na WhatsApp.
-and_settings_line295 === km. 5
 and_settings_line300 === Upeo wa herufi kwa ujumbe. Hii inatumika kwa SMS na WhatsApp. Weka 0 kwa herufi zisizo na kikomo.
-and_settings_line302 === km. 300
 and_settings_line307 === Alama ya kijachini ya ujumbe, hii inaongezwa kwa ujumbe ikiwa kifurushi chake kina alama ya kijachini kimewashwa.
 and_settings_line309 === km. Imetumwa kutoka kwa Mfumo wa Zender
 and_settings_line318 === Nambari chaguomsingi ya safu mlalo ya kuonyesha katika jedwali la ujumbe uliotumwa. Hii inatumika kwa SMS na WhatsApp.
@@ -484,16 +414,11 @@ and_edit_auto_line36 === km. asante, sawa, jiandikishe, ndio
 and_edit_auto_line41 === Ujumbe utakaotumwa kwa mtumaji.
 and_edit_auto_line43 === km. Ujumbe wako wa kujibu hapa, misimbo fupi imekubaliwa
 and_edit_auto_line48 === Seti ya vigeu ambavyo unaweza kutumia katika ujumbe wako.
-and_edit_con_line17 === Jina la mawasiliano.
 and_edit_con_line19 === km. Mikaeli
-and_edit_con_line24 === Namba ya mawasiliano.
-and_edit_con_line31 === Kikundi cha mawasiliano.
-and_edit_dev_line16 === Maelezo ya Kifaa
 and_edit_dev_line21 === Jina la kifaa.
 and_edit_dev_line23 === km. Kifaa Changu
 and_edit_dev_line28 === Ikiwashwa, ujumbe utatumwa kwa vipindi nasibu kati ya thamani 2. Unaweza kuzisanidi hapa chini.
 and_edit_dev_line38 === Muda wa chini zaidi katika sekunde.
-and_edit_dev_line41 === km. 5
 and_edit_dev_line46 === Muda wa juu zaidi katika sekunde.
 and_edit_dev_line49 === km. 20
 and_edit_dev_line53 === Mipangilio ya Arifa
@@ -514,109 +439,25 @@ and_edit_dev_line112_1 === Chagua nafasi za sim unazotaka kutumia kutuma, ukicha
 and_edit_email_line16 === Kiolezo cha Barua Pepe
 and_edit_email_line18 === HTML inaruhusiwa
 and_edit_gate_line17 === Jina
-and_edit_gate_line17_1 === Hili ndilo jina la lango litakaloonyeshwa kwa watumiaji wako.
-and_edit_gate_line19 === km. Twilio
-and_edit_gate_line24 === Kidhibiti
-and_edit_gate_line24_1 === Chagua faili ya kidhibiti lango, hii itakuwa na mantiki ya lango lako na msimbo. Inashauriwa kuangalia nyaraka.
-and_edit_gate_line31 === Nipigie
-and_edit_gate_line31_1 === Ikiwashwa, ujumbe utahitaji kuthibitishwa kwa kutumia kipengele cha kupiga simu cha lango la wahusika wengine kwa hali ya kutuma, vinginevyo, ujumbe utawekwa alama mara moja kuwa umetumwa unapotumwa.
-and_edit_gate_line34 === Washa
-and_edit_gate_line35 === Zima
 and_edit_gate_line41 === Kitambulisho cha kupiga simu
-and_edit_gate_line41_1 === Ikiwa upigaji simu tena umewezeshwa, lazima unakili kitambulisho hiki na ukibandike kwa kidhibiti chako ili mfumo uweze kutambua upigaji simu.
-and_edit_gate_line44 === Nakili na ubandike ili upate kitambulisho cha kurudisha nyuma simu
-and_edit_gate_line51 === Kuweka bei
-and_edit_gate_line51_1 === Jedwali lako maalum la bei la lango hili. Hii itakuruhusu kutoza juu ya bei za watu wengine. Kwa mfano, ikiwa twilio inatoza 0.01 kwa nchi mahususi, basi unaweza kutoza 0.02 badala yake, sarafu inatokana na sarafu ya mfumo wako. Tafadhali fuata umbizo la bei kwa usahihi.
-and_edit_gate_line54 === Mfano wa Bei ya JSON:
-and_edit_gate_line54_1 === Pakua
-and_edit_grp_line17 === Jina la kikundi.
-and_edit_grp_line19 === km. Marafiki
-and_edit_hook_line17 === Jina la kitendo.
-and_edit_hook_line19 === km. Kitendo cha Mtihani
 and_edit_hook_line24 === Chanzo
-and_edit_hook_line24_1 === Chanzo cha tukio.
 and_edit_hook_line27 === SMS
 and_edit_hook_line28 === WhatsApp
-and_edit_hook_line34 === Chagua tukio ambapo ndoano hii itaalikwa.
-and_edit_hook_line37 === Kwenye Tuma
-and_edit_hook_line38 === Juu ya Kupokea
-and_edit_hook_line44 === Muundo wa kiungo cha ndoano, hii ndiyo url ambayo itatumiwa na mfumo. Mbinu ya GET pekee ndiyo inayotumika.
-and_edit_hook_line51 === Seti ya vigeu ambavyo unaweza kutumia kwenye ndoano yako ya URL.
-and_edit_lang_line17 === km. Kikorea
-and_edit_lang_line30 === RTL
 and_edit_lang_line32 === Ndiyo
 and_edit_lang_line33 === Hapana
-and_edit_pack_line17 === Jina la kifurushi.
-and_edit_pack_line19 === km. Kifurushi cha VIP
-and_edit_pack_line24 === Bei ya kifurushi, hii inapaswa kufuata sarafu ya mfumo. Thamani za kuelea haziruhusiwi.
-and_edit_pack_line29 === km. 25
-and_edit_pack_line34 === Ikiwashwa, ujumbe na gumzo za whatsapp zitakuwa na alama ya kijachini zikipokelewa na wapokeaji.
-and_edit_pack_line44 === Ikiwashwa, kifurushi kitafichwa kutoka kwa modali ya kifurushi na ukurasa wa nyumbani.
 and_edit_pack_line53 === Mipangilio ya Android
-and_edit_pack_line58 === Kikomo cha Kutuma SMS
-and_edit_pack_line58_1 === Idadi ya juu zaidi ya ujumbe unaoweza kutumwa na mtumiaji kabla ya kuweka upya. Weka 0 bila kikomo.
-and_edit_pack_line60 === km. 300
-and_edit_pack_line65 === Kikomo cha Kupokea SMS
-and_edit_pack_line65_1 === Idadi ya juu zaidi ya ujumbe unaoweza kupokelewa na mtumiaji kabla ya kuweka upya. Weka 0 bila kikomo.
-and_edit_pack_line67 === km. 150
-and_edit_pack_line72 === Kiwango cha juu cha USSD
-and_edit_pack_line72_1 === Idadi ya juu zaidi ya ussd inayoweza kuombwa na mtumiaji kabla ya kuweka upya. Weka 0 bila kikomo.
-and_edit_pack_line74 === km. 25
 and_edit_pack_line79 === Kikomo cha Arifa
 and_edit_pack_line79_1 === Idadi ya juu zaidi ya arifa zinazoweza kupokelewa na mtumiaji kabla ya kuweka upya. Weka 0 bila kikomo.
 and_edit_pack_line81 === km. 1300
-and_edit_pack_line86 === Idadi ya juu zaidi ya vifaa vya android vinavyoweza kuunganishwa kwenye akaunti ya mtumiaji. Weka 0 bila kikomo.
-and_edit_pack_line88 === km. 25
-and_edit_pack_line92 === Mipangilio ya WhatsApp
-and_edit_pack_line97 === Idadi ya juu zaidi ya soga inayoweza kutumwa na mtumiaji kabla ya kuweka upya. Weka 0 bila kikomo.
-and_edit_pack_line99 === km. 300
-and_edit_pack_line104 === Idadi ya juu zaidi ya soga inayoweza kupokelewa na mtumiaji kabla ya kuweka upya. Weka 0 bila kikomo.
-and_edit_pack_line106 === km. 150
-and_edit_pack_line111 === Ukomo wa Akaunti
-and_edit_pack_line111_1 === Idadi ya juu zaidi ya akaunti za WhatsApp ambazo zinaweza kuunganishwa kwa akaunti ya mtumiaji. Weka 0 bila kikomo.
-and_edit_pack_line113 === km. 10
-and_edit_pack_line117 === Mipangilio ya Ultility
-and_edit_pack_line122 === Idadi ya juu zaidi ya anwani zinazoweza kuhifadhiwa na mtumiaji. Weka 0 bila kikomo.
-and_edit_pack_line124 === km. 25
 and_edit_pack_line129 === Ukomo Uliopangwa
-and_edit_pack_line129_1 === Idadi ya juu zaidi ya ujumbe/soga zilizoratibiwa ambazo zinaweza kuhifadhiwa na mtumiaji. Weka 0 bila kikomo. Hii imeunganishwa kwa sms na whatsapp.
-and_edit_pack_line131 === km. 25
-and_edit_pack_line136 === Idadi ya juu zaidi ya funguo za API zinazoweza kuundwa. Weka 0 bila kikomo.
-and_edit_pack_line138 === km. 10
-and_edit_pack_line143 === Idadi ya juu zaidi ya Webhooks zinazoweza kuundwa. Weka 0 bila kikomo.
-and_edit_pack_line145 === km. 5
-and_edit_pack_line150 === Ukomo wa Vitendo
-and_edit_pack_line150_1 === Idadi ya juu zaidi ya Vitendo vinavyoweza kuundwa. Weka 0 bila kikomo.
-and_edit_pack_line152 === km. 5
-and_edit_page_line17 === Jina la ukurasa.
-and_edit_page_line24 === Majukumu yaliyochaguliwa pekee yataweza kufikia ukurasa huu.
-and_edit_page_line35 === Ikiwashwa, ukurasa hautapatikana ikiwa haujaingia.
-and_edit_page_line45 === Maudhui ya ukurasa. Lebo zote za html zinaruhusiwa, kuwa mwangalifu unapoongeza hati kutoka kwa vyanzo visivyojulikana!
-and_edit_role_line17 === Jina la jukumu.
-and_edit_role_line19 === km. Msanidi
-and_edit_role_line24 === Chagua ruhusa na vipengele unavyotaka kuzima/kuwezesha kwa jukumu hili. Mabadiliko yanatekelezwa katika muda halisi, vichupo vya kivinjari vya watumiaji waliounganishwa walio na jukumu hilo hupakiwa upya kiotomatiki.
 and_edit_short_line17 === Jina
-and_edit_short_line17_1 === Jina fupi.
-and_edit_short_line19 === km. Bitly
-and_edit_short_line24 === Kidhibiti
-and_edit_short_line24_1 === Chagua faili ya kidhibiti cha kifupi, hii itakuwa na mantiki na msimbo wako wa kifupi. Inashauriwa kuangalia nyaraka.
-and_edit_sms_line17 === Jina la ujumbe ulioratibiwa.
-and_edit_sms_line19 === km. Ujumbe Wangu
-and_edit_sms_line24 === Chagua tarehe ya ratiba.
-and_edit_sms_line26 === km. 06/22/2020 12:00 AM
 and_edit_sms_line31 === Ikiwashwa, ujumbe utaratibiwa kila wakati tarehe iliyoratibiwa inapolingana.
-and_edit_sms_line42 === Nambari nyingi za E.164 zikitenganishwa na kukatika kwa mstari.
-and_edit_sms_line55 === Chagua vikundi vingi vya anwani
 and_edit_sms_line67 === Njia ya lango
-and_edit_sms_line67_1 === Njia ya lango unayotaka kutumia. Ukichagua vifaa, vifaa vyako vilivyounganishwa vitaonyeshwa kwa ajili ya kutumwa, vinginevyo, lango la washirika na wengine litaonyeshwa.
 and_edit_sms_line70 === Vifaa
 and_edit_sms_line71 === Mikopo
 and_edit_sms_line76 === Slot ya SIM kadi ya kutumia.
-and_edit_sms_line79 === SIM1
-and_edit_sms_line80 === SIM2
 and_edit_sms_line88 === Vifaa vyako vilivyounganishwa, chagua unachotaka kutumia kutuma.
 and_edit_sms_line99 === Lango la SMS
-and_edit_sms_line99_1 === Lango la wahusika wengine na la washirika, mikopo yako itatumika unapotuma ujumbe kwa kutumia lango hili. Tunapendekeza uangalie bei za lango kabla ya kuzitumia.
 and_edit_sms_line119 === Spintax
 and_edit_sms_line122 === Mfano:
 and_edit_sms_line122_1 === Tom ni
@@ -626,8 +467,6 @@ and_edit_sms_line125_1 === nzuri
 and_edit_sms_line125_2 === na
 and_edit_sms_line125_3 === mbaya
 and_edit_sms_line125_4 === itatumika bila mpangilio.
-and_edit_temp_line17 === Jina la kiolezo.
-and_edit_temp_line24 === Umbizo la kiolezo.
 and_edit_temp_line31 === Spintax
 and_edit_temp_line31_1 === Kipengele kinachokuruhusu kuweka maneno nasibu katika ujumbe wako ambayo huzuia ugunduzi wa barua taka.
 and_edit_temp_line35 === Mfano:
@@ -639,35 +478,16 @@ and_edit_temp_line38_2 === na
 and_edit_temp_line38_3 === mbaya
 and_edit_temp_line38_4 === itatumika bila mpangilio.
 and_edit_temp_line43 === Seti ya vigeu ambavyo unaweza kutumia katika ujumbe wako.
-and_eduse_line17 === Jina lako kamili la kisheria, tafadhali kumbuka kuwa kutumia jina bandia kunaweza kusimamisha akaunti yako.
-and_eduse_line19 === km. Michael Cors
 and_eduse_line24 === Anwani sahihi ya barua pepe, puuza sehemu hii ikiwa ungependa kuhifadhi barua pepe ya sasa.
-and_eduse_line26 === km. user@mail.com
 and_eduse_line31 === Ikiwa ungependa kuweka nenosiri la sasa, tafadhali puuza sehemu hii, vinginevyo, ingiza nenosiri jipya.
-and_eduse_line38 === Saa za eneo lako, badilisha hii ikiwa uko katika nchi tofauti. Saa za eneo hutumika kwa tarehe na saa usahihi wa ujumbe uliotumwa na data nyingine.
 and_eduse_line49 === Nchi
-and_eduse_line49_1 === Nchi yako, hii inatumika kwa malipo na uumbizaji wa nambari za simu.
-and_eduse_line60 === Sauti za Arifa
-and_eduse_line60_1 === Ikizimwa, arifa zitakuwa kimya.
-and_eduse_line70 === Chagua jukumu la mtumiaji.
-and_eduse_line81 === Chagua lugha ya mtumiaji.
-and_eduse_line92 === Mpango wa Washirika
-and_eduse_line92_1 === Ikiwashwa, mtumiaji ataweza kutumia vifaa vyao kama vifaa vya kimataifa jambo ambalo litawawezesha kupata pesa wakati watumiaji wengine wanatuma ujumbe kwa kutumia vifaa vyao.
-and_edweb_line17 === Jina la Webhook.
 and_edweb_line24 === Pokea Matukio
-and_edweb_line24_1 === Chagua matukio ya kupokea unayohitaji, yatatumwa kwa url yako ya ndoano ya wavuti kupitia njia ya POST.
 and_edweb_line30 === Arifa
-and_edweb_line36 === Url yako ya mtandao, data yote ya upakiaji itatumwa hapa kupitia njia ya POST.
 and_edweb_line38 === km. https://yourdomain.com/reply.php
 and_edwhat_line17 === Jina la soga iliyoratibiwa.
-and_edwhat_line19 === km. Ujumbe Wangu
-and_edwhat_line24 === Chagua tarehe ya ratiba.
-and_edwhat_line26 === km. 06/22/2020 12:00 AM
 and_edwhat_line31 === Ikiwashwa, soga itaratibiwa kila wakati tarehe iliyoratibiwa inapolingana.
 and_edwhat_line42 === Nambari nyingi za E.164 zikitenganishwa na kukatika kwa mstari.
-and_edwhat_line55 === Chagua vikundi vingi vya anwani
 and_edwhat_line67 === Akaunti
-and_edwhat_line67_1 === Chagua akaunti ya WhatsApp unayotaka kutumia.
 and_edwhat_line76 === Violezo vya ujumbe wako uliotayarishwa mapema.
 and_edwhat_line91 === Spintax
 and_edwhat_line91_1 === Kipengele kinachokuruhusu kuweka maneno nasibu katika ujumbe wako ambayo huzuia ugunduzi wa barua taka.
@@ -691,34 +511,23 @@ and_edwid_line53 === Nafasi ya Wijeti, kwa moduli pekee.
 and_edwid_line64 === Maudhui ya Wijeti. Lebo zote za html zinaruhusiwa, kuwa mwangalifu unapoongeza hati kutoka kwa vyanzo visivyojulikana!
 and_import_line17 === Faili ya Excel unayotaka kuleta, tafadhali hakikisha kuwa umefuata umbizo linalohitajika.
 and_import_line20 === Faili ya Mfano:
-and_import_line20_1 === Pakua
-and_package_line36 === Pokea SMS
-and_package_line41 === Tuma WhatsApp
-and_package_line46 === WhatsApp Pokea
 and_package_line51 === USSD
 and_package_line56 === Arifa
-and_package_line61 === SMS/Soga Zilizoratibiwa
 and_package_line66 === Anwani
 and_package_line71 === Vifunguo vya API
 and_package_line76 === Viboko vya mtandao
 and_package_line81 === Vitendo
-and_package_line86 === Vifaa vya Android
 and_package_line91 === Akaunti za WhatsApp
 and_redeem_line18 === Tumia msimbo.
 and_redeem_line20 === km. 2f5b4727c7c8596779b21d7644e2ebb8
 and_sms_bulk_18 === Nambari nyingi za E.164 zikitenganishwa na kukatika kwa mstari. Ujumbe 1 pekee ndio utakaotumwa kwa nambari hata kama ulichagua vikundi ambapo uliongezwa.
 and_sms_bulk_31 === Chagua vikundi vingi vya anwani. Ujumbe 1 pekee ndio utakaotumwa kwa mwasiliani hata kama ulichagua vikundi vingi ambapo uliongezwa.
 and_sms_bulk_43 === Kifupi
-and_sms_bulk_43_1 === Ikiwashwa, viungo katika ujumbe vitafupishwa kiotomatiki kwa kutumia kifupisho kilichochaguliwa.
 and_sms_bulk_46 === Usifupishe viungo
 and_sms_bulk_55 === Njia ya lango
-and_sms_bulk_55_1 === Njia ya lango unayotaka kutumia. Ukichagua vifaa, vifaa vyako vilivyounganishwa vitaonyeshwa kwa ajili ya kutumwa, vinginevyo, lango la washirika na wengine litaonyeshwa.
 and_sms_bulk_58 === Vifaa
 and_sms_bulk_59 === Mikopo
 and_sms_bulk_64 === Slot ya SIM kadi ya kutumia.
-and_sms_bulk_67 === SIM1
-and_sms_bulk_68 === SIM2
-and_sms_bulk_72 === Ikiwashwa, barua pepe hizi zitatumwa kabla ya kitu kingine chochote.
 and_sms_bulk_81 === Violezo vya ujumbe wako uliotayarishwa mapema.
 and_sms_bulk_94 === Vifaa vyako vilivyounganishwa, chagua unachotaka kutumia kutuma.
 and_sms_bulk_105 === Lango la SMS
@@ -730,9 +539,7 @@ and_sms_bulk_135 === Mfano:
 and_sms_bulk_143 === Seti ya vigeu ambavyo unaweza kutumia katika ujumbe wako.
 and_sms_exe17 === Faili ya Excel unayotaka kuleta, tafadhali hakikisha kuwa umefuata umbizo linalohitajika.
 and_sms_exe20 === Faili ya Mfano:
-and_sms_exe20_1 === Pakua
 and_sms_exe27 === Kifupi
-and_sms_exe27_1 === Ikiwashwa, viungo katika ujumbe vitafupishwa kiotomatiki kwa kutumia kifupisho kilichochaguliwa.
 and_sms_exe30 === Usifupishe viungo
 and_sms_exe39 === Njia ya lango
 and_sms_exe39_1 === Njia ya lango unayotaka kutumia. Ukichagua vifaa, vifaa vyako vilivyounganishwa vitaonyeshwa kwa ajili ya kutumwa, vinginevyo, lango la washirika na wengine litaonyeshwa.
@@ -748,11 +555,9 @@ and_sms_exe97_1 === Kipengele kinachokuruhusu kuweka maneno nasibu katika ujumbe
 and_sms_exe109 === Seti ya vigeu ambavyo unaweza kutumia katika ujumbe wako.
 and_sms_quick17 === Nambari ya simu ya mpokeaji.
 and_sms_quick24 === Njia ya lango
-and_sms_quick24_1 === Njia ya lango unayotaka kutumia. Ukichagua vifaa, vifaa vyako vilivyounganishwa vitaonyeshwa kwa ajili ya kutumwa, vinginevyo, lango la washirika na wengine litaonyeshwa.
 and_sms_quick27 === Vifaa
 and_sms_quick28 === Mikopo
 and_sms_quick34 === Kifupi
-and_sms_quick34_1 === Ikiwashwa, viungo katika ujumbe vitafupishwa kiotomatiki kwa kutumia kifupisho kilichochaguliwa.
 and_sms_quick37 === Usifupishe viungo
 and_sms_quick46 === Slot ya SIM kadi ya kutumia.
 and_sms_quick49 === SIM1
@@ -760,13 +565,11 @@ and_sms_quick50 === SIM2
 and_sms_quick56 === Ikiwashwa, barua pepe hizi zitatumwa kabla ya kitu kingine chochote.
 and_sms_quick66 === Vifaa vyako vilivyounganishwa, chagua unachotaka kutumia kutuma.
 and_sms_quick77 === Lango la SMS
-and_sms_quick77_1 === Lango la wahusika wengine na la washirika, mikopo yako itatumika unapotuma ujumbe kwa kutumia lango hili. Tunapendekeza uangalie bei za lango kabla ya kuzitumia.
 and_sms_quick104 === Spintax
 and_sms_quick104_1 === Kipengele kinachokuruhusu kuweka maneno nasibu katika ujumbe wako ambayo huzuia ugunduzi wa barua taka.
 and_sysup17 === Sasisha Faili
 and_sysup17_1 === Sasisha faili ya zip, tafadhali hakikisha kuwa umechagua faili sahihi.
 and_upplug17 === Sasisha Faili
-and_upplug17_1 === Sasisha faili ya zip, tafadhali hakikisha kuwa umechagua faili sahihi.
 and_uset17 === Picha ya avatar ya wasifu wako.
 and_uset24 === Jina lako kamili la kisheria, tafadhali kumbuka kuwa kutumia jina bandia kunaweza kusimamisha akaunti yako.
 and_uset26 === km. Michael Shmuck
@@ -793,18 +596,14 @@ and_view20 === Mwonekano Kamili
 and_whatsbulk_18 === Nambari nyingi za E.164 zikitenganishwa na kukatika kwa mstari.
 and_whatsbulk_31 === Chagua vikundi vingi vya anwani. Tafadhali kumbuka kuwa ikiwa mtu ana vikundi vingi, ujumbe unaweza kutumwa kwake mara nyingi ikiwa utachagua vikundi ambapo ulijumuishwa.
 and_whatsbulk_43 === Kifupi
-and_whatsbulk_43_1 === Ikiwashwa, viungo katika ujumbe vitafupishwa kiotomatiki kwa kutumia kifupisho kilichochaguliwa.
 and_whatsbulk_46 === Usifupishe viungo
 and_whatsbulk_55 === Akaunti
-and_whatsbulk_55_1 === Chagua akaunti ya WhatsApp unayotaka kutumia.
 and_whatsbulk_64 === Violezo vya ujumbe wako uliotayarishwa mapema.
-and_whatsbulk_79 === Tafsiri ujumbe.
 and_whatsbulk_84 === Spintax
 and_whatsbulk_84_1 === Kipengele kinachokuruhusu kuweka maneno nasibu katika ujumbe wako ambayo huzuia ugunduzi wa barua taka.
 and_whatsbulk_96 === Seti ya vigeu ambavyo unaweza kutumia katika ujumbe wako.
 and_whatex17 === Faili ya Excel unayotaka kuleta, tafadhali hakikisha kuwa umefuata umbizo linalohitajika.
 and_whatex20 === Faili ya Mfano:
-and_whatex20_1 === Pakua
 and_whatex27 === Kifupi
 and_whatex27_1 === Ikiwashwa, viungo katika ujumbe vitafupishwa kiotomatiki kwa kutumia kifupisho kilichochaguliwa.
 and_whatex30 === Usifupishe viungo
@@ -817,31 +616,17 @@ and_whatex68_1 === Kipengele kinachokuruhusu kuweka maneno nasibu katika ujumbe 
 and_whatex80 === Seti ya vigeu ambavyo unaweza kutumia katika ujumbe wako.
 and_whatquick_17 === Nambari ya simu ya mpokeaji E.164.
 and_whatquick_24 === Kifupi
-and_whatquick_24_1 === Ikiwashwa, viungo katika ujumbe vitafupishwa kiotomatiki kwa kutumia kifupisho kilichochaguliwa.
 and_whatquick_27 === Usifupishe viungo
 and_whatquick_36 === Akaunti
-and_whatquick_36_1 === Chagua akaunti ya WhatsApp unayotaka kutumia.
 and_whatquick_50 === Tafsiri ujumbe.
 and_whatquick_55 === Spintax
 and_whatquick_55_1 === Kipengele kinachokuruhusu kuweka maneno nasibu katika ujumbe wako ambayo huzuia ugunduzi wa barua taka.
 and_admin_api_3 === API ya Utawala
 and_admin_fileman_3 === Kihariri Kiolezo
 and_admin_gate_3 === Njia za SMS
-and_admin_gate_8 === Ongeza Gateway
 and_admin_lang_6 === Panga upya lugha
-and_admin_mark_3 === Masoko
-and_admin_mark_6 === Futa vipengee vilivyochaguliwa
-and_admin_mark_12 === Sukuma
-and_admin_mark_17 === Arifu
-and_admin_mark_22 === Mailer
 and_admin_payout_3 === Maombi ya Malipo
-and_admin_short_3 === Vifupisho
 and_admin_short_8 === Ongeza Kifupi
-and_admin_subs_8 === Ongeza Usajili
-and_admin_vouch_6 === Futa vipengee vilivyochaguliwa
-and_droid_dev_3 === Vifaa vya Android
-and_droid_dev_6 === Soma nyaraka
-and_droid_dev_8 === Hati
 and_droid_dev_11 === Omba kuwa mtoaji lango la washirika
 and_droid_dev_13 === Ushirikiano
 and_droid_dev_16 === Sajili kifaa kipya cha android
@@ -851,29 +636,21 @@ and_droid_rev_3 === Umepokea SMS
 and_droid_rev_6 === Futa ujumbe uliochaguliwa
 and_droid_sched_6 === Futa vipengee vilivyochaguliwa
 and_droid_sent_3 === Imetumwa SMS
-and_droid_sent_6 === Futa vipengee vilivyochaguliwa
 and_droid_sent_10 === Futa barua pepe zote ambazo hazijashughulikiwa
 and_droid_sent_14 === Tuma SMS Haraka
-and_droid_sent_16 === Haraka
 and_droid_sent_19 === Tuma SMS nyingi
-and_droid_sent_21 === Wingi
 and_droid_sent_24 === Tuma SMS nyingi kupitia Excel
 and_droid_ussd_3 === Maombi ya USSD
-and_droid_ussd_6 === Futa vipengee vilivyochaguliwa
 and_droid_ussd_10 === Futa maombi yote yanayosubiri
 and_droid_ussd_14 === Ombi jipya la USSD
-and_droid_ussd_16 === Ombi
 and_con_grp_6 === Futa vipengee vilivyochaguliwa
 and_con_grp_10 === Ongeza kikundi kipya cha anwani
-and_con_sav_6 === Futa vipengee vilivyochaguliwa
 and_con_sav_10 === Ongeza anwani mpya
 and_con_sav_15 === Ingiza waasiliani kutoka kwa faili ya Excel
 and_con_unsub_3 === Umejiondoa
-and_con_unsub_6 === Futa vipengee vilivyochaguliwa
 and_doc_act_3 === Vitendo
 and_doc_api_3 === Nyaraka za API
 and_doc_dev_3 === Vifaa
-and_doc_partner_3 === Ushirikiano
 and_doc_webhook_3 === Viboko vya mtandao
 and_rate_gate_3 === Viwango
 and_rate_gate_10 === Nchi
@@ -886,21 +663,12 @@ and_tool_act_8 === Hati
 and_tool_act_11 === Ongeza kitendo kipya cha ndoano
 and_tool_act_13 === ndoano
 and_tool_act_16 === Ongeza kitendo kipya cha kujibu kiotomatiki
-and_tool_act_18 === Jibu kiotomatiki
-and_tool_key_6 === Soma nyaraka
-and_tool_key_8 === Hati
 and_tool_key_11 === Unda ufunguo mpya wa API
-and_tool_webhook_6 === Soma nyaraka
-and_tool_webhook_8 === Hati
 and_what_accnt_6 === Unganisha akaunti mpya
-and_what_accnt_8 === Ongeza Akaunti
 and_what_attach_8 === Futa ujumbe uliochaguliwa
 and_what_rev_3 === Imepokea Gumzo
-and_what_rev_6 === Futa vipengee vilivyochaguliwa
 and_what_sched_6 === Futa vipengee vilivyochaguliwa
-and_what_sched_12 === Panga Gumzo
 and_what_sent_3 === Imetuma Gumzo
-and_what_sent_6 === Futa vipengee vilivyochaguliwa
 and_what_sent_10 === Tuma Gumzo Haraka
 and_what_sent_12 === Haraka
 and_what_sent_15 === Tuma Gumzo Wingi
@@ -912,10 +680,8 @@ and_def_f_blck_8 === Jiunge nasi
 and_def_f_blck_35 === Wasiliana
 and_head_blck_21 === Nyumbani
 and_head_blck_24 === Vipengele
-and_head_blck_27 === Kuweka bei
 and_head_blck_30 === Wateja
 and_head_blck_39 === Dashibodi
-and_head_blck_42 === Ondoka
 and_pages_default_8 === Uuzaji wa SMS na WhatsApp kwa ubora zaidi
 and_pages_default_29 === Ujumbe wa SMS
 and_pages_default_31 === Tumia vifaa vyako vya Android kama lango la SMS, hii ni nafuu kuliko kutumia lango la watu wengine.
@@ -929,11 +695,9 @@ and_pages_default_73 === Kwa nini utumie huduma zetu?
 and_pages_default_74 === Hapa kuna baadhi ya sababu kwa nini unapaswa kuanza kutumia huduma zetu
 and_pages_default_84 === Utumaji wa haraka na mwingi
 and_pages_default_86 === Tuma ujumbe mwingi kwa vikundi tofauti vya anwani kwa urahisi na unaweza pia kutuma ujumbe wa haraka kwa shughuli za haraka. Mfumo wetu pia unajumuisha dashibodi ya moja kwa moja, pata arifa ujumbe wako unapotumwa au kupokelewa!
-and_pages_default_89 === Njia fupi
 and_pages_default_89_1 === kwa kutunga ujumbe wako na data iliyoainishwa awali.
 and_pages_default_90 === Spintax
 and_pages_default_90_1 === kwa kuweka maneno nasibu ili kupambana na masuala ya barua taka.
-and_pages_default_91 === Mfasiri
 and_pages_default_91_1 === kwa kulenga hadhira kulingana na lugha zao.
 and_pages_default_98 === Zana otomatiki na mahiri
 and_pages_default_100 === Simamia biashara yako huku tunashughulikia kazi chafu, jukwaa letu ni mahiri na linahitaji tu ujumbe unaotaka kutuma kisha tutafanya yaliyosalia!
@@ -955,17 +719,12 @@ and_pages_default_156 === Zana angavu na dashibodi
 and_pages_default_159 === Uzoefu wa haraka na usiochelewa unapotangaza bidhaa zako
 and_pages_default_171 === Bei ya Huduma
 and_pages_default_187 === Tuma SMS
-and_pages_default_194 === Pokea SMS
-and_pages_default_201 === Tuma WhatsApp
-and_pages_default_208 === WhatsApp Pokea
 and_pages_default_215 === USSD
 and_pages_default_222 === Arifa
-and_pages_default_229 === SMS/Soga Zilizoratibiwa
 and_pages_default_236 === Anwani
 and_pages_default_243 === Vifunguo vya API
 and_pages_default_250 === Viboko vya mtandao
 and_pages_default_257 === Vitendo
-and_pages_default_264 === Vifaa vya Android
 and_pages_default_271 === Akaunti za WhatsApp
 and_pages_default_287 === Wateja wetu
 and_pages_default_290 === Inaaminiwa na zaidi ya wateja 3,000+. Anza kuuza bidhaa zako na kukuza biashara yako nasi!
@@ -1330,10 +1089,6 @@ form_fullname === Jina kamili
 form_cpassword === Thibitisha Nenosiri
 form_haveaccount === Nina Akaunti
 datatable_processing === Inachakata, tafadhali subiri...
-datatable_length === Inaonyesha maingizo 8881
-datatable_info === Inaonyesha _START_ hadi _END_ kati ya maingizo _TOTAL_
-datatable_empty === Inaonyesha 0 hadi 0 kati ya maingizo 0
-datatable_filtered === (imechujwa kutoka jumla ya maingizo _MAX_)
 datatable_loading === Inapakia, tafadhali subiri...
 datatable_zero === Hatujapata chochote kinacholingana na hoja yako!
 datatable_null === Hakuna data ya kuonyesha!
@@ -1968,7 +1723,7 @@ table_ratespartners_simsingle === SIM _8880_
 table_adminusers_exportcopy === Nakala ya Ubao Klipu wa Watumiaji _8880_
 table_adminusers_exportexcel === Watumiaji Excel Export _8880_
 table_adminusers_exportpdf === Watumiaji Hamisha PDF _8880_
-table_adminusersexportdata === Jukumu: _8880_, Nchi: _8881_, Lugha: _8882_, Saa za eneo: _8883_, Mapato: _8884_, Mikopo: _8885_, Usajili: _8886_, Sauti: _8887_, Imesimamishwa88888
+table_adminusersexportdata === Jukumu: _8880_, Nchi: _8881_, Lugha: _8882_, Saa za eneo: _8883_, Mapato: _8884_, Mikopo: _8885_, Usajili: _8886_, Sauti: _8887_, Imesimamishwa: _8888_
 table_adminusers_exportdata1 === Jukumu: _8880_
 table_adminusers_exportdata2 === Nchi: _8880_
 table_adminusers_exportdata3 === Lugha: _8880_
@@ -2403,7 +2158,6 @@ js_calendarall_monoct === Oktoba
 js_calendarall_monnov === Novemba
 js_calendarall_mondec === Desemba
 response_ussddelete_success === Ombi la USSD limefutwa!
-response_titanecho_invaltoken === Hitilafu ya usanidi wa mfumo!
 widgets_addplugin_loader === Inasakinisha programu-jalizi mpya kwenye mfumo
 widgets_addwhatsapp_newmodal === Unganisha WhatsApp yako kwa kubofya kitufe ili kuonyesha QRCode kisha uchanganue kupitia kitufe cha _8880_ katika programu. Una sekunde 15 pekee za kuchanganua QRCode.
 widgets_addwhatsapp_newmodal2 === _8880_ muda wake umeisha, ikiwa akaunti yako imeunganishwa, au la, tafadhali bofya kitufe kilicho hapa chini.
@@ -2419,7 +2173,6 @@ widget_waquick_requireaccountnew1 === Akaunti ya WhatsApp
 requests_whatsapp_notavail === Seva ya WhatsApp haipatikani!
 requests_whatsapp_unablegenqr === Imeshindwa kutengeneza WhatsApp QRCCode!
 requests_charts_commisionstitle === Tume
-requests_token_refreshecho === Tokeni ya _8880_ imeonyeshwa upya!
 requests_remote_smscampaignresumed === Kampeni ya SMS imerejeshwa!
 requests_remote_smscampaignpaused === Kampeni ya SMS imesitishwa!
 requests_remote_wacampaignresumed === Kampeni ya WhatsApp imerejeshwa!
@@ -2500,8 +2253,6 @@ table_android_copydeviceid === Nakili Kitambulisho cha Kipekee cha Kifaa
 table_partnerrates_devicename === Jina la Kifaa
 widget_fetchgroups_titlefetch === Leta Vikundi
 widget_fetchgroups_loaderfetch === Inaleta vikundi kutoka kwa akaunti
-pages_admin_tokenrefreshbutt === Ishara
-pages_admin_tokenrefreshbutthelp === Onyesha upya tokeni ya mawasiliano ya tundu. Ikiwa mfumo hauonyeshi arifa zozote za toast moja kwa moja au hausasishi katika wakati halisi, tafadhali bofya kitufe hiki.
 pages_admin_cachehelp === Futa kashe ya mfumo mzima. Onyo! Hii pia itafuta akiba zinazohusiana na API, uthibitishaji na malipo. Inashauriwa kufanya hivyo tu wakati wa kuboresha mfumo.
 pages_admin_themehelp === Rekebisha kiolezo na muundo wa tovuti.
 pages_admin_systemsettingshelp === Rekebisha mipangilio muhimu ya mfumo.
@@ -2600,7 +2351,6 @@ app_fetching_messages === Inaleta Ujumbe
 app_fetching_ussd === Inaleta USSD
 app_campaign_resumed === Utumaji umeanza tena kwa kampeni:
 app_campaign_paused === Utumaji umesitishwa kwa kampeni:
-js_response_titanechorefreshdesc === Onyesha upya tokeni kwa mawasiliano ya tundu ya wakati halisi?
 form_wa_templatetype_knownissue === Suala Linalojulikana
 form_wa_templatetype_knownissuedesc === Aina hii ya ujumbe wa WhatsApp hauonyeshwi ipasavyo kwenye iOS. Programu ya WhatsApp iOS itaonyesha ujumbe tupu.
 app_response_devicealreadylinked === Kifaa hiki kilikuwa tayari kimeunganishwa na akaunti nyingine!
@@ -3076,6 +2826,9 @@ flow_header_title === Mjenzi wa Mtiririko
 flow_response_saved === Mtiririko uliohifadhiwa kwa mafanikio!
 flow_response_nofile === Hakuna faili lililopakuliwa au hitilafu ya kupakia!
 flow_response_fileuploaded === Faili imepakiwa kwa mafanikio
+flow_response_ai_key_required === Tafadhali chagua ufunguo wa AI kwa kila nodi ya Jibu la AI!
+flow_response_file_too_large === Faili iliyopakiwa ni kubwa mno, ukubwa wa juu ni MB 10!
+flow_response_invalid_filetype === Aina hii ya faili hairuhusiwi!
 flow_modal_upload_title === Pakia Faili
 flow_modal_upload_button_select === Chagua Faili
 flow_modal_upload_button_upload === Pakia
@@ -3200,3 +2953,23 @@ flowjs_node_pause_duration_placeholder === Weka muda kwa sekunde (0 = isiyo na m
 flowjs_node_resume === Endelea
 flowjs_node_resume_context === Muktadha
 flowjs_node_resume_description === Inaanza tena majibu ya moja kwa moja yaliyosimamishwa
+modal_adminsettings_currencyapikey === Ufunguo wa API wa Viwango vya Ubadilishaji
+modal_adminsettings_currencyapikeyinfo === Ufunguo wako wa API kutoka kwa mtoa huduma wa viwango vya ubadilishaji. Ubadilishaji wa sarafu utabaki umezimwa hadi uweke ufunguo huu.
+modal_adminsettings_realtimetitle === Arifa za Papo Hapo
+modal_adminsettings_realtimeinfo === Masasisho ya moja kwa moja hutumia itifaki ya Pusher. Chagua huduma ya Pusher au seva yoyote inayooana kama Sockety, Soketi au Reverb. Acha vitambulisho wazi ili kuzima papo hapo.
+modal_adminsettings_realtimeappid === Kitambulisho cha Programu
+modal_adminsettings_realtimekey === Ufunguo wa Programu
+modal_adminsettings_realtimesecret === Siri ya Programu
+modal_adminsettings_realtimecluster === Nguzo
+modal_adminsettings_realtimehost === URL ya Seva
+modal_adminsettings_realtimehostinfo === Anwani kamili ya seva yako, kwa mfano https://sockets.example.com:6001
+modal_adminsettings_realtimedriver === Mtoa Huduma
+modal_adminsettings_realtimedriverpusher === Pusher (Wingu)
+modal_adminsettings_realtimedrivercompatible === Seva Inayooana (Yako Mwenyewe)
+modal_adminsettings_realtimecredentials === Pata vitambulisho vyako kutoka dashibodi ya Pusher
+modal_adminsettings_realtimeconfigured === Imesanidiwa
+modal_adminsettings_realtimekeepblank === Acha wazi ili kubaki na thamani ya sasa
+modal_adminsettings_realtimetest === Jaribu Muunganisho
+js_realtime_testing === Inajaribu muunganisho wa papo hapo...
+response_realtime_testok === Muunganisho wa papo hapo umefaulu!
+response_realtime_testfailed === Muunganisho wa papo hapo umeshindwa. Angalia vitambulisho na anwani ya seva.

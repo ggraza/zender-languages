@@ -11,18 +11,12 @@ and_dashboard_pages_defailt_line37 === ゲートウェイ料金
 and_dashboard_pages_default_line42 === ドキュメント
 and_dashboard_pages_default_line58 === メッセージ
 and_dashboard_pages_default_line60 === 過去7日間
-and_dashboard_pages_default_line74 === イベント
-and_dashboard_pages_default_line76 === 過去7日間
-and_dashboard_pages_default_line90 === ユーティリティ
-and_dashboard_pages_default_line92 === 過去7日間
-and_dashboard_pages_default_line109 === パートナー
 and_dashboard_pages_default_line117 === 収益
 and_dashboard_pages_default_line131 === 支払い
 and_dashboard_pages_default_line140 === バランス
 and_dashboard_pages_default_line148 === クレジット
 and_dashboard_pages_default_line162 === 補充
 and_dashboard_pages_default_line170 === 配信率
-and_dash_pg_def_line178 === 成功
 and_dash_pg_def_line190 === 失敗した
 and_dash_pg_def_line204 === 送信者
 and_dash_pg_def_line209 === あなたは私たちのプレミアムパッケージのいずれにも加入していません！
@@ -32,11 +26,9 @@ and_dash_pg_def_line232 === アカウント
 and_dash_pg_def_line239 === リンク
 and_dash_pg_def_line250 === 最高のユーザーエクスペリエンスを得るために、公式アプリをダウンロードしてインストールしてください
 and_dash_pg_doc_line10 === ドキュメント
-and_dash_pg_doc_line28 === API
 and_dash_pg_doc_line34 === Webhook
 and_dash_pg_doc_line40 === 行動
 and_dash_pg_doc_line46 === デバイス
-and_dash_pg_doc_line52 === パートナーシップ
 and_dash_pg_for_line29 === キャンセル
 and_dash_pg_log_line14 === Facebookでログイン
 and_dash_pg_log_line17 === Googleでログイン
@@ -50,15 +42,10 @@ and_dash_pg_reg_line20 === Googleに登録する
 and_dash_pg_reg_line25 === VKontakteに登録する
 and_dash_pg_whats_line10 === WhatsApp
 and_dash_pg_whats_line10_1 === ベータ
-and_dash_pg_whats_line28 === 送信済
 and_dash_pg_whats_line34 === 受け取った
 and_dash_pg_whats_line40 === 予定
 and_dash_pg_whats_line46 === アカウント
-and_dash_api_line17 === キー名。
-and_dash_api_line19 === 例えば。マイサーバーの場合
-and_dash_api_line24 === キー権限。
 and_dash_auto_line17 === アクション名。
-and_dash_auto_line19 === 例えば。マイケル
 and_dash_auto_line24 === ソース
 and_dash_auto_line24_1 === 受信イベントのソース。
 and_dash_auto_line27 === SMS
@@ -75,23 +62,16 @@ and_dash_cre_line28 === 購入
 and_dash_gate_line17 === 名前
 and_dash_gate_line17_1 === これは、ユーザーに表示されるゲートウェイ名です。
 and_dash_gate_line19 === 例えば。 Twilio
-and_dash_gate_line24 === コントローラ
 and_dash_gate_line24_1 === ゲートウェイコントローラファイルを選択します。これには、ゲートウェイロジックとコードが含まれます。ドキュメントを確認することをお勧めします。
-and_dash_gate_line27 === コントローラーボイラープレート：
 and_dash_gate_line34 === 折り返し電話
 and_dash_gate_line34_1 === 有効になっている場合は、送信ステータスについてサードパーティゲートウェイのコールバック機能を使用してメッセージを確認する必要があります。有効になっていない場合、メッセージは送信時にすぐに送信済みとしてマークされます。
-and_dash_gate_line37 === 有効
-and_dash_gate_line38 === 無効にする
 and_dash_gate_line44 === コールバックID
 and_dash_gate_line44_1 === コールバックが有効になっている場合は、このIDをコピーしてコントローラーに貼り付け、システムがコールバックを識別できるようにする必要があります。
 and_dash_gate_line47 === コールバックIDをコピーして貼り付ける
-and_dash_gate_line54 === 価格設定
 and_dash_gate_line54_1 === このゲートウェイのカスタム価格表。これにより、サードパーティの価格に加えて請求することができます。たとえば、twilioが特定の国に対して0.01を請求する場合、代わりに0.02を請求できます。通貨は、システム通貨に基づいています。価格形式に正しく従ってください。
 and_dash_gate_line57 === サンプルJSON価格：
-and_dash_gate_line57_1 === ダウンロード
 and_dash_grp_line17 === グループ名。
 and_dash_grp_line19 === 例えば。友達
-and_dash_hook_line17 === アクション名。
 and_dash_hook_line19 === 例えば。テストアクション
 and_dash_hook_line24 === ソース
 and_dash_hook_line24_1 === イベントのソース。
@@ -100,8 +80,6 @@ and_dash_hook_line44 === フックリンク構造。これは、システムに�
 and_dash_hook_line51 === フックURLで使用できる変数のセット。
 and_dash_hook_line27 === SMS
 and_dash_hook_line28 === WhatsApp
-and_dash_hook_line37 === 送信時
-and_dash_hook_line38 === 受信時
 and_dash_lang_line17 === 言語名。
 and_dash_lang_line19 === 例えば。韓国語
 and_dash_lang_line24 === 国コード。
@@ -110,19 +88,14 @@ and_dash_lang_line35_1 === 有効にすると、言語は右から左方向と�
 and_dash_lang_line38 === はい
 and_dash_lang_line39 === いいえ
 and_dash_lang_line45 === 翻訳文字列。
-and_dash_mail_line17 === 題名
 and_dash_mail_line17_1 === メールのタイトル。
-and_dash_mail_line19 === 例えば。発表
 and_dash_mail_line24 === ユーザー
 and_dash_mail_line24_1 === ユーザーが送信します。
-and_dash_mail_line36 === 役割
 and_dash_mail_line36_1 === 役割で送信します。
 and_dash_mail_line48 === コンテンツ
 and_dash_mail_line48_1 === メールの内容、HTMLは許可されています。
 and_dash_mail_line50 === こんにちは世界！
-and_dash_not_line17 === 題名
 and_dash_not_line17_1 === タイトルを通知します。
-and_dash_not_line19 === 例えば。発表
 and_dash_not_line24 === メッセージ
 and_dash_not_line24_1 === メッセージを通知します。
 and_dash_not_line31 === 色
@@ -130,13 +103,8 @@ and_dash_not_line31_1 === 色を通知します。
 and_dash_not_line35 === 成功
 and_dash_not_line36 === 警告
 and_dash_not_line37 === 危険
-and_dash_not_line43 === 画像
 and_dash_not_line43_1 === 画像に通知します。これはオプションです。
-and_dash_not_line46 === オプション
 and_dash_not_line53 === ユーザー
-and_dash_not_line53_1 === ユーザーによるブロードキャスト。
-and_dash_not_line65 === 役割
-and_dash_not_line65_1 === 役割ごとにブロードキャストします。
 and_pack_line17 === パッケージ名。
 and_pack_line19 === 例えば。 VIPパッケージ
 and_pack_line24 === パッケージ価格、これはシステム通貨に従う必要があります。フロート値は許可されていません。
@@ -151,33 +119,25 @@ and_pack_line65_1 === リセット前にユーザーが受信できるメッセ�
 and_pack_line67 === 例えば。 150
 and_pack_line72 === USSD制限
 and_pack_line72_1 === リセット前にユーザーが要求できるussdの最大数。無制限の場合は0を入力します。
-and_pack_line74 === 例えば。 25
 and_pack_line79 === 通知制限
 and_pack_line79_1 === リセット前にユーザーが受信できる通知の最大数。無制限の場合は0を入力します。
 and_pack_line81 === 例えば。 1300
 and_pack_line86 === ユーザーのアカウントにリンクできるAndroidデバイスの最大数。無制限の場合は0を入力します。
-and_pack_line88 === 例えば。 25
 and_pack_line92 === WhatsApp設定
 and_pack_line97 === リセット前にユーザーが送信できるチャットの最大数。無制限の場合は0を入力します。
-and_pack_line99 === 例えば。 300
 and_pack_line104 === リセット前にユーザーが受信できるチャットの最大数。無制限の場合は0を入力します。
-and_pack_line106 === 例えば。 150
 and_pack_line111 === アカウント制限
 and_pack_line111_1 === ユーザーのアカウントにリンクできるWhatsAppアカウントの最大数。無制限の場合は0を入力します。
 and_pack_line113 === 例えば。 10
 and_pack_line117 === Ultility設定
 and_pack_line122 === ユーザーが保存できる連絡先の最大数。無制限の場合は0を入力します。
-and_pack_line124 === 例えば。 25
 and_pack_line129 === スケジュールされた制限
 and_pack_line129_1 === ユーザーが保存できるスケジュールされたメッセージ/チャットの最大数。無制限の場合は0を入力します。これは、SMSとwhatsappの両方で組み合わされます。
-and_pack_line131 === 例えば。 25
 and_pack_line136 === 作成できるAPIキーの最大数。無制限の場合は0を入力します。
-and_pack_line138 === 例えば。 10
 and_pack_line143 === 作成できるWebhookの最大数。無制限の場合は0を入力します。
 and_pack_line145 === 例えば。 5
 and_pack_line150 === アクション制限
 and_pack_line150_1 === 作成できるアクションの最大数。無制限の場合は0を入力します。
-and_pack_line152 === 例えば。 5
 and_page_line17 === ページ名。
 and_page_line24 === 選択した役割のみがこのページにアクセスできます。
 and_page_line35 === 有効にすると、ログインしていないとページにアクセスできなくなります。
@@ -189,13 +149,10 @@ and_payout_line24 === プロバイダー
 and_payout_line24_1 === お金を受け取るために使用する支払いプロバイダーを選択します。
 and_payout_line27 === ペイパル
 and_payout_line28 === Payoneer
-and_payout_line34 === お支払い住所
 and_payout_line34_1 === 支払いアドレスまたは電子メール、支払い問題を防ぐために注意深くチェックしてください。
 and_payout_line36 === 例えば。あなたのPayPalメール
-and_payout_line43 === リクエスト
 and_plug_line17 === プラグインファイル
 and_plug_line17_1 === プラグインのzipファイル。正しいファイルを選択してください。
-and_push_line17 === 題名
 and_push_line17_1 === タイトルをプッシュします。
 and_push_line19 === 例えば。発表
 and_push_line24 === 画像
@@ -205,7 +162,6 @@ and_push_line34 === メッセージ
 and_push_line34_1 === プッシュメッセージ。
 and_push_line41 === ユーザー
 and_push_line41_1 === ユーザーによるブロードキャスト。
-and_push_line53 === 役割
 and_push_line53_1 === 役割ごとにブロードキャストします。
 and_role_line17 === ロール名。
 and_role_line19 === 例えば。デベロッパー
@@ -224,19 +180,14 @@ and_sms_line31 === 有効にすると、スケジュールされた日付が一�
 and_sms_line42 === 改行で区切られた複数のE.164番号。
 and_sms_line55 === 複数の連絡先グループを選択
 and_sms_line67 === ショーター
-and_sms_line67_1 === 有効にすると、メッセージ内のリンクは、選択した短縮機能を使用して自動的に短縮されます。
 and_sms_line70 === リンクを短くしないでください
 and_sms_line79 === ゲートウェイモード
-and_sms_line79_1 === 使用するゲートウェイモード。デバイスを選択した場合は、リンクされたデバイスが送信用に表示されます。それ以外の場合は、サードパーティおよびパートナーのゲートウェイが表示されます。
 and_sms_line82 === デバイス
 and_sms_line83 === クレジット
 and_sms_line88 === 使用するSIMカードスロット。
-and_sms_line91 === SIM1
-and_sms_line92 === SIM2
 and_sms_line97 === 作成済みのメッセージテンプレート。
 and_sms_line110 === リンクされたデバイスで、送信に使用するものを選択します。
 and_sms_line121 === SMSゲートウェイ
-and_sms_line121_1 === サードパーティおよびパートナーゲートウェイ。これらのゲートウェイを使用してメッセージを送信すると、クレジットが使用されます。ゲートウェイの価格を確認してから使用することをお勧めします。
 and_sms_line141 === スピンタックス
 and_sms_line144 === 例：
 and_sms_line144_1 === トムは
@@ -270,8 +221,6 @@ and_user_line31 === ユーザーパスワードを入力します。
 and_user_line38 === ユーザーの場所のタイムゾーン。別の国にいる場合は、これを変更してください。タイムゾーンは、送信されたメッセージやその他のデータの日付と時刻の正確さのために使用されます。
 and_user_line49 === 国
 and_user_line49_1 === ユーザーの国。これは、支払いと電話番号のフォーマットに使用されます。
-and_user_line60 === 通知音
-and_user_line60_1 === 無効にすると、通知は無音になります。
 and_user_line70 === ユーザーの役割を選択します。
 and_user_line81 === ユーザー言語を選択します。
 and_user_line92 === パートナープログラム
@@ -280,17 +229,12 @@ and_ussd_line17 === USSDコード
 and_ussd_line17_1 === USSDリクエストコード。
 and_ussd_line19 === 例えば。 * 121＃
 and_ussd_line24 === 使用するSIMカードスロット。
-and_ussd_line27 === SIM1
-and_ussd_line28 === SIM2
 and_ussd_line34 === リンクされたデバイスで、ussdリクエストに使用するものを選択します。
 and_ussd_line47 === リクエスト
 and_vouch_line17 === バウチャー名。
 and_vouch_line19 === 例えば。特別な
 and_vouch_line24 === 作成するバウチャーの量。最大値は1000です！
 and_vouch_line26 === 例えば。 100
-and_vouch_line31 === サブスクリプション期間。
-and_vouch_line33 === 例えば。 12
-and_vouch_line38 === サブスクリプションパッケージ。
 and_web_line17 === Webhook名。
 and_web_line24 === イベントを受け取る
 and_web_line24_1 === 必要な受信イベントを選択すると、POSTメソッドを介してWebフックのURLに送信されます。
@@ -300,18 +244,11 @@ and_web_line29 === USSD
 and_web_line30 === 通知
 and_web_line36 === WebhookのURL、すべてのペイロードデータはPOSTメソッドを介してここに送信されます。
 and_web_line38 === 例えば。 http://yourdomain.com/hook_listen.php
-and_whatssched_line17 === スケジュールされたチャットの名前。
-and_whatssched_line19 === 例えば。私のメッセージ
-and_whatssched_line24 === スケジュール日を選択します。
-and_whatssched_line26 === 例えば。 2020年6月22日12:00AM
 and_whatssched_line31 === 有効にすると、スケジュールされた日付が一致するたびにチャットがスケジュールされます。
 and_whatssched_line42 === 改行で区切られた複数のE.164番号。
-and_whatssched_line55 === 複数の連絡先グループを選択
 and_whatssched_line67 === ショーター
-and_whatssched_line67_1 === 有効にすると、メッセージ内のリンクは、選択した短縮機能を使用して自動的に短縮されます。
 and_whatssched_line70 === リンクを短くしないでください
 and_whatssched_line79 === アカウント
-and_whatssched_line79_1 === 使用するWhatsAppアカウントを選択します。
 and_whatsached_line88 === 作成済みのメッセージテンプレート。
 and_whatssched_line103 === スピンタックス
 and_whatssched_line103_1 === メッセージ内の単語をランダム化して、スパムの検出を効果的に防止できる機能。
@@ -366,14 +303,11 @@ and_admin_build_line95_1 === アプリのログイン画像のロゴ。これは
 and_admin_build_line103 === アプリの画像アイコン、これはアプリドロワーとAndroidシステムに表示されます。推奨されるサイズは、pxおよびpng形式で1024x1024です。
 and_admin_build_line111 === アプリのスプラッシュ画面画像。これは、ユーザーがアプリを開いたときに表示されます。推奨されるサイズは、pxおよびpng形式の2732x2732です。
 and_admin_build_line118 === 構造
-and_admin_build_line123 === カスタムJavaScript
 and_admin_build_line123_1 === カスタムJavaScriptコードを使用する場合は、ここに追加してください。これはアプリに動的に読み込まれます。
 and_admin_build_line125 === 例：alert（'Hello World！'）;
-and_admin_build_line130 === カスタムCSS
 and_admin_build_line130_1 === カスタムcssコードを使用する場合は、ここに追加してください。これはアプリに動的に読み込まれます。
 and_admin_build_line137 === カスタムレイアウト
 and_admin_build_line137_1 === カスタムアプリ構造を使用する場合は、HTMLコンテンツを変更してください。何をしているのかわからない場合は、デフォルト値のままにしてください。
-and_admin_build_line139 === 「こんにちは世界」
 and_settings_line21 === サイト名。これは、ブランディングが必要なすべての場所に表示されます。
 and_settings_line23 === 例えば。ゼンダー
 and_settings_line28 === サイトの説明、これは検索エンジン最適化のためのものなので、創造性を発揮してください。
@@ -388,14 +322,12 @@ and_settings_line70 === 無効にすると、登録ページからの登録は�
 and_settings_line80 === パッケージリセットモード
 and_settings_line80_1 === 送信、受信、ussd、通知などの制限のリセット間隔。これは、AndroidとWhatsAppの両方の機能に適用されます。ここでの選択は、cronセットアップにも適用する必要があります。
 and_settings_line83 === 毎日
-and_settings_line84 === 毎月
 and_settings_line90 === 無料モデル
 and_settings_line90_1 === 有効にすると、デフォルトの無料パッケージが登録後にユーザーに自動的に割り当てられます。
 and_settings_line100 === 無効にすると、ホームページは使用されません。ルートディレクトリ内のすべての訪問はダッシュボードにリダイレクトされます。
 and_settings_line110 === TAWKチャットウィジェット
 and_settings_line110_1 === 有効にすると、tawkチャットウィジェットがユーザーに表示されます。
 and_settings_line120 === tawkチャットウィジェットリンク。これは、tawkチャットサポートを使用する場合に必要です。
-and_settings_line127 === 管理API
 and_settings_line127_1 === 有効にする管理APIエンドポイントを選択します。必要なエンドポイントのみを有効にすることをお勧めします。
 and_settings_line159 === このトークンは誰にも共有してはなりません。これは、cronジョブ、システムAPI、およびその他の外部リクエストのセキュリティに使用されます。システムトークンが侵害されたと思われる場合は、新しいトークンを再生成してください。新しいトークンを再生成した後、cronジョブ、システムAPI、およびその他の関連設定を再構成する必要があります。
 and_settings_line160 === 再生する
@@ -419,9 +351,7 @@ and_settings_line263 === 例えば。 test_4vzuJVhRCFSyNyuc6gwvJpQ474Vngp
 and_settings_line268 === 使用するシステム通貨。これは、トランザクションを米ドルに変換する際のベースとして使用されます。
 and_settings_line279 === 使用する支払いプロバイダーを選択します。
 and_settings_line293 === メッセージの最小文字。これはSMSとWhatsAppの両方に適用されます。
-and_settings_line295 === 例えば。 5
 and_settings_line300 === メッセージの最大文字数。これはSMSとWhatsAppの両方に適用されます。無限文字の場合は0を入力します。
-and_settings_line302 === 例えば。 300
 and_settings_line307 === メッセージフッターマーク。パッケージでフッターマークが有効になっている場合、メッセージに追加されます。
 and_settings_line309 === 例えば。 Zenderシステムから送信
 and_settings_line318 === 送信済みメッセージテーブルに表示するデフォルトの行数。これはSMSとWhatsAppの両方に適用されます。
@@ -484,16 +414,11 @@ and_edit_auto_line36 === 例えば。ありがとう、大丈夫、購読、は�
 and_edit_auto_line41 === 送信者に送信されるメッセージ。
 and_edit_auto_line43 === 例えば。ここにあなたの返信メッセージ、受け入れられたショートコード
 and_edit_auto_line48 === メッセージで使用できる変数のセット。
-and_edit_con_line17 === 連絡先。
 and_edit_con_line19 === 例えば。マイケル
-and_edit_con_line24 === 連絡先番号。
-and_edit_con_line31 === 連絡先グループ。
-and_edit_dev_line16 === デバイスの詳細
 and_edit_dev_line21 === 装置名。
 and_edit_dev_line23 === 例えば。私のデバイス
 and_edit_dev_line28 === 有効にすると、メッセージは2つの値の間でランダムな間隔で送信されます。以下で設定できます。
 and_edit_dev_line38 === 秒単位の最小間隔。
-and_edit_dev_line41 === 例えば。 5
 and_edit_dev_line46 === 秒単位の最大間隔。
 and_edit_dev_line49 === 例えば。 20
 and_edit_dev_line53 === 通知設定
@@ -514,109 +439,25 @@ and_edit_dev_line112_1 === 送信に使用するsimスロットを選択しま�
 and_edit_email_line16 === メールテンプレート
 and_edit_email_line18 === HTMLを許可
 and_edit_gate_line17 === 名前
-and_edit_gate_line17_1 === これは、ユーザーに表示されるゲートウェイ名です。
-and_edit_gate_line19 === 例えば。 Twilio
-and_edit_gate_line24 === コントローラ
-and_edit_gate_line24_1 === ゲートウェイコントローラファイルを選択します。これには、ゲートウェイロジックとコードが含まれます。ドキュメントを確認することをお勧めします。
-and_edit_gate_line31 === 折り返し電話
-and_edit_gate_line31_1 === 有効になっている場合は、送信ステータスについてサードパーティゲートウェイのコールバック機能を使用してメッセージを確認する必要があります。有効になっていない場合、メッセージは送信時にすぐに送信済みとしてマークされます。
-and_edit_gate_line34 === 有効
-and_edit_gate_line35 === 無効にする
 and_edit_gate_line41 === コールバックID
-and_edit_gate_line41_1 === コールバックが有効になっている場合は、このIDをコピーしてコントローラーに貼り付け、システムがコールバックを識別できるようにする必要があります。
-and_edit_gate_line44 === コールバックIDをコピーして貼り付ける
-and_edit_gate_line51 === 価格設定
-and_edit_gate_line51_1 === このゲートウェイのカスタム価格表。これにより、サードパーティの価格に加えて請求することができます。たとえば、twilioが特定の国に対して0.01を請求する場合、代わりに0.02を請求できます。通貨は、システム通貨に基づいています。価格形式に正しく従ってください。
-and_edit_gate_line54 === サンプルJSON価格：
-and_edit_gate_line54_1 === ダウンロード
-and_edit_grp_line17 === グループ名。
-and_edit_grp_line19 === 例えば。友達
-and_edit_hook_line17 === アクション名。
-and_edit_hook_line19 === 例えば。テストアクション
 and_edit_hook_line24 === ソース
-and_edit_hook_line24_1 === イベントのソース。
 and_edit_hook_line27 === SMS
 and_edit_hook_line28 === WhatsApp
-and_edit_hook_line34 === このフックが呼び出されるイベントを選択します。
-and_edit_hook_line37 === 送信時
-and_edit_hook_line38 === 受信時
-and_edit_hook_line44 === フックリンク構造。これは、システムによって呼び出されるURLです。 GETメソッドのみがサポートされています。
-and_edit_hook_line51 === フックURLで使用できる変数のセット。
-and_edit_lang_line17 === 例えば。韓国語
-and_edit_lang_line30 === RTL
 and_edit_lang_line32 === はい
 and_edit_lang_line33 === いいえ
-and_edit_pack_line17 === パッケージ名。
-and_edit_pack_line19 === 例えば。 VIPパッケージ
-and_edit_pack_line24 === パッケージ価格、これはシステム通貨に従う必要があります。フロート値は許可されていません。
-and_edit_pack_line29 === 例えば。 25
-and_edit_pack_line34 === 有効にすると、メッセージとwhatsappチャットには、受信者が受信したときにフッターマークが含まれます。
-and_edit_pack_line44 === 有効にすると、パッケージはパッケージモーダルおよびホームページから非表示になります。
 and_edit_pack_line53 === Androidの設定
-and_edit_pack_line58 === SMS送信制限
-and_edit_pack_line58_1 === リセット前にユーザーが送信できるメッセージの最大数。無制限の場合は0を入力します。
-and_edit_pack_line60 === 例えば。 300
-and_edit_pack_line65 === SMS受信制限
-and_edit_pack_line65_1 === リセット前にユーザーが受信できるメッセージの最大数。無制限の場合は0を入力します。
-and_edit_pack_line67 === 例えば。 150
-and_edit_pack_line72 === USSD制限
-and_edit_pack_line72_1 === リセット前にユーザーが要求できるussdの最大数。無制限の場合は0を入力します。
-and_edit_pack_line74 === 例えば。 25
 and_edit_pack_line79 === 通知制限
 and_edit_pack_line79_1 === リセット前にユーザーが受信できる通知の最大数。無制限の場合は0を入力します。
 and_edit_pack_line81 === 例えば。 1300
-and_edit_pack_line86 === ユーザーのアカウントにリンクできるAndroidデバイスの最大数。無制限の場合は0を入力します。
-and_edit_pack_line88 === 例えば。 25
-and_edit_pack_line92 === WhatsApp設定
-and_edit_pack_line97 === リセット前にユーザーが送信できるチャットの最大数。無制限の場合は0を入力します。
-and_edit_pack_line99 === 例えば。 300
-and_edit_pack_line104 === リセット前にユーザーが受信できるチャットの最大数。無制限の場合は0を入力します。
-and_edit_pack_line106 === 例えば。 150
-and_edit_pack_line111 === アカウント制限
-and_edit_pack_line111_1 === ユーザーのアカウントにリンクできるWhatsAppアカウントの最大数。無制限の場合は0を入力します。
-and_edit_pack_line113 === 例えば。 10
-and_edit_pack_line117 === Ultility設定
-and_edit_pack_line122 === ユーザーが保存できる連絡先の最大数。無制限の場合は0を入力します。
-and_edit_pack_line124 === 例えば。 25
 and_edit_pack_line129 === スケジュールされた制限
-and_edit_pack_line129_1 === ユーザーが保存できるスケジュールされたメッセージ/チャットの最大数。無制限の場合は0を入力します。これは、SMSとwhatsappの両方で組み合わされます。
-and_edit_pack_line131 === 例えば。 25
-and_edit_pack_line136 === 作成できるAPIキーの最大数。無制限の場合は0を入力します。
-and_edit_pack_line138 === 例えば。 10
-and_edit_pack_line143 === 作成できるWebhookの最大数。無制限の場合は0を入力します。
-and_edit_pack_line145 === 例えば。 5
-and_edit_pack_line150 === アクション制限
-and_edit_pack_line150_1 === 作成できるアクションの最大数。無制限の場合は0を入力します。
-and_edit_pack_line152 === 例えば。 5
-and_edit_page_line17 === ページ名。
-and_edit_page_line24 === 選択した役割のみがこのページにアクセスできます。
-and_edit_page_line35 === 有効にすると、ログインしていないとページにアクセスできなくなります。
-and_edit_page_line45 === ページコンテンツ。すべてのhtmlタグが許可されています。不明なソースからスクリプトを追加する場合は、注意が必要です。
-and_edit_role_line17 === ロール名。
-and_edit_role_line19 === 例えば。デベロッパー
-and_edit_role_line24 === この役割に対して無効/有効にする権限と機能を選択します。変更はリアルタイムで適用され、役割を持つ接続ユーザーのブラウザータブが自動的に再ロードされます。
 and_edit_short_line17 === 名前
-and_edit_short_line17_1 === 短縮名。
-and_edit_short_line19 === 例えば。 Bitly
-and_edit_short_line24 === コントローラ
-and_edit_short_line24_1 === 短縮コントローラーファイルを選択します。これには、短縮ロジックとコードが含まれます。ドキュメントを確認することをお勧めします。
-and_edit_sms_line17 === スケジュールされたメッセージの名前。
-and_edit_sms_line19 === 例えば。私のメッセージ
-and_edit_sms_line24 === スケジュール日を選択します。
-and_edit_sms_line26 === 例えば。 2020年6月22日12:00AM
 and_edit_sms_line31 === 有効にすると、スケジュールされた日付が一致するたびにメッセージがスケジュールされます。
-and_edit_sms_line42 === 改行で区切られた複数のE.164番号。
-and_edit_sms_line55 === 複数の連絡先グループを選択
 and_edit_sms_line67 === ゲートウェイモード
-and_edit_sms_line67_1 === 使用するゲートウェイモード。デバイスを選択した場合は、リンクされたデバイスが送信用に表示されます。それ以外の場合は、サードパーティおよびパートナーのゲートウェイが表示されます。
 and_edit_sms_line70 === デバイス
 and_edit_sms_line71 === クレジット
 and_edit_sms_line76 === 使用するSIMカードスロット。
-and_edit_sms_line79 === SIM1
-and_edit_sms_line80 === SIM2
 and_edit_sms_line88 === リンクされたデバイスで、送信に使用するものを選択します。
 and_edit_sms_line99 === SMSゲートウェイ
-and_edit_sms_line99_1 === サードパーティおよびパートナーゲートウェイ。これらのゲートウェイを使用してメッセージを送信すると、クレジットが使用されます。ゲートウェイの価格を確認してから使用することをお勧めします。
 and_edit_sms_line119 === スピンタックス
 and_edit_sms_line122 === 例：
 and_edit_sms_line122_1 === トムは
@@ -626,8 +467,6 @@ and_edit_sms_line125_1 === 良い
 and_edit_sms_line125_2 === と
 and_edit_sms_line125_3 === 悪い
 and_edit_sms_line125_4 === ランダムに使用されます。
-and_edit_temp_line17 === テンプレート名。
-and_edit_temp_line24 === テンプレート形式。
 and_edit_temp_line31 === スピンタックス
 and_edit_temp_line31_1 === メッセージ内の単語をランダム化して、スパムの検出を効果的に防止できる機能。
 and_edit_temp_line35 === 例：
@@ -639,35 +478,16 @@ and_edit_temp_line38_2 === と
 and_edit_temp_line38_3 === 悪い
 and_edit_temp_line38_4 === ランダムに使用されます。
 and_edit_temp_line43 === メッセージで使用できる変数のセット。
-and_eduse_line17 === 正式な氏名。偽の名前を使用すると、アカウントが停止される可能性があることに注意してください。
-and_eduse_line19 === 例えば。 Michael Cors
 and_eduse_line24 === 有効なメールアドレス。現在のメールアドレスを保持する場合は、このフィールドを無視してください。
-and_eduse_line26 === 例えば。 user@mail.com
 and_eduse_line31 === 現在のパスワードを保持する場合は、このフィールドを無視してください。それ以外の場合は、新しいパスワードを入力してください。
-and_eduse_line38 === あなたの場所のタイムゾーン、あなたが別の国にいる場合はこれを変更してください。タイムゾーンは、送信されたメッセージやその他のデータの日付と時刻の正確さのために使用されます。
 and_eduse_line49 === 国
-and_eduse_line49_1 === あなたの国、これは支払いと電話番号のフォーマットに使用されます。
-and_eduse_line60 === 通知音
-and_eduse_line60_1 === 無効にすると、通知は無音になります。
-and_eduse_line70 === ユーザーの役割を選択します。
-and_eduse_line81 === ユーザー言語を選択します。
-and_eduse_line92 === パートナープログラム
-and_eduse_line92_1 === 有効にすると、ユーザーは自分のデバイスをグローバルデバイスとして使用できるようになり、他のユーザーが自分のデバイスを使用してメッセージを送信したときにお金を稼ぐことができます。
-and_edweb_line17 === Webhook名。
 and_edweb_line24 === イベントを受け取る
-and_edweb_line24_1 === 必要な受信イベントを選択すると、POSTメソッドを介してWebフックのURLに送信されます。
 and_edweb_line30 === 通知
-and_edweb_line36 === WebhookのURL、すべてのペイロードデータはPOSTメソッドを介してここに送信されます。
 and_edweb_line38 === 例えば。 https://yourdomain.com/reply.php
 and_edwhat_line17 === スケジュールされたチャットの名前。
-and_edwhat_line19 === 例えば。私のメッセージ
-and_edwhat_line24 === スケジュール日を選択します。
-and_edwhat_line26 === 例えば。 2020年6月22日12:00AM
 and_edwhat_line31 === 有効にすると、スケジュールされた日付が一致するたびにチャットがスケジュールされます。
 and_edwhat_line42 === 改行で区切られた複数のE.164番号。
-and_edwhat_line55 === 複数の連絡先グループを選択
 and_edwhat_line67 === アカウント
-and_edwhat_line67_1 === 使用するWhatsAppアカウントを選択します。
 and_edwhat_line76 === 作成済みのメッセージテンプレート。
 and_edwhat_line91 === スピンタックス
 and_edwhat_line91_1 === メッセージ内の単語をランダム化して、スパムの検出を効果的に防止できる機能。
@@ -691,34 +511,23 @@ and_edwid_line53 === ウィジェットの位置、モーダルのみ。
 and_edwid_line64 === ウィジェットのコンテンツ。すべてのhtmlタグが許可されています。不明なソースからスクリプトを追加する場合は、注意が必要です。
 and_import_line17 === インポートしたいExcelファイルは、必ず必要な形式に従ってください。
 and_import_line20 === サンプルファイル：
-and_import_line20_1 === ダウンロード
-and_package_line36 === SMS受信
-and_package_line41 === WhatsApp送信
-and_package_line46 === WhatsApp受信
 and_package_line51 === USSD
 and_package_line56 === 通知
-and_package_line61 === スケジュールされたSMS/チャット
 and_package_line66 === 連絡先
 and_package_line71 === APIキー
 and_package_line76 === Webhook
 and_package_line81 === 行動
-and_package_line86 === Androidデバイス
 and_package_line91 === WhatsAppアカウント
 and_redeem_line18 === コードを引き換える。
 and_redeem_line20 === 例えば。 2f5b4727c7c8596779b21d7644e2ebb8
 and_sms_bulk_18 === 改行で区切られた複数のE.164番号。追加されたグループを選択した場合でも、1つのメッセージのみが番号に送信されます。
 and_sms_bulk_31 === 複数の連絡先グループを選択します。追加された複数のグループを選択した場合でも、連絡先に送信されるメッセージは1つだけです。
 and_sms_bulk_43 === ショーター
-and_sms_bulk_43_1 === 有効にすると、メッセージ内のリンクは、選択した短縮機能を使用して自動的に短縮されます。
 and_sms_bulk_46 === リンクを短くしないでください
 and_sms_bulk_55 === ゲートウェイモード
-and_sms_bulk_55_1 === 使用するゲートウェイモード。デバイスを選択した場合は、リンクされたデバイスが送信用に表示されます。それ以外の場合は、サードパーティおよびパートナーのゲートウェイが表示されます。
 and_sms_bulk_58 === デバイス
 and_sms_bulk_59 === クレジット
 and_sms_bulk_64 === 使用するSIMカードスロット。
-and_sms_bulk_67 === SIM1
-and_sms_bulk_68 === SIM2
-and_sms_bulk_72 === 有効にすると、これらのメッセージは何よりも先に送信されます。
 and_sms_bulk_81 === 作成済みのメッセージテンプレート。
 and_sms_bulk_94 === リンクされたデバイスで、送信に使用するものを選択します。
 and_sms_bulk_105 === SMSゲートウェイ
@@ -730,9 +539,7 @@ and_sms_bulk_135 === 例：
 and_sms_bulk_143 === メッセージで使用できる変数のセット。
 and_sms_exe17 === インポートしたいExcelファイルは、必ず必要な形式に従ってください。
 and_sms_exe20 === サンプルファイル：
-and_sms_exe20_1 === ダウンロード
 and_sms_exe27 === ショーター
-and_sms_exe27_1 === 有効にすると、メッセージ内のリンクは、選択した短縮機能を使用して自動的に短縮されます。
 and_sms_exe30 === リンクを短くしないでください
 and_sms_exe39 === ゲートウェイモード
 and_sms_exe39_1 === 使用するゲートウェイモード。デバイスを選択した場合は、リンクされたデバイスが送信用に表示されます。それ以外の場合は、サードパーティおよびパートナーのゲートウェイが表示されます。
@@ -748,11 +555,9 @@ and_sms_exe97_1 === メッセージ内の単語をランダム化して、スパ
 and_sms_exe109 === メッセージで使用できる変数のセット。
 and_sms_quick17 === 受信者の電話番号。
 and_sms_quick24 === ゲートウェイモード
-and_sms_quick24_1 === 使用するゲートウェイモード。デバイスを選択した場合は、リンクされたデバイスが送信用に表示されます。それ以外の場合は、サードパーティおよびパートナーのゲートウェイが表示されます。
 and_sms_quick27 === デバイス
 and_sms_quick28 === クレジット
 and_sms_quick34 === ショーター
-and_sms_quick34_1 === 有効にすると、メッセージ内のリンクは、選択した短縮機能を使用して自動的に短縮されます。
 and_sms_quick37 === リンクを短くしないでください
 and_sms_quick46 === 使用するSIMカードスロット。
 and_sms_quick49 === SIM1
@@ -760,13 +565,11 @@ and_sms_quick50 === SIM2
 and_sms_quick56 === 有効にすると、これらのメッセージは何よりも先に送信されます。
 and_sms_quick66 === リンクされたデバイスで、送信に使用するものを選択します。
 and_sms_quick77 === SMSゲートウェイ
-and_sms_quick77_1 === サードパーティおよびパートナーゲートウェイ。これらのゲートウェイを使用してメッセージを送信すると、クレジットが使用されます。ゲートウェイの価格を確認してから使用することをお勧めします。
 and_sms_quick104 === スピンタックス
 and_sms_quick104_1 === メッセージ内の単語をランダム化して、スパムの検出を効果的に防止できる機能。
 and_sysup17 === ファイルの更新
 and_sysup17_1 === zipファイルを更新してください。正しいファイルを選択してください。
 and_upplug17 === ファイルの更新
-and_upplug17_1 === zipファイルを更新してください。正しいファイルを選択してください。
 and_uset17 === あなたのプロフィールアバター画像。
 and_uset24 === 正式な氏名。偽の名前を使用すると、アカウントが停止される可能性があることに注意してください。
 and_uset26 === 例えば。マイケルシュマック
@@ -793,18 +596,14 @@ and_view20 === 全景
 and_whatsbulk_18 === 改行で区切られた複数のE.164番号。
 and_whatsbulk_31 === 複数の連絡先グループを選択します。連絡先に複数のグループがある場合、含まれているグループを選択すると、メッセージが複数回送信される可能性があることに注意してください。
 and_whatsbulk_43 === ショーター
-and_whatsbulk_43_1 === 有効にすると、メッセージ内のリンクは、選択した短縮機能を使用して自動的に短縮されます。
 and_whatsbulk_46 === リンクを短くしないでください
 and_whatsbulk_55 === アカウント
-and_whatsbulk_55_1 === 使用するWhatsAppアカウントを選択します。
 and_whatsbulk_64 === 作成済みのメッセージテンプレート。
-and_whatsbulk_79 === メッセージを翻訳します。
 and_whatsbulk_84 === スピンタックス
 and_whatsbulk_84_1 === メッセージ内の単語をランダム化して、スパムの検出を効果的に防止できる機能。
 and_whatsbulk_96 === メッセージで使用できる変数のセット。
 and_whatex17 === インポートしたいExcelファイルは、必ず必要な形式に従ってください。
 and_whatex20 === サンプルファイル：
-and_whatex20_1 === ダウンロード
 and_whatex27 === ショーター
 and_whatex27_1 === 有効にすると、メッセージ内のリンクは、選択した短縮機能を使用して自動的に短縮されます。
 and_whatex30 === リンクを短くしないでください
@@ -817,31 +616,17 @@ and_whatex68_1 === メッセージ内の単語をランダム化して、スパ�
 and_whatex80 === メッセージで使用できる変数のセット。
 and_whatquick_17 === E.164受信者の電話番号。
 and_whatquick_24 === ショーター
-and_whatquick_24_1 === 有効にすると、メッセージ内のリンクは、選択した短縮機能を使用して自動的に短縮されます。
 and_whatquick_27 === リンクを短くしないでください
 and_whatquick_36 === アカウント
-and_whatquick_36_1 === 使用するWhatsAppアカウントを選択します。
 and_whatquick_50 === メッセージを翻訳します。
 and_whatquick_55 === スピンタックス
 and_whatquick_55_1 === メッセージ内の単語をランダム化して、スパムの検出を効果的に防止できる機能。
 and_admin_api_3 === 管理API
 and_admin_fileman_3 === テンプレートエディタ
 and_admin_gate_3 === SMSゲートウェイ
-and_admin_gate_8 === ゲートウェイを追加
 and_admin_lang_6 === 言語を並べ替える
-and_admin_mark_3 === マーケティング
-and_admin_mark_6 === 選択したアイテムを削除する
-and_admin_mark_12 === 押す
-and_admin_mark_17 === 通知する
-and_admin_mark_22 === メーラー
 and_admin_payout_3 === 支払い要求
-and_admin_short_3 === ショーター
 and_admin_short_8 === ショーターを追加
-and_admin_subs_8 === サブスクリプションの追加
-and_admin_vouch_6 === 選択したアイテムを削除する
-and_droid_dev_3 === Androidデバイス
-and_droid_dev_6 === ドキュメントを読む
-and_droid_dev_8 === ドキュメント
 and_droid_dev_11 === パートナーゲートウェイプロバイダーになるために申し込む
 and_droid_dev_13 === パートナーシップ
 and_droid_dev_16 === 新しいAndroidデバイスを登録する
@@ -851,29 +636,21 @@ and_droid_rev_3 === SMSを受信しました
 and_droid_rev_6 === 選択したメッセージを削除する
 and_droid_sched_6 === 選択したアイテムを削除する
 and_droid_sent_3 === SMSを送信しました
-and_droid_sent_6 === 選択したアイテムを削除する
 and_droid_sent_10 === 保留中のメッセージをすべてクリアする
 and_droid_sent_14 === クイックSMSを送信する
-and_droid_sent_16 === 素早い
 and_droid_sent_19 === バルクSMSを送信する
-and_droid_sent_21 === バルク
 and_droid_sent_24 === Excel経由でバルクSMSを送信する
 and_droid_ussd_3 === USSDリクエスト
-and_droid_ussd_6 === 選択したアイテムを削除する
 and_droid_ussd_10 === 保留中のリクエストをすべて削除します
 and_droid_ussd_14 === 新しいUSSDリクエスト
-and_droid_ussd_16 === リクエスト
 and_con_grp_6 === 選択したアイテムを削除する
 and_con_grp_10 === 新しい連絡先グループを追加する
-and_con_sav_6 === 選択したアイテムを削除する
 and_con_sav_10 === 新しい連絡先を追加する
 and_con_sav_15 === Excelファイルから連絡先をインポートする
 and_con_unsub_3 === 未購読
-and_con_unsub_6 === 選択したアイテムを削除する
 and_doc_act_3 === 行動
 and_doc_api_3 === APIドキュメント
 and_doc_dev_3 === デバイス
-and_doc_partner_3 === パートナーシップ
 and_doc_webhook_3 === Webhook
 and_rate_gate_3 === 料金
 and_rate_gate_10 === 国
@@ -886,21 +663,12 @@ and_tool_act_8 === ドキュメント
 and_tool_act_11 === 新しいフックアクションを追加
 and_tool_act_13 === 針
 and_tool_act_16 === 新しい自動返信アクションを追加する
-and_tool_act_18 === 自動返信
-and_tool_key_6 === ドキュメントを読む
-and_tool_key_8 === ドキュメント
 and_tool_key_11 === 新しいAPIキーを作成します
-and_tool_webhook_6 === ドキュメントを読む
-and_tool_webhook_8 === ドキュメント
 and_what_accnt_6 === 新しいアカウントを接続する
-and_what_accnt_8 === アカウントを追加する
 and_what_attach_8 === 選択したメッセージを削除する
 and_what_rev_3 === 受信したチャット
-and_what_rev_6 === 選択したアイテムを削除する
 and_what_sched_6 === 選択したアイテムを削除する
-and_what_sched_12 === チャットのスケジュール
 and_what_sent_3 === 送信されたチャット
-and_what_sent_6 === 選択したアイテムを削除する
 and_what_sent_10 === クイックチャットを送信する
 and_what_sent_12 === 素早い
 and_what_sent_15 === 一括チャットを送信する
@@ -912,10 +680,8 @@ and_def_f_blck_8 === 参加しませんか
 and_def_f_blck_35 === 連絡する
 and_head_blck_21 === 家
 and_head_blck_24 === 特徴
-and_head_blck_27 === 価格設定
 and_head_blck_30 === クライアント
 and_head_blck_39 === ダッシュボード
-and_head_blck_42 === ログアウト
 and_pages_default_8 === 最高のSMSとWhatsAppのマーケティング
 and_pages_default_29 === SMSメッセージング
 and_pages_default_31 === AndroidデバイスをSMSゲートウェイとして使用します。これは、サードパーティのゲートウェイを使用するよりも効果的に安価です。
@@ -929,11 +695,9 @@ and_pages_default_73 === なぜ私たちのサービスを利用するのです�
 and_pages_default_74 === ここにあなたが私たちのサービスを使い始めるべきいくつかの理由があります
 and_pages_default_84 === 迅速かつ一括送信
 and_pages_default_86 === さまざまな連絡先グループに大量のメッセージを簡単に送信できます。また、迅速なトランザクションのためにクイックメッセージを送信することもできます。当社のプラットフォームにはライブダッシュボードも含まれており、メッセージが送受信されたときに通知を受け取ります。
-and_pages_default_89 === ショートコード
 and_pages_default_89_1 === 事前定義されたデータを使用してメッセージを作成します。
 and_pages_default_90 === スピンタックス
 and_pages_default_90_1 === スパムの問題と戦うために単語のセットをランダム化するため。
-and_pages_default_91 === 翻訳者
 and_pages_default_91_1 === 言語に基づいてオーディエンスをターゲットにするため。
 and_pages_default_98 === 自動化されたスマートツール
 and_pages_default_100 === 私たちが汚い仕事をしている間あなたのビジネスを管理してください、私たちのプラットフォームはスマートで、あなたが送りたいメッセージだけを必要とします、そして私たちは残りをします！
@@ -955,17 +719,12 @@ and_pages_default_156 === 直感的なツールとダッシュボード
 and_pages_default_159 === あなたがあなたの製品を売り込む間、速くて遅れのない経験
 and_pages_default_171 === サービス価格
 and_pages_default_187 === SMS送信
-and_pages_default_194 === SMS受信
-and_pages_default_201 === WhatsApp送信
-and_pages_default_208 === WhatsApp受信
 and_pages_default_215 === USSD
 and_pages_default_222 === 通知
-and_pages_default_229 === スケジュールされたSMS/チャット
 and_pages_default_236 === 連絡先
 and_pages_default_243 === APIキー
 and_pages_default_250 === Webhook
 and_pages_default_257 === 行動
-and_pages_default_264 === Androidデバイス
 and_pages_default_271 === WhatsAppアカウント
 and_pages_default_287 === お客様
 and_pages_default_290 === 3,000人以上のお客様から信頼されています。あなたの製品のマーケティングを始めて、私たちとあなたのビジネスを成長させてください！
@@ -1330,10 +1089,6 @@ form_fullname === フルネーム
 form_cpassword === パスワードを認証する
 form_haveaccount === 私はアカウントを持っています
 datatable_processing === 処理中、お待ちください...
-datatable_length === _MENU_エントリを表示
-datatable_info === _TOTAL_エントリの_START_から_END_を表示
-datatable_empty === 0エントリのうち0から0を表示
-datatable_filtered === （合計_MAX_エントリからフィルタリング）
 datatable_loading === 読み込み中。。。待って下さい...
 datatable_zero === クエリに一致するものが見つかりません。
 datatable_null === 表示するデータはありません！
@@ -2403,7 +2158,6 @@ js_calendarall_monoct === 10月
 js_calendarall_monnov === 11月
 js_calendarall_mondec === 12月
 response_ussddelete_success === USSDリクエストは削除されました！
-response_titanecho_invaltoken === システム構成エラー！
 widgets_addplugin_loader === システムへの新しいプラグインのインストール
 widgets_addwhatsapp_newmodal === ボタンをクリックしてQRCodeを表示し、アプリの_8880_ボタンでスキャンしてWhatsAppを接続します。 QRCodeをスキャンするのに15秒しかありません。
 widgets_addwhatsapp_newmodal2 === _8880_の有効期限が切れています。アカウントがリンクされているかどうかにかかわらず、下のボタンをクリックしてください。
@@ -2419,7 +2173,6 @@ widget_waquick_requireaccountnew1 === WhatsAppアカウント
 requests_whatsapp_notavail === WhatsApp サーバーが利用できません!
 requests_whatsapp_unablegenqr === WhatsApp QRコードを生成できません!
 requests_charts_commisionstitle === コミッション
-requests_token_refreshecho === _8880_ のトークンが更新されました!
 requests_remote_smscampaignresumed === SMSキャンペーンを再開しました！
 requests_remote_smscampaignpaused === SMSキャンペーンを一時停止しました！
 requests_remote_wacampaignresumed === WhatsAppキャンペーンが再開されました！
@@ -2500,8 +2253,6 @@ table_android_copydeviceid === デバイス固有 ID のコピー
 table_partnerrates_devicename === 装置名
 widget_fetchgroups_titlefetch === グループをフェッチ
 widget_fetchgroups_loaderfetch === アカウントからグループを取得しています
-pages_admin_tokenrefreshbutt === トークン
-pages_admin_tokenrefreshbutthelp === ソケット通信トークンをリフレッシュします。システムがライブ トースト通知を表示しない場合、またはリアルタイムで更新しない場合は、このボタンをクリックしてください。
 pages_admin_cachehelp === システムキャッシュ全体をクリアします。警告！これにより、API、認証、支払いに関連するキャッシュもクリアされます。これは、システムをアップグレードする場合にのみ行うことをお勧めします。
 pages_admin_themehelp === サイトのテンプレートとデザインを変更します。
 pages_admin_systemsettingshelp === 重要なシステム設定を調整します。
@@ -2600,7 +2351,6 @@ app_fetching_messages === メッセージの取得
 app_fetching_ussd === USSDを取得しています
 app_campaign_resumed === キャンペーンの送信が再開されました:
 app_campaign_paused === キャンペーンの送信を一時停止:
-js_response_titanechorefreshdesc === リアルタイムソケット通信のリフレッシュトークン？
 form_wa_templatetype_knownissue === 既知の問題
 form_wa_templatetype_knownissuedesc === このタイプの WhatsApp メッセージは、iOS では正しく表示されません。 WhatsApp iOS アプリには空白のメッセージが表示されます。
 app_response_devicealreadylinked === このデバイスはすでに別のアカウントにリンクされています!
@@ -3076,6 +2826,9 @@ flow_header_title === フロービルダー
 flow_response_saved === フローが正常に保存されました！
 flow_response_nofile === ファイルがアップロードされていないか、アップロードエラーです！
 flow_response_fileuploaded === ファイルが正常にアップロードされました
+flow_response_ai_key_required === 各AI返信ノードにAIキーを選択してください！
+flow_response_file_too_large === アップロードされたファイルが大きすぎます。最大サイズは10MBです！
+flow_response_invalid_filetype === このファイル形式は許可されていません！
 flow_modal_upload_title === ファイルをアップロードする
 flow_modal_upload_button_select === ファイルを選択
 flow_modal_upload_button_upload === アップロード
@@ -3200,3 +2953,23 @@ flowjs_node_pause_duration_placeholder === 秒数を入力してください（0
 flowjs_node_resume === 再開する
 flowjs_node_resume_context === コンテキスト
 flowjs_node_resume_description === 一時停止された自動応答を再開します
+modal_adminsettings_currencyapikey === 為替レートAPIキー
+modal_adminsettings_currencyapikeyinfo === ご自身の為替レートプロバイダーのAPIキーです。設定するまで通貨換算は無効のままです。
+modal_adminsettings_realtimetitle === リアルタイム通知
+modal_adminsettings_realtimeinfo === ライブ更新は Pusher プロトコルを使用します。Pusher のホスティングサービス、または Sockety、Soketi、Reverb などの互換サーバーを選択してください。認証情報を空欄にするとリアルタイム機能は無効になります。
+modal_adminsettings_realtimeappid === アプリ ID
+modal_adminsettings_realtimekey === アプリキー
+modal_adminsettings_realtimesecret === アプリシークレット
+modal_adminsettings_realtimecluster === クラスター
+modal_adminsettings_realtimehost === サーバー URL
+modal_adminsettings_realtimehostinfo === サーバーの完全なアドレス。例: https://sockets.example.com:6001
+modal_adminsettings_realtimedriver === プロバイダー
+modal_adminsettings_realtimedriverpusher === Pusher（クラウド）
+modal_adminsettings_realtimedrivercompatible === 互換サーバー（自己ホスト）
+modal_adminsettings_realtimecredentials === 認証情報は Pusher ダッシュボードで取得できます
+modal_adminsettings_realtimeconfigured === 設定済み
+modal_adminsettings_realtimekeepblank === 現在の値を保持する場合は空欄にしてください
+modal_adminsettings_realtimetest === 接続テスト
+js_realtime_testing === リアルタイム接続をテストしています...
+response_realtime_testok === リアルタイム接続に成功しました。
+response_realtime_testfailed === リアルタイム接続に失敗しました。認証情報とサーバー URL を確認してください。

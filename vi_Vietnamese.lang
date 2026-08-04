@@ -11,18 +11,12 @@ and_dashboard_pages_defailt_line37 === Tỷ lệ cổng vào
 and_dashboard_pages_default_line42 === Docs
 and_dashboard_pages_default_line58 === Tin nhắn
 and_dashboard_pages_default_line60 === 7 ngày qua
-and_dashboard_pages_default_line74 === Sự kiện
-and_dashboard_pages_default_line76 === 7 ngày qua
-and_dashboard_pages_default_line90 === Tiện ích
-and_dashboard_pages_default_line92 === 7 ngày qua
-and_dashboard_pages_default_line109 === Đối tác
 and_dashboard_pages_default_line117 === Thu nhập
 and_dashboard_pages_default_line131 === Thanh toán
 and_dashboard_pages_default_line140 === THĂNG BẰNG
 and_dashboard_pages_default_line148 === Tín dụng
 and_dashboard_pages_default_line162 === Nạp tiền
 and_dashboard_pages_default_line170 === Tỷ lệ phân phối
-and_dash_pg_def_line178 === Thành công
 and_dash_pg_def_line190 === Thất bại
 and_dash_pg_def_line204 === Người gửi
 and_dash_pg_def_line209 === Bạn chưa đăng ký bất kỳ gói cao cấp nào của chúng tôi!
@@ -32,11 +26,9 @@ and_dash_pg_def_line232 === Tài khoản
 and_dash_pg_def_line239 === Đã liên kết
 and_dash_pg_def_line250 === Tải xuống và cài đặt ứng dụng chính thức của chúng tôi để có được trải nghiệm người dùng tốt nhất
 and_dash_pg_doc_line10 === Các tài liệu
-and_dash_pg_doc_line28 === API
 and_dash_pg_doc_line34 === Webhooks
 and_dash_pg_doc_line40 === Hành động
 and_dash_pg_doc_line46 === Thiết bị
-and_dash_pg_doc_line52 === Quan hệ đối tác
 and_dash_pg_for_line29 === Hủy bỏ
 and_dash_pg_log_line14 === Đăng nhập Facebook
 and_dash_pg_log_line17 === Đăng nhập với Google
@@ -50,15 +42,10 @@ and_dash_pg_reg_line20 === Đăng ký với Google
 and_dash_pg_reg_line25 === Đăng ký với VKontakte
 and_dash_pg_whats_line10 === WhatsApp
 and_dash_pg_whats_line10_1 === Beta
-and_dash_pg_whats_line28 === Gởi
 and_dash_pg_whats_line34 === Nhận
 and_dash_pg_whats_line40 === Lên kế hoạch
 and_dash_pg_whats_line46 === Tài khoản
-and_dash_api_line17 === Tên khóa.
-and_dash_api_line19 === ví dụ. Đối với máy chủ của tôi
-and_dash_api_line24 === Quyền chính.
 and_dash_auto_line17 === Tên hành động.
-and_dash_auto_line19 === ví dụ. Michael
 and_dash_auto_line24 === Nguồn
 and_dash_auto_line24_1 === Nguồn của sự kiện nhận.
 and_dash_auto_line27 === tin nhắn
@@ -75,23 +62,16 @@ and_dash_cre_line28 === Mua, tựa vào, bám vào
 and_dash_gate_line17 === Tên
 and_dash_gate_line17_1 === Đây là tên cổng sẽ được hiển thị cho người dùng của bạn.
 and_dash_gate_line19 === ví dụ. Twilio
-and_dash_gate_line24 === Bộ điều khiển
 and_dash_gate_line24_1 === Chọn tệp bộ điều khiển cổng, tệp này sẽ chứa mã và logic cổng của bạn. Bạn nên kiểm tra tài liệu.
-and_dash_gate_line27 === Bộ điều khiển Boilerplate:
 and_dash_gate_line34 === Gọi lại
 and_dash_gate_line34_1 === Nếu được bật, các tin nhắn sẽ cần được xác minh bằng cách sử dụng tính năng gọi lại của cổng bên thứ 3 để biết trạng thái gửi, nếu không, các tin nhắn sẽ ngay lập tức được đánh dấu là đã gửi khi gửi.
-and_dash_gate_line37 === Cho phép
-and_dash_gate_line38 === Vô hiệu hóa
 and_dash_gate_line44 === ID gọi lại
 and_dash_gate_line44_1 === Nếu gọi lại được bật, bạn phải sao chép ID này và dán vào bộ điều khiển của mình để hệ thống có thể xác định các lệnh gọi lại.
 and_dash_gate_line47 === Sao chép và dán cho ID gọi lại
-and_dash_gate_line54 === Định giá
 and_dash_gate_line54_1 === Bảng giá tùy chỉnh của bạn cho cổng này. Điều này sẽ cho phép bạn tính phí trên giá của bên thứ ba. Ví dụ: nếu twilio tính phí 0,01 cho một quốc gia cụ thể, thì thay vào đó bạn có thể tính phí 0,02, đơn vị tiền tệ dựa trên đơn vị tiền tệ hệ thống của bạn. Vui lòng làm theo đúng định dạng giá cả.
 and_dash_gate_line57 === Định giá JSON mẫu:
-and_dash_gate_line57_1 === Tải xuống
 and_dash_grp_line17 === Tên nhóm.
 and_dash_grp_line19 === ví dụ. Bạn bè
-and_dash_hook_line17 === Tên hành động.
 and_dash_hook_line19 === ví dụ. Hành động thử nghiệm
 and_dash_hook_line24 === Nguồn
 and_dash_hook_line24_1 === Nguồn của sự kiện.
@@ -100,8 +80,6 @@ and_dash_hook_line44 === Cấu trúc liên kết móc, đây là url sẽ đư�
 and_dash_hook_line51 === Tập hợp các biến mà bạn có thể sử dụng trong URL móc của mình.
 and_dash_hook_line27 === tin nhắn
 and_dash_hook_line28 === WhatsApp
-and_dash_hook_line37 === Đang gửi
-and_dash_hook_line38 === Khi nhận
 and_dash_lang_line17 === Tên ngôn ngữ.
 and_dash_lang_line19 === ví dụ. Hàn Quốc
 and_dash_lang_line24 === Mã quốc gia.
@@ -110,19 +88,14 @@ and_dash_lang_line35_1 === Nếu được bật, ngôn ngữ sẽ được xác 
 and_dash_lang_line38 === Đúng
 and_dash_lang_line39 === Không
 and_dash_lang_line45 === Chuỗi dịch.
-and_dash_mail_line17 === Tiêu đề
 and_dash_mail_line17_1 === Tiêu đề thư.
-and_dash_mail_line19 === ví dụ. Sự thông báo
 and_dash_mail_line24 === Người dùng
 and_dash_mail_line24_1 === Gửi bởi người dùng.
-and_dash_mail_line36 === Vai trò
 and_dash_mail_line36_1 === Gửi theo vai trò.
 and_dash_mail_line48 === Nội dung
 and_dash_mail_line48_1 === Nội dung thư, html được phép.
 and_dash_mail_line50 === Chào thế giới!
-and_dash_not_line17 === Tiêu đề
 and_dash_not_line17_1 === Thông báo tiêu đề.
-and_dash_not_line19 === ví dụ. Sự thông báo
 and_dash_not_line24 === Thông điệp
 and_dash_not_line24_1 === Thông báo tin nhắn.
 and_dash_not_line31 === Màu sắc
@@ -130,13 +103,8 @@ and_dash_not_line31_1 === Thông báo màu sắc.
 and_dash_not_line35 === Thành công
 and_dash_not_line36 === Cảnh báo
 and_dash_not_line37 === Sự nguy hiểm
-and_dash_not_line43 === Hình ảnh
 and_dash_not_line43_1 === Thông báo hình ảnh, đây là tùy chọn.
-and_dash_not_line46 === Không bắt buộc
 and_dash_not_line53 === Người dùng
-and_dash_not_line53_1 === Phát sóng bởi người dùng.
-and_dash_not_line65 === Vai trò
-and_dash_not_line65_1 === Phát sóng theo vai trò.
 and_pack_line17 === Tên gói hàng.
 and_pack_line19 === ví dụ. Gói VIP
 and_pack_line24 === Giá gói, giá này phải tuân theo đơn vị tiền tệ của hệ thống. Giá trị nổi không được phép.
@@ -151,33 +119,25 @@ and_pack_line65_1 === Số lượng tin nhắn tối đa mà người dùng có 
 and_pack_line67 === ví dụ. 150
 and_pack_line72 === Giới hạn USSD
 and_pack_line72_1 === Số lượng ussd tối đa mà người dùng có thể yêu cầu trước khi đặt lại. Nhập 0 không giới hạn.
-and_pack_line74 === ví dụ. 25
 and_pack_line79 === Giới hạn thông báo
 and_pack_line79_1 === Số lượng thông báo tối đa mà người dùng có thể nhận được trước khi đặt lại. Nhập 0 không giới hạn.
 and_pack_line81 === ví dụ. 1300
 and_pack_line86 === Số lượng thiết bị Android tối đa có thể được liên kết với tài khoản của người dùng. Nhập 0 không giới hạn.
-and_pack_line88 === ví dụ. 25
 and_pack_line92 === Cài đặt WhatsApp
 and_pack_line97 === Số lượng cuộc trò chuyện tối đa mà người dùng có thể gửi trước khi đặt lại. Nhập 0 không giới hạn.
-and_pack_line99 === ví dụ. 300
 and_pack_line104 === Số lượng cuộc trò chuyện tối đa mà người dùng có thể nhận được trước khi đặt lại. Nhập 0 không giới hạn.
-and_pack_line106 === ví dụ. 150
 and_pack_line111 === Giới hạn tài khoản
 and_pack_line111_1 === Số lượng tài khoản WhatsApp tối đa có thể được liên kết với tài khoản của người dùng. Nhập 0 không giới hạn.
 and_pack_line113 === ví dụ. 10
 and_pack_line117 === Cài đặt Tiện ích
 and_pack_line122 === Số lượng liên hệ tối đa mà người dùng có thể lưu. Nhập 0 không giới hạn.
-and_pack_line124 === ví dụ. 25
 and_pack_line129 === Giới hạn đã lên lịch
 and_pack_line129_1 === Số lượng tin nhắn / cuộc trò chuyện đã lên lịch tối đa mà người dùng có thể lưu. Nhập 0 không giới hạn. Điều này được kết hợp cho cả sms và whatsapp.
-and_pack_line131 === ví dụ. 25
 and_pack_line136 === Số lượng khóa API tối đa có thể được tạo. Nhập 0 không giới hạn.
-and_pack_line138 === ví dụ. 10
 and_pack_line143 === Số lượng Webhook tối đa có thể được tạo. Nhập 0 không giới hạn.
 and_pack_line145 === ví dụ. 5
 and_pack_line150 === Giới hạn hành động
 and_pack_line150_1 === Số lượng Hành động tối đa có thể được tạo. Nhập 0 không giới hạn.
-and_pack_line152 === ví dụ. 5
 and_page_line17 === Tên trang.
 and_page_line24 === Chỉ những vai trò được chọn mới có thể truy cập trang này.
 and_page_line35 === Nếu được bật, sẽ không thể truy cập trang nếu không đăng nhập.
@@ -189,13 +149,10 @@ and_payout_line24 === Các nhà cung cấp
 and_payout_line24_1 === Chọn nhà cung cấp dịch vụ thanh toán bạn muốn sử dụng để nhận tiền.
 and_payout_line27 === Paypal
 and_payout_line28 === Payoneer
-and_payout_line34 === Địa chỉ thanh toán
 and_payout_line34_1 === Địa chỉ thanh toán hoặc email, vui lòng kiểm tra cẩn thận để tránh các vấn đề thanh toán.
 and_payout_line36 === ví dụ. Email PayPal của bạn
-and_payout_line43 === Lời yêu cầu
 and_plug_line17 === Tệp plugin
 and_plug_line17_1 === Tệp zip plugin, vui lòng đảm bảo chọn đúng tệp.
-and_push_line17 === Tiêu đề
 and_push_line17_1 === Đẩy tiêu đề.
 and_push_line19 === ví dụ. Sự thông báo
 and_push_line24 === Hình ảnh
@@ -205,7 +162,6 @@ and_push_line34 === Thông điệp
 and_push_line34_1 === Đẩy tin nhắn.
 and_push_line41 === Người dùng
 and_push_line41_1 === Phát sóng bởi người dùng.
-and_push_line53 === Vai trò
 and_push_line53_1 === Phát sóng theo vai trò.
 and_role_line17 === Tên vai trò.
 and_role_line19 === ví dụ. Nhà phát triển
@@ -224,19 +180,14 @@ and_sms_line31 === Nếu được bật, tin nhắn sẽ được lập lịch m
 and_sms_line42 === Nhiều số E.164 được phân tách bằng dấu ngắt dòng.
 and_sms_line55 === Chọn nhiều nhóm liên hệ
 and_sms_line67 === Shortener
-and_sms_line67_1 === Nếu được bật, các liên kết trong thư sẽ tự động được rút ngắn bằng cách sử dụng trình rút gọn đã chọn.
 and_sms_line70 === Không rút ngắn liên kết
 and_sms_line79 === Chế độ Gateway
-and_sms_line79_1 === Chế độ cổng mà bạn muốn sử dụng. Nếu bạn chọn thiết bị, các thiết bị được liên kết của bạn sẽ được hiển thị để gửi, nếu không, các cổng của bên thứ 3 và đối tác sẽ được hiển thị.
 and_sms_line82 === Thiết bị
 and_sms_line83 === Tín dụng
 and_sms_line88 === Khe cắm thẻ sim để sử dụng.
-and_sms_line91 === SIM1
-and_sms_line92 === SIM2
 and_sms_line97 === Các mẫu tin nhắn tạo sẵn của bạn.
 and_sms_line110 === Các thiết bị được liên kết của bạn, hãy chọn những gì bạn muốn sử dụng để gửi.
 and_sms_line121 === Cổng SMS
-and_sms_line121_1 === Các cổng của bên thứ 3 và đối tác, các khoản tín dụng của bạn sẽ được sử dụng khi bạn gửi tin nhắn bằng các cổng này. Chúng tôi khuyên bạn nên kiểm tra giá cổng trước khi sử dụng.
 and_sms_line141 === Spintax
 and_sms_line144 === Thí dụ:
 and_sms_line144_1 === Tom là một
@@ -270,8 +221,6 @@ and_user_line31 === Nhập mật khẩu người dùng.
 and_user_line38 === Múi giờ vị trí của người dùng, hãy thay đổi múi giờ này nếu họ ở một quốc gia khác. Múi giờ được sử dụng cho độ chính xác ngày và giờ của các tin nhắn đã gửi và các dữ liệu khác.
 and_user_line49 === Quốc gia
 and_user_line49_1 === Quốc gia của người dùng, điều này được sử dụng cho các khoản thanh toán và định dạng số điện thoại.
-and_user_line60 === Âm thanh thông báo
-and_user_line60_1 === Nếu bị tắt, thông báo sẽ ở chế độ im lặng.
 and_user_line70 === Chọn vai trò người dùng.
 and_user_line81 === Chọn ngôn ngữ người dùng.
 and_user_line92 === Chương trình Đối tác
@@ -280,17 +229,12 @@ and_ussd_line17 === Mã USSD
 and_ussd_line17_1 === Mã yêu cầu USSD.
 and_ussd_line19 === ví dụ. * 121 #
 and_ussd_line24 === Khe cắm thẻ sim để sử dụng.
-and_ussd_line27 === SIM1
-and_ussd_line28 === SIM2
 and_ussd_line34 === Các thiết bị được liên kết của bạn, hãy chọn những gì bạn muốn sử dụng cho yêu cầu ussd.
 and_ussd_line47 === Lời yêu cầu
 and_vouch_line17 === Tên chứng từ.
 and_vouch_line19 === ví dụ. Đặc biệt
 and_vouch_line24 === Số lượng chứng từ bạn muốn tạo. Giá trị tối đa là 1000!
 and_vouch_line26 === ví dụ. 100
-and_vouch_line31 === Thời hạn đăng ký.
-and_vouch_line33 === ví dụ. 12
-and_vouch_line38 === Gói đăng ký.
 and_web_line17 === Tên webhook.
 and_web_line24 === Nhận sự kiện
 and_web_line24_1 === Chọn các sự kiện nhận mà bạn cần, chúng sẽ được gửi đến url móc web của bạn thông qua phương thức POST.
@@ -300,18 +244,11 @@ and_web_line29 === USSD
 and_web_line30 === Thông báo
 and_web_line36 === Url webhook của bạn, tất cả dữ liệu trọng tải sẽ được gửi ở đây thông qua phương thức POST.
 and_web_line38 === ví dụ. http://yourdomain.com/hook_listen.php
-and_whatssched_line17 === Tên của cuộc trò chuyện đã lên lịch.
-and_whatssched_line19 === ví dụ. Tin nhắn của tôi
-and_whatssched_line24 === Chọn ngày lên lịch.
-and_whatssched_line26 === ví dụ. 22/06/2020 12:00 sáng
 and_whatssched_line31 === Nếu được bật, cuộc trò chuyện sẽ được lên lịch mỗi khi ngày đã lên lịch khớp với nhau.
 and_whatssched_line42 === Nhiều số E.164 được phân tách bằng dấu ngắt dòng.
-and_whatssched_line55 === Chọn nhiều nhóm liên hệ
 and_whatssched_line67 === Shortener
-and_whatssched_line67_1 === Nếu được bật, các liên kết trong thư sẽ tự động được rút ngắn bằng cách sử dụng trình rút gọn đã chọn.
 and_whatssched_line70 === Không rút ngắn liên kết
 and_whatssched_line79 === Tài khoản
-and_whatssched_line79_1 === Chọn tài khoản WhatsApp bạn muốn sử dụng.
 and_whatsached_line88 === Các mẫu tin nhắn tạo sẵn của bạn.
 and_whatssched_line103 === Spintax
 and_whatssched_line103_1 === Một tính năng cho phép bạn ngẫu nhiên hóa các từ trong tin nhắn của mình để ngăn chặn hiệu quả việc phát hiện gửi thư rác.
@@ -366,14 +303,11 @@ and_admin_build_line95_1 === Logo hình ảnh đăng nhập ứng dụng, đây 
 and_admin_build_line103 === Biểu tượng hình ảnh ứng dụng, biểu tượng này được hiển thị trong ngăn kéo ứng dụng và hệ thống Android. Kích thước được đề xuất là 1024x1024 ở định dạng px và png.
 and_admin_build_line111 === Hình ảnh màn hình giật gân của ứng dụng, điều này được hiển thị khi người dùng mở ứng dụng. Kích thước được đề xuất là 2732x2732 ở định dạng px và png.
 and_admin_build_line118 === Kết cấu
-and_admin_build_line123 === JavaScript tùy chỉnh
 and_admin_build_line123_1 === Nếu bạn muốn sử dụng mã javascript tùy chỉnh, vui lòng thêm nó vào đây. Điều này được tải động trong ứng dụng.
 and_admin_build_line125 === ví dụ., alert ('Xin chào Thế giới!');
-and_admin_build_line130 === CSS tùy chỉnh
 and_admin_build_line130_1 === Nếu bạn muốn sử dụng mã css tùy chỉnh, vui lòng thêm nó vào đây. Điều này được tải động trong ứng dụng.
 and_admin_build_line137 === Bố cục tùy chỉnh
 and_admin_build_line137_1 === Nếu bạn muốn sử dụng cấu trúc ứng dụng tùy chỉnh, vui lòng sửa đổi nội dung html, nếu bạn không biết mình đang làm gì, vui lòng để giá trị mặc định.
-and_admin_build_line139 === Chào thế giới!
 and_settings_line21 === Tên trang web, tên này được hiển thị ở mọi nơi cần xây dựng thương hiệu.
 and_settings_line23 === ví dụ. Zender
 and_settings_line28 === Mô tả trang web, đây là để tối ưu hóa công cụ tìm kiếm, vì vậy hãy sáng tạo.
@@ -388,14 +322,12 @@ and_settings_line70 === Nếu bị vô hiệu hóa, đăng ký qua trang đăng 
 and_settings_line80 === Chế độ đặt lại gói
 and_settings_line80_1 === Khoảng thời gian đặt lại các giới hạn như gửi, nhận, ussd và thông báo. Điều này áp dụng cho cả các tính năng của Android và WhatsApp. Lựa chọn của bạn ở đây cũng phải được áp dụng trong thiết lập cron.
 and_settings_line83 === Hằng ngày
-and_settings_line84 === Hàng tháng
 and_settings_line90 === Mô hình miễn phí
 and_settings_line90_1 === Nếu được bật, gói miễn phí mặc định sẽ tự động được gán cho người dùng sau khi đăng ký.
 and_settings_line100 === Nếu bị vô hiệu hóa, trang chủ sẽ không được sử dụng. Tất cả các lượt truy cập trong thư mục gốc sẽ được chuyển hướng đến trang tổng quan.
 and_settings_line110 === Tiện ích trò chuyện TAWK
 and_settings_line110_1 === Nếu được bật, tiện ích trò chuyện tawk sẽ xuất hiện cho người dùng.
 and_settings_line120 === Liên kết tiện ích trò chuyện tawk của bạn, điều này là bắt buộc nếu bạn muốn sử dụng hỗ trợ trò chuyện tawk.
-and_settings_line127 === API quản trị
 and_settings_line127_1 === Chọn các điểm cuối API quản trị mà bạn muốn bật. Bạn chỉ nên kích hoạt các thiết bị đầu cuối mà bạn cần.
 and_settings_line159 === Mã thông báo này không được chia sẻ cho bất kỳ ai. Điều này được sử dụng để bảo mật cronjobs, API hệ thống và các yêu cầu bên ngoài khác. Nếu bạn cho rằng, mã thông báo hệ thống của bạn đã bị xâm phạm, vui lòng tạo lại một mã mới, bạn sẽ cần định cấu hình lại cronjobs, API hệ thống và các cài đặt liên quan khác sau khi tạo lại mã thông báo mới.
 and_settings_line160 === Tái tạo
@@ -419,9 +351,7 @@ and_settings_line263 === ví dụ. test_4vzuJVhRCFSyNyuc6gwvJpQ474Vngp
 and_settings_line268 === Đơn vị tiền tệ hệ thống sử dụng, đơn vị tiền tệ này sẽ được sử dụng làm cơ sở khi chuyển đổi các giao dịch sang USD.
 and_settings_line279 === Chọn nhà cung cấp dịch vụ thanh toán bạn muốn sử dụng.
 and_settings_line293 === Số ký tự tối thiểu cho tin nhắn. Điều này áp dụng cho cả SMS và WhatsApp.
-and_settings_line295 === ví dụ. 5
 and_settings_line300 === Số ký tự tối đa cho tin nhắn. Điều này áp dụng cho cả SMS và WhatsApp. Nhập 0 cho các ký tự vô hạn.
-and_settings_line302 === ví dụ. 300
 and_settings_line307 === Dấu chân trang của thư, điều này được thêm vào thư nếu gói của họ đã bật dấu chân trang.
 and_settings_line309 === ví dụ. Gửi từ Hệ thống Zender
 and_settings_line318 === Số hàng mặc định để hiển thị trong bảng tin nhắn đã gửi. Điều này áp dụng cho cả SMS và WhatsApp.
@@ -484,16 +414,11 @@ and_edit_auto_line36 === ví dụ. cảm ơn bạn, được rồi, đăng ký, 
 and_edit_auto_line41 === Thông điệp được gửi đến người gửi.
 and_edit_auto_line43 === ví dụ. Tin nhắn trả lời của bạn ở đây, mã ngắn được chấp nhận
 and_edit_auto_line48 === Tập hợp các biến mà bạn có thể sử dụng trong tin nhắn của mình.
-and_edit_con_line17 === Tên Liên lạc.
 and_edit_con_line19 === ví dụ. Michael
-and_edit_con_line24 === Số liên lạc.
-and_edit_con_line31 === Nhóm liên hệ.
-and_edit_dev_line16 === Chi tiết thiết bị
 and_edit_dev_line21 === Tên thiết bị.
 and_edit_dev_line23 === ví dụ. Thiết bị của tôi
 and_edit_dev_line28 === Nếu được bật, tin nhắn sẽ được gửi trong khoảng thời gian ngẫu nhiên giữa 2 giá trị. Bạn có thể cấu hình chúng bên dưới.
 and_edit_dev_line38 === Khoảng thời gian tối thiểu tính bằng giây.
-and_edit_dev_line41 === ví dụ. 5
 and_edit_dev_line46 === Khoảng thời gian tối đa tính bằng giây.
 and_edit_dev_line49 === ví dụ. 20
 and_edit_dev_line53 === Thiết lập thông báo
@@ -514,109 +439,25 @@ and_edit_dev_line112_1 === Chọn các khe sim bạn muốn sử dụng để g�
 and_edit_email_line16 === Mẫu email
 and_edit_email_line18 === HTML được phép
 and_edit_gate_line17 === Tên
-and_edit_gate_line17_1 === Đây là tên cổng sẽ được hiển thị cho người dùng của bạn.
-and_edit_gate_line19 === ví dụ. Twilio
-and_edit_gate_line24 === Bộ điều khiển
-and_edit_gate_line24_1 === Chọn tệp bộ điều khiển cổng, tệp này sẽ chứa mã và logic cổng của bạn. Bạn nên kiểm tra tài liệu.
-and_edit_gate_line31 === Gọi lại
-and_edit_gate_line31_1 === Nếu được bật, các tin nhắn sẽ cần được xác minh bằng cách sử dụng tính năng gọi lại của cổng bên thứ 3 để biết trạng thái gửi, nếu không, các tin nhắn sẽ ngay lập tức được đánh dấu là đã gửi khi gửi.
-and_edit_gate_line34 === Cho phép
-and_edit_gate_line35 === Vô hiệu hóa
 and_edit_gate_line41 === ID gọi lại
-and_edit_gate_line41_1 === Nếu gọi lại được bật, bạn phải sao chép ID này và dán vào bộ điều khiển của mình để hệ thống có thể xác định các lệnh gọi lại.
-and_edit_gate_line44 === Sao chép và dán cho ID gọi lại
-and_edit_gate_line51 === Định giá
-and_edit_gate_line51_1 === Bảng giá tùy chỉnh của bạn cho cổng này. Điều này sẽ cho phép bạn tính phí trên giá của bên thứ ba. Ví dụ: nếu twilio tính phí 0,01 cho một quốc gia cụ thể, thì thay vào đó bạn có thể tính phí 0,02, đơn vị tiền tệ dựa trên đơn vị tiền tệ hệ thống của bạn. Vui lòng làm theo đúng định dạng giá cả.
-and_edit_gate_line54 === Định giá JSON mẫu:
-and_edit_gate_line54_1 === Tải xuống
-and_edit_grp_line17 === Tên nhóm.
-and_edit_grp_line19 === ví dụ. Bạn bè
-and_edit_hook_line17 === Tên hành động.
-and_edit_hook_line19 === ví dụ. Hành động thử nghiệm
 and_edit_hook_line24 === Nguồn
-and_edit_hook_line24_1 === Nguồn của sự kiện.
 and_edit_hook_line27 === tin nhắn
 and_edit_hook_line28 === WhatsApp
-and_edit_hook_line34 === Chọn sự kiện mà hook này sẽ được gọi.
-and_edit_hook_line37 === Đang gửi
-and_edit_hook_line38 === Khi nhận
-and_edit_hook_line44 === Cấu trúc liên kết móc, đây là url sẽ được gọi bởi hệ thống. Chỉ hỗ trợ phương thức GET.
-and_edit_hook_line51 === Tập hợp các biến mà bạn có thể sử dụng trong URL móc của mình.
-and_edit_lang_line17 === ví dụ. Hàn Quốc
-and_edit_lang_line30 === RTL
 and_edit_lang_line32 === Đúng
 and_edit_lang_line33 === Không
-and_edit_pack_line17 === Tên gói hàng.
-and_edit_pack_line19 === ví dụ. Gói VIP
-and_edit_pack_line24 === Giá gói, giá này phải tuân theo đơn vị tiền tệ của hệ thống. Giá trị nổi không được phép.
-and_edit_pack_line29 === ví dụ. 25
-and_edit_pack_line34 === Nếu được bật, các tin nhắn và cuộc trò chuyện whatsapp sẽ chứa dấu chân trang khi người nhận nhận được.
-and_edit_pack_line44 === Nếu được bật, gói sẽ bị ẩn khỏi phương thức gói và trang chủ.
 and_edit_pack_line53 === Cài đặt Android
-and_edit_pack_line58 === Giới hạn gửi SMS
-and_edit_pack_line58_1 === Số lượng tin nhắn tối đa mà người dùng có thể gửi trước khi đặt lại. Nhập 0 không giới hạn.
-and_edit_pack_line60 === ví dụ. 300
-and_edit_pack_line65 === Giới hạn nhận SMS
-and_edit_pack_line65_1 === Số lượng tin nhắn tối đa mà người dùng có thể nhận được trước khi đặt lại. Nhập 0 không giới hạn.
-and_edit_pack_line67 === ví dụ. 150
-and_edit_pack_line72 === Giới hạn USSD
-and_edit_pack_line72_1 === Số lượng ussd tối đa mà người dùng có thể yêu cầu trước khi đặt lại. Nhập 0 không giới hạn.
-and_edit_pack_line74 === ví dụ. 25
 and_edit_pack_line79 === Giới hạn thông báo
 and_edit_pack_line79_1 === Số lượng thông báo tối đa mà người dùng có thể nhận được trước khi đặt lại. Nhập 0 không giới hạn.
 and_edit_pack_line81 === ví dụ. 1300
-and_edit_pack_line86 === Số lượng thiết bị Android tối đa có thể được liên kết với tài khoản của người dùng. Nhập 0 không giới hạn.
-and_edit_pack_line88 === ví dụ. 25
-and_edit_pack_line92 === Cài đặt WhatsApp
-and_edit_pack_line97 === Số lượng cuộc trò chuyện tối đa mà người dùng có thể gửi trước khi đặt lại. Nhập 0 không giới hạn.
-and_edit_pack_line99 === ví dụ. 300
-and_edit_pack_line104 === Số lượng cuộc trò chuyện tối đa mà người dùng có thể nhận được trước khi đặt lại. Nhập 0 không giới hạn.
-and_edit_pack_line106 === ví dụ. 150
-and_edit_pack_line111 === Giới hạn tài khoản
-and_edit_pack_line111_1 === Số lượng tài khoản WhatsApp tối đa có thể được liên kết với tài khoản của người dùng. Nhập 0 không giới hạn.
-and_edit_pack_line113 === ví dụ. 10
-and_edit_pack_line117 === Cài đặt Tiện ích
-and_edit_pack_line122 === Số lượng liên hệ tối đa mà người dùng có thể lưu. Nhập 0 không giới hạn.
-and_edit_pack_line124 === ví dụ. 25
 and_edit_pack_line129 === Giới hạn đã lên lịch
-and_edit_pack_line129_1 === Số lượng tin nhắn / cuộc trò chuyện đã lên lịch tối đa mà người dùng có thể lưu. Nhập 0 không giới hạn. Điều này được kết hợp cho cả sms và whatsapp.
-and_edit_pack_line131 === ví dụ. 25
-and_edit_pack_line136 === Số lượng khóa API tối đa có thể được tạo. Nhập 0 không giới hạn.
-and_edit_pack_line138 === ví dụ. 10
-and_edit_pack_line143 === Số lượng Webhook tối đa có thể được tạo. Nhập 0 không giới hạn.
-and_edit_pack_line145 === ví dụ. 5
-and_edit_pack_line150 === Giới hạn hành động
-and_edit_pack_line150_1 === Số lượng Hành động tối đa có thể được tạo. Nhập 0 không giới hạn.
-and_edit_pack_line152 === ví dụ. 5
-and_edit_page_line17 === Tên trang.
-and_edit_page_line24 === Chỉ những vai trò được chọn mới có thể truy cập trang này.
-and_edit_page_line35 === Nếu được bật, sẽ không thể truy cập trang nếu không đăng nhập.
-and_edit_page_line45 === Nội dung trang. Tất cả các thẻ html đều được phép, hãy cẩn thận khi thêm các tập lệnh từ các nguồn không xác định!
-and_edit_role_line17 === Tên vai trò.
-and_edit_role_line19 === ví dụ. Nhà phát triển
-and_edit_role_line24 === Chọn các quyền và tính năng bạn muốn tắt / bật cho vai trò này. Các thay đổi được áp dụng trong thời gian thực, các tab trình duyệt của người dùng được kết nối với vai trò được tải lại tự động.
 and_edit_short_line17 === Tên
-and_edit_short_line17_1 === Tên người rút gọn.
-and_edit_short_line19 === ví dụ. Bitly
-and_edit_short_line24 === Bộ điều khiển
-and_edit_short_line24_1 === Chọn tệp bộ điều khiển bộ rút gọn, tệp này sẽ chứa mã và logic bộ rút ngắn của bạn. Bạn nên kiểm tra tài liệu.
-and_edit_sms_line17 === Tên của tin nhắn đã lên lịch.
-and_edit_sms_line19 === ví dụ. Tin nhắn của tôi
-and_edit_sms_line24 === Chọn ngày lên lịch.
-and_edit_sms_line26 === ví dụ. 22/06/2020 12:00 sáng
 and_edit_sms_line31 === Nếu được bật, tin nhắn sẽ được lập lịch mỗi khi ngày đã lên lịch được khớp.
-and_edit_sms_line42 === Nhiều số E.164 được phân tách bằng dấu ngắt dòng.
-and_edit_sms_line55 === Chọn nhiều nhóm liên hệ
 and_edit_sms_line67 === Chế độ Gateway
-and_edit_sms_line67_1 === Chế độ cổng mà bạn muốn sử dụng. Nếu bạn chọn thiết bị, các thiết bị được liên kết của bạn sẽ được hiển thị để gửi, nếu không, các cổng của bên thứ 3 và đối tác sẽ được hiển thị.
 and_edit_sms_line70 === Thiết bị
 and_edit_sms_line71 === Tín dụng
 and_edit_sms_line76 === Khe cắm thẻ sim để sử dụng.
-and_edit_sms_line79 === SIM1
-and_edit_sms_line80 === SIM2
 and_edit_sms_line88 === Các thiết bị được liên kết của bạn, hãy chọn những gì bạn muốn sử dụng để gửi.
 and_edit_sms_line99 === Cổng SMS
-and_edit_sms_line99_1 === Các cổng của bên thứ 3 và đối tác, các khoản tín dụng của bạn sẽ được sử dụng khi bạn gửi tin nhắn bằng các cổng này. Chúng tôi khuyên bạn nên kiểm tra giá cổng trước khi sử dụng.
 and_edit_sms_line119 === Spintax
 and_edit_sms_line122 === Thí dụ:
 and_edit_sms_line122_1 === Tom là một
@@ -626,8 +467,6 @@ and_edit_sms_line125_1 === tốt
 and_edit_sms_line125_2 === và
 and_edit_sms_line125_3 === xấu
 and_edit_sms_line125_4 === sẽ được sử dụng ngẫu nhiên.
-and_edit_temp_line17 === Tên mẫu.
-and_edit_temp_line24 === Định dạng mẫu.
 and_edit_temp_line31 === Spintax
 and_edit_temp_line31_1 === Một tính năng cho phép bạn ngẫu nhiên hóa các từ trong tin nhắn của mình để ngăn chặn hiệu quả việc phát hiện gửi thư rác.
 and_edit_temp_line35 === Thí dụ:
@@ -639,35 +478,16 @@ and_edit_temp_line38_2 === và
 and_edit_temp_line38_3 === xấu
 and_edit_temp_line38_4 === sẽ được sử dụng ngẫu nhiên.
 and_edit_temp_line43 === Tập hợp các biến mà bạn có thể sử dụng trong thư của mình.
-and_eduse_line17 === Tên pháp lý đầy đủ của bạn, xin lưu ý rằng việc sử dụng tên giả có thể khiến tài khoản của bạn bị tạm ngưng.
-and_eduse_line19 === ví dụ. Michael Cors
 and_eduse_line24 === Địa chỉ email hợp lệ, bỏ qua trường này nếu bạn muốn giữ địa chỉ email hiện tại.
-and_eduse_line26 === ví dụ. user@mail.com
 and_eduse_line31 === Nếu bạn muốn giữ mật khẩu hiện tại, vui lòng bỏ qua trường này, nếu không, hãy nhập mật khẩu mới.
-and_eduse_line38 === Múi giờ vị trí của bạn, hãy thay đổi múi giờ này nếu bạn ở một quốc gia khác. Múi giờ được sử dụng cho độ chính xác của ngày và giờ đối với các tin nhắn đã gửi và các dữ liệu khác của bạn.
 and_eduse_line49 === Quốc gia
-and_eduse_line49_1 === Quốc gia của bạn, điều này được sử dụng cho các khoản thanh toán và định dạng số điện thoại.
-and_eduse_line60 === Âm thanh thông báo
-and_eduse_line60_1 === Nếu bị tắt, thông báo sẽ ở chế độ im lặng.
-and_eduse_line70 === Chọn vai trò người dùng.
-and_eduse_line81 === Chọn ngôn ngữ người dùng.
-and_eduse_line92 === Chương trình Đối tác
-and_eduse_line92_1 === Nếu được bật, người dùng sẽ có thể sử dụng thiết bị của họ như thiết bị toàn cầu, điều này sẽ cho phép họ kiếm tiền khi người dùng khác gửi tin nhắn bằng thiết bị của họ.
-and_edweb_line17 === Tên webhook.
 and_edweb_line24 === Nhận sự kiện
-and_edweb_line24_1 === Chọn các sự kiện nhận mà bạn cần, chúng sẽ được gửi đến url móc web của bạn thông qua phương thức POST.
 and_edweb_line30 === Thông báo
-and_edweb_line36 === Url webhook của bạn, tất cả dữ liệu trọng tải sẽ được gửi ở đây thông qua phương thức POST.
 and_edweb_line38 === ví dụ. https://yourdomain.com/reply.php
 and_edwhat_line17 === Tên của cuộc trò chuyện đã lên lịch.
-and_edwhat_line19 === ví dụ. Tin nhắn của tôi
-and_edwhat_line24 === Chọn ngày lên lịch.
-and_edwhat_line26 === ví dụ. 22/06/2020 12:00 sáng
 and_edwhat_line31 === Nếu được bật, cuộc trò chuyện sẽ được lên lịch mỗi khi ngày đã lên lịch khớp với nhau.
 and_edwhat_line42 === Nhiều số E.164 được phân tách bằng dấu ngắt dòng.
-and_edwhat_line55 === Chọn nhiều nhóm liên hệ
 and_edwhat_line67 === Tài khoản
-and_edwhat_line67_1 === Chọn tài khoản WhatsApp bạn muốn sử dụng.
 and_edwhat_line76 === Các mẫu tin nhắn tạo sẵn của bạn.
 and_edwhat_line91 === Spintax
 and_edwhat_line91_1 === Một tính năng cho phép bạn ngẫu nhiên hóa các từ trong tin nhắn của mình để ngăn chặn hiệu quả việc phát hiện gửi thư rác.
@@ -691,34 +511,23 @@ and_edwid_line53 === Vị trí widget, chỉ dành cho phương thức.
 and_edwid_line64 === Nội dung widget. Tất cả các thẻ html đều được phép, hãy cẩn thận khi thêm các tập lệnh từ các nguồn không xác định!
 and_import_line17 === Tệp excel bạn muốn nhập, vui lòng đảm bảo theo định dạng bắt buộc.
 and_import_line20 === Tệp mẫu:
-and_import_line20_1 === Tải xuống
-and_package_line36 === Nhận SMS
-and_package_line41 === Gửi WhatsApp
-and_package_line46 === Nhận WhatsApp
 and_package_line51 === USSD
 and_package_line56 === Thông báo
-and_package_line61 === SMS / Trò chuyện đã lên lịch
 and_package_line66 === Liên lạc
 and_package_line71 === Khóa API
 and_package_line76 === Webhooks
 and_package_line81 === Hành động
-and_package_line86 === Thiết bị Android
 and_package_line91 === Tài khoản WhatsApp
 and_redeem_line18 === Đổi mã.
 and_redeem_line20 === ví dụ. 2f5b4727c7c8596779b21d7644e2ebb8
 and_sms_bulk_18 === Nhiều số E.164 được phân tách bằng dấu ngắt dòng. Chỉ 1 tin nhắn sẽ được gửi đến một số ngay cả khi bạn đã chọn nhóm nơi tin nhắn đó được thêm vào.
 and_sms_bulk_31 === Chọn nhiều nhóm liên hệ. Chỉ 1 tin nhắn sẽ được gửi đến một số liên lạc ngay cả khi bạn đã chọn nhiều nhóm nơi nó đã được thêm vào.
 and_sms_bulk_43 === Shortener
-and_sms_bulk_43_1 === Nếu được bật, các liên kết trong thư sẽ tự động được rút ngắn bằng cách sử dụng trình rút gọn đã chọn.
 and_sms_bulk_46 === Không rút ngắn liên kết
 and_sms_bulk_55 === Chế độ Gateway
-and_sms_bulk_55_1 === Chế độ cổng mà bạn muốn sử dụng. Nếu bạn chọn thiết bị, các thiết bị được liên kết của bạn sẽ được hiển thị để gửi, nếu không, các cổng của bên thứ 3 và đối tác sẽ được hiển thị.
 and_sms_bulk_58 === Thiết bị
 and_sms_bulk_59 === Tín dụng
 and_sms_bulk_64 === Khe cắm thẻ sim để sử dụng.
-and_sms_bulk_67 === SIM1
-and_sms_bulk_68 === SIM2
-and_sms_bulk_72 === Nếu được bật, những tin nhắn này sẽ được gửi trước bất kỳ thứ gì khác.
 and_sms_bulk_81 === Các mẫu tin nhắn tạo sẵn của bạn.
 and_sms_bulk_94 === Các thiết bị được liên kết của bạn, hãy chọn những gì bạn muốn sử dụng để gửi.
 and_sms_bulk_105 === Cổng SMS
@@ -730,9 +539,7 @@ and_sms_bulk_135 === Thí dụ:
 and_sms_bulk_143 === Tập hợp các biến mà bạn có thể sử dụng trong thư của mình.
 and_sms_exe17 === Tệp excel bạn muốn nhập, vui lòng đảm bảo theo định dạng bắt buộc.
 and_sms_exe20 === Tệp mẫu:
-and_sms_exe20_1 === Tải xuống
 and_sms_exe27 === Shortener
-and_sms_exe27_1 === Nếu được bật, các liên kết trong thư sẽ tự động được rút ngắn bằng cách sử dụng trình rút gọn đã chọn.
 and_sms_exe30 === Không rút ngắn liên kết
 and_sms_exe39 === Chế độ Gateway
 and_sms_exe39_1 === Chế độ cổng mà bạn muốn sử dụng. Nếu bạn chọn thiết bị, các thiết bị được liên kết của bạn sẽ được hiển thị để gửi, nếu không, các cổng của bên thứ 3 và đối tác sẽ được hiển thị.
@@ -748,11 +555,9 @@ and_sms_exe97_1 === Một tính năng cho phép bạn ngẫu nhiên hóa các t�
 and_sms_exe109 === Tập hợp các biến mà bạn có thể sử dụng trong thư của mình.
 and_sms_quick17 === Số điện thoại người nhận.
 and_sms_quick24 === Chế độ Gateway
-and_sms_quick24_1 === Chế độ cổng mà bạn muốn sử dụng. Nếu bạn chọn thiết bị, các thiết bị được liên kết của bạn sẽ được hiển thị để gửi, nếu không, các cổng của bên thứ 3 và đối tác sẽ được hiển thị.
 and_sms_quick27 === Thiết bị
 and_sms_quick28 === Tín dụng
 and_sms_quick34 === Shortener
-and_sms_quick34_1 === Nếu được bật, các liên kết trong thư sẽ tự động được rút ngắn bằng cách sử dụng trình rút gọn đã chọn.
 and_sms_quick37 === Không rút ngắn liên kết
 and_sms_quick46 === Khe cắm thẻ sim để sử dụng.
 and_sms_quick49 === SIM1
@@ -760,13 +565,11 @@ and_sms_quick50 === SIM2
 and_sms_quick56 === Nếu được bật, những tin nhắn này sẽ được gửi trước bất kỳ thứ gì khác.
 and_sms_quick66 === Các thiết bị được liên kết của bạn, hãy chọn những gì bạn muốn sử dụng để gửi.
 and_sms_quick77 === Cổng SMS
-and_sms_quick77_1 === Các cổng của bên thứ 3 và đối tác, các khoản tín dụng của bạn sẽ được sử dụng khi bạn gửi tin nhắn bằng các cổng này. Chúng tôi khuyên bạn nên kiểm tra giá cổng trước khi sử dụng.
 and_sms_quick104 === Spintax
 and_sms_quick104_1 === Một tính năng cho phép bạn ngẫu nhiên hóa các từ trong tin nhắn của mình để ngăn chặn hiệu quả việc phát hiện gửi thư rác.
 and_sysup17 === Cập nhật tệp
 and_sysup17_1 === Cập nhật tệp zip, vui lòng đảm bảo chọn đúng tệp.
 and_upplug17 === Cập nhật tệp
-and_upplug17_1 === Cập nhật tệp zip, vui lòng đảm bảo chọn đúng tệp.
 and_uset17 === Ảnh đại diện hồ sơ của bạn.
 and_uset24 === Tên pháp lý đầy đủ của bạn, xin lưu ý rằng việc sử dụng tên giả có thể khiến tài khoản của bạn bị tạm ngưng.
 and_uset26 === ví dụ. Michael Shmuck
@@ -793,18 +596,14 @@ and_view20 === Toàn cảnh
 and_whatsbulk_18 === Nhiều số E.164 được phân tách bằng dấu ngắt dòng.
 and_whatsbulk_31 === Chọn nhiều nhóm liên hệ. Xin lưu ý rằng nếu một liên hệ có nhiều nhóm, thì tin nhắn có thể được gửi nhiều lần đến nó nếu bạn chọn các nhóm mà nó được đưa vào.
 and_whatsbulk_43 === Shortener
-and_whatsbulk_43_1 === Nếu được bật, các liên kết trong thư sẽ tự động được rút ngắn bằng cách sử dụng trình rút gọn đã chọn.
 and_whatsbulk_46 === Không rút ngắn liên kết
 and_whatsbulk_55 === Tài khoản
-and_whatsbulk_55_1 === Chọn tài khoản WhatsApp bạn muốn sử dụng.
 and_whatsbulk_64 === Các mẫu tin nhắn tạo sẵn của bạn.
-and_whatsbulk_79 === Dịch tin nhắn.
 and_whatsbulk_84 === Spintax
 and_whatsbulk_84_1 === Một tính năng cho phép bạn ngẫu nhiên hóa các từ trong tin nhắn của mình để ngăn chặn hiệu quả việc phát hiện gửi thư rác.
 and_whatsbulk_96 === Tập hợp các biến mà bạn có thể sử dụng trong thư của mình.
 and_whatex17 === Tệp excel bạn muốn nhập, vui lòng đảm bảo theo định dạng bắt buộc.
 and_whatex20 === Tệp mẫu:
-and_whatex20_1 === Tải xuống
 and_whatex27 === Shortener
 and_whatex27_1 === Nếu được bật, các liên kết trong thư sẽ tự động được rút ngắn bằng cách sử dụng trình rút gọn đã chọn.
 and_whatex30 === Không rút ngắn liên kết
@@ -817,31 +616,17 @@ and_whatex68_1 === Một tính năng cho phép bạn ngẫu nhiên hóa các t�
 and_whatex80 === Tập hợp các biến mà bạn có thể sử dụng trong thư của mình.
 and_whatquick_17 === Số điện thoại người nhận E.164.
 and_whatquick_24 === Shortener
-and_whatquick_24_1 === Nếu được bật, các liên kết trong thư sẽ tự động được rút ngắn bằng cách sử dụng trình rút gọn đã chọn.
 and_whatquick_27 === Không rút ngắn liên kết
 and_whatquick_36 === Tài khoản
-and_whatquick_36_1 === Chọn tài khoản WhatsApp bạn muốn sử dụng.
 and_whatquick_50 === Dịch tin nhắn.
 and_whatquick_55 === Spintax
 and_whatquick_55_1 === Một tính năng cho phép bạn ngẫu nhiên hóa các từ trong tin nhắn của mình để ngăn chặn hiệu quả việc phát hiện gửi thư rác.
 and_admin_api_3 === API quản trị
 and_admin_fileman_3 === Trình chỉnh sửa mẫu
 and_admin_gate_3 === Cổng SMS
-and_admin_gate_8 === Thêm cổng
 and_admin_lang_6 === Sắp xếp lại các ngôn ngữ
-and_admin_mark_3 === Tiếp thị
-and_admin_mark_6 === Xóa các mục đã chọn
-and_admin_mark_12 === Đẩy
-and_admin_mark_17 === Thông báo
-and_admin_mark_22 === Người đưa thư
 and_admin_payout_3 === Yêu cầu thanh toán
-and_admin_short_3 === Người rút ngắn
 and_admin_short_8 === Thêm Shortener
-and_admin_subs_8 === Thêm đăng ký
-and_admin_vouch_6 === Xóa các mục đã chọn
-and_droid_dev_3 === Thiết bị Android
-and_droid_dev_6 === Đọc tài liệu
-and_droid_dev_8 === Docs
 and_droid_dev_11 === Đăng ký trở thành nhà cung cấp cổng đối tác
 and_droid_dev_13 === Quan hệ đối tác
 and_droid_dev_16 === Đăng ký một thiết bị Android mới
@@ -851,29 +636,21 @@ and_droid_rev_3 === Đã nhận SMS
 and_droid_rev_6 === Xóa các tin nhắn đã chọn
 and_droid_sched_6 === Xóa các mục đã chọn
 and_droid_sent_3 === Đã gửi SMS
-and_droid_sent_6 === Xóa các mục đã chọn
 and_droid_sent_10 === Xóa tất cả các tin nhắn đang chờ xử lý
 and_droid_sent_14 === Gửi tin nhắn SMS nhanh
-and_droid_sent_16 === Nhanh
 and_droid_sent_19 === Gửi tin nhắn SMS hàng loạt
-and_droid_sent_21 === Số lượng lớn
 and_droid_sent_24 === Gửi tin nhắn SMS hàng loạt qua Excel
 and_droid_ussd_3 === Yêu cầu USSD
-and_droid_ussd_6 === Xóa các mục đã chọn
 and_droid_ussd_10 === Xóa tất cả các yêu cầu đang chờ xử lý
 and_droid_ussd_14 === Yêu cầu USSD mới
-and_droid_ussd_16 === Lời yêu cầu
 and_con_grp_6 === Xóa các mục đã chọn
 and_con_grp_10 === Thêm nhóm liên hệ mới
-and_con_sav_6 === Xóa các mục đã chọn
 and_con_sav_10 === Thêm liên hệ mới
 and_con_sav_15 === Nhập danh bạ từ tệp excel
 and_con_unsub_3 === Đã hủy đăng ký
-and_con_unsub_6 === Xóa các mục đã chọn
 and_doc_act_3 === Hành động
 and_doc_api_3 === Tài liệu API
 and_doc_dev_3 === Thiết bị
-and_doc_partner_3 === Quan hệ đối tác
 and_doc_webhook_3 === Webhooks
 and_rate_gate_3 === Giá
 and_rate_gate_10 === Quốc gia
@@ -886,21 +663,12 @@ and_tool_act_8 === Docs
 and_tool_act_11 === Thêm hành động móc nối mới
 and_tool_act_13 === Cái móc
 and_tool_act_16 === Thêm hành động trả lời tự động mới
-and_tool_act_18 === Tự động trả lời
-and_tool_key_6 === Đọc tài liệu
-and_tool_key_8 === Docs
 and_tool_key_11 === Tạo khóa API mới
-and_tool_webhook_6 === Đọc tài liệu
-and_tool_webhook_8 === Docs
 and_what_accnt_6 === Kết nối tài khoản mới
-and_what_accnt_8 === Thêm tài khoản
 and_what_attach_8 === Xóa các tin nhắn đã chọn
 and_what_rev_3 === Các cuộc trò chuyện đã nhận
-and_what_rev_6 === Xóa các mục đã chọn
 and_what_sched_6 === Xóa các mục đã chọn
-and_what_sched_12 === Lên lịch trò chuyện
 and_what_sent_3 === Đã gửi trò chuyện
-and_what_sent_6 === Xóa các mục đã chọn
 and_what_sent_10 === Gửi trò chuyện nhanh
 and_what_sent_12 === Nhanh
 and_what_sent_15 === Gửi các cuộc trò chuyện hàng loạt
@@ -912,10 +680,8 @@ and_def_f_blck_8 === Tham gia với chúng tôi
 and_def_f_blck_35 === Liên lạc
 and_head_blck_21 === Nhà
 and_head_blck_24 === Đặc trưng
-and_head_blck_27 === Định giá
 and_head_blck_30 === Khách hàng
 and_head_blck_39 === bảng điều khiển
-and_head_blck_42 === Đăng xuất
 and_pages_default_8 === Tiếp thị qua SMS và WhatsApp tốt nhất
 and_pages_default_29 === Nhắn tin SMS
 and_pages_default_31 === Sử dụng thiết bị Android của bạn làm cổng SMS, điều này thực sự rẻ hơn so với sử dụng cổng của bên thứ ba.
@@ -929,11 +695,9 @@ and_pages_default_73 === Tại sao sử dụng dịch vụ của chúng tôi?
 and_pages_default_74 === Dưới đây là một số lý do tại sao bạn nên bắt đầu sử dụng dịch vụ của chúng tôi
 and_pages_default_84 === Gửi hàng loạt và nhanh chóng
 and_pages_default_86 === Gửi hàng loạt tin nhắn đến các nhóm liên hệ khác nhau một cách dễ dàng và bạn cũng có thể gửi tin nhắn nhanh chóng để thực hiện các giao dịch nhanh chóng. Nền tảng của chúng tôi cũng bao gồm bảng điều khiển trực tiếp, nhận thông báo khi tin nhắn của bạn được gửi hoặc nhận!
-and_pages_default_89 === Mã ngắn
 and_pages_default_89_1 === để soạn tin nhắn của bạn với dữ liệu được xác định trước.
 and_pages_default_90 === Spintax
 and_pages_default_90_1 === để sắp xếp ngẫu nhiên nhóm từ để chống lại vấn đề gửi thư rác.
-and_pages_default_91 === Người phiên dịch
 and_pages_default_91_1 === để nhắm mục tiêu đối tượng dựa trên ngôn ngữ của họ.
 and_pages_default_98 === Các công cụ tự động và thông minh
 and_pages_default_100 === Quản lý doanh nghiệp của bạn trong khi chúng tôi lo công việc bẩn thỉu, nền tảng của chúng tôi rất thông minh và chỉ cần những tin nhắn bạn muốn gửi thì chúng tôi sẽ làm phần còn lại!
@@ -955,17 +719,12 @@ and_pages_default_156 === Các công cụ và bảng điều khiển trực quan
 and_pages_default_159 === Trải nghiệm nhanh và không bị lag khi bạn tiếp thị sản phẩm của mình
 and_pages_default_171 === Giá dịch vụ
 and_pages_default_187 === Gửi SMS
-and_pages_default_194 === Nhận SMS
-and_pages_default_201 === Gửi WhatsApp
-and_pages_default_208 === Nhận WhatsApp
 and_pages_default_215 === USSD
 and_pages_default_222 === Thông báo
-and_pages_default_229 === SMS / Trò chuyện đã lên lịch
 and_pages_default_236 === Liên lạc
 and_pages_default_243 === Khóa API
 and_pages_default_250 === Webhooks
 and_pages_default_257 === Hành động
-and_pages_default_264 === Thiết bị Android
 and_pages_default_271 === Tài khoản WhatsApp
 and_pages_default_287 === Khách hàng của chúng tôi
 and_pages_default_290 === Được hơn 3.000+ khách hàng tin cậy. Bắt đầu tiếp thị sản phẩm của bạn và phát triển doanh nghiệp của bạn với chúng tôi!
@@ -1330,10 +1089,6 @@ form_fullname === Họ và tên
 form_cpassword === Xác nhận mật khẩu
 form_haveaccount === Tôi có một tài khoản
 datatable_processing === Chế biến .. Xin vui lòng chờ đợi...
-datatable_length === Hiển thị _MENU_ mục nhập
-datatable_info === Hiển thị _START_ đến _END_ trong số _TOTAL_ mục nhập
-datatable_empty === Hiển thị 0 đến 0 trong số 0 mục nhập
-datatable_filtered === (được lọc từ tổng số _MAX_ mục nhập)
 datatable_loading === Tải vui lòng đợi...
 datatable_zero === Chúng tôi không thể tìm thấy bất kỳ điều gì phù hợp với truy vấn của bạn!
 datatable_null === Không có dữ liệu để hiển thị!
@@ -2403,7 +2158,6 @@ js_calendarall_monoct === Tháng Mười
 js_calendarall_monnov === Tháng mười một
 js_calendarall_mondec === Tháng 12
 response_ussddelete_success === Yêu cầu USSD đã bị xóa!
-response_titanecho_invaltoken === Lỗi cấu hình hệ thống!
 widgets_addplugin_loader === Cài đặt plugin mới cho hệ thống
 widgets_addwhatsapp_newmodal === Kết nối WhatsApp của bạn bằng cách nhấp vào nút để hiển thị Mã QR, sau đó quét nó qua nút _8880_ trong ứng dụng. Bạn chỉ có 15 giây để quét mã QRCode.
 widgets_addwhatsapp_newmodal2 === _8880_ đã hết hạn, nếu tài khoản của bạn đã được liên kết hay chưa, vui lòng nhấp vào nút bên dưới.
@@ -2419,7 +2173,6 @@ widget_waquick_requireaccountnew1 === Tài khoản WhatsApp
 requests_whatsapp_notavail === Máy chủ WhatsApp không khả dụng!
 requests_whatsapp_unablegenqr === Không thể tạo QRCode WhatsApp!
 requests_charts_commisionstitle === Tiền hoa hồng
-requests_token_refreshecho === Mã thông báo cho _8880_ đã được làm mới!
 requests_remote_smscampaignresumed === Chiến dịch SMS đã được tiếp tục!
 requests_remote_smscampaignpaused === Chiến dịch SMS đã bị tạm dừng!
 requests_remote_wacampaignresumed === Chiến dịch WhatsApp đã được tiếp tục!
@@ -2500,8 +2253,6 @@ table_android_copydeviceid === Sao chép ID duy nhất của thiết bị
 table_partnerrates_devicename === Tên thiết bị
 widget_fetchgroups_titlefetch === Tìm nạp nhóm
 widget_fetchgroups_loaderfetch === Tìm nạp các nhóm từ tài khoản
-pages_admin_tokenrefreshbutt === Mã thông báo
-pages_admin_tokenrefreshbutthelp === Làm mới mã thông báo ổ cắm. Nếu hệ thống không hiển thị bất kỳ thông báo bánh mì nướng trực tiếp nào hoặc không cập nhật trong thời gian thực, vui lòng nhấp vào nút này.
 pages_admin_cachehelp === Xóa toàn bộ bộ nhớ cache của hệ thống. Cảnh báo! Điều này cũng sẽ xóa bộ nhớ đệm liên quan đến API, xác thực và thanh toán. Khuyến nghị chỉ thực hiện việc này khi nâng cấp hệ thống.
 pages_admin_themehelp === Sửa đổi mẫu và thiết kế trang web.
 pages_admin_systemsettingshelp === Điều chỉnh các cài đặt hệ thống quan trọng.
@@ -2600,7 +2351,6 @@ app_fetching_messages === Tìm nạp tin nhắn
 app_fetching_ussd === Tìm nạp USSD
 app_campaign_resumed === Tiếp tục gửi cho chiến dịch:
 app_campaign_paused === Việc gửi bị tạm dừng cho chiến dịch:
-js_response_titanechorefreshdesc === Làm mới mã thông báo cho giao tiếp socket thời gian thực?
 form_wa_templatetype_knownissue === Vấn đề được biết
 form_wa_templatetype_knownissuedesc === Loại tin nhắn WhatsApp này không hiển thị chính xác trên iOS. Ứng dụng WhatsApp iOS sẽ hiển thị một thông báo trống.
 app_response_devicealreadylinked === Thiết bị này đã được liên kết với một tài khoản khác!
@@ -3076,6 +2826,9 @@ flow_header_title === Trình xây dựng luồng
 flow_response_saved === Lưu luồng thành công!
 flow_response_nofile === Không có tệp nào được tải lên hoặc lỗi tải lên!
 flow_response_fileuploaded === Tệp đã tải lên thành công
+flow_response_ai_key_required === Vui lòng chọn khóa AI cho mỗi nút Trả lời AI!
+flow_response_file_too_large === Tệp đã tải lên quá lớn, kích thước tối đa là 10MB!
+flow_response_invalid_filetype === Loại tệp này không được phép!
 flow_modal_upload_title === Tải Tệp lên
 flow_modal_upload_button_select === Chọn Tệp
 flow_modal_upload_button_upload === Tải lên
@@ -3200,3 +2953,23 @@ flowjs_node_pause_duration_placeholder === Nhập thời lượng bằng giây (
 flowjs_node_resume === Tiếp tục
 flowjs_node_resume_context === Bối cảnh
 flowjs_node_resume_description === Tiếp tục phản hồi tự động đang tạm dừng
+modal_adminsettings_currencyapikey === Khóa API tỷ giá hối đoái
+modal_adminsettings_currencyapikeyinfo === Khóa API của nhà cung cấp tỷ giá hối đoái của riêng bạn. Việc quy đổi tiền tệ sẽ bị tắt cho đến khi thiết lập khóa này.
+modal_adminsettings_realtimetitle === Thông báo thời gian thực
+modal_adminsettings_realtimeinfo === Cập nhật trực tiếp sử dụng giao thức Pusher. Chọn dịch vụ lưu trữ của Pusher hoặc bất kỳ máy chủ tương thích nào như Sockety, Soketi hay Reverb. Để trống thông tin đăng nhập để tắt thời gian thực.
+modal_adminsettings_realtimeappid === ID ứng dụng
+modal_adminsettings_realtimekey === Khóa ứng dụng
+modal_adminsettings_realtimesecret === Khóa bí mật ứng dụng
+modal_adminsettings_realtimecluster === Cụm
+modal_adminsettings_realtimehost === URL máy chủ
+modal_adminsettings_realtimehostinfo === Địa chỉ đầy đủ của máy chủ, ví dụ https://sockets.example.com:6001
+modal_adminsettings_realtimedriver === Nhà cung cấp
+modal_adminsettings_realtimedriverpusher === Pusher (đám mây)
+modal_adminsettings_realtimedrivercompatible === Máy chủ tương thích (tự lưu trữ)
+modal_adminsettings_realtimecredentials === Lấy thông tin đăng nhập từ bảng điều khiển Pusher
+modal_adminsettings_realtimeconfigured === Đã cấu hình
+modal_adminsettings_realtimekeepblank === Để trống để giữ giá trị hiện tại
+modal_adminsettings_realtimetest === Kiểm tra kết nối
+js_realtime_testing === Đang kiểm tra kết nối thời gian thực...
+response_realtime_testok === Kết nối thời gian thực thành công!
+response_realtime_testfailed === Kết nối thời gian thực thất bại. Hãy kiểm tra thông tin đăng nhập và địa chỉ máy chủ.

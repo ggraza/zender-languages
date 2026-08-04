@@ -11,18 +11,12 @@ and_dashboard_pages_defailt_line37 === Tarife Gateway
 and_dashboard_pages_default_line42 === Docs
 and_dashboard_pages_default_line58 === Mesaje
 and_dashboard_pages_default_line60 === Ultimele 7 zile
-and_dashboard_pages_default_line74 === Evenimente
-and_dashboard_pages_default_line76 === Ultimele 7 zile
-and_dashboard_pages_default_line90 === Utilități
-and_dashboard_pages_default_line92 === Ultimele 7 zile
-and_dashboard_pages_default_line109 === Parteneri
 and_dashboard_pages_default_line117 === Câștigurile
 and_dashboard_pages_default_line131 === Plata
 and_dashboard_pages_default_line140 === Echilibru
 and_dashboard_pages_default_line148 === credite
 and_dashboard_pages_default_line162 === Umple
 and_dashboard_pages_default_line170 === Raportul de livrare
-and_dash_pg_def_line178 === Succes
 and_dash_pg_def_line190 === A eșuat
 and_dash_pg_def_line204 === Expeditori
 and_dash_pg_def_line209 === Nu sunteți abonat la niciunul dintre pachetele noastre premium!
@@ -32,11 +26,9 @@ and_dash_pg_def_line232 === Conturi
 and_dash_pg_def_line239 === Legat
 and_dash_pg_def_line250 === Descărcați și instalați aplicația noastră oficială pentru a obține cea mai bună experiență de utilizator
 and_dash_pg_doc_line10 === Documente
-and_dash_pg_doc_line28 === API
 and_dash_pg_doc_line34 === Webhook-uri
 and_dash_pg_doc_line40 === Acțiuni
 and_dash_pg_doc_line46 === Dispozitive
-and_dash_pg_doc_line52 === Parteneriat
 and_dash_pg_for_line29 === Anulare
 and_dash_pg_log_line14 === Logheaza-te cu Facebook
 and_dash_pg_log_line17 === Conectați-vă cu Google
@@ -50,15 +42,10 @@ and_dash_pg_reg_line20 === Înregistrați-vă la Google
 and_dash_pg_reg_line25 === Înregistrați-vă la VKontakte
 and_dash_pg_whats_line10 === WhatsApp
 and_dash_pg_whats_line10_1 === Beta
-and_dash_pg_whats_line28 === Trimis
 and_dash_pg_whats_line34 === Primit
 and_dash_pg_whats_line40 === Programat
 and_dash_pg_whats_line46 === Conturi
-and_dash_api_line17 === Numele cheii.
-and_dash_api_line19 === de exemplu. Pentru serverul meu
-and_dash_api_line24 === Permisiuni cheie.
 and_dash_auto_line17 === Numele acțiunii.
-and_dash_auto_line19 === de exemplu. Mihai
 and_dash_auto_line24 === Sursă
 and_dash_auto_line24_1 === Sursa evenimentului de primire.
 and_dash_auto_line27 === mesaj
@@ -75,23 +62,16 @@ and_dash_cre_line28 === Cumpărare
 and_dash_gate_line17 === Nume
 and_dash_gate_line17_1 === Acesta este numele gateway-ului care va fi afișat utilizatorilor dvs.
 and_dash_gate_line19 === de exemplu. Twilio
-and_dash_gate_line24 === Controlor
 and_dash_gate_line24_1 === Selectați fișierul controlerului gateway-ului, acesta va conține logica și codul gateway-ului. Se recomandă verificarea documentației.
-and_dash_gate_line27 === Controller Boilerplate:
 and_dash_gate_line34 === Sună din nou
 and_dash_gate_line34_1 === Dacă este activat, mesajele vor trebui verificate folosind funcția de apel invers a gateway-ului terță parte pentru starea trimiterii, în caz contrar, mesajele vor fi imediat marcate ca trimise la trimitere.
-and_dash_gate_line37 === Permite
-and_dash_gate_line38 === Dezactivați
 and_dash_gate_line44 === ID de apel invers
 and_dash_gate_line44_1 === Dacă apelul invers este activat, trebuie să copiați acest ID și să-l inserați în controler, astfel încât sistemul să poată identifica apelurile.
 and_dash_gate_line47 === Copiați și lipiți pentru ID-ul de apel invers
-and_dash_gate_line54 === Prețuri
 and_dash_gate_line54_1 === Tabelul dvs. personalizat de prețuri pentru acest gateway. Acest lucru vă va permite să percepeți peste prețurile terțelor părți. De exemplu, dacă twilio percepe 0,01 pentru o anumită țară, atunci puteți taxa în schimb 0,02, moneda se bazează pe moneda sistemului dumneavoastră. Vă rugăm să urmați corect formatul de preț.
 and_dash_gate_line57 === Exemplu de preț JSON:
-and_dash_gate_line57_1 === Descarca
 and_dash_grp_line17 === Numele Grupului.
 and_dash_grp_line19 === de exemplu. Prieteni
-and_dash_hook_line17 === Numele acțiunii.
 and_dash_hook_line19 === de exemplu. Acțiune de testare
 and_dash_hook_line24 === Sursă
 and_dash_hook_line24_1 === Sursa evenimentului.
@@ -100,8 +80,6 @@ and_dash_hook_line44 === Structura legăturii Hook, aceasta este adresa URL care
 and_dash_hook_line51 === Set de variabile pe care le puteți utiliza în URL-ul hook.
 and_dash_hook_line27 === mesaj
 and_dash_hook_line28 === WhatsApp
-and_dash_hook_line37 === La Trimitere
-and_dash_hook_line38 === La Primire
 and_dash_lang_line17 === Numele limbii.
 and_dash_lang_line19 === de exemplu. coreeană
 and_dash_lang_line24 === Codul tarii.
@@ -110,19 +88,14 @@ and_dash_lang_line35_1 === Dacă este activată, limba va fi identificată ca di
 and_dash_lang_line38 === da
 and_dash_lang_line39 === Nu
 and_dash_lang_line45 === Șiruri de traducere.
-and_dash_mail_line17 === Titlu
 and_dash_mail_line17_1 === Titlul e-mailului.
-and_dash_mail_line19 === de exemplu. Anunţ
 and_dash_mail_line24 === Utilizatori
 and_dash_mail_line24_1 === Trimite de către utilizatori.
-and_dash_mail_line36 === Roluri
 and_dash_mail_line36_1 === Trimite după roluri.
 and_dash_mail_line48 === Conţinut
 and_dash_mail_line48_1 === Conținut de e-mail, html permis.
 and_dash_mail_line50 === Salut Lume!
-and_dash_not_line17 === Titlu
 and_dash_not_line17_1 === Notifică titlul.
-and_dash_not_line19 === de exemplu. Anunţ
 and_dash_not_line24 === Mesaj
 and_dash_not_line24_1 === Mesaj de notificare.
 and_dash_not_line31 === Culoare
@@ -130,13 +103,8 @@ and_dash_not_line31_1 === Notifică culoarea.
 and_dash_not_line35 === Succes
 and_dash_not_line36 === Avertizare
 and_dash_not_line37 === Pericol
-and_dash_not_line43 === Imagine
 and_dash_not_line43_1 === Notifică imaginea, aceasta este opțională.
-and_dash_not_line46 === Opțional
 and_dash_not_line53 === Utilizatori
-and_dash_not_line53_1 === Difuzat de utilizatori.
-and_dash_not_line65 === Roluri
-and_dash_not_line65_1 === Difuzat pe roluri.
 and_pack_line17 === Numele pachetului.
 and_pack_line19 === de exemplu. Pachet VIP
 and_pack_line24 === Prețul pachetului, acesta ar trebui să urmeze moneda sistemului. Valorile flotante nu sunt permise.
@@ -151,33 +119,25 @@ and_pack_line65_1 === Numărul maxim de mesaje care pot fi primite de utilizator
 and_pack_line67 === de exemplu. 150
 and_pack_line72 === Limită USSD
 and_pack_line72_1 === Numărul maxim de ussd care poate fi solicitat de utilizator înainte de resetare. Introduceți 0 pentru nelimitat.
-and_pack_line74 === de exemplu. 25
 and_pack_line79 === Limită de notificare
 and_pack_line79_1 === Numărul maxim de notificări care pot fi primite de utilizator înainte de resetare. Introduceți 0 pentru nelimitat.
 and_pack_line81 === de exemplu. 1300
 and_pack_line86 === Numărul maxim de dispozitive Android care pot fi conectate la contul utilizatorului. Introduceți 0 pentru nelimitat.
-and_pack_line88 === de exemplu. 25
 and_pack_line92 === Setări WhatsApp
 and_pack_line97 === Numărul maxim de chat-uri care pot fi trimise de utilizator înainte de resetare. Introduceți 0 pentru nelimitat.
-and_pack_line99 === de exemplu. 300
 and_pack_line104 === Numărul maxim de chat-uri care pot fi primite de utilizator înainte de resetare. Introduceți 0 pentru nelimitat.
-and_pack_line106 === de exemplu. 150
 and_pack_line111 === Limită de cont
 and_pack_line111_1 === Numărul maxim de conturi WhatsApp care pot fi conectate la contul utilizatorului. Introduceți 0 pentru nelimitat.
 and_pack_line113 === de exemplu. 10
 and_pack_line117 === Setări de utilitate
 and_pack_line122 === Numărul maxim de contacte care pot fi salvate de utilizator. Introduceți 0 pentru nelimitat.
-and_pack_line124 === de exemplu. 25
 and_pack_line129 === Limită programată
 and_pack_line129_1 === Numărul maxim de mesaje/chaturi programate care pot fi salvate de utilizator. Introduceți 0 pentru nelimitat. Acest lucru este combinat atât pentru sms, cât și pentru whatsapp.
-and_pack_line131 === de exemplu. 25
 and_pack_line136 === Numărul maxim de chei API care pot fi create. Introduceți 0 pentru nelimitat.
-and_pack_line138 === de exemplu. 10
 and_pack_line143 === Numărul maxim de Webhook-uri care pot fi create. Introduceți 0 pentru nelimitat.
 and_pack_line145 === de exemplu. 5
 and_pack_line150 === Limită de acțiuni
 and_pack_line150_1 === Numărul maxim de acțiuni care pot fi create. Introduceți 0 pentru nelimitat.
-and_pack_line152 === de exemplu. 5
 and_page_line17 === Numele paginii.
 and_page_line24 === Numai rolurile selectate vor putea accesa această pagină.
 and_page_line35 === Dacă este activată, pagina nu va fi accesibilă dacă nu sunteți autentificat.
@@ -189,13 +149,10 @@ and_payout_line24 === Furnizor
 and_payout_line24_1 === Selectați furnizorul de plăți pe care doriți să îl utilizați pentru a primi banii.
 and_payout_line27 === Paypal
 and_payout_line28 === Payoneer
-and_payout_line34 === adresa de plata
 and_payout_line34_1 === Adresa de plată sau e-mailul, vă rugăm să verificați cu atenție pentru a preveni problemele de plată.
 and_payout_line36 === de exemplu. E-mailul dvs. PayPal
-and_payout_line43 === Cerere
 and_plug_line17 === Fișier plugin
 and_plug_line17_1 === Fișier zip de plugin, asigurați-vă că selectați fișierul corect.
-and_push_line17 === Titlu
 and_push_line17_1 === Apăsați titlul.
 and_push_line19 === de exemplu. Anunţ
 and_push_line24 === Imagine
@@ -205,7 +162,6 @@ and_push_line34 === Mesaj
 and_push_line34_1 === Push mesaj.
 and_push_line41 === Utilizatori
 and_push_line41_1 === Difuzat de utilizatori.
-and_push_line53 === Roluri
 and_push_line53_1 === Difuzat pe roluri.
 and_role_line17 === Nume rol.
 and_role_line19 === de exemplu. Dezvoltator
@@ -224,19 +180,14 @@ and_sms_line31 === Dacă este activat, mesajul va fi programat de fiecare dată 
 and_sms_line42 === Mai multe numere E.164 separate prin întrerupere de linie.
 and_sms_line55 === Selectați mai multe grupuri de contacte
 and_sms_line67 === Scurtator
-and_sms_line67_1 === Dacă este activată, legăturile din mesaje vor fi scurtate automat folosind scurtatorul selectat.
 and_sms_line70 === Nu scurtați linkurile
 and_sms_line79 === Modul Gateway
-and_sms_line79_1 === Modul gateway pe care doriți să îl utilizați. Dacă alegeți dispozitive, dispozitivele dvs. conectate vor fi afișate pentru trimitere, în caz contrar, vor fi afișate gateway-uri terță parte și partener.
 and_sms_line82 === Dispozitive
 and_sms_line83 === credite
 and_sms_line88 === Slot pentru card SIM de utilizat.
-and_sms_line91 === SIM1
-and_sms_line92 === SIM2
 and_sms_line97 === Șabloanele dvs. de mesaje prefabricate.
 and_sms_line110 === Dispozitivele dvs. conectate, alegeți ce doriți să utilizați pentru trimitere.
 and_sms_line121 === Gateway SMS
-and_sms_line121_1 === Gateway-uri terțe și partenere, creditele dvs. vor fi utilizate atunci când trimiteți mesaje folosind aceste gateway-uri. Vă recomandăm să verificați prețurile gateway-ului înainte de a le folosi.
 and_sms_line141 === Spintax
 and_sms_line144 === Exemplu:
 and_sms_line144_1 === Tom este un
@@ -270,8 +221,6 @@ and_user_line31 === Introduceți parola de utilizator.
 and_user_line38 === Fusul orar al locației utilizatorului, modificați-l dacă se află într-o altă țară. Fusul orar este utilizat pentru exactitatea datei și orei mesajelor trimise și a altor date.
 and_user_line49 === Țară
 and_user_line49_1 === Țara utilizatorului, aceasta este folosită pentru plăți și formatarea numărului de telefon.
-and_user_line60 === Sunete de notificare
-and_user_line60_1 === Dacă este dezactivată, notificările vor fi silențioase.
 and_user_line70 === Selectați rolul utilizatorului.
 and_user_line81 === Selectați limba utilizatorului.
 and_user_line92 === Programul de parteneriat
@@ -280,17 +229,12 @@ and_ussd_line17 === Cod USSD
 and_ussd_line17_1 === Cod de solicitare USSD.
 and_ussd_line19 === de exemplu. *121#
 and_ussd_line24 === Slot pentru card SIM de utilizat.
-and_ussd_line27 === SIM1
-and_ussd_line28 === SIM2
 and_ussd_line34 === Dispozitivele dvs. conectate, alegeți ce doriți să utilizați pentru solicitarea ussd.
 and_ussd_line47 === Cerere
 and_vouch_line17 === Numele voucherului.
 and_vouch_line19 === de exemplu. Special
 and_vouch_line24 === Cantitatea de vouchere pe care doriți să o creați. Valoarea maximă este 1000!
 and_vouch_line26 === de exemplu. 100
-and_vouch_line31 === Durata abonamentului.
-and_vouch_line33 === de exemplu. 12
-and_vouch_line38 === Pachet de abonament.
 and_web_line17 === Numele webhook.
 and_web_line24 === Primiți evenimente
 and_web_line24_1 === Selectați evenimentele de primire de care aveți nevoie, acestea vor fi trimise la adresa URL a hook-ului dvs. web prin metoda POST.
@@ -300,18 +244,11 @@ and_web_line29 === USSD
 and_web_line30 === Notificări
 and_web_line36 === Adresa URL a webhook-ului dvs., toate datele de încărcare utilă vor fi trimise aici prin metoda POST.
 and_web_line38 === de exemplu. http://yourdomain.com/hook_listen.php
-and_whatssched_line17 === Numele chatului programat.
-and_whatssched_line19 === de exemplu. Mesajul meu
-and_whatssched_line24 === Selectați data programului.
-and_whatssched_line26 === de exemplu. 22.06.2020 ora 00:00
 and_whatssched_line31 === Dacă este activat, chatul va fi programat de fiecare dată când se potrivește data programată.
 and_whatssched_line42 === Mai multe numere E.164 separate prin întrerupere de linie.
-and_whatssched_line55 === Selectați mai multe grupuri de contacte
 and_whatssched_line67 === Scurtator
-and_whatssched_line67_1 === Dacă este activată, legăturile din mesaje vor fi scurtate automat folosind scurtatorul selectat.
 and_whatssched_line70 === Nu scurtați linkurile
 and_whatssched_line79 === Cont
-and_whatssched_line79_1 === Selectați contul WhatsApp pe care doriți să îl utilizați.
 and_whatsached_line88 === Șabloanele dvs. de mesaje prefabricate.
 and_whatssched_line103 === Spintax
 and_whatssched_line103_1 === O caracteristică care vă permite să randomizați cuvintele din mesajele dvs., ceea ce previne eficient detectarea spamului.
@@ -366,14 +303,11 @@ and_admin_build_line95_1 === Logo-ul imaginii de conectare la aplicație, aceast
 and_admin_build_line103 === Pictograma imagine a aplicației, aceasta este afișată în sertarul de aplicații și în sistemul Android. Dimensiunile recomandate sunt 1024x1024 în format px și png.
 and_admin_build_line111 === Imaginea ecranului de introducere a aplicației, aceasta este afișată atunci când utilizatorul deschide aplicația. Dimensiunile recomandate sunt 2732x2732 în format px și png.
 and_admin_build_line118 === Structura
-and_admin_build_line123 === JavaScript personalizat
 and_admin_build_line123_1 === Dacă doriți să utilizați un cod javascript personalizat, adăugați-l aici. Acesta este încărcat dinamic în aplicație.
 and_admin_build_line125 === de ex., alert('Bună lume!');
-and_admin_build_line130 === CSS personalizat
 and_admin_build_line130_1 === Dacă doriți să utilizați un cod CSS personalizat, adăugați-l aici. Acesta este încărcat dinamic în aplicație.
 and_admin_build_line137 === Aspect personalizat
 and_admin_build_line137_1 === Dacă doriți să utilizați o structură de aplicație personalizată, vă rugăm să modificați conținutul html, dacă nu știți ce faceți, vă rugăm să lăsați valoarea implicită.
-and_admin_build_line139 === Salut Lume!
 and_settings_line21 === Numele site-ului, acesta este afișat oriunde este nevoie de branding.
 and_settings_line23 === de exemplu. Zender
 and_settings_line28 === Descrierea site-ului, aceasta este pentru optimizarea motoarelor de căutare, așa că fiți creativ.
@@ -388,14 +322,12 @@ and_settings_line70 === Dacă este dezactivată, înregistrările prin pagina de
 and_settings_line80 === Modul Resetare pachet
 and_settings_line80_1 === Intervalul de resetare a limitelor, cum ar fi trimitere, primire, ussd și notificări. Acest lucru se aplică atât pentru funcțiile Android, cât și pentru WhatsApp. Selecția dvs. aici trebuie să fie aplicată și în configurarea cron.
 and_settings_line83 === Zilnic
-and_settings_line84 === Lunar
 and_settings_line90 === Model gratuit
 and_settings_line90_1 === Dacă este activat, pachetul gratuit implicit este atribuit automat utilizatorului după înregistrare.
 and_settings_line100 === Dacă este dezactivată, pagina de pornire nu va fi utilizată. Toate vizitele din directorul rădăcină vor fi redirecționate către tabloul de bord.
 and_settings_line110 === Widget de chat TAWK
 and_settings_line110_1 === Dacă este activat, widgetul tawk chat va apărea utilizatorilor.
 and_settings_line120 === Link-ul widget-ului dvs. de chat tawk, acesta este necesar dacă doriți să utilizați suportul de chat tawk.
-and_settings_line127 === Admin API
 and_settings_line127_1 === Selectați punctele finale API de administrare pe care doriți să le activați. Se recomandă să activați numai punctele finale de care aveți nevoie.
 and_settings_line159 === Acest simbol nu trebuie să fie distribuit nimănui. Acesta este folosit pentru securitatea cronjob-urilor, a API-ului de sistem și a altor solicitări externe. Dacă credeți că tokenul dvs. de sistem a fost compromis, vă rugăm să regenerați unul nou, va trebui să vă reconfigurați cronjob-urile, API-ul de sistem și alte setări aferente după regenerarea unui nou token.
 and_settings_line160 === Regenera
@@ -419,9 +351,7 @@ and_settings_line263 === de exemplu. test_4vzuJVhRCFSyNyuc6gwvJpQ474Vngp
 and_settings_line268 === Moneda de sistem de utilizat, aceasta va fi folosită ca bază la conversia tranzacțiilor în USD.
 and_settings_line279 === Selectați furnizorii de plată pe care doriți să îi utilizați.
 and_settings_line293 === Caractere minime pentru mesaje. Acest lucru este valabil atât pentru SMS-uri, cât și pentru WhatsApp.
-and_settings_line295 === de exemplu. 5
 and_settings_line300 === Maxim de caractere pentru mesaje. Acest lucru este valabil atât pentru SMS-uri, cât și pentru WhatsApp. Introduceți 0 pentru caractere infinite.
-and_settings_line302 === de exemplu. 300
 and_settings_line307 === Marca subsolul mesajului, acesta este atașat mesajelor dacă pachetul lor are marcajul subsolului activat.
 and_settings_line309 === de exemplu. Trimis de la Zender System
 and_settings_line318 === Numărul implicit de rânduri de afișat în tabelul cu mesaje trimise. Acest lucru este valabil atât pentru SMS-uri, cât și pentru WhatsApp.
@@ -484,16 +414,11 @@ and_edit_auto_line36 === de exemplu. mulțumesc, bine, abonează-te, da
 and_edit_auto_line41 === Mesajul care trebuie trimis expeditorului.
 and_edit_auto_line43 === de exemplu. Mesajul dvs. de răspuns aici, coduri scurte acceptate
 and_edit_auto_line48 === Set de variabile pe care le poți folosi în mesajul tău.
-and_edit_con_line17 === Nume de contact.
 and_edit_con_line19 === de exemplu. Mihai
-and_edit_con_line24 === Numar de contact.
-and_edit_con_line31 === Grup de contact.
-and_edit_dev_line16 === Detalii despre dispozitiv
 and_edit_dev_line21 === Nume dispozitiv.
 and_edit_dev_line23 === de exemplu. Aparatul meu
 and_edit_dev_line28 === Dacă este activat, mesajele vor fi trimise la intervale aleatorii între 2 valori. Le puteți configura mai jos.
 and_edit_dev_line38 === Intervalul minim în secunde.
-and_edit_dev_line41 === de exemplu. 5
 and_edit_dev_line46 === Intervalul maxim în secunde.
 and_edit_dev_line49 === de exemplu. 20
 and_edit_dev_line53 === Setări de notificare
@@ -514,109 +439,25 @@ and_edit_dev_line112_1 === Selectați sloturile sim pe care doriți să le utili
 and_edit_email_line16 === Șablon de e-mail
 and_edit_email_line18 === HTML permis
 and_edit_gate_line17 === Nume
-and_edit_gate_line17_1 === Acesta este numele gateway-ului care va fi afișat utilizatorilor dvs.
-and_edit_gate_line19 === de exemplu. Twilio
-and_edit_gate_line24 === Controlor
-and_edit_gate_line24_1 === Selectați fișierul controlerului gateway-ului, acesta va conține logica și codul gateway-ului. Se recomandă verificarea documentației.
-and_edit_gate_line31 === Sună din nou
-and_edit_gate_line31_1 === Dacă este activat, mesajele vor trebui verificate folosind funcția de apel invers a gateway-ului terță parte pentru starea trimiterii, în caz contrar, mesajele vor fi imediat marcate ca trimise la trimitere.
-and_edit_gate_line34 === Permite
-and_edit_gate_line35 === Dezactivați
 and_edit_gate_line41 === ID de apel invers
-and_edit_gate_line41_1 === Dacă apelul invers este activat, trebuie să copiați acest ID și să-l inserați în controler, astfel încât sistemul să poată identifica apelurile.
-and_edit_gate_line44 === Copiați și lipiți pentru ID-ul de apel invers
-and_edit_gate_line51 === Prețuri
-and_edit_gate_line51_1 === Tabelul dvs. personalizat de prețuri pentru acest gateway. Acest lucru vă va permite să percepeți peste prețurile terțelor părți. De exemplu, dacă twilio percepe 0,01 pentru o anumită țară, atunci puteți taxa în schimb 0,02, moneda se bazează pe moneda sistemului dumneavoastră. Vă rugăm să urmați corect formatul de preț.
-and_edit_gate_line54 === Exemplu de preț JSON:
-and_edit_gate_line54_1 === Descarca
-and_edit_grp_line17 === Numele Grupului.
-and_edit_grp_line19 === de exemplu. Prieteni
-and_edit_hook_line17 === Numele acțiunii.
-and_edit_hook_line19 === de exemplu. Acțiune de testare
 and_edit_hook_line24 === Sursă
-and_edit_hook_line24_1 === Sursa evenimentului.
 and_edit_hook_line27 === mesaj
 and_edit_hook_line28 === WhatsApp
-and_edit_hook_line34 === Selectați evenimentul în care va fi invocat acest cârlig.
-and_edit_hook_line37 === La Trimitere
-and_edit_hook_line38 === La Primire
-and_edit_hook_line44 === Structura legăturii Hook, aceasta este adresa URL care va fi invocată de sistem. Numai metoda GET este acceptată.
-and_edit_hook_line51 === Set de variabile pe care le puteți utiliza în URL-ul hook.
-and_edit_lang_line17 === de exemplu. coreeană
-and_edit_lang_line30 === RTL
 and_edit_lang_line32 === da
 and_edit_lang_line33 === Nu
-and_edit_pack_line17 === Numele pachetului.
-and_edit_pack_line19 === de exemplu. Pachet VIP
-and_edit_pack_line24 === Prețul pachetului, acesta ar trebui să urmeze moneda sistemului. Valorile flotante nu sunt permise.
-and_edit_pack_line29 === de exemplu. 25
-and_edit_pack_line34 === Dacă sunt activate, mesajele și chat-urile WhatsApp vor conține un semn de subsol atunci când sunt primite de destinatari.
-and_edit_pack_line44 === Dacă este activat, pachetul va fi ascuns din modalul pachetului și din pagina de pornire.
 and_edit_pack_line53 === Setări Android
-and_edit_pack_line58 === Limită de trimitere SMS
-and_edit_pack_line58_1 === Numărul maxim de mesaje care pot fi trimise de utilizator înainte de resetare. Introduceți 0 pentru nelimitat.
-and_edit_pack_line60 === de exemplu. 300
-and_edit_pack_line65 === Limită de primire SMS
-and_edit_pack_line65_1 === Numărul maxim de mesaje care pot fi primite de utilizator înainte de resetare. Introduceți 0 pentru nelimitat.
-and_edit_pack_line67 === de exemplu. 150
-and_edit_pack_line72 === Limită USSD
-and_edit_pack_line72_1 === Numărul maxim de ussd care poate fi solicitat de utilizator înainte de resetare. Introduceți 0 pentru nelimitat.
-and_edit_pack_line74 === de exemplu. 25
 and_edit_pack_line79 === Limită de notificare
 and_edit_pack_line79_1 === Numărul maxim de notificări care pot fi primite de utilizator înainte de resetare. Introduceți 0 pentru nelimitat.
 and_edit_pack_line81 === de exemplu. 1300
-and_edit_pack_line86 === Numărul maxim de dispozitive Android care pot fi conectate la contul utilizatorului. Introduceți 0 pentru nelimitat.
-and_edit_pack_line88 === de exemplu. 25
-and_edit_pack_line92 === Setări WhatsApp
-and_edit_pack_line97 === Numărul maxim de chat-uri care pot fi trimise de utilizator înainte de resetare. Introduceți 0 pentru nelimitat.
-and_edit_pack_line99 === de exemplu. 300
-and_edit_pack_line104 === Numărul maxim de chat-uri care pot fi primite de utilizator înainte de resetare. Introduceți 0 pentru nelimitat.
-and_edit_pack_line106 === de exemplu. 150
-and_edit_pack_line111 === Limită de cont
-and_edit_pack_line111_1 === Numărul maxim de conturi WhatsApp care pot fi conectate la contul utilizatorului. Introduceți 0 pentru nelimitat.
-and_edit_pack_line113 === de exemplu. 10
-and_edit_pack_line117 === Setări de utilitate
-and_edit_pack_line122 === Numărul maxim de contacte care pot fi salvate de utilizator. Introduceți 0 pentru nelimitat.
-and_edit_pack_line124 === de exemplu. 25
 and_edit_pack_line129 === Limită programată
-and_edit_pack_line129_1 === Numărul maxim de mesaje/chaturi programate care pot fi salvate de utilizator. Introduceți 0 pentru nelimitat. Acest lucru este combinat atât pentru sms, cât și pentru whatsapp.
-and_edit_pack_line131 === de exemplu. 25
-and_edit_pack_line136 === Numărul maxim de chei API care pot fi create. Introduceți 0 pentru nelimitat.
-and_edit_pack_line138 === de exemplu. 10
-and_edit_pack_line143 === Numărul maxim de Webhook-uri care pot fi create. Introduceți 0 pentru nelimitat.
-and_edit_pack_line145 === de exemplu. 5
-and_edit_pack_line150 === Limită de acțiuni
-and_edit_pack_line150_1 === Numărul maxim de acțiuni care pot fi create. Introduceți 0 pentru nelimitat.
-and_edit_pack_line152 === de exemplu. 5
-and_edit_page_line17 === Numele paginii.
-and_edit_page_line24 === Numai rolurile selectate vor putea accesa această pagină.
-and_edit_page_line35 === Dacă este activată, pagina nu va fi accesibilă dacă nu sunteți autentificat.
-and_edit_page_line45 === Conținutul paginii. Toate etichetele html sunt permise, aveți grijă când adăugați scripturi din surse necunoscute!
-and_edit_role_line17 === Nume rol.
-and_edit_role_line19 === de exemplu. Dezvoltator
-and_edit_role_line24 === Selectați permisiunile și funcțiile pe care doriți să le dezactivați/activați pentru acest rol. Modificările sunt aplicate în timp real, filele de browser ale utilizatorilor conectați cu rolul sunt reîncărcate automat.
 and_edit_short_line17 === Nume
-and_edit_short_line17_1 === Nume de scurtator.
-and_edit_short_line19 === de exemplu. Puțin
-and_edit_short_line24 === Controlor
-and_edit_short_line24_1 === Selectați fișierul controler pentru scurtator, acesta va conține logica și codul pentru scurtator. Se recomandă verificarea documentației.
-and_edit_sms_line17 === Numele mesajului programat.
-and_edit_sms_line19 === de exemplu. Mesajul meu
-and_edit_sms_line24 === Selectați data programului.
-and_edit_sms_line26 === de exemplu. 22.06.2020 ora 00:00
 and_edit_sms_line31 === Dacă este activat, mesajul va fi programat de fiecare dată când se potrivește data programată.
-and_edit_sms_line42 === Mai multe numere E.164 separate prin întrerupere de linie.
-and_edit_sms_line55 === Selectați mai multe grupuri de contacte
 and_edit_sms_line67 === Modul Gateway
-and_edit_sms_line67_1 === Modul gateway pe care doriți să îl utilizați. Dacă alegeți dispozitive, dispozitivele dvs. conectate vor fi afișate pentru trimitere, în caz contrar, vor fi afișate gateway-uri terță parte și partener.
 and_edit_sms_line70 === Dispozitive
 and_edit_sms_line71 === credite
 and_edit_sms_line76 === Slot pentru card SIM de utilizat.
-and_edit_sms_line79 === SIM1
-and_edit_sms_line80 === SIM2
 and_edit_sms_line88 === Dispozitivele dvs. conectate, alegeți ce doriți să utilizați pentru trimitere.
 and_edit_sms_line99 === Gateway SMS
-and_edit_sms_line99_1 === Gateway-uri terțe și partenere, creditele dvs. vor fi utilizate atunci când trimiteți mesaje folosind aceste gateway-uri. Vă recomandăm să verificați prețurile gateway-ului înainte de a le folosi.
 and_edit_sms_line119 === Spintax
 and_edit_sms_line122 === Exemplu:
 and_edit_sms_line122_1 === Tom este un
@@ -626,8 +467,6 @@ and_edit_sms_line125_1 === bun
 and_edit_sms_line125_2 === și
 and_edit_sms_line125_3 === rău
 and_edit_sms_line125_4 === vor fi folosite aleatoriu.
-and_edit_temp_line17 === Nume șablon.
-and_edit_temp_line24 === Format șablon.
 and_edit_temp_line31 === Spintax
 and_edit_temp_line31_1 === O caracteristică care vă permite să randomizați cuvintele din mesajele dvs., ceea ce previne eficient detectarea spamului.
 and_edit_temp_line35 === Exemplu:
@@ -639,35 +478,16 @@ and_edit_temp_line38_2 === și
 and_edit_temp_line38_3 === rău
 and_edit_temp_line38_4 === vor fi folosite aleatoriu.
 and_edit_temp_line43 === Set de variabile pe care le puteți utiliza în mesajele dvs.
-and_eduse_line17 === Numele dvs. legal complet, vă rugăm să rețineți că utilizarea unui nume fals poate duce la suspendarea contului.
-and_eduse_line19 === de exemplu. Michael Cors
 and_eduse_line24 === Adresă de e-mail validă, ignorați acest câmp dacă doriți să păstrați adresa de e-mail curentă.
-and_eduse_line26 === de exemplu. utilizator@mail.com
 and_eduse_line31 === Dacă doriți să păstrați parola curentă, vă rugăm să ignorați acest câmp, în caz contrar, introduceți o nouă parolă.
-and_eduse_line38 === Fusul orar al locației dvs., modificați-l dacă vă aflați într-o altă țară. Fusul orar este utilizat pentru exactitatea datei și a orei mesajelor trimise și a altor date.
 and_eduse_line49 === Țară
-and_eduse_line49_1 === Țara dvs., aceasta este folosită pentru plăți și formatarea numărului de telefon.
-and_eduse_line60 === Sunete de notificare
-and_eduse_line60_1 === Dacă este dezactivată, notificările vor fi silențioase.
-and_eduse_line70 === Selectați rolul utilizatorului.
-and_eduse_line81 === Selectați limba utilizatorului.
-and_eduse_line92 === Programul de parteneriat
-and_eduse_line92_1 === Dacă este activat, utilizatorul își va putea folosi dispozitivele ca dispozitive globale, ceea ce le va permite să câștige bani atunci când alți utilizatori trimit mesaje folosind dispozitivele lor.
-and_edweb_line17 === Numele webhook.
 and_edweb_line24 === Primiți evenimente
-and_edweb_line24_1 === Selectați evenimentele de primire de care aveți nevoie, acestea vor fi trimise la adresa URL a hook-ului dvs. web prin metoda POST.
 and_edweb_line30 === Notificări
-and_edweb_line36 === Adresa URL a webhook-ului dvs., toate datele de încărcare utilă vor fi trimise aici prin metoda POST.
 and_edweb_line38 === de exemplu. https://yourdomain.com/reply.php
 and_edwhat_line17 === Numele chatului programat.
-and_edwhat_line19 === de exemplu. Mesajul meu
-and_edwhat_line24 === Selectați data programului.
-and_edwhat_line26 === de exemplu. 22.06.2020 ora 00:00
 and_edwhat_line31 === Dacă este activat, chatul va fi programat de fiecare dată când se potrivește data programată.
 and_edwhat_line42 === Mai multe numere E.164 separate prin întrerupere de linie.
-and_edwhat_line55 === Selectați mai multe grupuri de contacte
 and_edwhat_line67 === Cont
-and_edwhat_line67_1 === Selectați contul WhatsApp pe care doriți să îl utilizați.
 and_edwhat_line76 === Șabloanele dvs. de mesaje prefabricate.
 and_edwhat_line91 === Spintax
 and_edwhat_line91_1 === O caracteristică care vă permite să randomizați cuvintele din mesajele dvs., ceea ce previne eficient detectarea spamului.
@@ -691,34 +511,23 @@ and_edwid_line53 === Poziția widgetului, numai pentru modali.
 and_edwid_line64 === Conținut widget. Toate etichetele html sunt permise, aveți grijă când adăugați scripturi din surse necunoscute!
 and_import_line17 === Fișierul excel pe care doriți să îl importați, asigurați-vă că urmați formatul necesar.
 and_import_line20 === Exemplu de fișier:
-and_import_line20_1 === Descarca
-and_package_line36 === Primire SMS
-and_package_line41 === Trimite WhatsApp
-and_package_line46 === Primire WhatsApp
 and_package_line51 === USSD
 and_package_line56 === Notificări
-and_package_line61 === SMS/Chaturi programate
 and_package_line66 === Contacte
 and_package_line71 === Chei API
 and_package_line76 === Webhook-uri
 and_package_line81 === Acțiuni
-and_package_line86 === Dispozitive Android
 and_package_line91 === Conturi WhatsApp
 and_redeem_line18 === Valorificați codul.
 and_redeem_line20 === de exemplu. 2f5b4727c7c8596779b21d7644e2ebb8
 and_sms_bulk_18 === Mai multe numere E.164 separate prin întrerupere de linie. Doar 1 mesaj va fi trimis la un număr chiar dacă ați selectat grupuri în care a fost adăugat.
 and_sms_bulk_31 === Selectați mai multe grupuri de contacte. Doar un mesaj va fi trimis unui contact chiar dacă ați selectat mai multe grupuri în care a fost adăugat.
 and_sms_bulk_43 === Scurtator
-and_sms_bulk_43_1 === Dacă este activată, legăturile din mesaje vor fi scurtate automat folosind scurtatorul selectat.
 and_sms_bulk_46 === Nu scurtați linkurile
 and_sms_bulk_55 === Modul Gateway
-and_sms_bulk_55_1 === Modul gateway pe care doriți să îl utilizați. Dacă alegeți dispozitive, dispozitivele dvs. conectate vor fi afișate pentru trimitere, în caz contrar, vor fi afișate gateway-uri terță parte și partener.
 and_sms_bulk_58 === Dispozitive
 and_sms_bulk_59 === credite
 and_sms_bulk_64 === Slot pentru card SIM de utilizat.
-and_sms_bulk_67 === SIM1
-and_sms_bulk_68 === SIM2
-and_sms_bulk_72 === Dacă sunt activate, aceste mesaje vor fi trimise înainte de orice altceva.
 and_sms_bulk_81 === Șabloanele dvs. de mesaje prefabricate.
 and_sms_bulk_94 === Dispozitivele dvs. conectate, alegeți ce doriți să utilizați pentru trimitere.
 and_sms_bulk_105 === Gateway SMS
@@ -730,9 +539,7 @@ and_sms_bulk_135 === Exemplu:
 and_sms_bulk_143 === Set de variabile pe care le puteți utiliza în mesajele dvs.
 and_sms_exe17 === Fișierul excel pe care doriți să îl importați, asigurați-vă că urmați formatul necesar.
 and_sms_exe20 === Exemplu de fișier:
-and_sms_exe20_1 === Descarca
 and_sms_exe27 === Scurtator
-and_sms_exe27_1 === Dacă este activată, legăturile din mesaje vor fi scurtate automat folosind scurtatorul selectat.
 and_sms_exe30 === Nu scurtați linkurile
 and_sms_exe39 === Modul Gateway
 and_sms_exe39_1 === Modul gateway pe care doriți să îl utilizați. Dacă alegeți dispozitive, dispozitivele dvs. conectate vor fi afișate pentru trimitere, în caz contrar, vor fi afișate gateway-uri terță parte și partener.
@@ -748,11 +555,9 @@ and_sms_exe97_1 === O caracteristică care vă permite să randomizați cuvintel
 and_sms_exe109 === Set de variabile pe care le puteți utiliza în mesajele dvs.
 and_sms_quick17 === Numărul de telefon al destinatarului.
 and_sms_quick24 === Modul Gateway
-and_sms_quick24_1 === Modul gateway pe care doriți să îl utilizați. Dacă alegeți dispozitive, dispozitivele dvs. conectate vor fi afișate pentru trimitere, în caz contrar, vor fi afișate gateway-uri terță parte și partener.
 and_sms_quick27 === Dispozitive
 and_sms_quick28 === credite
 and_sms_quick34 === Scurtator
-and_sms_quick34_1 === Dacă este activată, legăturile din mesaje vor fi scurtate automat folosind scurtatorul selectat.
 and_sms_quick37 === Nu scurtați linkurile
 and_sms_quick46 === Slot pentru card SIM de utilizat.
 and_sms_quick49 === SIM1
@@ -760,13 +565,11 @@ and_sms_quick50 === SIM2
 and_sms_quick56 === Dacă sunt activate, aceste mesaje vor fi trimise înainte de orice altceva.
 and_sms_quick66 === Dispozitivele dvs. conectate, alegeți ce doriți să utilizați pentru trimitere.
 and_sms_quick77 === Gateway SMS
-and_sms_quick77_1 === Gateway-uri terțe și partenere, creditele dvs. vor fi utilizate atunci când trimiteți mesaje folosind aceste gateway-uri. Vă recomandăm să verificați prețurile gateway-ului înainte de a le folosi.
 and_sms_quick104 === Spintax
 and_sms_quick104_1 === O caracteristică care vă permite să randomizați cuvintele din mesajele dvs., ceea ce previne eficient detectarea spamului.
 and_sysup17 === Actualizați fișierul
 and_sysup17_1 === Actualizați fișierul zip, asigurați-vă că selectați fișierul corect.
 and_upplug17 === Actualizați fișierul
-and_upplug17_1 === Actualizați fișierul zip, asigurați-vă că selectați fișierul corect.
 and_uset17 === Imaginea avatarului dvs. de profil.
 and_uset24 === Numele dvs. legal complet, vă rugăm să rețineți că utilizarea unui nume fals poate duce la suspendarea contului.
 and_uset26 === de exemplu. Michael Shmuck
@@ -793,18 +596,14 @@ and_view20 === Vizualizare completă
 and_whatsbulk_18 === Mai multe numere E.164 separate prin întrerupere de linie.
 and_whatsbulk_31 === Selectați mai multe grupuri de contacte. Vă rugăm să rețineți că, dacă un contact are mai multe grupuri, mesajul i-ar putea fi trimis de mai multe ori dacă selectați grupurile în care a fost inclus.
 and_whatsbulk_43 === Scurtator
-and_whatsbulk_43_1 === Dacă este activată, legăturile din mesaje vor fi scurtate automat folosind scurtatorul selectat.
 and_whatsbulk_46 === Nu scurtați linkurile
 and_whatsbulk_55 === Cont
-and_whatsbulk_55_1 === Selectați contul WhatsApp pe care doriți să îl utilizați.
 and_whatsbulk_64 === Șabloanele dvs. de mesaje prefabricate.
-and_whatsbulk_79 === Traduceți mesajul.
 and_whatsbulk_84 === Spintax
 and_whatsbulk_84_1 === O caracteristică care vă permite să randomizați cuvintele din mesajele dvs., ceea ce previne eficient detectarea spamului.
 and_whatsbulk_96 === Set de variabile pe care le puteți utiliza în mesajele dvs.
 and_whatex17 === Fișierul excel pe care doriți să îl importați, asigurați-vă că urmați formatul necesar.
 and_whatex20 === Exemplu de fișier:
-and_whatex20_1 === Descarca
 and_whatex27 === Scurtator
 and_whatex27_1 === Dacă este activată, legăturile din mesaje vor fi scurtate automat folosind scurtatorul selectat.
 and_whatex30 === Nu scurtați linkurile
@@ -817,31 +616,17 @@ and_whatex68_1 === O caracteristică care vă permite să randomizați cuvintele
 and_whatex80 === Set de variabile pe care le puteți utiliza în mesajele dvs.
 and_whatquick_17 === E.164 numărul de telefon al destinatarului.
 and_whatquick_24 === Scurtator
-and_whatquick_24_1 === Dacă este activată, legăturile din mesaje vor fi scurtate automat folosind scurtatorul selectat.
 and_whatquick_27 === Nu scurtați linkurile
 and_whatquick_36 === Cont
-and_whatquick_36_1 === Selectați contul WhatsApp pe care doriți să îl utilizați.
 and_whatquick_50 === Traduceți mesajul.
 and_whatquick_55 === Spintax
 and_whatquick_55_1 === O caracteristică care vă permite să randomizați cuvintele din mesajele dvs., ceea ce previne eficient detectarea spamului.
 and_admin_api_3 === Administrare API
 and_admin_fileman_3 === Editor de șabloane
 and_admin_gate_3 === Gateway-uri SMS
-and_admin_gate_8 === Adăugați Gateway
 and_admin_lang_6 === Reordonați limbile
-and_admin_mark_3 === Marketing
-and_admin_mark_6 === Ștergeți elementele selectate
-and_admin_mark_12 === Apăsaţi
-and_admin_mark_17 === Notifică
-and_admin_mark_22 === Mailer
 and_admin_payout_3 === Solicitări de plată
-and_admin_short_3 === Scurtatori
 and_admin_short_8 === Adăugați scurtator
-and_admin_subs_8 === Adăugați abonament
-and_admin_vouch_6 === Ștergeți elementele selectate
-and_droid_dev_3 === Dispozitive Android
-and_droid_dev_6 === Citiți documentația
-and_droid_dev_8 === Docs
 and_droid_dev_11 === Aplicați pentru a fi un furnizor de gateway partener
 and_droid_dev_13 === Parteneriat
 and_droid_dev_16 === Înregistrați un nou dispozitiv Android
@@ -851,29 +636,21 @@ and_droid_rev_3 === SMS primit
 and_droid_rev_6 === Ștergeți mesajele selectate
 and_droid_sched_6 === Ștergeți elementele selectate
 and_droid_sent_3 === SMS trimis
-and_droid_sent_6 === Ștergeți elementele selectate
 and_droid_sent_10 === Ștergeți toate mesajele în așteptare
 and_droid_sent_14 === Trimite SMS rapid
-and_droid_sent_16 === Rapid
 and_droid_sent_19 === Trimiteți SMS-uri în vrac
-and_droid_sent_21 === În vrac
 and_droid_sent_24 === Trimiteți SMS-uri în vrac prin Excel
 and_droid_ussd_3 === Cereri USSD
-and_droid_ussd_6 === Ștergeți elementele selectate
 and_droid_ussd_10 === Ștergeți toate solicitările în așteptare
 and_droid_ussd_14 === Noua solicitare USSD
-and_droid_ussd_16 === Cerere
 and_con_grp_6 === Ștergeți elementele selectate
 and_con_grp_10 === Adăugați un nou grup de contacte
-and_con_sav_6 === Ștergeți elementele selectate
 and_con_sav_10 === Adăugați un contact nou
 and_con_sav_15 === Importă contacte din fișierul Excel
 and_con_unsub_3 === Dezabonat
-and_con_unsub_6 === Ștergeți elementele selectate
 and_doc_act_3 === Acțiuni
 and_doc_api_3 === Documentația API
 and_doc_dev_3 === Dispozitive
-and_doc_partner_3 === Parteneriat
 and_doc_webhook_3 === Webhook-uri
 and_rate_gate_3 === Tarife
 and_rate_gate_10 === Țară
@@ -886,21 +663,12 @@ and_tool_act_8 === Docs
 and_tool_act_11 === Adăugați o nouă acțiune de cârlig
 and_tool_act_13 === Cârlig
 and_tool_act_16 === Adăugați o nouă acțiune de răspuns automat
-and_tool_act_18 === Răspuns automat
-and_tool_key_6 === Citiți documentația
-and_tool_key_8 === Docs
 and_tool_key_11 === Creați o nouă cheie API
-and_tool_webhook_6 === Citiți documentația
-and_tool_webhook_8 === Docs
 and_what_accnt_6 === Conectați un cont nou
-and_what_accnt_8 === Adaugă cont
 and_what_attach_8 === Ștergeți mesajele selectate
 and_what_rev_3 === Chat-uri primite
-and_what_rev_6 === Ștergeți elementele selectate
 and_what_sched_6 === Ștergeți elementele selectate
-and_what_sched_12 === Programați chat
 and_what_sent_3 === Chat-uri trimise
-and_what_sent_6 === Ștergeți elementele selectate
 and_what_sent_10 === Trimiteți chat rapid
 and_what_sent_12 === Rapid
 and_what_sent_15 === Trimiteți chat-uri în bloc
@@ -912,10 +680,8 @@ and_def_f_blck_8 === Alăturaţi-ne
 and_def_f_blck_35 === Intrați în legătură
 and_head_blck_21 === Acasă
 and_head_blck_24 === Caracteristici
-and_head_blck_27 === Prețuri
 and_head_blck_30 === Clienții
 and_head_blck_39 === Bord
-and_head_blck_42 === Deconectare
 and_pages_default_8 === Marketing prin SMS și WhatsApp la cel mai bun mod
 and_pages_default_29 === Mesaje SMS
 and_pages_default_31 === Utilizați dispozitivele Android ca gateway SMS, aceasta este efectiv mai ieftină decât utilizarea gateway-urilor terțe.
@@ -929,11 +695,9 @@ and_pages_default_73 === De ce să folosiți serviciul nostru?
 and_pages_default_74 === Iată câteva motive pentru care ar trebui să începeți să utilizați serviciul nostru
 and_pages_default_84 === Trimitere rapidă și în vrac
 and_pages_default_86 === Trimiteți cu ușurință o mulțime de mesaje către diferite grupuri de contact și, de asemenea, puteți trimite mesaje rapide pentru tranzacții rapide. Platforma noastră include, de asemenea, un tablou de bord live, primiți notificări când mesajele dvs. sunt trimise sau primite!
-and_pages_default_89 === Shortcodes
 and_pages_default_89_1 === pentru a vă compune mesajele cu date predefinite.
 and_pages_default_90 === Spintax
 and_pages_default_90_1 === pentru randomizarea setului de cuvinte pentru a lupta împotriva problemelor de spam.
-and_pages_default_91 === Traducător
 and_pages_default_91_1 === pentru a viza publicul pe baza limbilor lor.
 and_pages_default_98 === Instrumente automate și inteligente
 and_pages_default_100 === Gestionează-ți afacerea în timp ce noi ne ocupăm de munca murdară, platforma noastră este inteligentă și are nevoie doar de mesajele pe care vrei să le trimiți, apoi ne ocupăm de restul!
@@ -955,17 +719,12 @@ and_pages_default_156 === Instrumente intuitive și tablou de bord
 and_pages_default_159 === Experiență rapidă și fără întârzieri în timp ce vă comercializați produsele
 and_pages_default_171 === Tariful serviciului
 and_pages_default_187 === Trimitere SMS
-and_pages_default_194 === Primire SMS
-and_pages_default_201 === Trimite WhatsApp
-and_pages_default_208 === Primire WhatsApp
 and_pages_default_215 === USSD
 and_pages_default_222 === Notificări
-and_pages_default_229 === SMS/Chaturi programate
 and_pages_default_236 === Contacte
 and_pages_default_243 === Chei API
 and_pages_default_250 === Webhook-uri
 and_pages_default_257 === Acțiuni
-and_pages_default_264 === Dispozitive Android
 and_pages_default_271 === Conturi WhatsApp
 and_pages_default_287 === Clienții noștri
 and_pages_default_290 === Peste 3.000 de clienți au încredere. Începeți să vă comercializați produsele și să vă dezvoltați afacerea cu noi!
@@ -1330,10 +1089,6 @@ form_fullname === Numele complet
 form_cpassword === Confirmă parola
 form_haveaccount === Am un cont
 datatable_processing === Se procesează, așteptați...
-datatable_length === Se afișează _MENU_ înregistrări
-datatable_info === Se afișează de la _START_ la _END_ din _TOTAL_ înregistrări
-datatable_empty === Se afișează de la 0 la 0 din 0 intrări
-datatable_filtered === (filtrat din totalul de _MAX_ de intrări)
 datatable_loading === Încărcare va rugam asteptati...
 datatable_zero === Nu putem găsi nimic care să se potrivească cu întrebarea dvs.!
 datatable_null === Nu există date de afișat!
@@ -1968,7 +1723,7 @@ table_ratespartners_simsingle === SIM _8880_
 table_adminusers_exportcopy === Copiere clipboard utilizatori _8880_
 table_adminusers_exportexcel === Utilizatori Excel Export _8880_
 table_adminusers_exportpdf === Export PDF utilizatori _8880_
-table_adminusersexportdata === Rol: _8880_, Țară: _8881_, Limbă: _8882_, Fus orar: _8883_, Câștiguri: _8884_, Credite: _8885_, Abonament: _8886_, Sunete: _8887_, Suspendat: _888_
+table_adminusersexportdata === Rol: _8880_, Țară: _8881_, Limbă: _8882_, Fus orar: _8883_, Câștiguri: _8884_, Credite: _8885_, Abonament: _8886_, Sunete: _8887_, Suspendat: _8888_
 table_adminusers_exportdata1 === Rol: _8880_
 table_adminusers_exportdata2 === Țară: _8880_
 table_adminusers_exportdata3 === Limba: _8880_
@@ -2403,7 +2158,6 @@ js_calendarall_monoct === octombrie
 js_calendarall_monnov === noiembrie
 js_calendarall_mondec === decembrie
 response_ussddelete_success === Solicitarea USSD a fost ștearsă!
-response_titanecho_invaltoken === Eroare de configurare a sistemului!
 widgets_addplugin_loader === Se instalează un nou plugin pe sistem
 widgets_addwhatsapp_newmodal === Conectați-vă WhatsApp făcând clic pe butonul pentru a afișa codul QRC, apoi scanați-l prin butonul _8880_ din aplicație. Aveți doar 15 secunde pentru a scana codul QRC.
 widgets_addwhatsapp_newmodal2 === _8880_ a expirat, dacă contul dvs. a fost conectat sau nu, vă rugăm să faceți clic pe butonul de mai jos.
@@ -2419,7 +2173,6 @@ widget_waquick_requireaccountnew1 === cont WhatsApp
 requests_whatsapp_notavail === Serverul WhatsApp nu este disponibil!
 requests_whatsapp_unablegenqr === Imposibil de generat WhatsApp QRCode!
 requests_charts_commisionstitle === comisioane
-requests_token_refreshecho === Tokenul pentru _8880_ a fost reîmprospătat!
 requests_remote_smscampaignresumed === Campania SMS a fost reluată!
 requests_remote_smscampaignpaused === Campania SMS a fost întreruptă!
 requests_remote_wacampaignresumed === Campania WhatsApp a fost reluată!
@@ -2500,8 +2253,6 @@ table_android_copydeviceid === Copiați ID-ul unic al dispozitivului
 table_partnerrates_devicename === Nume dispozitiv
 widget_fetchgroups_titlefetch === Preluați grupuri
 widget_fetchgroups_loaderfetch === Se preiau grupuri din cont
-pages_admin_tokenrefreshbutt === Jeton
-pages_admin_tokenrefreshbutthelp === Actualizează jetonul de comunicare socket. Dacă sistemul nu afișează notificări live sau nu se actualizează în timp real, vă rugăm să faceți clic pe acest buton.
 pages_admin_cachehelp === Goliți întregul cache al sistemului. Avertizare! Acest lucru va șterge, de asemenea, cache-urile legate de API, autentificare și plată. Se recomandă să faceți acest lucru numai atunci când faceți upgrade a sistemului.
 pages_admin_themehelp === Modificați șablonul și designul site-ului.
 pages_admin_systemsettingshelp === Ajustați setările importante ale sistemului.
@@ -2600,7 +2351,6 @@ app_fetching_messages === Preluarea mesajelor
 app_fetching_ussd === Preluare USSD
 app_campaign_resumed === Trimiterea a fost reluată pentru campanie:
 app_campaign_paused === Trimitere întreruptă pentru campanie:
-js_response_titanechorefreshdesc === Refresh token pentru comunicarea în timp real cu socket?
 form_wa_templatetype_knownissue === Problema cunoscuta
 form_wa_templatetype_knownissuedesc === Acest tip de mesaj WhatsApp nu se afișează corect pe iOS. Aplicația WhatsApp iOS va afișa un mesaj gol.
 app_response_devicealreadylinked === Acest dispozitiv a fost deja conectat la alt cont!
@@ -3076,6 +2826,9 @@ flow_header_title === Constructor Flux
 flow_response_saved === Flux salvat cu succes!
 flow_response_nofile === Niciun fișier încărcat sau eroare la încărcare!
 flow_response_fileuploaded === Fișier încărcat cu succes
+flow_response_ai_key_required === Selectați o cheie AI pentru fiecare nod de răspuns AI!
+flow_response_file_too_large === Fișierul încărcat este prea mare, dimensiunea maximă este 10 MB!
+flow_response_invalid_filetype === Acest tip de fișier nu este permis!
 flow_modal_upload_title === Încarcă fișier
 flow_modal_upload_button_select === Selectează Fișierul
 flow_modal_upload_button_upload === Încărcați
@@ -3200,3 +2953,23 @@ flowjs_node_pause_duration_placeholder === Introduceți durata în secunde (0 = 
 flowjs_node_resume === Reluare
 flowjs_node_resume_context === Context
 flowjs_node_resume_description === Reia răspunsurile automate puse pe pauză
+modal_adminsettings_currencyapikey === Cheie API pentru cursul valutar
+modal_adminsettings_currencyapikeyinfo === Propria ta cheie API de la furnizorul de cursuri valutare. Conversia valutară rămâne dezactivată până când este setată.
+modal_adminsettings_realtimetitle === Notificări în timp real
+modal_adminsettings_realtimeinfo === Actualizările în timp real folosesc protocolul Pusher. Alegeți serviciul găzduit Pusher sau orice server compatibil precum Sockety, Soketi sau Reverb. Lăsați datele de autentificare goale pentru a dezactiva timpul real.
+modal_adminsettings_realtimeappid === ID aplicație
+modal_adminsettings_realtimekey === Cheie aplicație
+modal_adminsettings_realtimesecret === Secret aplicație
+modal_adminsettings_realtimecluster === Cluster
+modal_adminsettings_realtimehost === URL server
+modal_adminsettings_realtimehostinfo === Adresa completă a serverului dumneavoastră, de exemplu https://sockets.example.com:6001
+modal_adminsettings_realtimedriver === Furnizor
+modal_adminsettings_realtimedriverpusher === Pusher (cloud)
+modal_adminsettings_realtimedrivercompatible === Server compatibil (găzduit local)
+modal_adminsettings_realtimecredentials === Obțineți datele de autentificare din panoul Pusher
+modal_adminsettings_realtimeconfigured === Configurat
+modal_adminsettings_realtimekeepblank === Lăsați gol pentru a păstra valoarea actuală
+modal_adminsettings_realtimetest === Testați conexiunea
+js_realtime_testing === Se testează conexiunea în timp real...
+response_realtime_testok === Conexiune în timp real reușită!
+response_realtime_testfailed === Conexiunea în timp real a eșuat. Verificați datele de autentificare și adresa serverului.

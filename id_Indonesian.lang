@@ -11,18 +11,12 @@ and_dashboard_pages_defailt_line37 === Tarif Gerbang
 and_dashboard_pages_default_line42 === dokumen
 and_dashboard_pages_default_line58 === Pesan
 and_dashboard_pages_default_line60 === 7 hari terakhir
-and_dashboard_pages_default_line74 === Acara
-and_dashboard_pages_default_line76 === 7 hari terakhir
-and_dashboard_pages_default_line90 === Keperluan
-and_dashboard_pages_default_line92 === 7 hari terakhir
-and_dashboard_pages_default_line109 === Mitra
 and_dashboard_pages_default_line117 === Pendapatan
 and_dashboard_pages_default_line131 === Pembayaran
 and_dashboard_pages_default_line140 === Keseimbangan
 and_dashboard_pages_default_line148 === kredit
 and_dashboard_pages_default_line162 === isi ulang
 and_dashboard_pages_default_line170 === Rasio Pengiriman
-and_dash_pg_def_line178 === Kesuksesan
 and_dash_pg_def_line190 === Gagal
 and_dash_pg_def_line204 === Pengirim
 and_dash_pg_def_line209 === Anda tidak berlangganan paket premium kami!
@@ -32,11 +26,9 @@ and_dash_pg_def_line232 === Akun
 and_dash_pg_def_line239 === Tertaut
 and_dash_pg_def_line250 === Unduh dan instal aplikasi resmi kami untuk mendapatkan pengalaman pengguna terbaik
 and_dash_pg_doc_line10 === Dokumen
-and_dash_pg_doc_line28 === API
 and_dash_pg_doc_line34 === Webhook
 and_dash_pg_doc_line40 === tindakan
 and_dash_pg_doc_line46 === Perangkat
-and_dash_pg_doc_line52 === Kemitraan
 and_dash_pg_for_line29 === Membatalkan
 and_dash_pg_log_line14 === Masuk dengan Facebook
 and_dash_pg_log_line17 === Masuk dengan Google
@@ -50,15 +42,10 @@ and_dash_pg_reg_line20 === Daftar dengan Google
 and_dash_pg_reg_line25 === Daftar dengan VKontakte
 and_dash_pg_whats_line10 === Ada apa
 and_dash_pg_whats_line10_1 === Beta
-and_dash_pg_whats_line28 === Terkirim
 and_dash_pg_whats_line34 === Diterima
 and_dash_pg_whats_line40 === Terjadwal
 and_dash_pg_whats_line46 === Akun
-and_dash_api_line17 === Nama kunci.
-and_dash_api_line19 === misalnya. Untuk Server Saya
-and_dash_api_line24 === Izin kunci.
 and_dash_auto_line17 === Nama tindakan.
-and_dash_auto_line19 === misalnya. Michael
 and_dash_auto_line24 === Sumber
 and_dash_auto_line24_1 === Sumber acara terima.
 and_dash_auto_line27 === SMS
@@ -75,23 +62,16 @@ and_dash_cre_line28 === Pembelian
 and_dash_gate_line17 === Nama
 and_dash_gate_line17_1 === Ini adalah nama gateway yang akan ditampilkan kepada pengguna Anda.
 and_dash_gate_line19 === misalnya. Twilio
-and_dash_gate_line24 === Pengontrol
 and_dash_gate_line24_1 === Pilih file pengontrol gateway, ini akan berisi logika dan kode gateway Anda. Disarankan untuk memeriksa dokumentasi.
-and_dash_gate_line27 === Pelat Ketel Pengontrol:
 and_dash_gate_line34 === panggilan balik
 and_dash_gate_line34_1 === Jika diaktifkan, pesan perlu diverifikasi menggunakan fitur panggilan balik gateway pihak ke-3 untuk status pengiriman, jika tidak, pesan akan segera ditandai sebagai terkirim saat dikirim.
-and_dash_gate_line37 === Memungkinkan
-and_dash_gate_line38 === Cacat
 and_dash_gate_line44 === ID panggilan balik
 and_dash_gate_line44_1 === Jika panggilan balik diaktifkan, Anda harus menyalin ID ini dan menempelkannya ke pengontrol Anda sehingga sistem dapat mengidentifikasi panggilan balik.
 and_dash_gate_line47 === Salin dan tempel untuk ID panggilan balik
-and_dash_gate_line54 === harga
 and_dash_gate_line54_1 === Tabel harga khusus Anda untuk gateway ini. Ini akan memungkinkan Anda untuk mengenakan biaya di atas harga pihak ke-3. Misalnya, jika twilio mengenakan biaya 0,01 untuk negara tertentu, maka Anda dapat mengenakan biaya 0,02 sebagai gantinya, mata uang didasarkan pada mata uang sistem Anda. Harap ikuti format harga dengan benar.
 and_dash_gate_line57 === Contoh Harga JSON:
-and_dash_gate_line57_1 === Unduh
 and_dash_grp_line17 === Nama grup.
 and_dash_grp_line19 === misalnya. Teman-teman
-and_dash_hook_line17 === Nama tindakan.
 and_dash_hook_line19 === misalnya. Tindakan Uji
 and_dash_hook_line24 === Sumber
 and_dash_hook_line24_1 === Sumber acara.
@@ -100,8 +80,6 @@ and_dash_hook_line44 === Struktur tautan kait, ini adalah url yang akan dipanggi
 and_dash_hook_line51 === Kumpulan variabel yang dapat Anda gunakan di URL kait Anda.
 and_dash_hook_line27 === SMS
 and_dash_hook_line28 === Ada apa
-and_dash_hook_line37 === Di Kirim
-and_dash_hook_line38 === Saat Menerima
 and_dash_lang_line17 === Nama bahasa.
 and_dash_lang_line19 === misalnya. Korea
 and_dash_lang_line24 === Kode negara.
@@ -110,19 +88,14 @@ and_dash_lang_line35_1 === Jika diaktifkan, bahasa akan diidentifikasi sebagai a
 and_dash_lang_line38 === Ya
 and_dash_lang_line39 === Tidak
 and_dash_lang_line45 === String terjemahan.
-and_dash_mail_line17 === Judul
 and_dash_mail_line17_1 === Judul surat.
-and_dash_mail_line19 === misalnya. Pengumuman
 and_dash_mail_line24 === Pengguna
 and_dash_mail_line24_1 === Kirim oleh pengguna.
-and_dash_mail_line36 === Peran
 and_dash_mail_line36_1 === Kirim berdasarkan peran.
 and_dash_mail_line48 === Isi
 and_dash_mail_line48_1 === Konten email, html diizinkan.
 and_dash_mail_line50 === Halo Dunia!
-and_dash_not_line17 === Judul
 and_dash_not_line17_1 === Beri tahu judul.
-and_dash_not_line19 === misalnya. Pengumuman
 and_dash_not_line24 === Pesan
 and_dash_not_line24_1 === Beritahu pesan.
 and_dash_not_line31 === Warna
@@ -130,13 +103,8 @@ and_dash_not_line31_1 === Beritahu warna.
 and_dash_not_line35 === Kesuksesan
 and_dash_not_line36 === Peringatan
 and_dash_not_line37 === Bahaya
-and_dash_not_line43 === Gambar
 and_dash_not_line43_1 === Beri tahu gambar, ini opsional.
-and_dash_not_line46 === Opsional
 and_dash_not_line53 === Pengguna
-and_dash_not_line53_1 === Disiarkan oleh pengguna.
-and_dash_not_line65 === Peran
-and_dash_not_line65_1 === Disiarkan berdasarkan peran.
 and_pack_line17 === Nama paket.
 and_pack_line19 === misalnya. Paket VIP
 and_pack_line24 === Harga paket, ini harus mengikuti mata uang sistem. Nilai mengambang tidak diperbolehkan.
@@ -151,33 +119,25 @@ and_pack_line65_1 === Jumlah maksimum pesan yang dapat diterima oleh pengguna se
 and_pack_line67 === misalnya. 150
 and_pack_line72 === Batas USSD
 and_pack_line72_1 === Jumlah maksimum ussd yang dapat diminta oleh pengguna sebelum reset. Masukkan 0 untuk tidak terbatas.
-and_pack_line74 === misalnya. 25
 and_pack_line79 === Batas Pemberitahuan
 and_pack_line79_1 === Jumlah maksimum notifikasi yang dapat diterima oleh pengguna sebelum reset. Masukkan 0 untuk tidak terbatas.
 and_pack_line81 === misalnya. 1300
 and_pack_line86 === Jumlah maksimum perangkat android yang dapat ditautkan ke akun pengguna. Masukkan 0 untuk tidak terbatas.
-and_pack_line88 === misalnya. 25
 and_pack_line92 === Pengaturan WhatsApp
 and_pack_line97 === Jumlah maksimum obrolan yang dapat dikirim oleh pengguna sebelum reset. Masukkan 0 untuk tidak terbatas.
-and_pack_line99 === misalnya. 300
 and_pack_line104 === Jumlah maksimum obrolan yang dapat diterima oleh pengguna sebelum reset. Masukkan 0 untuk tidak terbatas.
-and_pack_line106 === misalnya. 150
 and_pack_line111 === Batas Akun
 and_pack_line111_1 === Jumlah maksimum akun WhatsApp yang dapat ditautkan ke akun pengguna. Masukkan 0 untuk tidak terbatas.
 and_pack_line113 === misalnya. 10
 and_pack_line117 === Pengaturan Utilitas
 and_pack_line122 === Jumlah maksimum kontak yang dapat disimpan oleh pengguna. Masukkan 0 untuk tidak terbatas.
-and_pack_line124 === misalnya. 25
 and_pack_line129 === Batas Terjadwal
 and_pack_line129_1 === Jumlah maksimum pesan/obrolan terjadwal yang dapat disimpan oleh pengguna. Masukkan 0 untuk tidak terbatas. Ini digabungkan untuk sms dan whatsapp.
-and_pack_line131 === misalnya. 25
 and_pack_line136 === Jumlah maksimum kunci API yang dapat dibuat. Masukkan 0 untuk tidak terbatas.
-and_pack_line138 === misalnya. 10
 and_pack_line143 === Jumlah maksimum Webhook yang dapat dibuat. Masukkan 0 untuk tidak terbatas.
 and_pack_line145 === misalnya. 5
 and_pack_line150 === Batas Tindakan
 and_pack_line150_1 === Jumlah maksimum Tindakan yang dapat dibuat. Masukkan 0 untuk tidak terbatas.
-and_pack_line152 === misalnya. 5
 and_page_line17 === Nama halaman.
 and_page_line24 === Hanya peran terpilih yang dapat mengakses halaman ini.
 and_page_line35 === Jika diaktifkan, halaman tidak akan dapat diakses jika tidak masuk.
@@ -189,13 +149,10 @@ and_payout_line24 === Pemberi
 and_payout_line24_1 === Pilih penyedia pembayaran yang ingin Anda gunakan untuk menerima uang.
 and_payout_line27 === Paypal
 and_payout_line28 === Payoneer
-and_payout_line34 === Alamat Pembayaran
 and_payout_line34_1 === Alamat pembayaran atau email, harap periksa dengan cermat untuk mencegah masalah pembayaran.
 and_payout_line36 === misalnya. Email PayPal Anda
-and_payout_line43 === Meminta
 and_plug_line17 === File Plugin
 and_plug_line17_1 === File zip plugin, pastikan untuk memilih file yang benar.
-and_push_line17 === Judul
 and_push_line17_1 === Judul dorong.
 and_push_line19 === misalnya. Pengumuman
 and_push_line24 === Gambar
@@ -205,7 +162,6 @@ and_push_line34 === Pesan
 and_push_line34_1 === Pesan dorong.
 and_push_line41 === Pengguna
 and_push_line41_1 === Disiarkan oleh pengguna.
-and_push_line53 === Peran
 and_push_line53_1 === Disiarkan berdasarkan peran.
 and_role_line17 === Nama peran.
 and_role_line19 === misalnya. Pengembang
@@ -224,19 +180,14 @@ and_sms_line31 === Jika diaktifkan, pesan akan dijadwalkan setiap kali tanggal y
 and_sms_line42 === Beberapa nomor E.164 dipisahkan oleh jeda baris.
 and_sms_line55 === Pilih beberapa grup kontak
 and_sms_line67 === penyingkat
-and_sms_line67_1 === Jika diaktifkan, tautan dalam pesan akan dipersingkat secara otomatis menggunakan pemendek yang dipilih.
 and_sms_line70 === Jangan mempersingkat tautan
 and_sms_line79 === Mode Gerbang
-and_sms_line79_1 === Mode gerbang yang ingin Anda gunakan. Jika Anda memilih perangkat, perangkat tertaut Anda akan ditampilkan untuk dikirim, jika tidak, gateway pihak ketiga dan mitra akan ditampilkan.
 and_sms_line82 === Perangkat
 and_sms_line83 === kredit
 and_sms_line88 === Slot kartu sim untuk digunakan.
-and_sms_line91 === SIM1
-and_sms_line92 === SIM2
 and_sms_line97 === Templat pesan Anda yang sudah jadi.
 and_sms_line110 === Perangkat Anda yang tertaut, pilih apa yang ingin Anda gunakan untuk mengirim.
 and_sms_line121 === SMS Gateway
-and_sms_line121_1 === Gateway pihak ketiga dan mitra, kredit Anda akan digunakan saat Anda mengirim pesan menggunakan gateway ini. Kami menyarankan Anda memeriksa harga gateway sebelum menggunakannya.
 and_sms_line141 === Spintax
 and_sms_line144 === Contoh:
 and_sms_line144_1 === Tom adalah seorang
@@ -270,8 +221,6 @@ and_user_line31 === Masukkan kata sandi pengguna.
 and_user_line38 === Zona waktu lokasi pengguna, ubah ini jika mereka berada di negara yang berbeda. Zona waktu digunakan untuk akurasi tanggal dan waktu dari pesan yang dikirim dan data lainnya.
 and_user_line49 === Negara
 and_user_line49_1 === Negara pengguna, ini digunakan untuk pembayaran dan pemformatan nomor telepon.
-and_user_line60 === Suara Pemberitahuan
-and_user_line60_1 === Jika dinonaktifkan, notifikasi akan diam.
 and_user_line70 === Pilih peran pengguna.
 and_user_line81 === Pilih bahasa pengguna.
 and_user_line92 === Program Mitra
@@ -280,17 +229,12 @@ and_ussd_line17 === Kode USSD
 and_ussd_line17_1 === Kode permintaan USSD.
 and_ussd_line19 === misalnya. *121#
 and_ussd_line24 === Slot kartu sim untuk digunakan.
-and_ussd_line27 === SIM1
-and_ussd_line28 === SIM2
 and_ussd_line34 === Perangkat tertaut Anda, pilih apa yang ingin Anda gunakan untuk permintaan ussd.
 and_ussd_line47 === Meminta
 and_vouch_line17 === Nama voucher.
 and_vouch_line19 === misalnya. Spesial
 and_vouch_line24 === Jumlah voucher yang ingin Anda buat. Nilai maksimalnya adalah 1000!
 and_vouch_line26 === misalnya. 100
-and_vouch_line31 === Durasi berlangganan.
-and_vouch_line33 === misalnya. 12
-and_vouch_line38 === Paket berlangganan.
 and_web_line17 === Nama webhook.
 and_web_line24 === Terima Acara
 and_web_line24_1 === Pilih acara terima yang Anda butuhkan, mereka akan dikirim ke url web hook Anda melalui metode POST.
@@ -300,18 +244,11 @@ and_web_line29 === USSD
 and_web_line30 === Pemberitahuan
 and_web_line36 === Url webhook Anda, semua data payload akan dikirim ke sini melalui metode POST.
 and_web_line38 === misalnya. http://domainanda.com/hook_listen.php
-and_whatssched_line17 === Nama obrolan terjadwal.
-and_whatssched_line19 === misalnya. Pesanku
-and_whatssched_line24 === Pilih tanggal jadwal.
-and_whatssched_line26 === misalnya. 22/06/2020 12:00 WIB
 and_whatssched_line31 === Jika diaktifkan, obrolan akan dijadwalkan setiap kali tanggal yang dijadwalkan cocok.
 and_whatssched_line42 === Beberapa nomor E.164 dipisahkan oleh jeda baris.
-and_whatssched_line55 === Pilih beberapa grup kontak
 and_whatssched_line67 === penyingkat
-and_whatssched_line67_1 === Jika diaktifkan, tautan dalam pesan akan dipersingkat secara otomatis menggunakan pemendek yang dipilih.
 and_whatssched_line70 === Jangan mempersingkat tautan
 and_whatssched_line79 === Akun
-and_whatssched_line79_1 === Pilih akun WhatsApp yang ingin Anda gunakan.
 and_whatsached_line88 === Templat pesan Anda yang sudah jadi.
 and_whatssched_line103 === Spintax
 and_whatssched_line103_1 === Sebuah fitur yang memungkinkan Anda untuk mengacak kata dalam pesan Anda yang secara efektif mencegah deteksi spam.
@@ -366,14 +303,11 @@ and_admin_build_line95_1 === Logo gambar login aplikasi, ini adalah gambar yang 
 and_admin_build_line103 === Ikon gambar aplikasi, ini ditampilkan di laci aplikasi dan sistem android. Dimensi yang disarankan adalah 1024x1024 dalam format px dan png.
 and_admin_build_line111 === Gambar splashscreen aplikasi, ini ditampilkan saat pengguna membuka aplikasi. Dimensi yang disarankan adalah 2732x2732 dalam format px dan png.
 and_admin_build_line118 === Struktur
-and_admin_build_line123 === JavaScript khusus
 and_admin_build_line123_1 === Jika Anda ingin menggunakan kode javascript khusus, tambahkan di sini. Ini dimuat secara dinamis di aplikasi.
 and_admin_build_line125 === mis., alert('Halo Dunia!');
-and_admin_build_line130 === CSS khusus
 and_admin_build_line130_1 === Jika Anda ingin menggunakan kode css khusus, silakan tambahkan di sini. Ini dimuat secara dinamis di aplikasi.
 and_admin_build_line137 === Tata Letak Khusus
 and_admin_build_line137_1 === Jika Anda ingin menggunakan struktur aplikasi khusus, harap ubah konten html, jika Anda tidak tahu apa yang Anda lakukan, silakan tinggalkan nilai default.
-and_admin_build_line139 === Halo Dunia!
 and_settings_line21 === Nama situs, ini ditampilkan di mana-mana di mana branding diperlukan.
 and_settings_line23 === misalnya. Zender
 and_settings_line28 === Deskripsi situs, ini untuk optimasi mesin pencari, jadi kreatiflah.
@@ -388,14 +322,12 @@ and_settings_line70 === Jika dinonaktifkan, pendaftaran melalui halaman daftar t
 and_settings_line80 === Mode Atur Ulang Paket
 and_settings_line80_1 === Interval reset batas seperti mengirim, menerima, ussd, dan pemberitahuan. Ini berlaku untuk fitur Android dan WhatsApp. Pilihan Anda di sini juga harus diterapkan dalam pengaturan cron.
 and_settings_line83 === Sehari-hari
-and_settings_line84 === Bulanan
 and_settings_line90 === Model Gratis
 and_settings_line90_1 === Jika diaktifkan, paket gratis default secara otomatis diberikan kepada pengguna setelah pendaftaran.
 and_settings_line100 === Jika dinonaktifkan, beranda tidak akan digunakan. Semua kunjungan di direktori root akan dialihkan ke dasbor.
 and_settings_line110 === Widget Obrolan TAWK
 and_settings_line110_1 === Jika diaktifkan, widget obrolan tawk akan muncul kepada pengguna.
 and_settings_line120 === Tautan widget obrolan tawk Anda, ini diperlukan jika Anda ingin menggunakan dukungan obrolan tawk.
-and_settings_line127 === API Admin
 and_settings_line127_1 === Pilih titik akhir API admin yang ingin Anda aktifkan. Disarankan agar Anda hanya mengaktifkan titik akhir yang Anda perlukan.
 and_settings_line159 === Token ini tidak boleh dibagikan kepada siapa pun. Ini digunakan untuk keamanan cronjobs, API sistem, dan permintaan eksternal lainnya. Jika menurut Anda, token sistem Anda telah disusupi, harap buat ulang token baru, Anda perlu mengonfigurasi ulang cronjobs, API sistem, dan pengaturan terkait lainnya setelah membuat token baru.
 and_settings_line160 === Diperbarui
@@ -419,9 +351,7 @@ and_settings_line263 === misalnya. test_4vzuJVhRCFSyNyuc6gwvJpQ474Vngp
 and_settings_line268 === Mata uang sistem yang digunakan, ini akan digunakan sebagai dasar saat mengonversi transaksi ke USD.
 and_settings_line279 === Pilih penyedia pembayaran yang ingin Anda gunakan.
 and_settings_line293 === Karakter minimum untuk pesan. Ini berlaku untuk SMS dan WhatsApp.
-and_settings_line295 === misalnya. 5
 and_settings_line300 === Karakter maksimum untuk pesan. Ini berlaku untuk SMS dan WhatsApp. Masukkan 0 untuk karakter tak terbatas.
-and_settings_line302 === misalnya. 300
 and_settings_line307 === Tanda footer pesan, ini ditambahkan ke pesan jika paketnya memiliki tanda footer yang diaktifkan.
 and_settings_line309 === misalnya. Dikirim dari Sistem Zender
 and_settings_line318 === Jumlah baris default untuk ditampilkan dalam tabel pesan terkirim. Ini berlaku untuk SMS dan WhatsApp.
@@ -484,16 +414,11 @@ and_edit_auto_line36 === misalnya. terima kasih, oke, berlangganan, ya
 and_edit_auto_line41 === Pesan yang akan dikirim ke pengirim.
 and_edit_auto_line43 === misalnya. Pesan balasan Anda di sini, kode pendek diterima
 and_edit_auto_line48 === Kumpulan variabel yang dapat Anda gunakan dalam pesan Anda.
-and_edit_con_line17 === Nama Kontak.
 and_edit_con_line19 === misalnya. Michael
-and_edit_con_line24 === Nomor kontak.
-and_edit_con_line31 === Grup kontak.
-and_edit_dev_line16 === Detail Perangkat
 and_edit_dev_line21 === Nama perangkat.
 and_edit_dev_line23 === misalnya. Perangkat Saya
 and_edit_dev_line28 === Jika diaktifkan, pesan akan dikirim dalam interval acak antara 2 nilai. Anda dapat mengonfigurasinya di bawah ini.
 and_edit_dev_line38 === Interval minimum dalam detik.
-and_edit_dev_line41 === misalnya. 5
 and_edit_dev_line46 === Interval maksimum dalam detik.
 and_edit_dev_line49 === misalnya. 20
 and_edit_dev_line53 === Pengaturan pemberitahuan
@@ -514,109 +439,25 @@ and_edit_dev_line112_1 === Pilih slot sim yang ingin Anda gunakan untuk mengirim
 and_edit_email_line16 === Template Email
 and_edit_email_line18 === HTML diperbolehkan
 and_edit_gate_line17 === Nama
-and_edit_gate_line17_1 === Ini adalah nama gateway yang akan ditampilkan kepada pengguna Anda.
-and_edit_gate_line19 === misalnya. Twilio
-and_edit_gate_line24 === Pengontrol
-and_edit_gate_line24_1 === Pilih file pengontrol gateway, ini akan berisi logika dan kode gateway Anda. Disarankan untuk memeriksa dokumentasi.
-and_edit_gate_line31 === panggilan balik
-and_edit_gate_line31_1 === Jika diaktifkan, pesan perlu diverifikasi menggunakan fitur panggilan balik gateway pihak ke-3 untuk status pengiriman, jika tidak, pesan akan segera ditandai sebagai terkirim saat dikirim.
-and_edit_gate_line34 === Memungkinkan
-and_edit_gate_line35 === Cacat
 and_edit_gate_line41 === ID panggilan balik
-and_edit_gate_line41_1 === Jika panggilan balik diaktifkan, Anda harus menyalin ID ini dan menempelkannya ke pengontrol Anda sehingga sistem dapat mengidentifikasi panggilan balik.
-and_edit_gate_line44 === Salin dan tempel untuk ID panggilan balik
-and_edit_gate_line51 === harga
-and_edit_gate_line51_1 === Tabel harga khusus Anda untuk gateway ini. Ini akan memungkinkan Anda untuk mengenakan biaya di atas harga pihak ke-3. Misalnya, jika twilio mengenakan biaya 0,01 untuk negara tertentu, maka Anda dapat mengenakan biaya 0,02 sebagai gantinya, mata uang didasarkan pada mata uang sistem Anda. Harap ikuti format harga dengan benar.
-and_edit_gate_line54 === Contoh Harga JSON:
-and_edit_gate_line54_1 === Unduh
-and_edit_grp_line17 === Nama grup.
-and_edit_grp_line19 === misalnya. Teman-teman
-and_edit_hook_line17 === Nama tindakan.
-and_edit_hook_line19 === misalnya. Tindakan Uji
 and_edit_hook_line24 === Sumber
-and_edit_hook_line24_1 === Sumber acara.
 and_edit_hook_line27 === SMS
 and_edit_hook_line28 === Ada apa
-and_edit_hook_line34 === Pilih acara di mana kait ini akan dipanggil.
-and_edit_hook_line37 === Di Kirim
-and_edit_hook_line38 === Saat Menerima
-and_edit_hook_line44 === Struktur tautan kait, ini adalah url yang akan dipanggil oleh sistem. Hanya metode GET yang didukung.
-and_edit_hook_line51 === Kumpulan variabel yang dapat Anda gunakan di URL kait Anda.
-and_edit_lang_line17 === misalnya. Korea
-and_edit_lang_line30 === RTL
 and_edit_lang_line32 === Ya
 and_edit_lang_line33 === Tidak
-and_edit_pack_line17 === Nama paket.
-and_edit_pack_line19 === misalnya. Paket VIP
-and_edit_pack_line24 === Harga paket, ini harus mengikuti mata uang sistem. Nilai mengambang tidak diperbolehkan.
-and_edit_pack_line29 === misalnya. 25
-and_edit_pack_line34 === Jika diaktifkan, pesan dan obrolan whatsapp akan berisi tanda footer saat diterima oleh penerima.
-and_edit_pack_line44 === Jika diaktifkan, paket akan disembunyikan dari modal paket dan beranda.
 and_edit_pack_line53 === Pengaturan Android
-and_edit_pack_line58 === Batas Pengiriman SMS
-and_edit_pack_line58_1 === Jumlah maksimum pesan yang dapat dikirim oleh pengguna sebelum reset. Masukkan 0 untuk tidak terbatas.
-and_edit_pack_line60 === misalnya. 300
-and_edit_pack_line65 === Batas Terima SMS
-and_edit_pack_line65_1 === Jumlah maksimum pesan yang dapat diterima oleh pengguna sebelum reset. Masukkan 0 untuk tidak terbatas.
-and_edit_pack_line67 === misalnya. 150
-and_edit_pack_line72 === Batas USSD
-and_edit_pack_line72_1 === Jumlah maksimum ussd yang dapat diminta oleh pengguna sebelum reset. Masukkan 0 untuk tidak terbatas.
-and_edit_pack_line74 === misalnya. 25
 and_edit_pack_line79 === Batas Pemberitahuan
 and_edit_pack_line79_1 === Jumlah maksimum notifikasi yang dapat diterima oleh pengguna sebelum reset. Masukkan 0 untuk tidak terbatas.
 and_edit_pack_line81 === misalnya. 1300
-and_edit_pack_line86 === Jumlah maksimum perangkat android yang dapat ditautkan ke akun pengguna. Masukkan 0 untuk tidak terbatas.
-and_edit_pack_line88 === misalnya. 25
-and_edit_pack_line92 === Pengaturan WhatsApp
-and_edit_pack_line97 === Jumlah maksimum obrolan yang dapat dikirim oleh pengguna sebelum reset. Masukkan 0 untuk tidak terbatas.
-and_edit_pack_line99 === misalnya. 300
-and_edit_pack_line104 === Jumlah maksimum obrolan yang dapat diterima oleh pengguna sebelum reset. Masukkan 0 untuk tidak terbatas.
-and_edit_pack_line106 === misalnya. 150
-and_edit_pack_line111 === Batas Akun
-and_edit_pack_line111_1 === Jumlah maksimum akun WhatsApp yang dapat ditautkan ke akun pengguna. Masukkan 0 untuk tidak terbatas.
-and_edit_pack_line113 === misalnya. 10
-and_edit_pack_line117 === Pengaturan Utilitas
-and_edit_pack_line122 === Jumlah maksimum kontak yang dapat disimpan oleh pengguna. Masukkan 0 untuk tidak terbatas.
-and_edit_pack_line124 === misalnya. 25
 and_edit_pack_line129 === Batas Terjadwal
-and_edit_pack_line129_1 === Jumlah maksimum pesan/obrolan terjadwal yang dapat disimpan oleh pengguna. Masukkan 0 untuk tidak terbatas. Ini digabungkan untuk sms dan whatsapp.
-and_edit_pack_line131 === misalnya. 25
-and_edit_pack_line136 === Jumlah maksimum kunci API yang dapat dibuat. Masukkan 0 untuk tidak terbatas.
-and_edit_pack_line138 === misalnya. 10
-and_edit_pack_line143 === Jumlah maksimum Webhook yang dapat dibuat. Masukkan 0 untuk tidak terbatas.
-and_edit_pack_line145 === misalnya. 5
-and_edit_pack_line150 === Batas Tindakan
-and_edit_pack_line150_1 === Jumlah maksimum Tindakan yang dapat dibuat. Masukkan 0 untuk tidak terbatas.
-and_edit_pack_line152 === misalnya. 5
-and_edit_page_line17 === Nama halaman.
-and_edit_page_line24 === Hanya peran terpilih yang dapat mengakses halaman ini.
-and_edit_page_line35 === Jika diaktifkan, halaman tidak akan dapat diakses jika tidak masuk.
-and_edit_page_line45 === Konten halaman. Semua tag html diperbolehkan, berhati-hatilah saat menambahkan skrip dari sumber yang tidak dikenal!
-and_edit_role_line17 === Nama peran.
-and_edit_role_line19 === misalnya. Pengembang
-and_edit_role_line24 === Pilih izin dan fitur yang ingin Anda nonaktifkan/aktifkan untuk peran ini. Perubahan diterapkan secara realtime, tab browser pengguna yang terhubung dengan peran dimuat ulang secara otomatis.
 and_edit_short_line17 === Nama
-and_edit_short_line17_1 === Nama penyingkat.
-and_edit_short_line19 === misalnya. sedikit
-and_edit_short_line24 === Pengontrol
-and_edit_short_line24_1 === Pilih file pengontrol pemendek, ini akan berisi logika dan kode pemendek Anda. Disarankan untuk memeriksa dokumentasi.
-and_edit_sms_line17 === Nama pesan terjadwal.
-and_edit_sms_line19 === misalnya. Pesanku
-and_edit_sms_line24 === Pilih tanggal jadwal.
-and_edit_sms_line26 === misalnya. 22/06/2020 12:00 WIB
 and_edit_sms_line31 === Jika diaktifkan, pesan akan dijadwalkan setiap kali tanggal yang dijadwalkan cocok.
-and_edit_sms_line42 === Beberapa nomor E.164 dipisahkan oleh jeda baris.
-and_edit_sms_line55 === Pilih beberapa grup kontak
 and_edit_sms_line67 === Mode Gerbang
-and_edit_sms_line67_1 === Mode gerbang yang ingin Anda gunakan. Jika Anda memilih perangkat, perangkat tertaut Anda akan ditampilkan untuk dikirim, jika tidak, gateway pihak ketiga dan mitra akan ditampilkan.
 and_edit_sms_line70 === Perangkat
 and_edit_sms_line71 === kredit
 and_edit_sms_line76 === Slot kartu sim untuk digunakan.
-and_edit_sms_line79 === SIM1
-and_edit_sms_line80 === SIM2
 and_edit_sms_line88 === Perangkat Anda yang tertaut, pilih apa yang ingin Anda gunakan untuk mengirim.
 and_edit_sms_line99 === SMS Gateway
-and_edit_sms_line99_1 === Gateway pihak ketiga dan mitra, kredit Anda akan digunakan saat Anda mengirim pesan menggunakan gateway ini. Kami menyarankan Anda memeriksa harga gateway sebelum menggunakannya.
 and_edit_sms_line119 === Spintax
 and_edit_sms_line122 === Contoh:
 and_edit_sms_line122_1 === Tom adalah seorang
@@ -626,8 +467,6 @@ and_edit_sms_line125_1 === bagus
 and_edit_sms_line125_2 === dan
 and_edit_sms_line125_3 === buruk
 and_edit_sms_line125_4 === akan digunakan secara acak.
-and_edit_temp_line17 === Nama templat.
-and_edit_temp_line24 === Format templat.
 and_edit_temp_line31 === Spintax
 and_edit_temp_line31_1 === Sebuah fitur yang memungkinkan Anda untuk mengacak kata dalam pesan Anda yang secara efektif mencegah deteksi spam.
 and_edit_temp_line35 === Contoh:
@@ -639,35 +478,16 @@ and_edit_temp_line38_2 === dan
 and_edit_temp_line38_3 === buruk
 and_edit_temp_line38_4 === akan digunakan secara acak.
 and_edit_temp_line43 === Kumpulan variabel yang dapat Anda gunakan dalam pesan Anda.
-and_eduse_line17 === Nama lengkap resmi Anda, harap perhatikan bahwa menggunakan nama palsu dapat membuat akun Anda ditangguhkan.
-and_eduse_line19 === misalnya. Michael Cors
 and_eduse_line24 === Alamat email yang valid, abaikan bidang ini jika Anda ingin menyimpan alamat email saat ini.
-and_eduse_line26 === misalnya. pengguna@mail.com
 and_eduse_line31 === Jika Anda ingin menyimpan kata sandi saat ini, abaikan bidang ini, jika tidak, masukkan kata sandi baru.
-and_eduse_line38 === Zona waktu lokasi Anda, ubah ini jika Anda berada di negara lain. Zona waktu digunakan untuk akurasi tanggal dan waktu dari pesan terkirim dan data lainnya.
 and_eduse_line49 === Negara
-and_eduse_line49_1 === Negara Anda, ini digunakan untuk pembayaran dan pemformatan nomor telepon.
-and_eduse_line60 === Suara Pemberitahuan
-and_eduse_line60_1 === Jika dinonaktifkan, notifikasi akan diam.
-and_eduse_line70 === Pilih peran pengguna.
-and_eduse_line81 === Pilih bahasa pengguna.
-and_eduse_line92 === Program Mitra
-and_eduse_line92_1 === Jika diaktifkan, pengguna akan dapat menggunakan perangkat mereka sebagai perangkat global yang memungkinkan mereka mendapatkan uang saat pengguna lain mengirim pesan menggunakan perangkat mereka.
-and_edweb_line17 === Nama webhook.
 and_edweb_line24 === Terima Acara
-and_edweb_line24_1 === Pilih acara terima yang Anda butuhkan, mereka akan dikirim ke url web hook Anda melalui metode POST.
 and_edweb_line30 === Notifikasi
-and_edweb_line36 === Url webhook Anda, semua data payload akan dikirim ke sini melalui metode POST.
 and_edweb_line38 === misalnya. https://domainanda.com/reply.php
 and_edwhat_line17 === Nama obrolan terjadwal.
-and_edwhat_line19 === misalnya. Pesanku
-and_edwhat_line24 === Pilih tanggal jadwal.
-and_edwhat_line26 === misalnya. 22/06/2020 12:00 WIB
 and_edwhat_line31 === Jika diaktifkan, obrolan akan dijadwalkan setiap kali tanggal yang dijadwalkan cocok.
 and_edwhat_line42 === Beberapa nomor E.164 dipisahkan oleh jeda baris.
-and_edwhat_line55 === Pilih beberapa grup kontak
 and_edwhat_line67 === Akun
-and_edwhat_line67_1 === Pilih akun WhatsApp yang ingin Anda gunakan.
 and_edwhat_line76 === Templat pesan Anda yang sudah jadi.
 and_edwhat_line91 === Spintax
 and_edwhat_line91_1 === Sebuah fitur yang memungkinkan Anda untuk mengacak kata dalam pesan Anda yang secara efektif mencegah deteksi spam.
@@ -691,34 +511,23 @@ and_edwid_line53 === Posisi widget, hanya untuk modal.
 and_edwid_line64 === Konten widget. Semua tag html diperbolehkan, berhati-hatilah saat menambahkan skrip dari sumber yang tidak dikenal!
 and_import_line17 === File excel yang ingin Anda impor, pastikan untuk mengikuti format yang diperlukan.
 and_import_line20 === Contoh File:
-and_import_line20_1 === Unduh
-and_package_line36 === Terima SMS
-and_package_line41 === Kirim WhatsApp
-and_package_line46 === Terima WhatsApp
 and_package_line51 === USSD
 and_package_line56 === Notifikasi
-and_package_line61 === SMS/Obrolan Terjadwal
 and_package_line66 === Kontak
 and_package_line71 === Kunci API
 and_package_line76 === Webhook
 and_package_line81 === tindakan
-and_package_line86 === Perangkat Android
 and_package_line91 === Akun WhatsApp
 and_redeem_line18 === Menebus kode.
 and_redeem_line20 === misalnya. 2f5b4727c7c8596779b21d7644e2ebb8
 and_sms_bulk_18 === Beberapa nomor E.164 dipisahkan oleh jeda baris. Hanya 1 pesan yang akan dikirim ke nomor meskipun Anda memilih grup yang menambahkannya.
 and_sms_bulk_31 === Pilih beberapa grup kontak. Hanya 1 pesan yang akan dikirim ke kontak meskipun Anda memilih beberapa grup yang menambahkannya.
 and_sms_bulk_43 === penyingkat
-and_sms_bulk_43_1 === Jika diaktifkan, tautan dalam pesan akan dipersingkat secara otomatis menggunakan pemendek yang dipilih.
 and_sms_bulk_46 === Jangan mempersingkat tautan
 and_sms_bulk_55 === Mode Gerbang
-and_sms_bulk_55_1 === Mode gerbang yang ingin Anda gunakan. Jika Anda memilih perangkat, perangkat tertaut Anda akan ditampilkan untuk dikirim, jika tidak, gateway pihak ketiga dan mitra akan ditampilkan.
 and_sms_bulk_58 === Perangkat
 and_sms_bulk_59 === kredit
 and_sms_bulk_64 === Slot kartu sim untuk digunakan.
-and_sms_bulk_67 === SIM1
-and_sms_bulk_68 === SIM2
-and_sms_bulk_72 === Jika diaktifkan, pesan ini akan dikirim sebelum pesan lainnya.
 and_sms_bulk_81 === Templat pesan Anda yang sudah jadi.
 and_sms_bulk_94 === Perangkat Anda yang tertaut, pilih apa yang ingin Anda gunakan untuk mengirim.
 and_sms_bulk_105 === SMS Gateway
@@ -730,9 +539,7 @@ and_sms_bulk_135 === Contoh:
 and_sms_bulk_143 === Kumpulan variabel yang dapat Anda gunakan dalam pesan Anda.
 and_sms_exe17 === File excel yang ingin Anda impor, pastikan untuk mengikuti format yang diperlukan.
 and_sms_exe20 === Contoh File:
-and_sms_exe20_1 === Unduh
 and_sms_exe27 === penyingkat
-and_sms_exe27_1 === Jika diaktifkan, tautan dalam pesan akan dipersingkat secara otomatis menggunakan pemendek yang dipilih.
 and_sms_exe30 === Jangan mempersingkat tautan
 and_sms_exe39 === Mode Gerbang
 and_sms_exe39_1 === Mode gerbang yang ingin Anda gunakan. Jika Anda memilih perangkat, perangkat tertaut Anda akan ditampilkan untuk dikirim, jika tidak, gateway pihak ketiga dan mitra akan ditampilkan.
@@ -748,11 +555,9 @@ and_sms_exe97_1 === Sebuah fitur yang memungkinkan Anda untuk mengacak kata dala
 and_sms_exe109 === Kumpulan variabel yang dapat Anda gunakan dalam pesan Anda.
 and_sms_quick17 === Nomor telepon penerima.
 and_sms_quick24 === Mode Gerbang
-and_sms_quick24_1 === Mode gerbang yang ingin Anda gunakan. Jika Anda memilih perangkat, perangkat tertaut Anda akan ditampilkan untuk dikirim, jika tidak, gateway pihak ketiga dan mitra akan ditampilkan.
 and_sms_quick27 === Perangkat
 and_sms_quick28 === kredit
 and_sms_quick34 === penyingkat
-and_sms_quick34_1 === Jika diaktifkan, tautan dalam pesan akan dipersingkat secara otomatis menggunakan pemendek yang dipilih.
 and_sms_quick37 === Jangan mempersingkat tautan
 and_sms_quick46 === Slot kartu sim untuk digunakan.
 and_sms_quick49 === SIM1
@@ -760,13 +565,11 @@ and_sms_quick50 === SIM2
 and_sms_quick56 === Jika diaktifkan, pesan ini akan dikirim sebelum pesan lainnya.
 and_sms_quick66 === Perangkat Anda yang tertaut, pilih apa yang ingin Anda gunakan untuk mengirim.
 and_sms_quick77 === SMS Gateway
-and_sms_quick77_1 === Gateway pihak ketiga dan mitra, kredit Anda akan digunakan saat Anda mengirim pesan menggunakan gateway ini. Kami menyarankan Anda memeriksa harga gateway sebelum menggunakannya.
 and_sms_quick104 === Spintax
 and_sms_quick104_1 === Sebuah fitur yang memungkinkan Anda untuk mengacak kata dalam pesan Anda yang secara efektif mencegah deteksi spam.
 and_sysup17 === Perbarui File
 and_sysup17_1 === Perbarui file zip, pastikan untuk memilih file yang benar.
 and_upplug17 === Perbarui File
-and_upplug17_1 === Perbarui file zip, pastikan untuk memilih file yang benar.
 and_uset17 === Gambar avatar profil Anda.
 and_uset24 === Nama lengkap resmi Anda, harap perhatikan bahwa menggunakan nama palsu dapat membuat akun Anda ditangguhkan.
 and_uset26 === misalnya. Michael Shmuck
@@ -793,18 +596,14 @@ and_view20 === Tampilan penuh
 and_whatsbulk_18 === Beberapa nomor E.164 dipisahkan oleh jeda baris.
 and_whatsbulk_31 === Pilih beberapa grup kontak. Harap perhatikan bahwa jika kontak memiliki beberapa grup, pesan mungkin dikirim beberapa kali ke kontak tersebut jika Anda memilih grup yang menyertakannya.
 and_whatsbulk_43 === penyingkat
-and_whatsbulk_43_1 === Jika diaktifkan, tautan dalam pesan akan dipersingkat secara otomatis menggunakan pemendek yang dipilih.
 and_whatsbulk_46 === Jangan mempersingkat tautan
 and_whatsbulk_55 === Akun
-and_whatsbulk_55_1 === Pilih akun WhatsApp yang ingin Anda gunakan.
 and_whatsbulk_64 === Templat pesan Anda yang sudah jadi.
-and_whatsbulk_79 === Terjemahkan pesan.
 and_whatsbulk_84 === Spintax
 and_whatsbulk_84_1 === Sebuah fitur yang memungkinkan Anda untuk mengacak kata dalam pesan Anda yang secara efektif mencegah deteksi spam.
 and_whatsbulk_96 === Kumpulan variabel yang dapat Anda gunakan dalam pesan Anda.
 and_whatex17 === File excel yang ingin Anda impor, pastikan untuk mengikuti format yang diperlukan.
 and_whatex20 === Contoh File:
-and_whatex20_1 === Unduh
 and_whatex27 === penyingkat
 and_whatex27_1 === Jika diaktifkan, tautan dalam pesan akan dipersingkat secara otomatis menggunakan pemendek yang dipilih.
 and_whatex30 === Jangan mempersingkat tautan
@@ -817,31 +616,17 @@ and_whatex68_1 === Sebuah fitur yang memungkinkan Anda untuk mengacak kata dalam
 and_whatex80 === Kumpulan variabel yang dapat Anda gunakan dalam pesan Anda.
 and_whatquick_17 === E.164 nomor telepon penerima.
 and_whatquick_24 === penyingkat
-and_whatquick_24_1 === Jika diaktifkan, tautan dalam pesan akan dipersingkat secara otomatis menggunakan pemendek yang dipilih.
 and_whatquick_27 === Jangan mempersingkat tautan
 and_whatquick_36 === Akun
-and_whatquick_36_1 === Pilih akun WhatsApp yang ingin Anda gunakan.
 and_whatquick_50 === Terjemahkan pesan.
 and_whatquick_55 === Spintax
 and_whatquick_55_1 === Sebuah fitur yang memungkinkan Anda untuk mengacak kata dalam pesan Anda yang secara efektif mencegah deteksi spam.
 and_admin_api_3 === API Administrasi
 and_admin_fileman_3 === Editor Templat
 and_admin_gate_3 === SMS Gateway
-and_admin_gate_8 === Tambahkan Gerbang
 and_admin_lang_6 === Urutkan ulang bahasa
-and_admin_mark_3 === Pemasaran
-and_admin_mark_6 === Hapus item yang dipilih
-and_admin_mark_12 === Dorongan
-and_admin_mark_17 === Memberitahukan
-and_admin_mark_22 === Pengirim
 and_admin_payout_3 === Permintaan Pembayaran
-and_admin_short_3 === pemendek
 and_admin_short_8 === Tambahkan Shortener
-and_admin_subs_8 === Tambahkan Berlangganan
-and_admin_vouch_6 === Hapus item yang dipilih
-and_droid_dev_3 === Perangkat Android
-and_droid_dev_6 === Baca dokumentasi
-and_droid_dev_8 === dokumen
 and_droid_dev_11 === Terapkan untuk menjadi penyedia gateway mitra
 and_droid_dev_13 === Kemitraan
 and_droid_dev_16 === Daftarkan perangkat android baru
@@ -851,29 +636,21 @@ and_droid_rev_3 === SMS yang diterima
 and_droid_rev_6 === Hapus pesan yang dipilih
 and_droid_sched_6 === Hapus item yang dipilih
 and_droid_sent_3 === SMS terkirim
-and_droid_sent_6 === Hapus item yang dipilih
 and_droid_sent_10 === Hapus semua pesan yang tertunda
 and_droid_sent_14 === Kirim SMS Cepat
-and_droid_sent_16 === Cepat
 and_droid_sent_19 === Kirim SMS Massal
-and_droid_sent_21 === Dalam jumlah besar
 and_droid_sent_24 === Kirim SMS Massal melalui Excel
 and_droid_ussd_3 === Permintaan USSD
-and_droid_ussd_6 === Hapus item yang dipilih
 and_droid_ussd_10 === Hapus semua permintaan yang tertunda
 and_droid_ussd_14 === Permintaan USSD Baru
-and_droid_ussd_16 === Meminta
 and_con_grp_6 === Hapus item yang dipilih
 and_con_grp_10 === Tambahkan grup kontak baru
-and_con_sav_6 === Hapus item yang dipilih
 and_con_sav_10 === Tambahkan kontak baru
 and_con_sav_15 === Impor kontak dari file excel
 and_con_unsub_3 === Tidak berlangganan
-and_con_unsub_6 === Hapus item yang dipilih
 and_doc_act_3 === tindakan
 and_doc_api_3 === Dokumentasi API
 and_doc_dev_3 === Perangkat
-and_doc_partner_3 === Kemitraan
 and_doc_webhook_3 === Webhook
 and_rate_gate_3 === Tarif
 and_rate_gate_10 === Negara
@@ -886,21 +663,12 @@ and_tool_act_8 === dokumen
 and_tool_act_11 === Tambahkan aksi kait baru
 and_tool_act_13 === Kait
 and_tool_act_16 === Tambahkan tindakan balasan otomatis baru
-and_tool_act_18 === Balasan otomatis
-and_tool_key_6 === Baca dokumentasi
-and_tool_key_8 === dokumen
 and_tool_key_11 === Buat kunci API baru
-and_tool_webhook_6 === Baca dokumentasi
-and_tool_webhook_8 === dokumen
 and_what_accnt_6 === Hubungkan akun baru
-and_what_accnt_8 === Menambahkan akun
 and_what_attach_8 === Hapus pesan yang dipilih
 and_what_rev_3 === Obrolan yang Diterima
-and_what_rev_6 === Hapus item yang dipilih
 and_what_sched_6 === Hapus item yang dipilih
-and_what_sched_12 === Jadwalkan Obrolan
 and_what_sent_3 === Obrolan Terkirim
-and_what_sent_6 === Hapus item yang dipilih
 and_what_sent_10 === Kirim Obrolan Cepat
 and_what_sent_12 === Cepat
 and_what_sent_15 === Kirim Obrolan Massal
@@ -912,10 +680,8 @@ and_def_f_blck_8 === Bergabunglah dengan kami
 and_def_f_blck_35 === Berhubungan
 and_head_blck_21 === Rumah
 and_head_blck_24 === Fitur
-and_head_blck_27 === harga
 and_head_blck_30 === klien
 and_head_blck_39 === Dasbor
-and_head_blck_42 === Keluar
 and_pages_default_8 === Pemasaran SMS dan WhatsApp yang terbaik
 and_pages_default_29 === Pesan SMS
 and_pages_default_31 === Gunakan perangkat android Anda sebagai gateway SMS, ini secara efektif lebih murah daripada menggunakan gateway pihak ketiga.
@@ -929,11 +695,9 @@ and_pages_default_73 === Mengapa menggunakan layanan kami?
 and_pages_default_74 === Berikut adalah beberapa alasan mengapa Anda harus mulai menggunakan layanan kami
 and_pages_default_84 === Pengiriman cepat dan massal
 and_pages_default_86 === Kirim banyak pesan ke grup kontak yang berbeda dengan mudah dan Anda juga dapat mengirim pesan cepat untuk transaksi cepat. Platform kami juga menyertakan dasbor langsung, dapatkan notifikasi saat pesan Anda dikirim atau diterima!
-and_pages_default_89 === Kode pendek
 and_pages_default_89_1 === untuk menulis pesan Anda dengan data yang telah ditentukan.
 and_pages_default_90 === Spintax
 and_pages_default_90_1 === untuk mengacak rangkaian kata untuk memerangi masalah spamming.
-and_pages_default_91 === Penerjemah
 and_pages_default_91_1 === untuk menargetkan audiens berdasarkan bahasa mereka.
 and_pages_default_98 === Alat otomatis dan cerdas
 and_pages_default_100 === Kelola bisnis Anda sementara kami menangani pekerjaan kotor, platform kami cerdas dan hanya membutuhkan pesan yang ingin Anda kirim, lalu kami akan melakukan sisanya!
@@ -955,17 +719,12 @@ and_pages_default_156 === Alat dan dasbor intuitif
 and_pages_default_159 === Pengalaman cepat dan bebas lag saat Anda memasarkan produk Anda
 and_pages_default_171 === Harga Layanan
 and_pages_default_187 === Kirim SMS
-and_pages_default_194 === Terima SMS
-and_pages_default_201 === Kirim WhatsApp
-and_pages_default_208 === Terima WhatsApp
 and_pages_default_215 === USSD
 and_pages_default_222 === Notifikasi
-and_pages_default_229 === SMS/Obrolan Terjadwal
 and_pages_default_236 === Kontak
 and_pages_default_243 === Kunci API
 and_pages_default_250 === Webhook
 and_pages_default_257 === tindakan
-and_pages_default_264 === Perangkat Android
 and_pages_default_271 === Akun WhatsApp
 and_pages_default_287 === Pelanggan kami
 and_pages_default_290 === Dipercaya oleh lebih dari 3.000+ pelanggan. Mulai pemasaran produk Anda dan kembangkan bisnis Anda bersama kami!
@@ -1330,10 +1089,6 @@ form_fullname === Nama lengkap
 form_cpassword === konfirmasi sandi
 form_haveaccount === Aku memiliki sebuah akun
 datatable_processing === Memproses ... tunggu sebentar...
-datatable_length === Menampilkan _MENU_ entri
-datatable_info === Menampilkan _START_ hingga _END_ dari _TOTAL_ entri
-datatable_empty === Menampilkan 0 hingga 0 dari 0 entri
-datatable_filtered === (difilter dari total _MAX_ entri)
 datatable_loading === Sedang memuat, harap tunggu...
 datatable_zero === Kami tidak dapat menemukan apa pun yang cocok dengan kueri Anda!
 datatable_null === Tidak ada data untuk ditampilkan!
@@ -1813,7 +1568,7 @@ table_androidreceive_exportexcel === Menerima Ekspor Excel _8880_
 table_androidreceive_exportpdf === Menerima Ekspor PDF _8880_
 table_androidreceive_smstitle === SMS
 table_androidreceive_reporttitle === Laporan
-table_androidreceive_exportdata === Slot Sim: SIM _8882_, Perangkat: _8881_, OS: _8882_
+table_androidreceive_exportdata === Slot Sim: SIM _8880_, Perangkat: _8881_, OS: _8882_
 table_androidreceive_reportline1 === Slot SIM: SIM _8880_
 table_androidreceive_reportline2 === Perangkat: _8880_
 table_androidreceive_reportline3 === OS: _8880_
@@ -2403,7 +2158,6 @@ js_calendarall_monoct === Oktober
 js_calendarall_monnov === November
 js_calendarall_mondec === Desember
 response_ussddelete_success === Permintaan USSD telah dihapus!
-response_titanecho_invaltoken === Kesalahan konfigurasi sistem!
 widgets_addplugin_loader === Memasang plugin baru ke sistem
 widgets_addwhatsapp_newmodal === Hubungkan WhatsApp Anda dengan mengklik tombol untuk menampilkan QRCode lalu pindai melalui tombol _8880_ di aplikasi. Anda hanya memiliki waktu 15 detik untuk memindai QRCode.
 widgets_addwhatsapp_newmodal2 === _8880_ telah kedaluwarsa, jika akun Anda telah ditautkan, atau belum, silakan klik tombol di bawah ini.
@@ -2419,7 +2173,6 @@ widget_waquick_requireaccountnew1 === akun whatsapp
 requests_whatsapp_notavail === Server WhatsApp tidak tersedia!
 requests_whatsapp_unablegenqr === Tidak dapat membuat QRCode WhatsApp!
 requests_charts_commisionstitle === Komisi
-requests_token_refreshecho === Token untuk _8880_ telah diperbarui!
 requests_remote_smscampaignresumed === Kampanye SMS telah dilanjutkan!
 requests_remote_smscampaignpaused === Kampanye SMS telah dijeda!
 requests_remote_wacampaignresumed === Kampanye WhatsApp telah dilanjutkan!
@@ -2500,8 +2253,6 @@ table_android_copydeviceid === Salin ID Unik Perangkat
 table_partnerrates_devicename === Nama perangkat
 widget_fetchgroups_titlefetch === Ambil Grup
 widget_fetchgroups_loaderfetch === Mengambil grup dari akun
-pages_admin_tokenrefreshbutt === Token
-pages_admin_tokenrefreshbutthelp === Segarkan token komunikasi soket. Jika sistem tidak menampilkan pemberitahuan roti panggang langsung atau tidak memperbarui secara realtime, silakan klik tombol ini.
 pages_admin_cachehelp === Hapus seluruh cache sistem. Peringatan! Ini juga akan menghapus cache yang terkait dengan API, autentikasi, dan pembayaran. Disarankan untuk hanya melakukan ini saat memutakhirkan sistem.
 pages_admin_themehelp === Ubah templat dan desain situs.
 pages_admin_systemsettingshelp === Sesuaikan pengaturan sistem yang penting.
@@ -2600,7 +2351,6 @@ app_fetching_messages === Mengambil Pesan
 app_fetching_ussd === Mengambil USSD
 app_campaign_resumed === Pengiriman dilanjutkan untuk kampanye:
 app_campaign_paused === Pengiriman dijeda untuk kampanye:
-js_response_titanechorefreshdesc === Segarkan token untuk komunikasi soket waktu nyata?
 form_wa_templatetype_knownissue === Masalah yang Diketahui
 form_wa_templatetype_knownissuedesc === Jenis pesan WhatsApp ini tidak ditampilkan dengan benar di iOS. Aplikasi WhatsApp iOS akan menampilkan pesan kosong.
 app_response_devicealreadylinked === Perangkat ini sudah ditautkan ke akun lain!
@@ -3076,6 +2826,9 @@ flow_header_title === Pembuat Alur
 flow_response_saved === Aliran berhasil disimpan!
 flow_response_nofile === Tidak ada file yang diunggah atau terjadi kesalahan unggah!
 flow_response_fileuploaded === File berhasil diunggah
+flow_response_ai_key_required === Silakan pilih kunci AI untuk setiap node Balasan AI!
+flow_response_file_too_large === File yang diunggah terlalu besar, ukuran maksimum adalah 10MB!
+flow_response_invalid_filetype === Jenis file ini tidak diizinkan!
 flow_modal_upload_title === Unggah Berkas
 flow_modal_upload_button_select === Pilih File
 flow_modal_upload_button_upload === Unggah
@@ -3200,3 +2953,23 @@ flowjs_node_pause_duration_placeholder === Masukkan durasi dalam detik (0 = tak 
 flowjs_node_resume === Lanjutkan
 flowjs_node_resume_context === Konteks
 flowjs_node_resume_description === Melanjutkan tanggapan otomatis yang dijeda
+modal_adminsettings_currencyapikey === Kunci API Nilai Tukar
+modal_adminsettings_currencyapikeyinfo === Kunci API penyedia nilai tukar Anda sendiri. Konversi mata uang tetap nonaktif sampai kunci ini diisi.
+modal_adminsettings_realtimetitle === Notifikasi Waktu Nyata
+modal_adminsettings_realtimeinfo === Pembaruan langsung menggunakan protokol Pusher. Pilih layanan hosting Pusher atau server kompatibel apa pun seperti Sockety, Soketi, atau Reverb. Biarkan kredensial kosong untuk menonaktifkan waktu nyata.
+modal_adminsettings_realtimeappid === ID Aplikasi
+modal_adminsettings_realtimekey === Kunci Aplikasi
+modal_adminsettings_realtimesecret === Rahasia Aplikasi
+modal_adminsettings_realtimecluster === Klaster
+modal_adminsettings_realtimehost === URL Server
+modal_adminsettings_realtimehostinfo === Alamat lengkap server Anda, misalnya https://sockets.example.com:6001
+modal_adminsettings_realtimedriver === Penyedia
+modal_adminsettings_realtimedriverpusher === Pusher (Cloud)
+modal_adminsettings_realtimedrivercompatible === Server Kompatibel (Hos Sendiri)
+modal_adminsettings_realtimecredentials === Dapatkan kredensial Anda dari dasbor Pusher
+modal_adminsettings_realtimeconfigured === Terkonfigurasi
+modal_adminsettings_realtimekeepblank === Biarkan kosong untuk mempertahankan nilai saat ini
+modal_adminsettings_realtimetest === Uji Koneksi
+js_realtime_testing === Menguji koneksi waktu nyata...
+response_realtime_testok === Koneksi waktu nyata berhasil!
+response_realtime_testfailed === Koneksi waktu nyata gagal. Periksa kredensial dan URL server.

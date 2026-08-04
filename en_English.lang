@@ -11,18 +11,12 @@ and_dashboard_pages_defailt_line37 === Gateway Rates
 and_dashboard_pages_default_line42 === Docs
 and_dashboard_pages_default_line58 === Messages
 and_dashboard_pages_default_line60 === Last 7 days
-and_dashboard_pages_default_line74 === Events
-and_dashboard_pages_default_line76 === Last 7 days
-and_dashboard_pages_default_line90 === Utilities
-and_dashboard_pages_default_line92 === Last 7 days
-and_dashboard_pages_default_line109 === Partners
 and_dashboard_pages_default_line117 === Earnings
 and_dashboard_pages_default_line131 === Payout
 and_dashboard_pages_default_line140 === Balance
 and_dashboard_pages_default_line148 === Credits
 and_dashboard_pages_default_line162 === Top up
 and_dashboard_pages_default_line170 === Delivery Ratio
-and_dash_pg_def_line178 === Success
 and_dash_pg_def_line190 === Failed
 and_dash_pg_def_line204 === Senders
 and_dash_pg_def_line209 === You are not subscribed to any of our premium packages!
@@ -32,11 +26,9 @@ and_dash_pg_def_line232 === Accounts
 and_dash_pg_def_line239 === Linked
 and_dash_pg_def_line250 === Download and install our official app to get the best user experience
 and_dash_pg_doc_line10 === Documents
-and_dash_pg_doc_line28 === API
 and_dash_pg_doc_line34 === Webhooks
 and_dash_pg_doc_line40 === Actions
 and_dash_pg_doc_line46 === Devices
-and_dash_pg_doc_line52 === Partnership
 and_dash_pg_for_line29 === Cancel
 and_dash_pg_log_line14 === Login with Facebook
 and_dash_pg_log_line17 === Login with Google
@@ -50,15 +42,10 @@ and_dash_pg_reg_line20 === Register with Google
 and_dash_pg_reg_line25 === Register with VKontakte
 and_dash_pg_whats_line10 === WhatsApp
 and_dash_pg_whats_line10_1 === Beta
-and_dash_pg_whats_line28 === Sent
 and_dash_pg_whats_line34 === Received
 and_dash_pg_whats_line40 === Scheduled
 and_dash_pg_whats_line46 === Accounts
-and_dash_api_line17 === Key name.
-and_dash_api_line19 === eg. For My Server
-and_dash_api_line24 === Key permissions.
 and_dash_auto_line17 === Action name.
-and_dash_auto_line19 === eg. Michael
 and_dash_auto_line24 === Source
 and_dash_auto_line24_1 === Source of receive event.
 and_dash_auto_line27 === SMS
@@ -75,23 +62,16 @@ and_dash_cre_line28 === Purchase
 and_dash_gate_line17 === Name
 and_dash_gate_line17_1 === This is the gateway name that will be shown to your users.
 and_dash_gate_line19 === eg. Twilio
-and_dash_gate_line24 === Controller
 and_dash_gate_line24_1 === Select the gateway controller file, this will contain your gateway logic and code. It is recommended to check the documentation.
-and_dash_gate_line27 === Controller Boilerplate:
 and_dash_gate_line34 === Callback
 and_dash_gate_line34_1 === If enabled, messages will need to be verified using the callback feature of the 3rd party gateway for send status, otherwise, messages will be immediately marked as sent upon sending.
-and_dash_gate_line37 === Enable
-and_dash_gate_line38 === Disable
 and_dash_gate_line44 === Callback ID
 and_dash_gate_line44_1 === If callback is enabled, you must copy this ID and paste it to your controller so the system can identify the callbacks.
 and_dash_gate_line47 ===  Copy and paste for callback ID
-and_dash_gate_line54 === Pricing
 and_dash_gate_line54_1 === Your custom pricing table for this gateway. This will allow you to charge on top of the 3rd party prices. For example, if twilio charges 0.01 for a specified country, then you can charge 0.02 instead, currency is based on your system currency. Please follow the pricing format correctly.
 and_dash_gate_line57 === Sample JSON Pricing:
-and_dash_gate_line57_1 === Download
 and_dash_grp_line17 === Group name.
 and_dash_grp_line19 === eg. Friends
-and_dash_hook_line17 === Action name.
 and_dash_hook_line19 === eg. Test Action
 and_dash_hook_line24 === Source
 and_dash_hook_line24_1 === Source of event.
@@ -100,8 +80,6 @@ and_dash_hook_line44 === Hook link structure, this is the url that will be invok
 and_dash_hook_line51 === Set of variables that you can use in your hook URL.
 and_dash_hook_line27 === SMS
 and_dash_hook_line28 === WhatsApp
-and_dash_hook_line37 === On Send
-and_dash_hook_line38 === On Receive
 and_dash_lang_line17 === Language name.
 and_dash_lang_line19 === eg. Korean
 and_dash_lang_line24 === Country code.
@@ -110,19 +88,14 @@ and_dash_lang_line35_1 === If enabled, language will be identified as right to l
 and_dash_lang_line38 === Yes
 and_dash_lang_line39 === No
 and_dash_lang_line45 === Translation strings.
-and_dash_mail_line17 === Title
 and_dash_mail_line17_1 === Mail title.
-and_dash_mail_line19 === eg. Announcement
 and_dash_mail_line24 === Users
 and_dash_mail_line24_1 === Send by users.
-and_dash_mail_line36 === Roles
 and_dash_mail_line36_1 === Send by roles.
 and_dash_mail_line48 === Content
 and_dash_mail_line48_1 === Mail content, html allowed.
 and_dash_mail_line50 === Hello world!
-and_dash_not_line17 === Title
 and_dash_not_line17_1 === Notify title.
-and_dash_not_line19 === eg. Announcement
 and_dash_not_line24 === Message
 and_dash_not_line24_1 === Notify message.
 and_dash_not_line31 === Color
@@ -130,13 +103,8 @@ and_dash_not_line31_1 === Notify color.
 and_dash_not_line35 === Success
 and_dash_not_line36 === Warning
 and_dash_not_line37 === Danger
-and_dash_not_line43 === Image
 and_dash_not_line43_1 === Notify image, this is optional.
-and_dash_not_line46 === Optional
 and_dash_not_line53 === Users
-and_dash_not_line53_1 === Broadcast by users.
-and_dash_not_line65 === Roles
-and_dash_not_line65_1 === Broadcast by roles.
 and_pack_line17 === Package name.
 and_pack_line19 === eg. VIP Package
 and_pack_line24 === Package price, this should follow the system currency. Float values are not allowed.
@@ -151,33 +119,25 @@ and_pack_line65_1 === The maximum number of messages that can be received by the
 and_pack_line67 === eg. 150
 and_pack_line72 === USSD Limit
 and_pack_line72_1 === The maximum number of ussd that can be requested by the user before the reset. Enter 0 for unlimited.
-and_pack_line74 === eg. 25
 and_pack_line79 === Notification Limit
 and_pack_line79_1 === The maximum number of notifications that can be received by the user before the reset. Enter 0 for unlimited.
 and_pack_line81 === eg. 1300
 and_pack_line86 === The maximum number of android devices that can be linked to user's account. Enter 0 for unlimited.
-and_pack_line88 === eg. 25
 and_pack_line92 === WhatsApp Settings
 and_pack_line97 === The maximum number of chats that can be sent by the user before the reset. Enter 0 for unlimited.
-and_pack_line99 === eg. 300
 and_pack_line104 === The maximum number of chats that can be received by the user before the reset. Enter 0 for unlimited.
-and_pack_line106 === eg. 150
 and_pack_line111 === Account Limit
 and_pack_line111_1 === The maximum number of WhatsApp accounts that can be linked to user's account. Enter 0 for unlimited.
 and_pack_line113 === eg. 10
 and_pack_line117 === Ultility Settings
 and_pack_line122 === The maximum number of contacts that can be saved by the user. Enter 0 for unlimited.
-and_pack_line124 === eg. 25
 and_pack_line129 === Scheduled Limit
 and_pack_line129_1 === The maximum number of scheduled messages/chats that can be saved by the user. Enter 0 for unlimited. This is combined for both sms and whatsapp.
-and_pack_line131 === eg. 25
 and_pack_line136 === The maximum number of API keys that can be created. Enter 0 for unlimited.
-and_pack_line138 === eg. 10
 and_pack_line143 === The maximum number of Webhooks that can be created. Enter 0 for unlimited.
 and_pack_line145 === eg. 5
 and_pack_line150 === Actions Limit
 and_pack_line150_1 === The maximum number of Actions that can be created. Enter 0 for unlimited.
-and_pack_line152 === eg. 5
 and_page_line17 === Page name.
 and_page_line24 === Only selected roles will be able to access this page.
 and_page_line35 === If enabled, page won't be accessible if not logged in.
@@ -189,13 +149,10 @@ and_payout_line24 === Provider
 and_payout_line24_1 === Select the payment provider you want to use for receiving the money.
 and_payout_line27 === Paypal
 and_payout_line28 === Payoneer
-and_payout_line34 === Payment Address
 and_payout_line34_1 === Payment address or email, please check carefully to prevent payment issues.
 and_payout_line36 === eg. Your PayPal email
-and_payout_line43 === Request
 and_plug_line17 === Plugin File
 and_plug_line17_1 === Plugin zip file, please make sure to select the correct file.
-and_push_line17 === Title
 and_push_line17_1 === Push title.
 and_push_line19 === eg. Announcement
 and_push_line24 === Image
@@ -205,7 +162,6 @@ and_push_line34 === Message
 and_push_line34_1 === Push message.
 and_push_line41 === Users
 and_push_line41_1 === Broadcast by users.
-and_push_line53 === Roles
 and_push_line53_1 === Broadcast by roles.
 and_role_line17 === Role name.
 and_role_line19 === eg. Developer
@@ -224,19 +180,14 @@ and_sms_line31 === If enabled, the message will be scheduled every time the sche
 and_sms_line42 === Multiple E.164 numbers separated by line break.
 and_sms_line55 === Select multiple contact groups
 and_sms_line67 === Shortener
-and_sms_line67_1 === If enabled, the links in messages will be automatically shortened using the selected shortener.
 and_sms_line70 === Don't shorten links
 and_sms_line79 === Gateway Mode
-and_sms_line79_1 === The gateway mode you want to use. If you choose devices, your linked devices will be shown for sending, otherwise, 3rd party and partner gateways will be shown.
 and_sms_line82 === Devices
 and_sms_line83 === Credits
 and_sms_line88 === Sim card slot to use.
-and_sms_line91 === SIM1
-and_sms_line92 === SIM2
 and_sms_line97 === Your premade message templates.
 and_sms_line110 === Your linked devices, choose what you want to use for sending.
 and_sms_line121 === SMS Gateway
-and_sms_line121_1 === 3rd party and partner gateways, your credits will be used when you send messages using these gateways. We recommend that you check the gateway prices before using them.
 and_sms_line141 === Spintax
 and_sms_line144 === Example:
 and_sms_line144_1 === Tom is a
@@ -270,8 +221,6 @@ and_user_line31 === Enter user password.
 and_user_line38 === User location timezone, change this if they are in a different country. Timezone is used for date and time accuracy of the sent messages and other data.
 and_user_line49 === Country
 and_user_line49_1 === User country, this is used for payouts and phone number formatting.
-and_user_line60 === Notification Sounds
-and_user_line60_1 === If disabled, notifications will be silent.
 and_user_line70 === Select user role.
 and_user_line81 === Select user language.
 and_user_line92 === Partner Program
@@ -280,17 +229,12 @@ and_ussd_line17 === USSD Code
 and_ussd_line17_1 === USSD request code.
 and_ussd_line19 === eg. *121#
 and_ussd_line24 === Sim card slot to use.
-and_ussd_line27 === SIM1
-and_ussd_line28 === SIM2
 and_ussd_line34 === Your linked devices, choose what you want to use for ussd request.
 and_ussd_line47 === Request
 and_vouch_line17 === Voucher name.
 and_vouch_line19 === eg. Special
 and_vouch_line24 === The amount of vouchers you want to create. Max value is 1000!
 and_vouch_line26 === eg. 100
-and_vouch_line31 === Subscription duration.
-and_vouch_line33 === eg. 12
-and_vouch_line38 === Subscription package.
 and_web_line17 === Webhook name.
 and_web_line24 === Receive Events
 and_web_line24_1 === Select the receive events you need, they will be sent to your web hook url via POST method.
@@ -300,18 +244,11 @@ and_web_line29 === USSD
 and_web_line30 === Notifications
 and_web_line36 === Your webhook url, all payload data will be sent here via POST method.
 and_web_line38 === eg. http://yourdomain.com/hook_listen.php
-and_whatssched_line17 === Name of scheduled chat.
-and_whatssched_line19 === eg. My Message
-and_whatssched_line24 === Select schedule date.
-and_whatssched_line26 === eg. 06/22/2020 12:00 AM
 and_whatssched_line31 === If enabled, the chat will be scheduled every time the scheduled date is matched.
 and_whatssched_line42 === Multiple E.164 numbers separated by line break.
-and_whatssched_line55 === Select multiple contact groups
 and_whatssched_line67 === Shortener
-and_whatssched_line67_1 === If enabled, the links in messages will be automatically shortened using the selected shortener.
 and_whatssched_line70 === Don't shorten links
 and_whatssched_line79 === Account
-and_whatssched_line79_1 === Select the WhatsApp account you want to use.
 and_whatsached_line88 === Your premade message templates.
 and_whatssched_line103 === Spintax
 and_whatssched_line103_1 === A feature that allows you to randomize words in your messages which effectively prevents spamming detections.
@@ -366,14 +303,11 @@ and_admin_build_line95_1 === App login image logo, this is the image shown in th
 and_admin_build_line103 === App image icon, this is shown in the app drawer and android system. Recommended dimensions are 1024x1024 in px and png format.
 and_admin_build_line111 === App splashscreen image, this is shown when the user opens the app. Recommended dimensions are 2732x2732 in px and png format.
 and_admin_build_line118 === Structure
-and_admin_build_line123 === Custom JavaScript
 and_admin_build_line123_1 === If you want to use a custom javascript code, please add it here. This is loaded dynamically in the app.
 and_admin_build_line125 === eg., alert('Hello World!');
-and_admin_build_line130 === Custom CSS
 and_admin_build_line130_1 === If you want to use a custom css code, please add it here. This is loaded dynamically in the app.
 and_admin_build_line137 === Custom Layout
 and_admin_build_line137_1 === If you want to use a custom app structure, please modify the html content, if you don't know what you are doing, please leave the default value.
-and_admin_build_line139 === Hello World!
 and_settings_line21 === Site name, this is shown everywhere where branding is needed.
 and_settings_line23 === eg. Zender
 and_settings_line28 === Site description, this is for search engine optimization, so be creative.
@@ -388,14 +322,12 @@ and_settings_line70 === If disabled, registrations via register page will not be
 and_settings_line80 === Package Reset Mode
 and_settings_line80_1 === The reset interval of limits such as send, receive, ussd and notiifications. This applies for both Android and WhatsApp features. Your selection here must also be applied in the cron setup.
 and_settings_line83 === Daily
-and_settings_line84 === Monthly
 and_settings_line90 === Free Model
 and_settings_line90_1 === If enabled, the default free package is automatically assigned to user after registration.
 and_settings_line100 === If disabled, the homepage will not be used. All visits in the root directory will be redirected to dashboard.
 and_settings_line110 === TAWK Chat Widget
 and_settings_line110_1 === If enabled, tawk chat widget will appear to users.
 and_settings_line120 === Your tawk chat widget link, this is required if you want to use tawk chat support.
-and_settings_line127 === Admin API
 and_settings_line127_1 === Select the admin API endpoints you want to enable. It is recommended that you only enable endpoints that you need.
 and_settings_line159 === This token must not be shared to anyone. This is used for security of cronjobs, system API and other external requests. If you think, your system token was compromised, please regenerate a new one, you will need to reconfigure your cronjobs, system API and other related settings after regenerating a new token.
 and_settings_line160 === Regenerate
@@ -419,9 +351,7 @@ and_settings_line263 === eg. test_4vzuJVhRCFSyNyuc6gwvJpQ474Vngp
 and_settings_line268 === The system currency to use, this will be used as base when converting transactions to USD.
 and_settings_line279 === Select the payment providers you want to use.
 and_settings_line293 === Minimum characters for messages. This applies to both SMS and WhatsApp.
-and_settings_line295 === eg. 5
 and_settings_line300 === Maximum characters for messages. This applies to both SMS and WhatsApp. Enter 0 for infinite characters.
-and_settings_line302 === eg. 300
 and_settings_line307 === Message footer mark, this is appended to messages if their package has footer mark enabled.
 and_settings_line309 === eg. Sent from Zender System
 and_settings_line318 === The default number of rows to display in sent messages table. This applies to both SMS and WhatsApp.
@@ -484,16 +414,11 @@ and_edit_auto_line36 === eg. thank you, okay, subscribe, yes
 and_edit_auto_line41 === The message to be sent to the sender.
 and_edit_auto_line43 === eg. Your reply message here, shortcodes accepted
 and_edit_auto_line48 === Set of variables that you can use in your message.
-and_edit_con_line17 === Contact name.
 and_edit_con_line19 === eg. Michael
-and_edit_con_line24 === Contact number.
-and_edit_con_line31 === Contact group.
-and_edit_dev_line16 === Device Details
 and_edit_dev_line21 === Device name.
 and_edit_dev_line23 === eg. My Device
 and_edit_dev_line28 === If enabled, messages will be sent in random intervals between 2 values. You can configure them below.
 and_edit_dev_line38 === The minimum interval in seconds.
-and_edit_dev_line41 === eg. 5
 and_edit_dev_line46 === The maximum interval in seconds.
 and_edit_dev_line49 === eg. 20
 and_edit_dev_line53 === Notification Settings
@@ -514,109 +439,25 @@ and_edit_dev_line112_1 === Select the sim slots you want to use for sending, if 
 and_edit_email_line16 === Email Template
 and_edit_email_line18 === HTML allowed
 and_edit_gate_line17 === Name
-and_edit_gate_line17_1 === This is the gateway name that will be shown to your users.
-and_edit_gate_line19 === eg. Twilio
-and_edit_gate_line24 === Controller
-and_edit_gate_line24_1 === Select the gateway controller file, this will contain your gateway logic and code. It is recommended to check the documentation.
-and_edit_gate_line31 === Callback
-and_edit_gate_line31_1 === If enabled, messages will need to be verified using the callback feature of the 3rd party gateway for send status, otherwise, messages will be immediately marked as sent upon sending.
-and_edit_gate_line34 === Enable
-and_edit_gate_line35 === Disable
 and_edit_gate_line41 === Callback ID
-and_edit_gate_line41_1 === If callback is enabled, you must copy this ID and paste it to your controller so the system can identify the callbacks.
-and_edit_gate_line44 === Copy and paste for callback ID
-and_edit_gate_line51 === Pricing
-and_edit_gate_line51_1 === Your custom pricing table for this gateway. This will allow you to charge on top of the 3rd party prices. For example, if twilio charges 0.01 for a specified country, then you can charge 0.02 instead, currency is based on your system currency. Please follow the pricing format correctly.
-and_edit_gate_line54 === Sample JSON Pricing:
-and_edit_gate_line54_1 === Download
-and_edit_grp_line17 === Group name.
-and_edit_grp_line19 === eg. Friends
-and_edit_hook_line17 === Action name.
-and_edit_hook_line19 === eg. Test Action
 and_edit_hook_line24 === Source
-and_edit_hook_line24_1 === Source of event.
 and_edit_hook_line27 === SMS
 and_edit_hook_line28 === WhatsApp
-and_edit_hook_line34 === Select the event where this hook will be invoked.
-and_edit_hook_line37 === On Send
-and_edit_hook_line38 === On Receive
-and_edit_hook_line44 === Hook link structure, this is the url that will be invoked by the system. Only GET method is supported.
-and_edit_hook_line51 === Set of variables that you can use in your hook URL.
-and_edit_lang_line17 === eg. Korean
-and_edit_lang_line30 === RTL
 and_edit_lang_line32 === Yes
 and_edit_lang_line33 === No
-and_edit_pack_line17 === Package name.
-and_edit_pack_line19 === eg. VIP Package
-and_edit_pack_line24 === Package price, this should follow the system currency. Float values are not allowed.
-and_edit_pack_line29 === eg. 25
-and_edit_pack_line34 === If enabled, messages and whatsapp chats will contain footer mark when received by recipients.
-and_edit_pack_line44 === If enabled, package will be hidden from the package modal and homepage.
 and_edit_pack_line53 === Android Settings
-and_edit_pack_line58 === SMS Send Limit
-and_edit_pack_line58_1 === The maximum number of messages that can be sent by the user before the reset. Enter 0 for unlimited.
-and_edit_pack_line60 === eg. 300
-and_edit_pack_line65 === SMS Receive Limit
-and_edit_pack_line65_1 === The maximum number of messages that can be received by the user before the reset. Enter 0 for unlimited.
-and_edit_pack_line67 === eg. 150
-and_edit_pack_line72 === USSD Limit
-and_edit_pack_line72_1 === The maximum number of ussd that can be requested by the user before the reset. Enter 0 for unlimited.
-and_edit_pack_line74 === eg. 25
 and_edit_pack_line79 === Notification Limit
 and_edit_pack_line79_1 === The maximum number of notifications that can be received by the user before the reset. Enter 0 for unlimited.
 and_edit_pack_line81 === eg. 1300
-and_edit_pack_line86 === The maximum number of android devices that can be linked to user's account. Enter 0 for unlimited.
-and_edit_pack_line88 === eg. 25
-and_edit_pack_line92 === WhatsApp Settings
-and_edit_pack_line97 === The maximum number of chats that can be sent by the user before the reset. Enter 0 for unlimited.
-and_edit_pack_line99 === eg. 300
-and_edit_pack_line104 === The maximum number of chats that can be received by the user before the reset. Enter 0 for unlimited.
-and_edit_pack_line106 === eg. 150
-and_edit_pack_line111 === Account Limit
-and_edit_pack_line111_1 === The maximum number of WhatsApp accounts that can be linked to user's account. Enter 0 for unlimited.
-and_edit_pack_line113 === eg. 10
-and_edit_pack_line117 === Ultility Settings
-and_edit_pack_line122 === The maximum number of contacts that can be saved by the user. Enter 0 for unlimited.
-and_edit_pack_line124 === eg. 25
 and_edit_pack_line129 === Scheduled Limit
-and_edit_pack_line129_1 === The maximum number of scheduled messages/chats that can be saved by the user. Enter 0 for unlimited. This is combined for both sms and whatsapp.
-and_edit_pack_line131 === eg. 25
-and_edit_pack_line136 === The maximum number of API keys that can be created. Enter 0 for unlimited.
-and_edit_pack_line138 === eg. 10
-and_edit_pack_line143 === The maximum number of Webhooks that can be created. Enter 0 for unlimited.
-and_edit_pack_line145 === eg. 5
-and_edit_pack_line150 === Actions Limit
-and_edit_pack_line150_1 === The maximum number of Actions that can be created. Enter 0 for unlimited.
-and_edit_pack_line152 === eg. 5
-and_edit_page_line17 === Page name.
-and_edit_page_line24 === Only selected roles will be able to access this page.
-and_edit_page_line35 === If enabled, page won't be accessible if not logged in.
-and_edit_page_line45 === Page content. All html tags allowed, be careful when adding scripts from unknown sources!
-and_edit_role_line17 === Role name.
-and_edit_role_line19 === eg. Developer
-and_edit_role_line24 === Select permissions and features you want to disable/enable for this role. Changes are applied in realtime, browser tabs of connected users with the role are automatically reloaded.
 and_edit_short_line17 === Name
-and_edit_short_line17_1 === Shortener name.
-and_edit_short_line19 === eg. Bitly
-and_edit_short_line24 === Controller
-and_edit_short_line24_1 === Select the shortener controller file, this will contain your shortener logic and code. It is recommended to check the documentation.
-and_edit_sms_line17 === Name of scheduled message.
-and_edit_sms_line19 === eg. My Message
-and_edit_sms_line24 === Select schedule date.
-and_edit_sms_line26 === eg. 06/22/2020 12:00 AM
 and_edit_sms_line31 === If enabled, the message will be scheduled every time the scheduled date is matched.
-and_edit_sms_line42 === Multiple E.164 numbers separated by line break.
-and_edit_sms_line55 === Select multiple contact groups
 and_edit_sms_line67 === Gateway Mode
-and_edit_sms_line67_1 === The gateway mode you want to use. If you choose devices, your linked devices will be shown for sending, otherwise, 3rd party and partner gateways will be shown.
 and_edit_sms_line70 === Devices
 and_edit_sms_line71 === Credits
 and_edit_sms_line76 === Sim card slot to use.
-and_edit_sms_line79 === SIM1
-and_edit_sms_line80 === SIM2
 and_edit_sms_line88 === Your linked devices, choose what you want to use for sending.
 and_edit_sms_line99 === SMS Gateway
-and_edit_sms_line99_1 === 3rd party and partner gateways, your credits will be used when you send messages using these gateways. We recommend that you check the gateway prices before using them.
 and_edit_sms_line119 === Spintax
 and_edit_sms_line122 === Example:
 and_edit_sms_line122_1 === Tom is a
@@ -626,8 +467,6 @@ and_edit_sms_line125_1 === good
 and_edit_sms_line125_2 === and
 and_edit_sms_line125_3 === bad
 and_edit_sms_line125_4 === will be used randomly.
-and_edit_temp_line17 === Template name.
-and_edit_temp_line24 === Template format.
 and_edit_temp_line31 === Spintax
 and_edit_temp_line31_1 === A feature that allows you to randomize words in your messages which effectively prevents spamming detections.
 and_edit_temp_line35 === Example:
@@ -639,35 +478,16 @@ and_edit_temp_line38_2 === and
 and_edit_temp_line38_3 === bad
 and_edit_temp_line38_4 === will be used randomly.
 and_edit_temp_line43 === Set of variables that you can use in your messages.
-and_eduse_line17 === Your full legal name, please note that using a fake name could get your account suspended.
-and_eduse_line19 === eg. Michael Cors
 and_eduse_line24 === Valid email address, ignore this field if you want to keep the current email address.
-and_eduse_line26 === eg. user@mail.com
 and_eduse_line31 === If you want to keep the current password, please ignore this field, otherwise, enter new password.
-and_eduse_line38 === Your location timezone, change this if you are in a different country. Timezone is used for date and time accuracy of your sent messages and other data.
 and_eduse_line49 === Country
-and_eduse_line49_1 === Your country, this is used for payouts and phone number formatting.
-and_eduse_line60 === Notification Sounds
-and_eduse_line60_1 === If disabled, notifications will be silent.
-and_eduse_line70 === Select user role.
-and_eduse_line81 === Select user language.
-and_eduse_line92 === Partner Program
-and_eduse_line92_1 === If enabled, user will be able to use their devices as global devices which will allow them to earn money when other user send messages using their devices.
-and_edweb_line17 === Webhook name.
 and_edweb_line24 === Receive Events
-and_edweb_line24_1 === Select the receive events you need, they will be sent to your web hook url via POST method.
 and_edweb_line30 === Notifications
-and_edweb_line36 === Your webhook url, all payload data will be sent here via POST method.
 and_edweb_line38 === eg. https://yourdomain.com/reply.php
 and_edwhat_line17 === Name of scheduled chat.
-and_edwhat_line19 === eg. My Message
-and_edwhat_line24 === Select schedule date.
-and_edwhat_line26 === eg. 06/22/2020 12:00 AM
 and_edwhat_line31 === If enabled, the chat will be scheduled every time the scheduled date is matched.
 and_edwhat_line42 === Multiple E.164 numbers separated by line break.
-and_edwhat_line55 === Select multiple contact groups
 and_edwhat_line67 === Account
-and_edwhat_line67_1 === Select the WhatsApp account you want to use.
 and_edwhat_line76 === Your premade message templates.
 and_edwhat_line91 === Spintax
 and_edwhat_line91_1 === A feature that allows you to randomize words in your messages which effectively prevents spamming detections.
@@ -691,34 +511,23 @@ and_edwid_line53 === Widget position, for modals only.
 and_edwid_line64 === Widget content. All html tags are allowed, be careful when adding scripts from unknown sources!
 and_import_line17 === The excel file you want to import, please make sure to follow the required format.
 and_import_line20 === Sample File:
-and_import_line20_1 === Download
-and_package_line36 === SMS Receive
-and_package_line41 === WhatsApp Send
-and_package_line46 === WhatsApp Receive
 and_package_line51 === USSD
 and_package_line56 === Notifications
-and_package_line61 === Scheduled SMS/Chats
 and_package_line66 === Contacts
 and_package_line71 === API Keys
 and_package_line76 === Webhooks
 and_package_line81 === Actions
-and_package_line86 === Android Devices
 and_package_line91 === WhatsApp Accounts
 and_redeem_line18 === Redeem code.
 and_redeem_line20 === eg. 2f5b4727c7c8596779b21d7644e2ebb8
 and_sms_bulk_18 === Multiple E.164 numbers separated by line break. Only 1 message will be sent to a number even if you selected groups where it was added.
 and_sms_bulk_31 === Select multiple contact groups. Only 1 message will be sent to a contact even if you selected multiple groups where it was added.
 and_sms_bulk_43 === Shortener
-and_sms_bulk_43_1 === If enabled, the links in messages will be automatically shortened using the selected shortener.
 and_sms_bulk_46 === Don't shorten links
 and_sms_bulk_55 === Gateway Mode
-and_sms_bulk_55_1 === The gateway mode you want to use. If you choose devices, your linked devices will be shown for sending, otherwise, 3rd party and partner gateways will be shown.
 and_sms_bulk_58 === Devices
 and_sms_bulk_59 === Credits
 and_sms_bulk_64 === Sim card slot to use.
-and_sms_bulk_67 === SIM1
-and_sms_bulk_68 === SIM2
-and_sms_bulk_72 === If enabled, these messages will be sent before anything else.
 and_sms_bulk_81 === Your premade message templates.
 and_sms_bulk_94 === Your linked devices, choose what you want to use for sending.
 and_sms_bulk_105 === SMS Gateway
@@ -730,9 +539,7 @@ and_sms_bulk_135 === Example:
 and_sms_bulk_143 === Set of variables that you can use in your messages.
 and_sms_exe17 === The excel file you want to import, please make sure to follow the required format.
 and_sms_exe20 ===  Sample File:
-and_sms_exe20_1 === Download
 and_sms_exe27 === Shortener
-and_sms_exe27_1 === If enabled, the links in messages will be automatically shortened using the selected shortener.
 and_sms_exe30 === Don't shorten links
 and_sms_exe39 ===  Gateway Mode
 and_sms_exe39_1 === The gateway mode you want to use. If you choose devices, your linked devices will be shown for sending, otherwise, 3rd party and partner gateways will be shown.
@@ -748,11 +555,9 @@ and_sms_exe97_1 === A feature that allows you to randomize words in your message
 and_sms_exe109 === Set of variables that you can use in your messages.
 and_sms_quick17 === Recipient phone number.
 and_sms_quick24 === Gateway Mode
-and_sms_quick24_1 === The gateway mode you want to use. If you choose devices, your linked devices will be shown for sending, otherwise, 3rd party and partner gateways will be shown.
 and_sms_quick27 === Devices
 and_sms_quick28 === Credits
 and_sms_quick34 === Shortener
-and_sms_quick34_1 === If enabled, the links in messages will be automatically shortened using the selected shortener.
 and_sms_quick37 === Don't shorten links
 and_sms_quick46 === Sim card slot to use.
 and_sms_quick49 === SIM1
@@ -760,13 +565,11 @@ and_sms_quick50 === SIM2
 and_sms_quick56 === If enabled, these messages will be sent before anything else.
 and_sms_quick66 === Your linked devices, choose what you want to use for sending.
 and_sms_quick77 === SMS Gateway
-and_sms_quick77_1 === 3rd party and partner gateways, your credits will be used when you send messages using these gateways. We recommend that you check the gateway prices before using them.
 and_sms_quick104 === Spintax
 and_sms_quick104_1 === A feature that allows you to randomize words in your messages which effectively prevents spamming detections.
 and_sysup17 === Update File
 and_sysup17_1 === Update zip file, please make sure to select the correct file.
 and_upplug17 === Update File
-and_upplug17_1 === Update zip file, please make sure to select the correct file.
 and_uset17 === Your profile avatar image.
 and_uset24 === Your full legal name, please note that using a fake name could get your account suspended.
 and_uset26 === eg. Michael Shmuck
@@ -793,18 +596,14 @@ and_view20 === Full View
 and_whatsbulk_18 === Multiple E.164 numbers separated by line break.
 and_whatsbulk_31 === Select multiple contact groups. Please note that if a contact has multiple groups, the message might be sent multiple times to it if you select the groups where it was included.
 and_whatsbulk_43 === Shortener
-and_whatsbulk_43_1 === If enabled, the links in messages will be automatically shortened using the selected shortener.
 and_whatsbulk_46 === Don't shorten links
 and_whatsbulk_55 === Account
-and_whatsbulk_55_1 === Select the WhatsApp account you want to use.
 and_whatsbulk_64 === Your premade message templates.
-and_whatsbulk_79 === Translate the message.
 and_whatsbulk_84 === Spintax
 and_whatsbulk_84_1 === A feature that allows you to randomize words in your messages which effectively prevents spamming detections.
 and_whatsbulk_96 === Set of variables that you can use in your messages.
 and_whatex17 === The excel file you want to import, please make sure to follow the required format.
 and_whatex20 === Sample File:
-and_whatex20_1 === Download
 and_whatex27 === Shortener
 and_whatex27_1 === If enabled, the links in messages will be automatically shortened using the selected shortener.
 and_whatex30 === Don't shorten links
@@ -817,31 +616,17 @@ and_whatex68_1 === A feature that allows you to randomize words in your messages
 and_whatex80 === Set of variables that you can use in your messages.
 and_whatquick_17 === E.164 recipient phone number.
 and_whatquick_24 === Shortener
-and_whatquick_24_1 === If enabled, the links in messages will be automatically shortened using the selected shortener.
 and_whatquick_27 === Don't shorten links
 and_whatquick_36 === Account
-and_whatquick_36_1 === Select the WhatsApp account you want to use.
 and_whatquick_50 === Translate the message.
 and_whatquick_55 === Spintax
 and_whatquick_55_1 === A feature that allows you to randomize words in your messages which effectively prevents spamming detections.
 and_admin_api_3 === Administration API
 and_admin_fileman_3 === Template Editor
 and_admin_gate_3 === SMS Gateways
-and_admin_gate_8 === Add Gateway
 and_admin_lang_6 === Re-order languages
-and_admin_mark_3 === Marketing
-and_admin_mark_6 === Delete selected items
-and_admin_mark_12 === Push
-and_admin_mark_17 === Notify
-and_admin_mark_22 === Mailer
 and_admin_payout_3 === Payout Requests
-and_admin_short_3 === Shorteners
 and_admin_short_8 === Add Shortener
-and_admin_subs_8 === Add Subscription
-and_admin_vouch_6 === Delete selected items
-and_droid_dev_3 === Android Devices
-and_droid_dev_6 === Read documentation
-and_droid_dev_8 === Docs
 and_droid_dev_11 === Apply to be a partner gateway provider
 and_droid_dev_13 === Partnership
 and_droid_dev_16 === Register a new android device
@@ -851,29 +636,21 @@ and_droid_rev_3 === Received SMS
 and_droid_rev_6 === Delete selected messages
 and_droid_sched_6 === Delete selected items
 and_droid_sent_3 === Sent SMS
-and_droid_sent_6 === Delete selected items
 and_droid_sent_10 === Clear all pending messages
 and_droid_sent_14 === Send Quick SMS
-and_droid_sent_16 === Quick
 and_droid_sent_19 === Send Bulk SMS
-and_droid_sent_21 === Bulk
 and_droid_sent_24 === Send Bulk SMS via Excel
 and_droid_ussd_3 === USSD Requests
-and_droid_ussd_6 === Delete selected items
 and_droid_ussd_10 === Delete all pending requests
 and_droid_ussd_14 === New USSD Request
-and_droid_ussd_16 === Request
 and_con_grp_6 === Delete selected items
 and_con_grp_10 === Add new contact group
-and_con_sav_6 === Delete selected items
 and_con_sav_10 === Add new contact
 and_con_sav_15 === Import contacts from excel file
 and_con_unsub_3 === Unsubscribed
-and_con_unsub_6 === Delete selected items
 and_doc_act_3 === Actions
 and_doc_api_3 === API Documentation
 and_doc_dev_3 === Devices
-and_doc_partner_3 === Partnership
 and_doc_webhook_3 === Webhooks
 and_rate_gate_3 === Rates
 and_rate_gate_10 === Country
@@ -886,21 +663,12 @@ and_tool_act_8 === Docs
 and_tool_act_11 === Add new hook action
 and_tool_act_13 === Hook
 and_tool_act_16 === Add new autoreply action
-and_tool_act_18 === Autoreply
-and_tool_key_6 === Read documentation
-and_tool_key_8 === Docs
 and_tool_key_11 === Create a new API key
-and_tool_webhook_6 === Read documentation
-and_tool_webhook_8 === Docs
 and_what_accnt_6 === Connect a new account
-and_what_accnt_8 === Add Account
 and_what_attach_8 === Delete selected messages
 and_what_rev_3 === Received Chats
-and_what_rev_6 === Delete selected items
 and_what_sched_6 === Delete selected items
-and_what_sched_12 === Schedule Chat
 and_what_sent_3 === Sent Chats
-and_what_sent_6 === Delete selected items
 and_what_sent_10 === Send Quick Chat
 and_what_sent_12 === Quick
 and_what_sent_15 === Send Bulk Chats
@@ -912,10 +680,8 @@ and_def_f_blck_8 === Join Us
 and_def_f_blck_35 === Get in Touch
 and_head_blck_21 === Home
 and_head_blck_24 === Features
-and_head_blck_27 === Pricing
 and_head_blck_30 === Clients
 and_head_blck_39 === Dashboard
-and_head_blck_42 === Logout
 and_pages_default_8 === SMS and WhatsApp marketing at it's finest
 and_pages_default_29 === SMS Messaging
 and_pages_default_31 === Use your android devices as SMS gateway, this is effectively cheaper than using third party gateways.
@@ -929,11 +695,9 @@ and_pages_default_73 === Why use our service?
 and_pages_default_74 === Here are some reasons why you should start using our service
 and_pages_default_84 === Quick and bulk sending
 and_pages_default_86 === Send tons of messages to different contact groups easily and you can also send quick messages for fast transactions. Our platform also includes live dashboard, get notifications when your messages are sent or received!
-and_pages_default_89 === Shortcodes
 and_pages_default_89_1 === for composing your messages with predefined data.
 and_pages_default_90 === Spintax
 and_pages_default_90_1 === for randomizing set of words to battle spamming issues.
-and_pages_default_91 === Translator
 and_pages_default_91_1 === for targeting audience based on their languages.
 and_pages_default_98 === Automated and smart tools
 and_pages_default_100 === Manage your business while we take care of the dirty work, our platform is smart and only needs the messages you want to send then we'll do the rest!
@@ -955,17 +719,12 @@ and_pages_default_156 === Intuitive tools and dashboard
 and_pages_default_159 === Fast and lag free experience while you market your products
 and_pages_default_171 === Service Pricing
 and_pages_default_187 === SMS Send
-and_pages_default_194 === SMS Receive
-and_pages_default_201 === WhatsApp Send
-and_pages_default_208 === WhatsApp Receive
 and_pages_default_215 === USSD
 and_pages_default_222 === Notifications
-and_pages_default_229 === Scheduled SMS/Chats
 and_pages_default_236 === Contacts
 and_pages_default_243 === API Keys
 and_pages_default_250 === Webhooks
 and_pages_default_257 === Actions
-and_pages_default_264 === Android Devices
 and_pages_default_271 === WhatsApp Accounts
 and_pages_default_287 === Our Customers
 and_pages_default_290 === Trusted by over 3,000+ customers. Start marketing your products and grow your business with us!
@@ -1121,7 +880,7 @@ response_group_added === Contact group has been added!
 response_permission_min === Please select at least 1 permission!
 response_key_added === API key has been added!
 response_invalid_webhookurl === Invalid Webhook URL!
-response_webhook_added === Webhook ahs been added!
+response_webhook_added === Webhook has been added!
 response_user_added === User has been added!
 response_package_added === Package has been added!
 response_widget_added === Widget has been added!
@@ -2399,7 +2158,6 @@ js_calendarall_monoct === October
 js_calendarall_monnov === November
 js_calendarall_mondec === December
 response_ussddelete_success === USSD request has been deleted!
-response_titanecho_invaltoken === System configuration error!
 widgets_addplugin_loader === Installing new plugin to system
 widgets_addwhatsapp_newmodal === Connect your WhatsApp by clicking the button to display the QRCode then scan it via _8880_ button in the app. You only have 15 seconds to scan the QRCode.
 widgets_addwhatsapp_newmodal2 === _8880_ has expired, if your account has been linked, or not, please click the button below.
@@ -2415,7 +2173,6 @@ widget_waquick_requireaccountnew1 === WhatsApp account
 requests_whatsapp_notavail === WhatsApp server is unavailable!
 requests_whatsapp_unablegenqr === Unable to generate WhatsApp QRCode!
 requests_charts_commisionstitle === Commissions
-requests_token_refreshecho === Token for _8880_ has been refreshed!
 requests_remote_smscampaignresumed === SMS campaign has been resumed!
 requests_remote_smscampaignpaused === SMS campaign has been paused!
 requests_remote_wacampaignresumed === WhatsApp campaign has been resumed!
@@ -2496,8 +2253,6 @@ table_android_copydeviceid === Copy Device Unique ID
 table_partnerrates_devicename === Device Name
 widget_fetchgroups_titlefetch === Fetch Groups
 widget_fetchgroups_loaderfetch === Fetching groups from account
-pages_admin_tokenrefreshbutt === Token
-pages_admin_tokenrefreshbutthelp === Refresh the socket communication token. If the system is not displaying any live toast notifications or not updating in realtime, please click this button.
 pages_admin_cachehelp === Clear the entire system cache. Warning! This will also clear caches related to the API, authentication and payment. It is recommended to only do this when upgrading the system.
 pages_admin_themehelp === Modify site template and design.
 pages_admin_systemsettingshelp === Adjust important system settings.
@@ -2596,7 +2351,6 @@ app_fetching_messages === Fetching Messages
 app_fetching_ussd === Fetching USSD
 app_campaign_resumed === Sending resumed for campaign:
 app_campaign_paused === Sending paused for campaign:
-js_response_titanechorefreshdesc === Refresh token for the real-time socket communication?
 form_wa_templatetype_knownissue === Known Issue
 form_wa_templatetype_knownissuedesc === This type of WhatsApp message is not displaying properly on iOS. The WhatsApp iOS app will display a blank message.
 app_response_devicealreadylinked === This device was already linked to another account!
@@ -3072,6 +2826,9 @@ flow_header_title === Flow Builder
 flow_response_saved === Flow saved successfully!
 flow_response_nofile === No file uploaded or upload error!
 flow_response_fileuploaded === File uploaded successfully
+flow_response_ai_key_required === Please select an AI key for every AI Reply node!
+flow_response_file_too_large === The uploaded file is too large, the maximum size is 10MB!
+flow_response_invalid_filetype === This file type is not allowed!
 flow_modal_upload_title === Upload File
 flow_modal_upload_button_select === Select File
 flow_modal_upload_button_upload === Upload
@@ -3196,3 +2953,24 @@ flowjs_node_pause_duration_placeholder === Enter duration in seconds (0 = infini
 flowjs_node_resume === Resume
 flowjs_node_resume_context === Context
 flowjs_node_resume_description === Resumes paused automated responses
+modal_adminsettings_currencyapikey === Exchange Rate API Key
+modal_adminsettings_currencyapikeyinfo === Your own exchange rate provider API key. Currency conversion stays disabled until this is set.
+modal_adminsettings_realtimetitle === Realtime Notifications
+modal_adminsettings_realtimeinfo === Live updates use the Pusher protocol. Choose Pusher's hosted service, or any compatible server such as Sockety, Soketi or Reverb. Leave the credentials blank to turn realtime off.
+modal_adminsettings_realtimeappid === App ID
+modal_adminsettings_realtimekey === App Key
+modal_adminsettings_realtimesecret === App Secret
+modal_adminsettings_realtimecluster === Cluster
+modal_adminsettings_realtimehost === Server URL
+modal_adminsettings_realtimehostinfo === The full address of your server, for example https://sockets.example.com:6001
+
+modal_adminsettings_realtimedriver === Provider
+modal_adminsettings_realtimedriverpusher === Pusher (Cloud)
+modal_adminsettings_realtimedrivercompatible === Compatible Server (Self-hosted)
+modal_adminsettings_realtimecredentials === Get your credentials from the Pusher dashboard
+modal_adminsettings_realtimeconfigured === Configured
+modal_adminsettings_realtimekeepblank === Leave blank to keep the current value
+modal_adminsettings_realtimetest === Test Connection
+js_realtime_testing === Testing the realtime connection...
+response_realtime_testok === Realtime connection successful!
+response_realtime_testfailed === Realtime connection failed. Check the credentials and the server URL.

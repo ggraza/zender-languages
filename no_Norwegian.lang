@@ -11,18 +11,12 @@ and_dashboard_pages_defailt_line37 === Gateway-priser
 and_dashboard_pages_default_line42 === Dokumenter
 and_dashboard_pages_default_line58 === Meldinger
 and_dashboard_pages_default_line60 === Siste 7 dager
-and_dashboard_pages_default_line74 === arrangementer
-and_dashboard_pages_default_line76 === Siste 7 dager
-and_dashboard_pages_default_line90 === Verktøy
-and_dashboard_pages_default_line92 === Siste 7 dager
-and_dashboard_pages_default_line109 === Partnere
 and_dashboard_pages_default_line117 === Inntjening
 and_dashboard_pages_default_line131 === Utbetaling
 and_dashboard_pages_default_line140 === Balansere
 and_dashboard_pages_default_line148 === Studiepoeng
 and_dashboard_pages_default_line162 === Fylle opp
 and_dashboard_pages_default_line170 === Leveringsforhold
-and_dash_pg_def_line178 === Suksess
 and_dash_pg_def_line190 === Mislyktes
 and_dash_pg_def_line204 === Avsendere
 and_dash_pg_def_line209 === Du abonnerer ikke på noen av våre premiumpakker!
@@ -32,11 +26,9 @@ and_dash_pg_def_line232 === Kontoer
 and_dash_pg_def_line239 === Koblet
 and_dash_pg_def_line250 === Last ned og installer vår offisielle app for å få den beste brukeropplevelsen
 and_dash_pg_doc_line10 === Dokumenter
-and_dash_pg_doc_line28 === API
 and_dash_pg_doc_line34 === Webhooks
 and_dash_pg_doc_line40 === Handlinger
 and_dash_pg_doc_line46 === Enheter
-and_dash_pg_doc_line52 === Samarbeid
 and_dash_pg_for_line29 === Avbryt
 and_dash_pg_log_line14 === Logg inn med Facebook
 and_dash_pg_log_line17 === Logg på med Google
@@ -50,15 +42,10 @@ and_dash_pg_reg_line20 === Registrer deg hos Google
 and_dash_pg_reg_line25 === Registrer deg hos VKontakte
 and_dash_pg_whats_line10 === Hva skjer
 and_dash_pg_whats_line10_1 === Beta
-and_dash_pg_whats_line28 === Sendt
 and_dash_pg_whats_line34 === Mottatt
 and_dash_pg_whats_line40 === Planlagt
 and_dash_pg_whats_line46 === Kontoer
-and_dash_api_line17 === Nøkkelnavn.
-and_dash_api_line19 === f.eks. For Min server
-and_dash_api_line24 === Nøkkeltillatelser.
 and_dash_auto_line17 === Handlingsnavn.
-and_dash_auto_line19 === f.eks. Michael
 and_dash_auto_line24 === Kilde
 and_dash_auto_line24_1 === Kilde for mottakshendelse.
 and_dash_auto_line27 === tekstmelding
@@ -75,23 +62,16 @@ and_dash_cre_line28 === Kjøp
 and_dash_gate_line17 === Navn
 and_dash_gate_line17_1 === Dette er gatewaynavnet som vises til brukerne dine.
 and_dash_gate_line19 === f.eks. Twilio
-and_dash_gate_line24 === Kontroller
 and_dash_gate_line24_1 === Velg gateway-kontrollerfilen, denne vil inneholde din gateway-logikk og kode. Det anbefales å sjekke dokumentasjonen.
-and_dash_gate_line27 === Styreplate:
 and_dash_gate_line34 === Ring tilbake
 and_dash_gate_line34_1 === Hvis aktivert, må meldinger verifiseres ved å bruke tilbakeringingsfunksjonen til 3. parts gateway for sendestatus, ellers vil meldinger umiddelbart merkes som sendt ved sending.
-and_dash_gate_line37 === Muliggjøre
-and_dash_gate_line38 === Deaktiver
 and_dash_gate_line44 === Tilbakeringings-ID
 and_dash_gate_line44_1 === Hvis tilbakeringing er aktivert, må du kopiere denne ID-en og lime den inn på kontrolleren slik at systemet kan identifisere tilbakeringingene.
 and_dash_gate_line47 === Kopier og lim inn for tilbakeringings-ID
-and_dash_gate_line54 === Prissetting
 and_dash_gate_line54_1 === Din egendefinerte pristabell for denne gatewayen. Dette vil tillate deg å lade på toppen av tredjepartsprisene. For eksempel, hvis twilio belaster 0,01 for et spesifisert land, kan du belaste 0,02 i stedet, valuta er basert på systemvalutaen din. Vennligst følg prisformatet riktig.
 and_dash_gate_line57 === Eksempel på JSON-priser:
-and_dash_gate_line57_1 === nedlasting
 and_dash_grp_line17 === Gruppenavn.
 and_dash_grp_line19 === f.eks. Venner
-and_dash_hook_line17 === Handlingsnavn.
 and_dash_hook_line19 === f.eks. Testhandling
 and_dash_hook_line24 === Kilde
 and_dash_hook_line24_1 === Kilde til hendelsen.
@@ -100,8 +80,6 @@ and_dash_hook_line44 === Hook link struktur, dette er nettadressen som vil bli p
 and_dash_hook_line51 === Sett med variabler som du kan bruke i din hook-URL.
 and_dash_hook_line27 === tekstmelding
 and_dash_hook_line28 === Hva skjer
-and_dash_hook_line37 === På Send
-and_dash_hook_line38 === Ved mottak
 and_dash_lang_line17 === Språknavn.
 and_dash_lang_line19 === f.eks. koreansk
 and_dash_lang_line24 === Landskode.
@@ -110,19 +88,14 @@ and_dash_lang_line35_1 === Hvis aktivert, vil språket bli identifisert som høy
 and_dash_lang_line38 === Ja
 and_dash_lang_line39 === Nei
 and_dash_lang_line45 === Oversettelsesstrenger.
-and_dash_mail_line17 === Tittel
 and_dash_mail_line17_1 === E-posttittel.
-and_dash_mail_line19 === f.eks. Kunngjøring
 and_dash_mail_line24 === Brukere
 and_dash_mail_line24_1 === Sendes av brukere.
-and_dash_mail_line36 === Roller
 and_dash_mail_line36_1 === Send etter roller.
 and_dash_mail_line48 === Innhold
 and_dash_mail_line48_1 === E-postinnhold, html tillatt.
 and_dash_mail_line50 === Hei Verden!
-and_dash_not_line17 === Tittel
 and_dash_not_line17_1 === Varsle tittel.
-and_dash_not_line19 === f.eks. Kunngjøring
 and_dash_not_line24 === Beskjed
 and_dash_not_line24_1 === Varsle melding.
 and_dash_not_line31 === Farge
@@ -130,13 +103,8 @@ and_dash_not_line31_1 === Varsle farge.
 and_dash_not_line35 === Suksess
 and_dash_not_line36 === Advarsel
 and_dash_not_line37 === Fare
-and_dash_not_line43 === Bilde
 and_dash_not_line43_1 === Varsle bilde, dette er valgfritt.
-and_dash_not_line46 === Valgfri
 and_dash_not_line53 === Brukere
-and_dash_not_line53_1 === Sendes av brukere.
-and_dash_not_line65 === Roller
-and_dash_not_line65_1 === Sendes etter roller.
 and_pack_line17 === Pakkenavn.
 and_pack_line19 === f.eks. VIP-pakke
 and_pack_line24 === Pakkepris, denne skal følge systemvalutaen. Flytende verdier er ikke tillatt.
@@ -151,33 +119,25 @@ and_pack_line65_1 === Maksimalt antall meldinger som kan mottas av brukeren før
 and_pack_line67 === f.eks. 150
 and_pack_line72 === USSD-grense
 and_pack_line72_1 === Maksimalt antall ussd som kan forespørres av brukeren før tilbakestillingen. Skriv inn 0 for ubegrenset.
-and_pack_line74 === f.eks. 25
 and_pack_line79 === Varslingsgrense
 and_pack_line79_1 === Maksimalt antall varsler som kan mottas av brukeren før tilbakestillingen. Skriv inn 0 for ubegrenset.
 and_pack_line81 === f.eks. 1300
 and_pack_line86 === Maksimalt antall Android-enheter som kan kobles til brukerens konto. Skriv inn 0 for ubegrenset.
-and_pack_line88 === f.eks. 25
 and_pack_line92 === WhatsApp-innstillinger
 and_pack_line97 === Maksimalt antall chatter som kan sendes av brukeren før tilbakestillingen. Skriv inn 0 for ubegrenset.
-and_pack_line99 === f.eks. 300
 and_pack_line104 === Maksimalt antall chatter som kan mottas av brukeren før tilbakestillingen. Skriv inn 0 for ubegrenset.
-and_pack_line106 === f.eks. 150
 and_pack_line111 === Kontogrense
 and_pack_line111_1 === Maksimalt antall WhatsApp-kontoer som kan kobles til brukerens konto. Skriv inn 0 for ubegrenset.
 and_pack_line113 === f.eks. 10
 and_pack_line117 === Utilitetsinnstillinger
 and_pack_line122 === Maksimalt antall kontakter som kan lagres av brukeren. Skriv inn 0 for ubegrenset.
-and_pack_line124 === f.eks. 25
 and_pack_line129 === Planlagt grense
 and_pack_line129_1 === Maksimalt antall planlagte meldinger/chatter som kan lagres av brukeren. Skriv inn 0 for ubegrenset. Dette er kombinert for både sms og whatsapp.
-and_pack_line131 === f.eks. 25
 and_pack_line136 === Maksimalt antall API-nøkler som kan opprettes. Skriv inn 0 for ubegrenset.
-and_pack_line138 === f.eks. 10
 and_pack_line143 === Maksimalt antall Webhooks som kan opprettes. Skriv inn 0 for ubegrenset.
 and_pack_line145 === f.eks. 5
 and_pack_line150 === Handlingsgrense
 and_pack_line150_1 === Maksimalt antall handlinger som kan opprettes. Skriv inn 0 for ubegrenset.
-and_pack_line152 === f.eks. 5
 and_page_line17 === Sidenavn.
 and_page_line24 === Bare utvalgte roller vil få tilgang til denne siden.
 and_page_line35 === Hvis aktivert, vil siden ikke være tilgjengelig hvis du ikke er logget på.
@@ -189,13 +149,10 @@ and_payout_line24 === Forsørger
 and_payout_line24_1 === Velg betalingsleverandøren du vil bruke for å motta pengene.
 and_payout_line27 === Paypal
 and_payout_line28 === Payoneer
-and_payout_line34 === betalingsadresse
 and_payout_line34_1 === Betalingsadresse eller e-post, vennligst sjekk nøye for å forhindre betalingsproblemer.
 and_payout_line36 === f.eks. Din PayPal-e-post
-and_payout_line43 === Be om
 and_plug_line17 === Plugin-fil
 and_plug_line17_1 === Plugin zip-fil, sørg for å velge riktig fil.
-and_push_line17 === Tittel
 and_push_line17_1 === Trykk på tittel.
 and_push_line19 === f.eks. Kunngjøring
 and_push_line24 === Bilde
@@ -205,7 +162,6 @@ and_push_line34 === Beskjed
 and_push_line34_1 === Push-melding.
 and_push_line41 === Brukere
 and_push_line41_1 === Sendes av brukere.
-and_push_line53 === Roller
 and_push_line53_1 === Sendes etter roller.
 and_role_line17 === Rollenavn.
 and_role_line19 === f.eks. Utvikler
@@ -224,19 +180,14 @@ and_sms_line31 === Hvis den er aktivert, vil meldingen planlegges hver gang den 
 and_sms_line42 === Flere E.164-numre atskilt med linjeskift.
 and_sms_line55 === Velg flere kontaktgrupper
 and_sms_line67 === Forkorter
-and_sms_line67_1 === Hvis aktivert, vil koblingene i meldinger automatisk forkortes med den valgte forkorteren.
 and_sms_line70 === Ikke forkort lenker
 and_sms_line79 === Gateway-modus
-and_sms_line79_1 === Gateway-modusen du vil bruke. Hvis du velger enheter, vil de tilknyttede enhetene dine vises for sending, ellers vil tredjeparts- og partnergatewayer vises.
 and_sms_line82 === Enheter
 and_sms_line83 === Studiepoeng
 and_sms_line88 === Sim-kortspor å bruke.
-and_sms_line91 === SIM1
-and_sms_line92 === SIM2
 and_sms_line97 === Dine forhåndslagde meldingsmaler.
 and_sms_line110 === Dine koblede enheter, velg hva du vil bruke for sending.
 and_sms_line121 === SMS-gateway
-and_sms_line121_1 === Tredjeparts- og partnergatewayer, kredittene dine vil bli brukt når du sender meldinger ved hjelp av disse gatewayene. Vi anbefaler at du sjekker gateway-prisene før du bruker dem.
 and_sms_line141 === Spinntaks
 and_sms_line144 === Eksempel:
 and_sms_line144_1 === Tom er en
@@ -270,8 +221,6 @@ and_user_line31 === Skriv inn brukerpassord.
 and_user_line38 === Tidssone for brukerplassering, endre denne hvis de er i et annet land. Tidssone brukes for dato og klokkeslett for de sendte meldingene og andre data.
 and_user_line49 === Land
 and_user_line49_1 === Brukerland, dette brukes til utbetalinger og formatering av telefonnummer.
-and_user_line60 === Varslingslyder
-and_user_line60_1 === Hvis deaktivert, vil varsler være stille.
 and_user_line70 === Velg brukerrolle.
 and_user_line81 === Velg brukerspråk.
 and_user_line92 === Partnerprogram
@@ -280,17 +229,12 @@ and_ussd_line17 === USSD-kode
 and_ussd_line17_1 === USSD-forespørselskode.
 and_ussd_line19 === f.eks. *121#
 and_ussd_line24 === Sim-kortspor å bruke.
-and_ussd_line27 === SIM1
-and_ussd_line28 === SIM2
 and_ussd_line34 === Dine koblede enheter, velg hva du vil bruke for ussd-forespørsel.
 and_ussd_line47 === Be om
 and_vouch_line17 === Kupongnavn.
 and_vouch_line19 === f.eks. Spesiell
 and_vouch_line24 === Antallet kuponger du vil opprette. Maks verdi er 1000!
 and_vouch_line26 === f.eks. 100
-and_vouch_line31 === Abonnementets varighet.
-and_vouch_line33 === f.eks. 12
-and_vouch_line38 === Abonnementspakke.
 and_web_line17 === Webhook navn.
 and_web_line24 === Motta hendelser
 and_web_line24_1 === Velg mottaksbegivenhetene du trenger, de vil bli sendt til web-hook-url-en din via POST-metoden.
@@ -300,18 +244,11 @@ and_web_line29 === USSD
 and_web_line30 === Varsler
 and_web_line36 === Din webhook-url, all nyttelastdata vil bli sendt hit via POST-metoden.
 and_web_line38 === f.eks. http://dittdomene.com/hook_listen.php
-and_whatssched_line17 === Navn på planlagt chat.
-and_whatssched_line19 === f.eks. Mitt budskap
-and_whatssched_line24 === Velg plandato.
-and_whatssched_line26 === f.eks. 22.06.2020 kl. 12.00
 and_whatssched_line31 === Hvis den er aktivert, vil chatten planlegges hver gang den planlagte datoen matches.
 and_whatssched_line42 === Flere E.164-numre atskilt med linjeskift.
-and_whatssched_line55 === Velg flere kontaktgrupper
 and_whatssched_line67 === Forkorter
-and_whatssched_line67_1 === Hvis aktivert, vil koblingene i meldinger automatisk forkortes med den valgte forkorteren.
 and_whatssched_line70 === Ikke forkort lenker
 and_whatssched_line79 === Regnskap
-and_whatssched_line79_1 === Velg WhatsApp-kontoen du vil bruke.
 and_whatsached_line88 === Dine forhåndslagde meldingsmaler.
 and_whatssched_line103 === Spinntaks
 and_whatssched_line103_1 === En funksjon som lar deg randomisere ord i meldingene dine som effektivt forhindrer spamming.
@@ -366,14 +303,11 @@ and_admin_build_line95_1 === App-påloggingsbildelogo, dette er bildet som vises
 and_admin_build_line103 === Appbildeikon, dette vises i appskuffen og Android-systemet. Anbefalte dimensjoner er 1024 x 1024 i px- og png-format.
 and_admin_build_line111 === App-splashscreen-bilde, dette vises når brukeren åpner appen. Anbefalte dimensjoner er 2732 x 2732 i px- og png-format.
 and_admin_build_line118 === Struktur
-and_admin_build_line123 === Egendefinert JavaScript
 and_admin_build_line123_1 === Hvis du vil bruke en tilpasset JavaScript-kode, vennligst legg den til her. Dette lastes dynamisk i appen.
 and_admin_build_line125 === f.eks., alert('Hei verden!');
-and_admin_build_line130 === Tilpasset CSS
 and_admin_build_line130_1 === Hvis du vil bruke en tilpasset css-kode, legg den til her. Dette lastes dynamisk i appen.
 and_admin_build_line137 === Egendefinert layout
 and_admin_build_line137_1 === Hvis du vil bruke en tilpasset appstruktur, vennligst endre html-innholdet, hvis du ikke vet hva du gjør, vennligst la standardverdien stå.
-and_admin_build_line139 === Hei Verden!
 and_settings_line21 === Nettstednavn, dette vises overalt der merkevarebygging er nødvendig.
 and_settings_line23 === f.eks. Zender
 and_settings_line28 === Områdebeskrivelse, dette er for søkemotoroptimalisering, så vær kreativ.
@@ -388,14 +322,12 @@ and_settings_line70 === Hvis deaktivert, vil ikke registreringer via registrerin
 and_settings_line80 === Pakketilbakestillingsmodus
 and_settings_line80_1 === Tilbakestillingsintervallet for grenser som send, motta, ussd og varsler. Dette gjelder både for Android- og WhatsApp-funksjoner. Ditt valg her må også brukes i cron-oppsettet.
 and_settings_line83 === Daglig
-and_settings_line84 === Månedlig
 and_settings_line90 === Gratis modell
 and_settings_line90_1 === Hvis aktivert, blir standard gratispakken automatisk tildelt brukeren etter registrering.
 and_settings_line100 === Hvis den er deaktivert, vil ikke hjemmesiden bli brukt. Alle besøk i rotkatalogen vil bli omdirigert til dashbordet.
 and_settings_line110 === TAWK Chat-widget
 and_settings_line110_1 === Hvis aktivert, vil tawk chat-widget vises for brukerne.
 and_settings_line120 === Din tawk chat-widget-lenke, dette er nødvendig hvis du vil bruke tawk chat-støtte.
-and_settings_line127 === Admin API
 and_settings_line127_1 === Velg admin API-endepunktene du vil aktivere. Det anbefales at du bare aktiverer endepunkter du trenger.
 and_settings_line159 === Dette tokenet må ikke deles med noen. Dette brukes til sikkerhet for cronjobs, system-API og andre eksterne forespørsler. Hvis du tror at systemtokenet ditt ble kompromittert, vennligst generer et nytt. Du må rekonfigurere cronjobs, system-API og andre relaterte innstillinger etter å ha generert et nytt token.
 and_settings_line160 === Regenerer
@@ -419,9 +351,7 @@ and_settings_line263 === f.eks. test_4vzuJVhRCFSyNyuc6gwvJpQ474Vngp
 and_settings_line268 === Systemvalutaen som skal brukes, denne vil bli brukt som basis ved konvertering av transaksjoner til USD.
 and_settings_line279 === Velg betalingsleverandørene du vil bruke.
 and_settings_line293 === Minimum tegn for meldinger. Dette gjelder både SMS og WhatsApp.
-and_settings_line295 === f.eks. 5
 and_settings_line300 === Maksimalt antall tegn for meldinger. Dette gjelder både SMS og WhatsApp. Skriv inn 0 for uendelige tegn.
-and_settings_line302 === f.eks. 300
 and_settings_line307 === Meldingsbunntekstmerke, dette legges til meldinger hvis pakken deres har bunntekstmerke aktivert.
 and_settings_line309 === f.eks. Sendt fra Zender System
 and_settings_line318 === Standard antall rader som skal vises i tabellen for sendte meldinger. Dette gjelder både SMS og WhatsApp.
@@ -484,16 +414,11 @@ and_edit_auto_line36 === f.eks. takk, ok, abonner, ja
 and_edit_auto_line41 === Meldingen som skal sendes til avsenderen.
 and_edit_auto_line43 === f.eks. Svarmeldingen din her, kortkoder godtas
 and_edit_auto_line48 === Sett med variabler som du kan bruke i meldingen.
-and_edit_con_line17 === Kontakt navn.
 and_edit_con_line19 === f.eks. Michael
-and_edit_con_line24 === Kontakt nummer.
-and_edit_con_line31 === Kontaktgruppe.
-and_edit_dev_line16 === Enhetsdetaljer
 and_edit_dev_line21 === Enhetsnavn.
 and_edit_dev_line23 === f.eks. Min enhet
 and_edit_dev_line28 === Hvis aktivert, vil meldinger bli sendt i tilfeldige intervaller mellom 2 verdier. Du kan konfigurere dem nedenfor.
 and_edit_dev_line38 === Minimumsintervallet i sekunder.
-and_edit_dev_line41 === f.eks. 5
 and_edit_dev_line46 === Maksimalt intervall i sekunder.
 and_edit_dev_line49 === f.eks. 20
 and_edit_dev_line53 === Varslingsinnstillinger
@@ -514,109 +439,25 @@ and_edit_dev_line112_1 === Velg sim-sporene du vil bruke for å sende, hvis du v
 and_edit_email_line16 === E-postmal
 and_edit_email_line18 === HTML tillatt
 and_edit_gate_line17 === Navn
-and_edit_gate_line17_1 === Dette er gatewaynavnet som vises til brukerne dine.
-and_edit_gate_line19 === f.eks. Twilio
-and_edit_gate_line24 === Kontroller
-and_edit_gate_line24_1 === Velg gateway-kontrollerfilen, denne vil inneholde din gateway-logikk og kode. Det anbefales å sjekke dokumentasjonen.
-and_edit_gate_line31 === Ring tilbake
-and_edit_gate_line31_1 === Hvis aktivert, må meldinger verifiseres ved å bruke tilbakeringingsfunksjonen til 3. parts gateway for sendestatus, ellers vil meldinger umiddelbart merkes som sendt ved sending.
-and_edit_gate_line34 === Muliggjøre
-and_edit_gate_line35 === Deaktiver
 and_edit_gate_line41 === Tilbakeringings-ID
-and_edit_gate_line41_1 === Hvis tilbakeringing er aktivert, må du kopiere denne ID-en og lime den inn på kontrolleren slik at systemet kan identifisere tilbakeringingene.
-and_edit_gate_line44 === Kopier og lim inn for tilbakeringings-ID
-and_edit_gate_line51 === Prissetting
-and_edit_gate_line51_1 === Din egendefinerte pristabell for denne gatewayen. Dette vil tillate deg å lade på toppen av tredjepartsprisene. For eksempel, hvis twilio belaster 0,01 for et spesifisert land, kan du belaste 0,02 i stedet, valuta er basert på systemvalutaen din. Vennligst følg prisformatet riktig.
-and_edit_gate_line54 === Eksempel på JSON-priser:
-and_edit_gate_line54_1 === nedlasting
-and_edit_grp_line17 === Gruppenavn.
-and_edit_grp_line19 === f.eks. Venner
-and_edit_hook_line17 === Handlingsnavn.
-and_edit_hook_line19 === f.eks. Testhandling
 and_edit_hook_line24 === Kilde
-and_edit_hook_line24_1 === Kilde til hendelsen.
 and_edit_hook_line27 === tekstmelding
 and_edit_hook_line28 === Hva skjer
-and_edit_hook_line34 === Velg hendelsen der denne kroken skal påkalles.
-and_edit_hook_line37 === På Send
-and_edit_hook_line38 === Ved mottak
-and_edit_hook_line44 === Hook link struktur, dette er nettadressen som vil bli påkalt av systemet. Bare GET-metoden støttes.
-and_edit_hook_line51 === Sett med variabler som du kan bruke i din hook-URL.
-and_edit_lang_line17 === f.eks. koreansk
-and_edit_lang_line30 === RTL
 and_edit_lang_line32 === Ja
 and_edit_lang_line33 === Nei
-and_edit_pack_line17 === Pakkenavn.
-and_edit_pack_line19 === f.eks. VIP-pakke
-and_edit_pack_line24 === Pakkepris, denne skal følge systemvalutaen. Flytende verdier er ikke tillatt.
-and_edit_pack_line29 === f.eks. 25
-and_edit_pack_line34 === Hvis aktivert, vil meldinger og whatsapp-chatter inneholde bunntekstmerke når de mottas av mottakere.
-and_edit_pack_line44 === Hvis aktivert, vil pakken skjules fra pakkens modal og hjemmeside.
 and_edit_pack_line53 === Android-innstillinger
-and_edit_pack_line58 === Send grense for SMS
-and_edit_pack_line58_1 === Maksimalt antall meldinger som kan sendes av brukeren før tilbakestillingen. Skriv inn 0 for ubegrenset.
-and_edit_pack_line60 === f.eks. 300
-and_edit_pack_line65 === SMS-mottaksgrense
-and_edit_pack_line65_1 === Maksimalt antall meldinger som kan mottas av brukeren før tilbakestillingen. Skriv inn 0 for ubegrenset.
-and_edit_pack_line67 === f.eks. 150
-and_edit_pack_line72 === USSD-grense
-and_edit_pack_line72_1 === Maksimalt antall ussd som kan forespørres av brukeren før tilbakestillingen. Skriv inn 0 for ubegrenset.
-and_edit_pack_line74 === f.eks. 25
 and_edit_pack_line79 === Varslingsgrense
 and_edit_pack_line79_1 === Maksimalt antall varsler som kan mottas av brukeren før tilbakestillingen. Skriv inn 0 for ubegrenset.
 and_edit_pack_line81 === f.eks. 1300
-and_edit_pack_line86 === Maksimalt antall Android-enheter som kan kobles til brukerens konto. Skriv inn 0 for ubegrenset.
-and_edit_pack_line88 === f.eks. 25
-and_edit_pack_line92 === WhatsApp-innstillinger
-and_edit_pack_line97 === Maksimalt antall chatter som kan sendes av brukeren før tilbakestillingen. Skriv inn 0 for ubegrenset.
-and_edit_pack_line99 === f.eks. 300
-and_edit_pack_line104 === Maksimalt antall chatter som kan mottas av brukeren før tilbakestillingen. Skriv inn 0 for ubegrenset.
-and_edit_pack_line106 === f.eks. 150
-and_edit_pack_line111 === Kontogrense
-and_edit_pack_line111_1 === Maksimalt antall WhatsApp-kontoer som kan kobles til brukerens konto. Skriv inn 0 for ubegrenset.
-and_edit_pack_line113 === f.eks. 10
-and_edit_pack_line117 === Utilitetsinnstillinger
-and_edit_pack_line122 === Maksimalt antall kontakter som kan lagres av brukeren. Skriv inn 0 for ubegrenset.
-and_edit_pack_line124 === f.eks. 25
 and_edit_pack_line129 === Planlagt grense
-and_edit_pack_line129_1 === Maksimalt antall planlagte meldinger/chatter som kan lagres av brukeren. Skriv inn 0 for ubegrenset. Dette er kombinert for både sms og whatsapp.
-and_edit_pack_line131 === f.eks. 25
-and_edit_pack_line136 === Maksimalt antall API-nøkler som kan opprettes. Skriv inn 0 for ubegrenset.
-and_edit_pack_line138 === f.eks. 10
-and_edit_pack_line143 === Maksimalt antall Webhooks som kan opprettes. Skriv inn 0 for ubegrenset.
-and_edit_pack_line145 === f.eks. 5
-and_edit_pack_line150 === Handlingsgrense
-and_edit_pack_line150_1 === Maksimalt antall handlinger som kan opprettes. Skriv inn 0 for ubegrenset.
-and_edit_pack_line152 === f.eks. 5
-and_edit_page_line17 === Sidenavn.
-and_edit_page_line24 === Bare utvalgte roller vil få tilgang til denne siden.
-and_edit_page_line35 === Hvis aktivert, vil siden ikke være tilgjengelig hvis du ikke er logget på.
-and_edit_page_line45 === Sideinnhold. Alle html-tagger tillatt, vær forsiktig når du legger til skript fra ukjente kilder!
-and_edit_role_line17 === Rollenavn.
-and_edit_role_line19 === f.eks. Utvikler
-and_edit_role_line24 === Velg tillatelser og funksjoner du vil deaktivere/aktivere for denne rollen. Endringer brukes i sanntid, nettleserfaner til tilkoblede brukere med rollen lastes automatisk inn på nytt.
 and_edit_short_line17 === Navn
-and_edit_short_line17_1 === Navn på forkorter.
-and_edit_short_line19 === f.eks. Litt
-and_edit_short_line24 === Kontroller
-and_edit_short_line24_1 === Velg shortener-kontrollerfilen, denne vil inneholde shortener-logikken og koden. Det anbefales å sjekke dokumentasjonen.
-and_edit_sms_line17 === Navn på planlagt melding.
-and_edit_sms_line19 === f.eks. Mitt budskap
-and_edit_sms_line24 === Velg plandato.
-and_edit_sms_line26 === f.eks. 22.06.2020 kl. 12.00
 and_edit_sms_line31 === Hvis den er aktivert, vil meldingen planlegges hver gang den planlagte datoen matches.
-and_edit_sms_line42 === Flere E.164-numre atskilt med linjeskift.
-and_edit_sms_line55 === Velg flere kontaktgrupper
 and_edit_sms_line67 === Gateway-modus
-and_edit_sms_line67_1 === Gateway-modusen du vil bruke. Hvis du velger enheter, vil de tilknyttede enhetene dine vises for sending, ellers vil tredjeparts- og partnergatewayer vises.
 and_edit_sms_line70 === Enheter
 and_edit_sms_line71 === Studiepoeng
 and_edit_sms_line76 === Sim-kortspor å bruke.
-and_edit_sms_line79 === SIM1
-and_edit_sms_line80 === SIM2
 and_edit_sms_line88 === Dine koblede enheter, velg hva du vil bruke for sending.
 and_edit_sms_line99 === SMS-gateway
-and_edit_sms_line99_1 === Tredjeparts- og partnergatewayer, kredittene dine vil bli brukt når du sender meldinger ved hjelp av disse gatewayene. Vi anbefaler at du sjekker gateway-prisene før du bruker dem.
 and_edit_sms_line119 === Spinntaks
 and_edit_sms_line122 === Eksempel:
 and_edit_sms_line122_1 === Tom er en
@@ -626,8 +467,6 @@ and_edit_sms_line125_1 === god
 and_edit_sms_line125_2 === og
 and_edit_sms_line125_3 === dårlig
 and_edit_sms_line125_4 === vil bli brukt tilfeldig.
-and_edit_temp_line17 === Malnavn.
-and_edit_temp_line24 === Malformat.
 and_edit_temp_line31 === Spinntaks
 and_edit_temp_line31_1 === En funksjon som lar deg randomisere ord i meldingene dine som effektivt forhindrer spamming.
 and_edit_temp_line35 === Eksempel:
@@ -639,35 +478,16 @@ and_edit_temp_line38_2 === og
 and_edit_temp_line38_3 === dårlig
 and_edit_temp_line38_4 === vil bli brukt tilfeldig.
 and_edit_temp_line43 === Sett med variabler som du kan bruke i meldingene dine.
-and_eduse_line17 === Det fulle juridiske navnet ditt, vær oppmerksom på at bruk av et falskt navn kan få kontoen din suspendert.
-and_eduse_line19 === f.eks. Michael Cors
 and_eduse_line24 === Gyldig e-postadresse, ignorer dette feltet hvis du vil beholde gjeldende e-postadresse.
-and_eduse_line26 === f.eks. bruker@mail.com
 and_eduse_line31 === Hvis du vil beholde gjeldende passord, vennligst ignorer dette feltet, ellers skriv inn nytt passord.
-and_eduse_line38 === Tidssonen din for plassering, endre denne hvis du er i et annet land. Tidssone brukes for dato og klokkeslett for de sendte meldingene og andre data.
 and_eduse_line49 === Land
-and_eduse_line49_1 === Ditt land, dette brukes til utbetalinger og formatering av telefonnummer.
-and_eduse_line60 === Varslingslyder
-and_eduse_line60_1 === Hvis deaktivert, vil varsler være stille.
-and_eduse_line70 === Velg brukerrolle.
-and_eduse_line81 === Velg brukerspråk.
-and_eduse_line92 === Partnerprogram
-and_eduse_line92_1 === Hvis aktivert, vil brukeren kunne bruke enhetene sine som globale enheter som vil tillate dem å tjene penger når andre brukere sender meldinger ved hjelp av enhetene deres.
-and_edweb_line17 === Webhook navn.
 and_edweb_line24 === Motta hendelser
-and_edweb_line24_1 === Velg mottaksbegivenhetene du trenger, de vil bli sendt til web-hook-url-en din via POST-metoden.
 and_edweb_line30 === Varsler
-and_edweb_line36 === Din webhook-url, all nyttelastdata vil bli sendt hit via POST-metoden.
 and_edweb_line38 === f.eks. https://dittdomene.com/reply.php
 and_edwhat_line17 === Navn på planlagt chat.
-and_edwhat_line19 === f.eks. Mitt budskap
-and_edwhat_line24 === Velg plandato.
-and_edwhat_line26 === f.eks. 22.06.2020 kl. 12.00
 and_edwhat_line31 === Hvis den er aktivert, vil chatten planlegges hver gang den planlagte datoen matches.
 and_edwhat_line42 === Flere E.164-numre atskilt med linjeskift.
-and_edwhat_line55 === Velg flere kontaktgrupper
 and_edwhat_line67 === Regnskap
-and_edwhat_line67_1 === Velg WhatsApp-kontoen du vil bruke.
 and_edwhat_line76 === Dine forhåndslagde meldingsmaler.
 and_edwhat_line91 === Spinntaks
 and_edwhat_line91_1 === En funksjon som lar deg randomisere ord i meldingene dine som effektivt forhindrer spamming.
@@ -691,34 +511,23 @@ and_edwid_line53 === Widgetposisjon, kun for modaler.
 and_edwid_line64 === Widget-innhold. Alle html-tagger er tillatt, vær forsiktig når du legger til skript fra ukjente kilder!
 and_import_line17 === Excel-filen du vil importere, sørg for å følge det nødvendige formatet.
 and_import_line20 === Eksempelfil:
-and_import_line20_1 === nedlasting
-and_package_line36 === SMS motta
-and_package_line41 === WhatsApp Send
-and_package_line46 === WhatsApp Motta
 and_package_line51 === USSD
 and_package_line56 === Varsler
-and_package_line61 === Planlagte SMS/chatter
 and_package_line66 === Kontakter
 and_package_line71 === API-nøkler
 and_package_line76 === Webhooks
 and_package_line81 === Handlinger
-and_package_line86 === Android-enheter
 and_package_line91 === WhatsApp-kontoer
 and_redeem_line18 === Innløse kode.
 and_redeem_line20 === f.eks. 2f5b4727c7c8596779b21d7644e2ebb8
 and_sms_bulk_18 === Flere E.164-numre atskilt med linjeskift. Kun 1 melding vil bli sendt til et nummer selv om du valgte grupper der den ble lagt til.
 and_sms_bulk_31 === Velg flere kontaktgrupper. Bare 1 melding vil bli sendt til en kontakt selv om du valgte flere grupper der den ble lagt til.
 and_sms_bulk_43 === Forkorter
-and_sms_bulk_43_1 === Hvis aktivert, vil koblingene i meldinger automatisk forkortes med den valgte forkorteren.
 and_sms_bulk_46 === Ikke forkort lenker
 and_sms_bulk_55 === Gateway-modus
-and_sms_bulk_55_1 === Gateway-modusen du vil bruke. Hvis du velger enheter, vil de tilknyttede enhetene dine vises for sending, ellers vil tredjeparts- og partnergatewayer vises.
 and_sms_bulk_58 === Enheter
 and_sms_bulk_59 === Studiepoeng
 and_sms_bulk_64 === Sim-kortspor å bruke.
-and_sms_bulk_67 === SIM1
-and_sms_bulk_68 === SIM2
-and_sms_bulk_72 === Hvis aktivert, vil disse meldingene bli sendt før noe annet.
 and_sms_bulk_81 === Dine forhåndslagde meldingsmaler.
 and_sms_bulk_94 === Dine koblede enheter, velg hva du vil bruke for sending.
 and_sms_bulk_105 === SMS-gateway
@@ -730,9 +539,7 @@ and_sms_bulk_135 === Eksempel:
 and_sms_bulk_143 === Sett med variabler som du kan bruke i meldingene dine.
 and_sms_exe17 === Excel-filen du vil importere, sørg for å følge det nødvendige formatet.
 and_sms_exe20 === Eksempelfil:
-and_sms_exe20_1 === nedlasting
 and_sms_exe27 === Forkorter
-and_sms_exe27_1 === Hvis aktivert, vil koblingene i meldinger automatisk forkortes med den valgte forkorteren.
 and_sms_exe30 === Ikke forkort lenker
 and_sms_exe39 === Gateway-modus
 and_sms_exe39_1 === Gateway-modusen du vil bruke. Hvis du velger enheter, vil de tilknyttede enhetene dine vises for sending, ellers vil tredjeparts- og partnergatewayer vises.
@@ -748,11 +555,9 @@ and_sms_exe97_1 === En funksjon som lar deg randomisere ord i meldingene dine so
 and_sms_exe109 === Sett med variabler som du kan bruke i meldingene dine.
 and_sms_quick17 === Mottakers telefonnummer.
 and_sms_quick24 === Gateway-modus
-and_sms_quick24_1 === Gateway-modusen du vil bruke. Hvis du velger enheter, vil de tilknyttede enhetene dine vises for sending, ellers vil tredjeparts- og partnergatewayer vises.
 and_sms_quick27 === Enheter
 and_sms_quick28 === Studiepoeng
 and_sms_quick34 === Forkorter
-and_sms_quick34_1 === Hvis aktivert, vil koblingene i meldinger automatisk forkortes med den valgte forkorteren.
 and_sms_quick37 === Ikke forkort lenker
 and_sms_quick46 === Sim-kortspor å bruke.
 and_sms_quick49 === SIM1
@@ -760,13 +565,11 @@ and_sms_quick50 === SIM2
 and_sms_quick56 === Hvis aktivert, vil disse meldingene bli sendt før noe annet.
 and_sms_quick66 === Dine koblede enheter, velg hva du vil bruke for sending.
 and_sms_quick77 === SMS-gateway
-and_sms_quick77_1 === Tredjeparts- og partnergatewayer, kredittene dine vil bli brukt når du sender meldinger ved hjelp av disse gatewayene. Vi anbefaler at du sjekker gateway-prisene før du bruker dem.
 and_sms_quick104 === Spinntaks
 and_sms_quick104_1 === En funksjon som lar deg randomisere ord i meldingene dine som effektivt forhindrer spamming.
 and_sysup17 === Oppdater fil
 and_sysup17_1 === Oppdater zip-filen, sørg for å velge riktig fil.
 and_upplug17 === Oppdater fil
-and_upplug17_1 === Oppdater zip-filen, sørg for å velge riktig fil.
 and_uset17 === Ditt profilavatarbilde.
 and_uset24 === Det fulle juridiske navnet ditt, vær oppmerksom på at bruk av et falskt navn kan få kontoen din suspendert.
 and_uset26 === f.eks. Michael Shmuck
@@ -793,18 +596,14 @@ and_view20 === Full utsikt
 and_whatsbulk_18 === Flere E.164-numre atskilt med linjeskift.
 and_whatsbulk_31 === Velg flere kontaktgrupper. Vær oppmerksom på at hvis en kontakt har flere grupper, kan meldingen sendes flere ganger til den hvis du velger gruppene der den ble inkludert.
 and_whatsbulk_43 === Forkorter
-and_whatsbulk_43_1 === Hvis aktivert, vil koblingene i meldinger automatisk forkortes med den valgte forkorteren.
 and_whatsbulk_46 === Ikke forkort lenker
 and_whatsbulk_55 === Regnskap
-and_whatsbulk_55_1 === Velg WhatsApp-kontoen du vil bruke.
 and_whatsbulk_64 === Dine forhåndslagde meldingsmaler.
-and_whatsbulk_79 === Oversett meldingen.
 and_whatsbulk_84 === Spinntaks
 and_whatsbulk_84_1 === En funksjon som lar deg randomisere ord i meldingene dine som effektivt forhindrer spamming.
 and_whatsbulk_96 === Sett med variabler som du kan bruke i meldingene dine.
 and_whatex17 === Excel-filen du vil importere, sørg for å følge det nødvendige formatet.
 and_whatex20 === Eksempelfil:
-and_whatex20_1 === nedlasting
 and_whatex27 === Forkorter
 and_whatex27_1 === Hvis aktivert, vil koblingene i meldinger automatisk forkortes med den valgte forkorteren.
 and_whatex30 === Ikke forkort lenker
@@ -817,31 +616,17 @@ and_whatex68_1 === En funksjon som lar deg randomisere ord i meldingene dine som
 and_whatex80 === Sett med variabler som du kan bruke i meldingene dine.
 and_whatquick_17 === E.164 mottakers telefonnummer.
 and_whatquick_24 === Forkorter
-and_whatquick_24_1 === Hvis aktivert, vil koblingene i meldinger automatisk forkortes med den valgte forkorteren.
 and_whatquick_27 === Ikke forkort lenker
 and_whatquick_36 === Regnskap
-and_whatquick_36_1 === Velg WhatsApp-kontoen du vil bruke.
 and_whatquick_50 === Oversett meldingen.
 and_whatquick_55 === Spinntaks
 and_whatquick_55_1 === En funksjon som lar deg randomisere ord i meldingene dine som effektivt forhindrer spamming.
 and_admin_api_3 === Administrasjons-API
 and_admin_fileman_3 === Malredigering
 and_admin_gate_3 === SMS-gatewayer
-and_admin_gate_8 === Legg til gateway
 and_admin_lang_6 === Bestill språk på nytt
-and_admin_mark_3 === Markedsføring
-and_admin_mark_6 === Slett valgte elementer
-and_admin_mark_12 === Trykk
-and_admin_mark_17 === Gi beskjed
-and_admin_mark_22 === Mailer
 and_admin_payout_3 === Utbetalingsforespørsler
-and_admin_short_3 === Shorteners
 and_admin_short_8 === Legg til Shortener
-and_admin_subs_8 === Legg til abonnement
-and_admin_vouch_6 === Slett valgte elementer
-and_droid_dev_3 === Android-enheter
-and_droid_dev_6 === Les dokumentasjon
-and_droid_dev_8 === Dokumenter
 and_droid_dev_11 === Søk om å bli en partnergatewayleverandør
 and_droid_dev_13 === Samarbeid
 and_droid_dev_16 === Registrer en ny Android-enhet
@@ -851,29 +636,21 @@ and_droid_rev_3 === Mottatt SMS
 and_droid_rev_6 === Slett valgte meldinger
 and_droid_sched_6 === Slett valgte elementer
 and_droid_sent_3 === Sendt SMS
-and_droid_sent_6 === Slett valgte elementer
 and_droid_sent_10 === Fjern alle ventende meldinger
 and_droid_sent_14 === Send rask SMS
-and_droid_sent_16 === Rask
 and_droid_sent_19 === Send masse SMS
-and_droid_sent_21 === Bulk
 and_droid_sent_24 === Send masse SMS via Excel
 and_droid_ussd_3 === USSD-forespørsler
-and_droid_ussd_6 === Slett valgte elementer
 and_droid_ussd_10 === Slett alle ventende forespørsler
 and_droid_ussd_14 === Ny USSD-forespørsel
-and_droid_ussd_16 === Be om
 and_con_grp_6 === Slett valgte elementer
 and_con_grp_10 === Legg til ny kontaktgruppe
-and_con_sav_6 === Slett valgte elementer
 and_con_sav_10 === Legg til ny kontakt
 and_con_sav_15 === Importer kontakter fra excel-fil
 and_con_unsub_3 === Avmeldt
-and_con_unsub_6 === Slett valgte elementer
 and_doc_act_3 === Handlinger
 and_doc_api_3 === API-dokumentasjon
 and_doc_dev_3 === Enheter
-and_doc_partner_3 === Samarbeid
 and_doc_webhook_3 === Webhooks
 and_rate_gate_3 === Priser
 and_rate_gate_10 === Land
@@ -886,21 +663,12 @@ and_tool_act_8 === Dokumenter
 and_tool_act_11 === Legg til ny krokhandling
 and_tool_act_13 === Krok
 and_tool_act_16 === Legg til ny automatisk svarhandling
-and_tool_act_18 === Automatisk svar
-and_tool_key_6 === Les dokumentasjon
-and_tool_key_8 === Dokumenter
 and_tool_key_11 === Opprett en ny API-nøkkel
-and_tool_webhook_6 === Les dokumentasjon
-and_tool_webhook_8 === Dokumenter
 and_what_accnt_6 === Koble til en ny konto
-and_what_accnt_8 === Legg til konto
 and_what_attach_8 === Slett valgte meldinger
 and_what_rev_3 === Mottatt chatter
-and_what_rev_6 === Slett valgte elementer
 and_what_sched_6 === Slett valgte elementer
-and_what_sched_12 === Planlegg chat
 and_what_sent_3 === Sendte chatter
-and_what_sent_6 === Slett valgte elementer
 and_what_sent_10 === Send Quick Chat
 and_what_sent_12 === Rask
 and_what_sent_15 === Send massechatter
@@ -912,10 +680,8 @@ and_def_f_blck_8 === Bli med oss
 and_def_f_blck_35 === Ta kontakt
 and_head_blck_21 === Hjem
 and_head_blck_24 === Funksjoner
-and_head_blck_27 === Prissetting
 and_head_blck_30 === Kunder
 and_head_blck_39 === Dashbord
-and_head_blck_42 === Logg ut
 and_pages_default_8 === SMS- og WhatsApp-markedsføring på sitt beste
 and_pages_default_29 === SMS-meldinger
 and_pages_default_31 === Bruk Android-enhetene dine som SMS-gateway, dette er faktisk billigere enn å bruke tredjeparts-gatewayer.
@@ -929,11 +695,9 @@ and_pages_default_73 === Hvorfor bruke tjenesten vår?
 and_pages_default_74 === Her er noen grunner til at du bør begynne å bruke tjenesten vår
 and_pages_default_84 === Rask og massesending
 and_pages_default_86 === Send tonnevis av meldinger til forskjellige kontaktgrupper enkelt, og du kan også sende raske meldinger for raske transaksjoner. Plattformen vår inkluderer også live dashboard, få varsler når meldingene dine sendes eller mottas!
-and_pages_default_89 === Kortkoder
 and_pages_default_89_1 === for å komponere meldingene dine med forhåndsdefinerte data.
 and_pages_default_90 === Spinntaks
 and_pages_default_90_1 === for randomisering av et sett med ord for å bekjempe spamming-problemer.
-and_pages_default_91 === Oversetter
 and_pages_default_91_1 === for å målrette målgruppen basert på deres språk.
 and_pages_default_98 === Automatiserte og smarte verktøy
 and_pages_default_100 === Administrer virksomheten din mens vi tar oss av det skitne arbeidet, plattformen vår er smart og trenger bare meldingene du vil sende, så gjør vi resten!
@@ -955,17 +719,12 @@ and_pages_default_156 === Intuitive verktøy og dashbord
 and_pages_default_159 === Rask og forsinkelsesfri opplevelse mens du markedsfører produktene dine
 and_pages_default_171 === Tjenestepriser
 and_pages_default_187 === Send SMS
-and_pages_default_194 === SMS motta
-and_pages_default_201 === WhatsApp Send
-and_pages_default_208 === WhatsApp Motta
 and_pages_default_215 === USSD
 and_pages_default_222 === Varsler
-and_pages_default_229 === Planlagte SMS/chatter
 and_pages_default_236 === Kontakter
 and_pages_default_243 === API-nøkler
 and_pages_default_250 === Webhooks
 and_pages_default_257 === Handlinger
-and_pages_default_264 === Android-enheter
 and_pages_default_271 === WhatsApp-kontoer
 and_pages_default_287 === Våre kunder
 and_pages_default_290 === Stolt på av over 3000+ kunder. Begynn å markedsføre produktene dine og få virksomheten din til å vokse med oss!
@@ -1330,10 +1089,6 @@ form_fullname === Fullt navn
 form_cpassword === bekreft passord
 form_haveaccount === Jeg har en konto
 datatable_processing === Behandler, vennligst vent...
-datatable_length === Viser _MENU_ oppføringer
-datatable_info === Viser _START_ til _END_ av _TOTAL_ oppføringer
-datatable_empty === Viser 0 til 0 av 0 oppføringer
-datatable_filtered === (filtrert fra totalt _MAX_ oppføringer)
 datatable_loading === Laster Vennligst vent...
 datatable_zero === Vi finner ikke noe som samsvarer med søket ditt!
 datatable_null === Det er ingen data å vise!
@@ -2403,7 +2158,6 @@ js_calendarall_monoct === oktober
 js_calendarall_monnov === november
 js_calendarall_mondec === desember
 response_ussddelete_success === USSD-forespørsel er slettet!
-response_titanecho_invaltoken === Systemkonfigurasjonsfeil!
 widgets_addplugin_loader === Installerer ny plugin til systemet
 widgets_addwhatsapp_newmodal === Koble til WhatsApp ved å klikke på knappen for å vise QR-koden, og skann den deretter via _8880_-knappen i appen. Du har bare 15 sekunder på deg til å skanne QR-koden.
 widgets_addwhatsapp_newmodal2 === _8880_ har utløpt. Hvis kontoen din er koblet til eller ikke, klikk på knappen nedenfor.
@@ -2419,7 +2173,6 @@ widget_waquick_requireaccountnew1 === WhatsApp-konto
 requests_whatsapp_notavail === WhatsApp-serveren er utilgjengelig!
 requests_whatsapp_unablegenqr === Kan ikke generere WhatsApp QRCode!
 requests_charts_commisionstitle === Provisjoner
-requests_token_refreshecho === Token for _8880_ har blitt oppdatert!
 requests_remote_smscampaignresumed === SMS-kampanjen er gjenopptatt!
 requests_remote_smscampaignpaused === SMS-kampanjen er satt på pause!
 requests_remote_wacampaignresumed === WhatsApp-kampanjen er gjenopptatt!
@@ -2500,8 +2253,6 @@ table_android_copydeviceid === Kopier enhets unike ID
 table_partnerrates_devicename === Enhetsnavn
 widget_fetchgroups_titlefetch === Hent grupper
 widget_fetchgroups_loaderfetch === Henter grupper fra kontoen
-pages_admin_tokenrefreshbutt === Token
-pages_admin_tokenrefreshbutthelp === Oppdater socket-kommunikasjonstokenet. Hvis systemet ikke viser noen live toast-varsler eller ikke oppdaterer i sanntid, vennligst klikk på denne knappen.
 pages_admin_cachehelp === Tøm hele systembufferen. Advarsel! Dette vil også tømme cacher relatert til API, autentisering og betaling. Det anbefales kun å gjøre dette ved oppgradering av systemet.
 pages_admin_themehelp === Endre nettstedmal og design.
 pages_admin_systemsettingshelp === Juster viktige systeminnstillinger.
@@ -2600,7 +2351,6 @@ app_fetching_messages === Henter meldinger
 app_fetching_ussd === Henter USSD
 app_campaign_resumed === Sending gjenopptatt for kampanje:
 app_campaign_paused === Sending midlertidig stoppet for kampanje:
-js_response_titanechorefreshdesc === Oppdatere token for sanntids socket-kommunikasjon?
 form_wa_templatetype_knownissue === Kjent problem
 form_wa_templatetype_knownissuedesc === Denne typen WhatsApp-meldinger vises ikke riktig på iOS. WhatsApp iOS-appen vil vise en tom melding.
 app_response_devicealreadylinked === Denne enheten var allerede koblet til en annen konto!
@@ -3076,6 +2826,9 @@ flow_header_title === Flytbygger
 flow_response_saved === Flyt lagret!
 flow_response_nofile === Ingen fil lastet opp eller opplastingsfeil!
 flow_response_fileuploaded === Filen lastet opp vellykket
+flow_response_ai_key_required === Velg en AI-nøkkel for hver AI-svarnode!
+flow_response_file_too_large === Den opplastede filen er for stor, maksimal størrelse er 10 MB!
+flow_response_invalid_filetype === Denne filtypen er ikke tillatt!
 flow_modal_upload_title === Last opp fil
 flow_modal_upload_button_select === Velg fil
 flow_modal_upload_button_upload === Last opp
@@ -3200,3 +2953,23 @@ flowjs_node_pause_duration_placeholder === Skriv inn varighet i sekunder (0 = ue
 flowjs_node_resume === Fortsett
 flowjs_node_resume_context === Kontekst
 flowjs_node_resume_description === Gjenopptar pause i automatiske svar
+modal_adminsettings_currencyapikey === API-nøkkel for valutakurs
+modal_adminsettings_currencyapikeyinfo === Din egen API-nøkkel fra valutakursleverandøren. Valutaomregning forblir deaktivert til denne er angitt.
+modal_adminsettings_realtimetitle === Sanntidsvarsler
+modal_adminsettings_realtimeinfo === Sanntidsoppdateringer bruker Pusher-protokollen. Velg Pushers vertstjeneste eller en hvilken som helst kompatibel server som Sockety, Soketi eller Reverb. La legitimasjonen stå tom for å slå av sanntid.
+modal_adminsettings_realtimeappid === App-ID
+modal_adminsettings_realtimekey === App-nøkkel
+modal_adminsettings_realtimesecret === App-hemmelighet
+modal_adminsettings_realtimecluster === Klynge
+modal_adminsettings_realtimehost === Server-URL
+modal_adminsettings_realtimehostinfo === Den fullstendige adressen til serveren din, for eksempel https://sockets.example.com:6001
+modal_adminsettings_realtimedriver === Leverandør
+modal_adminsettings_realtimedriverpusher === Pusher (sky)
+modal_adminsettings_realtimedrivercompatible === Kompatibel server (egen drift)
+modal_adminsettings_realtimecredentials === Hent legitimasjonen fra Pusher-kontrollpanelet
+modal_adminsettings_realtimeconfigured === Konfigurert
+modal_adminsettings_realtimekeepblank === La stå tomt for å beholde gjeldende verdi
+modal_adminsettings_realtimetest === Test tilkobling
+js_realtime_testing === Tester sanntidstilkoblingen...
+response_realtime_testok === Sanntidstilkoblingen lyktes!
+response_realtime_testfailed === Sanntidstilkoblingen mislyktes. Kontroller legitimasjonen og server-URL-en.

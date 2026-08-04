@@ -11,18 +11,12 @@ and_dashboard_pages_defailt_line37 === תעריפי שער
 and_dashboard_pages_default_line42 === מסמכים
 and_dashboard_pages_default_line58 === הודעות
 and_dashboard_pages_default_line60 === 7 ימים אחרונים
-and_dashboard_pages_default_line74 === אירועים
-and_dashboard_pages_default_line76 === 7 ימים אחרונים
-and_dashboard_pages_default_line90 === כלי עזר
-and_dashboard_pages_default_line92 === 7 ימים אחרונים
-and_dashboard_pages_default_line109 === שותפים
 and_dashboard_pages_default_line117 === רווחים
 and_dashboard_pages_default_line131 === תשלום
 and_dashboard_pages_default_line140 === איזון
 and_dashboard_pages_default_line148 === נקודות זכות
 and_dashboard_pages_default_line162 === הטעינו
 and_dashboard_pages_default_line170 === יחס משלוח
-and_dash_pg_def_line178 === הַצלָחָה
 and_dash_pg_def_line190 === נִכשָׁל
 and_dash_pg_def_line204 === שולחים
 and_dash_pg_def_line209 === אינך מנוי לאף אחת מחבילות הפרימיום שלנו!
@@ -32,11 +26,9 @@ and_dash_pg_def_line232 === חשבונות
 and_dash_pg_def_line239 === צָמוּד
 and_dash_pg_def_line250 === הורד והתקן את האפליקציה הרשמית שלנו כדי לקבל את חווית המשתמש הטובה ביותר
 and_dash_pg_doc_line10 === מסמכים
-and_dash_pg_doc_line28 === ממשק API
 and_dash_pg_doc_line34 === Webhooks
 and_dash_pg_doc_line40 === פעולות
 and_dash_pg_doc_line46 === מכשירים
-and_dash_pg_doc_line52 === שׁוּתָפוּת
 and_dash_pg_for_line29 === לְבַטֵל
 and_dash_pg_log_line14 === התחבר עם פייסבוק
 and_dash_pg_log_line17 === התחבר עם גוגל
@@ -50,15 +42,10 @@ and_dash_pg_reg_line20 === הירשם בגוגל
 and_dash_pg_reg_line25 === הירשם ב-VKontakte
 and_dash_pg_whats_line10 === וואטסאפ
 and_dash_pg_whats_line10_1 === בטא
-and_dash_pg_whats_line28 === נשלח
 and_dash_pg_whats_line34 === קיבלו
 and_dash_pg_whats_line40 === מתוזמן
 and_dash_pg_whats_line46 === חשבונות
-and_dash_api_line17 === שם מפתח.
-and_dash_api_line19 === לְמָשָׁל. עבור השרת שלי
-and_dash_api_line24 === הרשאות מפתח.
 and_dash_auto_line17 === שם הפעולה.
-and_dash_auto_line19 === לְמָשָׁל. מיכאל
 and_dash_auto_line24 === מָקוֹר
 and_dash_auto_line24_1 === מקור אירוע קבלה.
 and_dash_auto_line27 === סמס
@@ -75,23 +62,16 @@ and_dash_cre_line28 === לִרְכּוֹשׁ
 and_dash_gate_line17 === שֵׁם
 and_dash_gate_line17_1 === זהו שם השער שיוצג למשתמשים שלך.
 and_dash_gate_line19 === לְמָשָׁל. טוויליו
-and_dash_gate_line24 === בקר
 and_dash_gate_line24_1 === בחר את קובץ בקר השער, זה יכיל את הלוגיקה והקוד של השער שלך. מומלץ לבדוק את התיעוד.
-and_dash_gate_line27 === לוחית בקר:
 and_dash_gate_line34 === התקשר חזרה
 and_dash_gate_line34_1 === אם מופעלת, יהיה צורך לאמת את ההודעות באמצעות תכונת ההתקשרות חזרה של שער הצד השלישי עבור סטטוס השליחה, אחרת, ההודעות יסומנו מיד כנשלחות עם השליחה.
-and_dash_gate_line37 === לְאַפשֵׁר
-and_dash_gate_line38 === השבת
 and_dash_gate_line44 === זיהוי התקשרות חוזרת
 and_dash_gate_line44_1 === אם התקשרות חוזרת מופעלת, עליך להעתיק מזהה זה ולהדביק אותו לבקר שלך כדי שהמערכת תוכל לזהות את ההתקשרות חזרה.
 and_dash_gate_line47 === העתק והדבק לזיהוי התקשרות חוזרת
-and_dash_gate_line54 === תמחור
 and_dash_gate_line54_1 === טבלת התמחור המותאמת אישית שלך עבור שער זה. זה יאפשר לך לגבות על המחירים של צד שלישי. לדוגמה, אם twilio גובה 0.01 עבור מדינה מסוימת, אז אתה יכול לגבות 0.02 במקום זאת, המטבע מבוסס על מטבע המערכת שלך. אנא עקוב אחר פורמט התמחור כראוי.
 and_dash_gate_line57 === תמחור JSON לדוגמה:
-and_dash_gate_line57_1 === הורד
 and_dash_grp_line17 === שם קבוצה.
 and_dash_grp_line19 === לְמָשָׁל. חברים
-and_dash_hook_line17 === שם הפעולה.
 and_dash_hook_line19 === לְמָשָׁל. מבחן פעולה
 and_dash_hook_line24 === מָקוֹר
 and_dash_hook_line24_1 === מקור האירוע.
@@ -100,8 +80,6 @@ and_dash_hook_line44 === מבנה קישור Hook, זוהי כתובת האתר 
 and_dash_hook_line51 === קבוצה של משתנים שאתה יכול להשתמש בכתובת ה-hook שלך.
 and_dash_hook_line27 === סמס
 and_dash_hook_line28 === וואטסאפ
-and_dash_hook_line37 === בשלח
-and_dash_hook_line38 === על קבלה
 and_dash_lang_line17 === שם השפה.
 and_dash_lang_line19 === לְמָשָׁל. קוריאנית
 and_dash_lang_line24 === קוד מדינה.
@@ -110,19 +88,14 @@ and_dash_lang_line35_1 === אם מופעל, השפה תזוהה ככיוון מ�
 and_dash_lang_line38 === כן
 and_dash_lang_line39 === לא
 and_dash_lang_line45 === מחרוזות תרגום.
-and_dash_mail_line17 === כותרת
 and_dash_mail_line17_1 === כותרת דואר.
-and_dash_mail_line19 === לְמָשָׁל. הַכרָזָה
 and_dash_mail_line24 === משתמשים
 and_dash_mail_line24_1 === שלח על ידי משתמשים.
-and_dash_mail_line36 === תפקידים
 and_dash_mail_line36_1 === שלח לפי תפקידים.
 and_dash_mail_line48 === תוֹכֶן
 and_dash_mail_line48_1 === תוכן דואר, HTML מותר.
 and_dash_mail_line50 === שלום עולם!
-and_dash_not_line17 === כותרת
 and_dash_not_line17_1 === הודע לכותרת.
-and_dash_not_line19 === לְמָשָׁל. הַכרָזָה
 and_dash_not_line24 === הוֹדָעָה
 and_dash_not_line24_1 === הודע הודעה.
 and_dash_not_line31 === צֶבַע
@@ -130,13 +103,8 @@ and_dash_not_line31_1 === הודע צבע.
 and_dash_not_line35 === הַצלָחָה
 and_dash_not_line36 === אַזהָרָה
 and_dash_not_line37 === סַכָּנָה
-and_dash_not_line43 === תמונה
 and_dash_not_line43_1 === הודע לתמונה, זה אופציונלי.
-and_dash_not_line46 === אופציונאלי
 and_dash_not_line53 === משתמשים
-and_dash_not_line53_1 === שידור על ידי משתמשים.
-and_dash_not_line65 === תפקידים
-and_dash_not_line65_1 === משודר לפי תפקידים.
 and_pack_line17 === שם חבילה.
 and_pack_line19 === לְמָשָׁל. חבילת VIP
 and_pack_line24 === מחיר החבילה, זה צריך להיות בהתאם למטבע המערכת. ערכים צפים אינם מותרים.
@@ -151,33 +119,25 @@ and_pack_line65_1 === המספר המרבי של הודעות שיכול להת�
 and_pack_line67 === לְמָשָׁל. 150
 and_pack_line72 === מגבלת USSD
 and_pack_line72_1 === המספר המרבי של ussd שניתן לבקש על ידי המשתמש לפני האיפוס. הזן 0 עבור ללא הגבלה.
-and_pack_line74 === לְמָשָׁל. 25
 and_pack_line79 === מגבלת התראות
 and_pack_line79_1 === המספר המרבי של התראות שיכול להתקבל על ידי המשתמש לפני האיפוס. הזן 0 עבור ללא הגבלה.
 and_pack_line81 === לְמָשָׁל. 1300
 and_pack_line86 === המספר המרבי של מכשירי אנדרואיד שניתן לקשר לחשבון המשתמש. הזן 0 עבור ללא הגבלה.
-and_pack_line88 === לְמָשָׁל. 25
 and_pack_line92 === הגדרות WhatsApp
 and_pack_line97 === המספר המרבי של צ'אטים שיכול להישלח על ידי המשתמש לפני האיפוס. הזן 0 עבור ללא הגבלה.
-and_pack_line99 === לְמָשָׁל. 300
 and_pack_line104 === המספר המרבי של צ'אטים שיכול להתקבל על ידי המשתמש לפני האיפוס. הזן 0 עבור ללא הגבלה.
-and_pack_line106 === לְמָשָׁל. 150
 and_pack_line111 === מגבלת חשבון
 and_pack_line111_1 === המספר המרבי של חשבונות WhatsApp שניתן לקשר לחשבון המשתמש. הזן 0 עבור ללא הגבלה.
 and_pack_line113 === לְמָשָׁל. 10
 and_pack_line117 === הגדרות Utility
 and_pack_line122 === המספר המרבי של אנשי קשר שניתן לשמור על ידי המשתמש. הזן 0 עבור ללא הגבלה.
-and_pack_line124 === לְמָשָׁל. 25
 and_pack_line129 === מגבלה מתוזמנת
 and_pack_line129_1 === המספר המרבי של הודעות/צ'אטים מתוזמנים שניתן לשמור על ידי המשתמש. הזן 0 עבור ללא הגבלה. זה משולב הן עבור sms והן בווטסאפ.
-and_pack_line131 === לְמָשָׁל. 25
 and_pack_line136 === המספר המרבי של מפתחות API שניתן ליצור. הזן 0 עבור ללא הגבלה.
-and_pack_line138 === לְמָשָׁל. 10
 and_pack_line143 === המספר המרבי של Webhooks שניתן ליצור. הזן 0 עבור ללא הגבלה.
 and_pack_line145 === לְמָשָׁל. 5
 and_pack_line150 === מגבלת פעולות
 and_pack_line150_1 === המספר המרבי של פעולות שניתן ליצור. הזן 0 עבור ללא הגבלה.
-and_pack_line152 === לְמָשָׁל. 5
 and_page_line17 === שם עמוד.
 and_page_line24 === רק תפקידים נבחרים יוכלו לגשת לדף זה.
 and_page_line35 === אם מופעל, הדף לא יהיה נגיש אם לא מחובר.
@@ -189,13 +149,10 @@ and_payout_line24 === ספק
 and_payout_line24_1 === בחר את ספק התשלומים שבו ברצונך להשתמש כדי לקבל את הכסף.
 and_payout_line27 === Paypal
 and_payout_line28 === Payoneer
-and_payout_line34 === כתובת לתשלום
 and_payout_line34_1 === כתובת תשלום או אימייל, אנא בדוק היטב כדי למנוע בעיות תשלום.
 and_payout_line36 === לְמָשָׁל. האימייל שלך ב-PayPal
-and_payout_line43 === בַּקָשָׁה
 and_plug_line17 === קובץ פלאגין
 and_plug_line17_1 === תוסף קובץ zip, אנא הקפד לבחור את הקובץ הנכון.
-and_push_line17 === כותרת
 and_push_line17_1 === דחוף כותרת.
 and_push_line19 === לְמָשָׁל. הַכרָזָה
 and_push_line24 === תמונה
@@ -205,7 +162,6 @@ and_push_line34 === הוֹדָעָה
 and_push_line34_1 === הודעת דחיפה.
 and_push_line41 === משתמשים
 and_push_line41_1 === שידור על ידי משתמשים.
-and_push_line53 === תפקידים
 and_push_line53_1 === משודר לפי תפקידים.
 and_role_line17 === שם תפקיד.
 and_role_line19 === לְמָשָׁל. מפתח
@@ -224,19 +180,14 @@ and_sms_line31 === אם מופעלת, ההודעה תתוזמן בכל פעם ש
 and_sms_line42 === מספרי E.164 מרובים מופרדים על ידי מעבר שורה.
 and_sms_line55 === בחר קבוצות אנשי קשר מרובות
 and_sms_line67 === מקצר
-and_sms_line67_1 === אם מופעל, הקישורים בהודעות יקוצרו אוטומטית באמצעות המקצר שנבחר.
 and_sms_line70 === אל תקצר קישורים
 and_sms_line79 === מצב שער
-and_sms_line79_1 === מצב השער שבו ברצונך להשתמש. אם תבחר במכשירים, המכשירים המקושרים שלך יוצגו לשליחה, אחרת יוצגו שערים של צד שלישי ושותפים.
 and_sms_line82 === מכשירים
 and_sms_line83 === נקודות זכות
 and_sms_line88 === חריץ לכרטיס סים לשימוש.
-and_sms_line91 === SIM1
-and_sms_line92 === SIM2
 and_sms_line97 === תבניות ההודעות המוכנות מראש שלך.
 and_sms_line110 === המכשירים המקושרים שלך, בחר במה אתה רוצה להשתמש לשליחה.
 and_sms_line121 === שער SMS
-and_sms_line121_1 === שערים של צד שלישי ושותפים, הקרדיטים שלך ישמשו כשאתה שולח הודעות באמצעות שערים אלה. אנו ממליצים לבדוק את מחירי השער לפני השימוש בהם.
 and_sms_line141 === ספינטקס
 and_sms_line144 === דוגמא:
 and_sms_line144_1 === תום הוא א
@@ -270,8 +221,6 @@ and_user_line31 === הזן סיסמת משתמש.
 and_user_line38 === אזור זמן של מיקום המשתמש, שנה זאת אם הוא נמצא במדינה אחרת. אזור הזמן משמש לדיוק התאריך והשעה של ההודעות שנשלחו ונתונים אחרים.
 and_user_line49 === מדינה
 and_user_line49_1 === מדינת המשתמש, זה משמש לתשלומים ועיצוב מספרי טלפון.
-and_user_line60 === צלילי הודעה
-and_user_line60_1 === אם מושבת, ההתראות יהיו שקטות.
 and_user_line70 === בחר תפקיד משתמש.
 and_user_line81 === בחר שפת משתמש.
 and_user_line92 === תוכנית שותפים
@@ -280,17 +229,12 @@ and_ussd_line17 === קוד USSD
 and_ussd_line17_1 === קוד בקשת USSD.
 and_ussd_line19 === לְמָשָׁל. *121#
 and_ussd_line24 === חריץ לכרטיס סים לשימוש.
-and_ussd_line27 === SIM1
-and_ussd_line28 === SIM2
 and_ussd_line34 === המכשירים המקושרים שלך, בחר במה אתה רוצה להשתמש עבור בקשת ussd.
 and_ussd_line47 === בַּקָשָׁה
 and_vouch_line17 === שם השובר.
 and_vouch_line19 === לְמָשָׁל. מיוחד
 and_vouch_line24 === כמות השוברים שברצונך ליצור. הערך המקסימלי הוא 1000!
 and_vouch_line26 === לְמָשָׁל. 100
-and_vouch_line31 === משך המנוי.
-and_vouch_line33 === לְמָשָׁל. 12
-and_vouch_line38 === חבילת מנוי.
 and_web_line17 === שם Webhook.
 and_web_line24 === קבלת אירועים
 and_web_line24_1 === בחר את אירועי הקבלה שאתה צריך, הם יישלחו לכתובת ה-web hook שלך באמצעות שיטת POST.
@@ -300,18 +244,11 @@ and_web_line29 === USSD
 and_web_line30 === התראות
 and_web_line36 === כתובת האתר שלך ל-webhook, כל נתוני המטען יישלחו לכאן באמצעות שיטת POST.
 and_web_line38 === לְמָשָׁל. http://yourdomain.com/hook_listen.php
-and_whatssched_line17 === שם הצ'אט המתוזמן.
-and_whatssched_line19 === לְמָשָׁל. ההודעה שלי
-and_whatssched_line24 === בחר תאריך לוח זמנים.
-and_whatssched_line26 === לְמָשָׁל. 22/06/2020 בשעה 12:00
 and_whatssched_line31 === אם מופעל, הצ'אט יתוזמן בכל פעם שהתאריך המתוכנן תואם.
 and_whatssched_line42 === מספרי E.164 מרובים מופרדים על ידי מעבר שורה.
-and_whatssched_line55 === בחר קבוצות אנשי קשר מרובות
 and_whatssched_line67 === מקצר
-and_whatssched_line67_1 === אם מופעל, הקישורים בהודעות יקוצרו אוטומטית באמצעות המקצר שנבחר.
 and_whatssched_line70 === אל תקצר קישורים
 and_whatssched_line79 === חֶשְׁבּוֹן
-and_whatssched_line79_1 === בחר את חשבון WhatsApp שאתה רוצה להשתמש בו.
 and_whatsached_line88 === תבניות ההודעות המוכנות מראש שלך.
 and_whatssched_line103 === ספינטקס
 and_whatssched_line103_1 === תכונה המאפשרת לך לעשות אקראי מילים בהודעות שלך אשר מונעת למעשה זיהוי ספאם.
@@ -366,14 +303,11 @@ and_admin_build_line95_1 === לוגו תמונת התחברות לאפליקצי
 and_admin_build_line103 === סמל תמונת האפליקציה, זה מוצג במגירת האפליקציות ובמערכת אנדרואיד. המידות המומלצות הן 1024x1024 בפורמט px ו-png.
 and_admin_build_line111 === תמונת מסך הפתיחה של האפליקציה, זו מוצגת כאשר המשתמש פותח את האפליקציה. המידות המומלצות הן 2732x2732 בפורמט px ו-png.
 and_admin_build_line118 === מִבְנֶה
-and_admin_build_line123 === JavaScript מותאם אישית
 and_admin_build_line123_1 === אם אתה רוצה להשתמש בקוד javascript מותאם אישית, הוסף אותו כאן. זה נטען באופן דינמי באפליקציה.
 and_admin_build_line125 === למשל, alert('Hello World!');
-and_admin_build_line130 === CSS מותאם אישית
 and_admin_build_line130_1 === אם אתה רוצה להשתמש בקוד css מותאם אישית, הוסף אותו כאן. זה נטען באופן דינמי באפליקציה.
 and_admin_build_line137 === פריסה מותאמת אישית
 and_admin_build_line137_1 === אם אתה רוצה להשתמש במבנה אפליקציה מותאם אישית, אנא שנה את תוכן ה-html, אם אינך יודע מה אתה עושה, השאר את ערך ברירת המחדל.
-and_admin_build_line139 === שלום עולם!
 and_settings_line21 === שם האתר, זה מוצג בכל מקום שבו יש צורך במיתוג.
 and_settings_line23 === לְמָשָׁל. זנדר
 and_settings_line28 === תיאור האתר, זה מיועד לאופטימיזציה למנועי חיפוש, אז היו יצירתיים.
@@ -388,14 +322,12 @@ and_settings_line70 === אם מושבת, לא תתאפשר הרשמות דרך �
 and_settings_line80 === מצב איפוס חבילה
 and_settings_line80_1 === מרווח האיפוס של מגבלות כגון שליחה, קבלה, ussd והודעות. זה חל על תכונות אנדרואיד ו- WhatsApp כאחד. הבחירה שלך כאן חייבת להיות מיושמת גם בהגדרת cron.
 and_settings_line83 === יומי
-and_settings_line84 === יַרחוֹן
 and_settings_line90 === דגם חינם
 and_settings_line90_1 === אם מופעל, חבילת ברירת המחדל החינמית מוקצית אוטומטית למשתמש לאחר ההרשמה.
 and_settings_line100 === אם מושבת, דף הבית לא ישמש. כל הביקורים בספריית השורש יופנו למרכז השליטה.
 and_settings_line110 === ווידג'ט צ'אט TAWK
 and_settings_line110_1 === אם מופעל, ווידג'ט צ'אט tawk יופיע למשתמשים.
 and_settings_line120 === קישור הווידג'ט שלך ל-tawk chat, זה נדרש אם ברצונך להשתמש בתמיכה בצ'אט tawk.
-and_settings_line127 === ממשק ממשק API
 and_settings_line127_1 === בחר את נקודות הקצה של ממשק ה-API שברצונך להפעיל. מומלץ להפעיל רק נקודות קצה שאתה צריך.
 and_settings_line159 === אסור לשתף את האסימון הזה עם אף אחד. זה משמש לאבטחת cronjobs, מערכת API ובקשות חיצוניות אחרות. אם אתה חושב שאסימון המערכת שלך נפרץ, נא ליצור מחדש אחד חדש, תצטרך להגדיר מחדש את ה-cronjobs, ה-API של המערכת והגדרות קשורות אחרות לאחר יצירת אסימון חדש.
 and_settings_line160 === לְהִתְחַדֵשׁ
@@ -419,9 +351,7 @@ and_settings_line263 === לְמָשָׁל. test_4vzuJVhRCFSyNyuc6gwvJpQ474Vngp
 and_settings_line268 === מטבע המערכת שיש להשתמש בו, זה ישמש כבסיס בעת המרת עסקאות לדולר ארה"ב.
 and_settings_line279 === בחר את ספקי התשלומים שבהם ברצונך להשתמש.
 and_settings_line293 === מינימום תווים להודעות. זה תקף גם ל-SMS וגם לוואטסאפ.
-and_settings_line295 === לְמָשָׁל. 5
 and_settings_line300 === מקסימום תווים להודעות. זה תקף גם ל-SMS וגם לוואטסאפ. הזן 0 עבור אינסוף תווים.
-and_settings_line302 === לְמָשָׁל. 300
 and_settings_line307 === סימן כותרת תחתונה של הודעה, זה מצורף להודעות אם החבילה שלהם מופעלת בסימן תחתונה.
 and_settings_line309 === לְמָשָׁל. נשלח מ-Zender System
 and_settings_line318 === מספר השורות המוגדר כברירת מחדל להצגה בטבלת ההודעות שנשלחו. זה תקף גם ל-SMS וגם לוואטסאפ.
@@ -484,16 +414,11 @@ and_edit_auto_line36 === לְמָשָׁל. תודה, בסדר, הירשם, כן
 and_edit_auto_line41 === ההודעה שתישלח לשולח.
 and_edit_auto_line43 === לְמָשָׁל. הודעת התשובה שלך כאן, קודים קצרים מתקבלים
 and_edit_auto_line48 === קבוצת משתנים שתוכל להשתמש בה בהודעה שלך.
-and_edit_con_line17 === שם איש קשר.
 and_edit_con_line19 === לְמָשָׁל. מיכאל
-and_edit_con_line24 === מספר איש קשר.
-and_edit_con_line31 === קבוצת קשר.
-and_edit_dev_line16 === פרטי מכשיר
 and_edit_dev_line21 === שם התקן.
 and_edit_dev_line23 === לְמָשָׁל. המכשיר שלי
 and_edit_dev_line28 === אם מופעל, הודעות יישלחו במרווחים אקראיים בין 2 ערכים. אתה יכול להגדיר אותם למטה.
 and_edit_dev_line38 === המרווח המינימלי בשניות.
-and_edit_dev_line41 === לְמָשָׁל. 5
 and_edit_dev_line46 === המרווח המרבי בשניות.
 and_edit_dev_line49 === לְמָשָׁל. 20
 and_edit_dev_line53 === הגדרות התראות
@@ -514,109 +439,25 @@ and_edit_dev_line112_1 === בחר את חריצי ה-SIM שבהם תרצה לה�
 and_edit_email_line16 === תבנית דואר אלקטרוני
 and_edit_email_line18 === HTML מותר
 and_edit_gate_line17 === שֵׁם
-and_edit_gate_line17_1 === זהו שם השער שיוצג למשתמשים שלך.
-and_edit_gate_line19 === לְמָשָׁל. טוויליו
-and_edit_gate_line24 === בקר
-and_edit_gate_line24_1 === בחר את קובץ בקר השער, זה יכיל את הלוגיקה והקוד של השער שלך. מומלץ לבדוק את התיעוד.
-and_edit_gate_line31 === התקשר חזרה
-and_edit_gate_line31_1 === אם מופעלת, יהיה צורך לאמת את ההודעות באמצעות תכונת ההתקשרות חזרה של שער הצד השלישי עבור סטטוס השליחה, אחרת, ההודעות יסומנו מיד כנשלחות עם השליחה.
-and_edit_gate_line34 === לְאַפשֵׁר
-and_edit_gate_line35 === השבת
 and_edit_gate_line41 === זיהוי שיחה חוזרת
-and_edit_gate_line41_1 === אם התקשרות חוזרת מופעלת, עליך להעתיק מזהה זה ולהדביק אותו לבקר שלך כדי שהמערכת תוכל לזהות את ההתקשרות חזרה.
-and_edit_gate_line44 === העתק והדבק לזיהוי התקשרות חוזרת
-and_edit_gate_line51 === תמחור
-and_edit_gate_line51_1 === טבלת התמחור המותאמת אישית שלך עבור שער זה. זה יאפשר לך לגבות על המחירים של צד שלישי. לדוגמה, אם twilio גובה 0.01 עבור מדינה מסוימת, אז אתה יכול לגבות 0.02 במקום זאת, המטבע מבוסס על מטבע המערכת שלך. אנא עקוב אחר פורמט התמחור כראוי.
-and_edit_gate_line54 === תמחור JSON לדוגמה:
-and_edit_gate_line54_1 === הורד
-and_edit_grp_line17 === שם קבוצה.
-and_edit_grp_line19 === לְמָשָׁל. חברים
-and_edit_hook_line17 === שם הפעולה.
-and_edit_hook_line19 === לְמָשָׁל. מבחן פעולה
 and_edit_hook_line24 === מָקוֹר
-and_edit_hook_line24_1 === מקור האירוע.
 and_edit_hook_line27 === סמס
 and_edit_hook_line28 === וואטסאפ
-and_edit_hook_line34 === בחר את האירוע שבו יופעל ההוק הזה.
-and_edit_hook_line37 === בשלח
-and_edit_hook_line38 === על קבלה
-and_edit_hook_line44 === מבנה קישור Hook, זוהי כתובת האתר שתופעל על ידי המערכת. רק שיטת GET נתמכת.
-and_edit_hook_line51 === קבוצה של משתנים שאתה יכול להשתמש בכתובת ה-hook שלך.
-and_edit_lang_line17 === לְמָשָׁל. קוריאנית
-and_edit_lang_line30 === RTL
 and_edit_lang_line32 === כן
 and_edit_lang_line33 === לא
-and_edit_pack_line17 === שם חבילה.
-and_edit_pack_line19 === לְמָשָׁל. חבילת VIP
-and_edit_pack_line24 === מחיר החבילה, זה צריך להיות בהתאם למטבע המערכת. ערכים צפים אינם מותרים.
-and_edit_pack_line29 === לְמָשָׁל. 25
-and_edit_pack_line34 === אם מופעל, הודעות וצ'אטים בוואטסאפ יכללו סימן כותרת תחתונה כשהן יתקבלו על ידי הנמענים.
-and_edit_pack_line44 === אם היא מופעלת, החבילה תוסתר מדגם החבילה ומדף הבית.
 and_edit_pack_line53 === הגדרות אנדרואיד
-and_edit_pack_line58 === מגבלת שליחת SMS
-and_edit_pack_line58_1 === המספר המרבי של הודעות שיכול להישלח על ידי המשתמש לפני האיפוס. הזן 0 עבור ללא הגבלה.
-and_edit_pack_line60 === לְמָשָׁל. 300
-and_edit_pack_line65 === מגבלת קבלת SMS
-and_edit_pack_line65_1 === המספר המרבי של הודעות שיכול להתקבל על ידי המשתמש לפני האיפוס. הזן 0 עבור ללא הגבלה.
-and_edit_pack_line67 === לְמָשָׁל. 150
-and_edit_pack_line72 === מגבלת USSD
-and_edit_pack_line72_1 === המספר המרבי של ussd שניתן לבקש על ידי המשתמש לפני האיפוס. הזן 0 עבור ללא הגבלה.
-and_edit_pack_line74 === לְמָשָׁל. 25
 and_edit_pack_line79 === מגבלת התראות
 and_edit_pack_line79_1 === המספר המרבי של התראות שיכול להתקבל על ידי המשתמש לפני האיפוס. הזן 0 עבור ללא הגבלה.
 and_edit_pack_line81 === לְמָשָׁל. 1300
-and_edit_pack_line86 === המספר המרבי של מכשירי אנדרואיד שניתן לקשר לחשבון המשתמש. הזן 0 עבור ללא הגבלה.
-and_edit_pack_line88 === לְמָשָׁל. 25
-and_edit_pack_line92 === הגדרות WhatsApp
-and_edit_pack_line97 === המספר המרבי של צ'אטים שיכול להישלח על ידי המשתמש לפני האיפוס. הזן 0 עבור ללא הגבלה.
-and_edit_pack_line99 === לְמָשָׁל. 300
-and_edit_pack_line104 === המספר המרבי של צ'אטים שיכול להתקבל על ידי המשתמש לפני האיפוס. הזן 0 עבור ללא הגבלה.
-and_edit_pack_line106 === לְמָשָׁל. 150
-and_edit_pack_line111 === מגבלת חשבון
-and_edit_pack_line111_1 === המספר המרבי של חשבונות WhatsApp שניתן לקשר לחשבון המשתמש. הזן 0 עבור ללא הגבלה.
-and_edit_pack_line113 === לְמָשָׁל. 10
-and_edit_pack_line117 === הגדרות Utility
-and_edit_pack_line122 === המספר המרבי של אנשי קשר שניתן לשמור על ידי המשתמש. הזן 0 עבור ללא הגבלה.
-and_edit_pack_line124 === לְמָשָׁל. 25
 and_edit_pack_line129 === מגבלה מתוזמנת
-and_edit_pack_line129_1 === המספר המרבי של הודעות/צ'אטים מתוזמנים שניתן לשמור על ידי המשתמש. הזן 0 עבור ללא הגבלה. זה משולב הן עבור sms והן בווטסאפ.
-and_edit_pack_line131 === לְמָשָׁל. 25
-and_edit_pack_line136 === המספר המרבי של מפתחות API שניתן ליצור. הזן 0 עבור ללא הגבלה.
-and_edit_pack_line138 === לְמָשָׁל. 10
-and_edit_pack_line143 === המספר המרבי של Webhooks שניתן ליצור. הזן 0 עבור ללא הגבלה.
-and_edit_pack_line145 === לְמָשָׁל. 5
-and_edit_pack_line150 === מגבלת פעולות
-and_edit_pack_line150_1 === המספר המרבי של פעולות שניתן ליצור. הזן 0 עבור ללא הגבלה.
-and_edit_pack_line152 === לְמָשָׁל. 5
-and_edit_page_line17 === שם עמוד.
-and_edit_page_line24 === רק תפקידים נבחרים יוכלו לגשת לדף זה.
-and_edit_page_line35 === אם מופעל, הדף לא יהיה נגיש אם לא מחובר.
-and_edit_page_line45 === תוכן הדף. כל תגי ה-html מותרים, היזהר בעת הוספת סקריפטים ממקורות לא ידועים!
-and_edit_role_line17 === שם תפקיד.
-and_edit_role_line19 === לְמָשָׁל. מפתח
-and_edit_role_line24 === בחר הרשאות ותכונות שברצונך להשבית/להפעיל עבור תפקיד זה. שינויים מוחלים בזמן אמת, כרטיסיות הדפדפן של משתמשים מחוברים עם התפקיד נטענות מחדש אוטומטית.
 and_edit_short_line17 === שֵׁם
-and_edit_short_line17_1 === שם מקצר.
-and_edit_short_line19 === לְמָשָׁל. קצת
-and_edit_short_line24 === בקר
-and_edit_short_line24_1 === בחר את קובץ הבקר של המקצר, זה יכיל את הלוגיקה והקוד של המקצר שלך. מומלץ לבדוק את התיעוד.
-and_edit_sms_line17 === שם ההודעה המתוזמנת.
-and_edit_sms_line19 === לְמָשָׁל. ההודעה שלי
-and_edit_sms_line24 === בחר תאריך לוח זמנים.
-and_edit_sms_line26 === לְמָשָׁל. 22/06/2020 בשעה 12:00
 and_edit_sms_line31 === אם מופעלת, ההודעה תתוזמן בכל פעם שהתאריך המתוזמן תואם.
-and_edit_sms_line42 === מספרי E.164 מרובים מופרדים על ידי מעבר שורה.
-and_edit_sms_line55 === בחר קבוצות אנשי קשר מרובות
 and_edit_sms_line67 === מצב שער
-and_edit_sms_line67_1 === מצב השער שבו ברצונך להשתמש. אם תבחר במכשירים, המכשירים המקושרים שלך יוצגו לשליחה, אחרת יוצגו שערים של צד שלישי ושותפים.
 and_edit_sms_line70 === מכשירים
 and_edit_sms_line71 === נקודות זכות
 and_edit_sms_line76 === חריץ לכרטיס סים לשימוש.
-and_edit_sms_line79 === SIM1
-and_edit_sms_line80 === SIM2
 and_edit_sms_line88 === המכשירים המקושרים שלך, בחר במה אתה רוצה להשתמש לשליחה.
 and_edit_sms_line99 === שער SMS
-and_edit_sms_line99_1 === שערים של צד שלישי ושותפים, הקרדיטים שלך ישמשו כשאתה שולח הודעות באמצעות שערים אלה. אנו ממליצים לבדוק את מחירי השער לפני השימוש בהם.
 and_edit_sms_line119 === ספינטקס
 and_edit_sms_line122 === דוגמא:
 and_edit_sms_line122_1 === תום הוא א
@@ -626,8 +467,6 @@ and_edit_sms_line125_1 === טוֹב
 and_edit_sms_line125_2 === ו
 and_edit_sms_line125_3 === רַע
 and_edit_sms_line125_4 === ישמש באופן אקראי.
-and_edit_temp_line17 === שם התבנית.
-and_edit_temp_line24 === פורמט תבנית.
 and_edit_temp_line31 === ספינטקס
 and_edit_temp_line31_1 === תכונה המאפשרת לך לעשות אקראי מילים בהודעות שלך אשר מונעת למעשה זיהוי ספאם.
 and_edit_temp_line35 === דוגמא:
@@ -639,35 +478,16 @@ and_edit_temp_line38_2 === ו
 and_edit_temp_line38_3 === רַע
 and_edit_temp_line38_4 === ישמש באופן אקראי.
 and_edit_temp_line43 === סט משתנים שתוכל להשתמש בהם בהודעות שלך.
-and_eduse_line17 === שמך החוקי המלא, שים לב ששימוש בשם בדוי עלול לגרום להשעיית חשבונך.
-and_eduse_line19 === לְמָשָׁל. מייקל קורס
 and_eduse_line24 === כתובת דוא"ל חוקית, התעלם משדה זה אם ברצונך לשמור את כתובת הדוא"ל הנוכחית.
-and_eduse_line26 === לְמָשָׁל. user@mail.com
 and_eduse_line31 === אם ברצונך לשמור את הסיסמה הנוכחית, אנא התעלם משדה זה, אחרת, הזן סיסמה חדשה.
-and_eduse_line38 === אזור הזמן של המיקום שלך, שנה זאת אם אתה נמצא במדינה אחרת. אזור הזמן משמש לדיוק התאריך והשעה של ההודעות שנשלחו ונתונים אחרים שלך.
 and_eduse_line49 === מדינה
-and_eduse_line49_1 === המדינה שלך, זה משמש לתשלומים ועיצוב מספרי טלפון.
-and_eduse_line60 === צלילי הודעה
-and_eduse_line60_1 === אם מושבת, ההתראות יהיו שקטות.
-and_eduse_line70 === בחר תפקיד משתמש.
-and_eduse_line81 === בחר שפת משתמש.
-and_eduse_line92 === תוכנית שותפים
-and_eduse_line92_1 === אם מופעל, המשתמש יוכל להשתמש במכשירים שלו כמכשירים גלובליים, מה שיאפשר להם להרוויח כסף כאשר משתמשים אחרים ישלחו הודעות באמצעות המכשירים שלהם.
-and_edweb_line17 === שם Webhook.
 and_edweb_line24 === קבלת אירועים
-and_edweb_line24_1 === בחר את אירועי הקבלה שאתה צריך, הם יישלחו לכתובת ה-web hook שלך באמצעות שיטת POST.
 and_edweb_line30 === התראות
-and_edweb_line36 === כתובת האתר שלך ל-webhook, כל נתוני המטען יישלחו לכאן באמצעות שיטת POST.
 and_edweb_line38 === לְמָשָׁל. https://yourdomain.com/reply.php
 and_edwhat_line17 === שם הצ'אט המתוזמן.
-and_edwhat_line19 === לְמָשָׁל. ההודעה שלי
-and_edwhat_line24 === בחר תאריך לוח זמנים.
-and_edwhat_line26 === לְמָשָׁל. 22/06/2020 בשעה 12:00
 and_edwhat_line31 === אם מופעל, הצ'אט יתוזמן בכל פעם שהתאריך המתוכנן תואם.
 and_edwhat_line42 === מספרי E.164 מרובים מופרדים על ידי מעבר שורה.
-and_edwhat_line55 === בחר קבוצות אנשי קשר מרובות
 and_edwhat_line67 === חֶשְׁבּוֹן
-and_edwhat_line67_1 === בחר את חשבון WhatsApp שאתה רוצה להשתמש בו.
 and_edwhat_line76 === תבניות ההודעות המוכנות מראש שלך.
 and_edwhat_line91 === ספינטקס
 and_edwhat_line91_1 === תכונה המאפשרת לך לעשות אקראי מילים בהודעות שלך אשר מונעת למעשה זיהוי ספאם.
@@ -691,34 +511,23 @@ and_edwid_line53 === מיקום יישומון, למודלים בלבד.
 and_edwid_line64 === תוכן יישומון. כל תגי ה-html מותרים, היזהר בעת הוספת סקריפטים ממקורות לא ידועים!
 and_import_line17 === את קובץ האקסל שברצונך לייבא, אנא הקפד לעקוב אחר הפורמט הנדרש.
 and_import_line20 === קובץ לדוגמה:
-and_import_line20_1 === הורד
-and_package_line36 === קבלת SMS
-and_package_line41 === שלח וואטסאפ
-and_package_line46 === קבלה בוואטסאפ
 and_package_line51 === USSD
 and_package_line56 === התראות
-and_package_line61 === SMS/צ'אטים מתוזמנים
 and_package_line66 === אנשי קשר
 and_package_line71 === מפתחות API
 and_package_line76 === Webhooks
 and_package_line81 === פעולות
-and_package_line86 === מכשירי אנדרואיד
 and_package_line91 === חשבונות וואטסאפ
 and_redeem_line18 === לפדות קוד.
 and_redeem_line20 === לְמָשָׁל. 2f5b4727c7c8596779b21d7644e2ebb8
 and_sms_bulk_18 === מספרי E.164 מרובים מופרדים על ידי מעבר שורה. רק הודעה אחת תישלח למספר גם אם בחרת קבוצות שבהן היא נוספה.
 and_sms_bulk_31 === בחר קבוצות אנשי קשר מרובות. רק הודעה אחת תישלח לאיש קשר גם אם בחרת מספר קבוצות שבהן היא נוספה.
 and_sms_bulk_43 === מקצר
-and_sms_bulk_43_1 === אם מופעל, הקישורים בהודעות יקוצרו אוטומטית באמצעות המקצר שנבחר.
 and_sms_bulk_46 === אל תקצר קישורים
 and_sms_bulk_55 === מצב שער
-and_sms_bulk_55_1 === מצב השער שבו ברצונך להשתמש. אם תבחר במכשירים, המכשירים המקושרים שלך יוצגו לשליחה, אחרת יוצגו שערים של צד שלישי ושותפים.
 and_sms_bulk_58 === מכשירים
 and_sms_bulk_59 === נקודות זכות
 and_sms_bulk_64 === חריץ לכרטיס סים לשימוש.
-and_sms_bulk_67 === SIM1
-and_sms_bulk_68 === SIM2
-and_sms_bulk_72 === אם מופעל, הודעות אלה יישלחו לפני כל דבר אחר.
 and_sms_bulk_81 === תבניות ההודעות המוכנות מראש שלך.
 and_sms_bulk_94 === המכשירים המקושרים שלך, בחר במה אתה רוצה להשתמש לשליחה.
 and_sms_bulk_105 === שער SMS
@@ -730,9 +539,7 @@ and_sms_bulk_135 === דוגמא:
 and_sms_bulk_143 === סט משתנים שתוכל להשתמש בהם בהודעות שלך.
 and_sms_exe17 === את קובץ האקסל שברצונך לייבא, אנא הקפד לעקוב אחר הפורמט הנדרש.
 and_sms_exe20 === קובץ לדוגמה:
-and_sms_exe20_1 === הורד
 and_sms_exe27 === מקצר
-and_sms_exe27_1 === אם מופעל, הקישורים בהודעות יקוצרו אוטומטית באמצעות המקצר שנבחר.
 and_sms_exe30 === אל תקצר קישורים
 and_sms_exe39 === מצב שער
 and_sms_exe39_1 === מצב השער שבו ברצונך להשתמש. אם תבחר במכשירים, המכשירים המקושרים שלך יוצגו לשליחה, אחרת יוצגו שערים של צד שלישי ושותפים.
@@ -748,11 +555,9 @@ and_sms_exe97_1 === תכונה המאפשרת לך לעשות אקראי מיל�
 and_sms_exe109 === סט משתנים שתוכל להשתמש בהם בהודעות שלך.
 and_sms_quick17 === מספר טלפון של הנמען.
 and_sms_quick24 === מצב שער
-and_sms_quick24_1 === מצב השער שבו ברצונך להשתמש. אם תבחר במכשירים, המכשירים המקושרים שלך יוצגו לשליחה, אחרת יוצגו שערים של צד שלישי ושותפים.
 and_sms_quick27 === מכשירים
 and_sms_quick28 === נקודות זכות
 and_sms_quick34 === מקצר
-and_sms_quick34_1 === אם מופעל, הקישורים בהודעות יקוצרו אוטומטית באמצעות המקצר שנבחר.
 and_sms_quick37 === אל תקצר קישורים
 and_sms_quick46 === חריץ לכרטיס סים לשימוש.
 and_sms_quick49 === SIM1
@@ -760,13 +565,11 @@ and_sms_quick50 === SIM2
 and_sms_quick56 === אם מופעל, הודעות אלה יישלחו לפני כל דבר אחר.
 and_sms_quick66 === המכשירים המקושרים שלך, בחר במה אתה רוצה להשתמש לשליחה.
 and_sms_quick77 === שער SMS
-and_sms_quick77_1 === שערים של צד שלישי ושותפים, הקרדיטים שלך ישמשו כשאתה שולח הודעות באמצעות שערים אלה. אנו ממליצים לבדוק את מחירי השער לפני השימוש בהם.
 and_sms_quick104 === ספינטקס
 and_sms_quick104_1 === תכונה המאפשרת לך לעשות אקראי מילים בהודעות שלך אשר מונעת למעשה זיהוי ספאם.
 and_sysup17 === עדכן קובץ
 and_sysup17_1 === עדכן את קובץ ה-zip, אנא הקפד לבחור את הקובץ הנכון.
 and_upplug17 === עדכן קובץ
-and_upplug17_1 === עדכן את קובץ ה-zip, אנא הקפד לבחור את הקובץ הנכון.
 and_uset17 === תמונת הדמות שלך בפרופיל.
 and_uset24 === שמך החוקי המלא, שים לב ששימוש בשם בדוי עלול לגרום להשעיית חשבונך.
 and_uset26 === לְמָשָׁל. מייקל שמוק
@@ -793,18 +596,14 @@ and_view20 === תצוגה מלאה
 and_whatsbulk_18 === מספרי E.164 מרובים מופרדים על ידי מעבר שורה.
 and_whatsbulk_31 === בחר קבוצות אנשי קשר מרובות. שים לב שאם לאיש קשר יש מספר קבוצות, ייתכן שההודעה תישלח אליו מספר פעמים אם תבחר בקבוצות שבהן הוא נכלל.
 and_whatsbulk_43 === מקצר
-and_whatsbulk_43_1 === אם מופעל, הקישורים בהודעות יקוצרו אוטומטית באמצעות המקצר שנבחר.
 and_whatsbulk_46 === אל תקצר קישורים
 and_whatsbulk_55 === חֶשְׁבּוֹן
-and_whatsbulk_55_1 === בחר את חשבון WhatsApp שאתה רוצה להשתמש בו.
 and_whatsbulk_64 === תבניות ההודעות המוכנות מראש שלך.
-and_whatsbulk_79 === תרגם את ההודעה.
 and_whatsbulk_84 === ספינטקס
 and_whatsbulk_84_1 === תכונה המאפשרת לך לעשות אקראי מילים בהודעות שלך אשר מונעת למעשה זיהוי ספאם.
 and_whatsbulk_96 === סט משתנים שתוכל להשתמש בהם בהודעות שלך.
 and_whatex17 === את קובץ האקסל שברצונך לייבא, אנא הקפד לעקוב אחר הפורמט הנדרש.
 and_whatex20 === קובץ לדוגמה:
-and_whatex20_1 === הורד
 and_whatex27 === מקצר
 and_whatex27_1 === אם מופעל, הקישורים בהודעות יקוצרו אוטומטית באמצעות המקצר שנבחר.
 and_whatex30 === אל תקצר קישורים
@@ -817,31 +616,17 @@ and_whatex68_1 === תכונה המאפשרת לך לעשות אקראי מילי
 and_whatex80 === סט משתנים שתוכל להשתמש בהם בהודעות שלך.
 and_whatquick_17 === מספר טלפון של נמען E.164.
 and_whatquick_24 === מקצר
-and_whatquick_24_1 === אם מופעל, הקישורים בהודעות יקוצרו אוטומטית באמצעות המקצר שנבחר.
 and_whatquick_27 === אל תקצר קישורים
 and_whatquick_36 === חֶשְׁבּוֹן
-and_whatquick_36_1 === בחר את חשבון WhatsApp שאתה רוצה להשתמש בו.
 and_whatquick_50 === תרגם את ההודעה.
 and_whatquick_55 === ספינטקס
 and_whatquick_55_1 === תכונה המאפשרת לך לעשות אקראי מילים בהודעות שלך אשר מונעת למעשה זיהוי ספאם.
 and_admin_api_3 === ממשק API לניהול
 and_admin_fileman_3 === עורך תבניות
 and_admin_gate_3 === שערי SMS
-and_admin_gate_8 === הוסף שער
 and_admin_lang_6 === סדר מחדש את השפות
-and_admin_mark_3 === שיווק
-and_admin_mark_6 === מחק פריטים נבחרים
-and_admin_mark_12 === לִדחוֹף
-and_admin_mark_17 === לְהוֹדִיעַ
-and_admin_mark_22 === מיילר
 and_admin_payout_3 === בקשות תשלום
-and_admin_short_3 === מקצרים
 and_admin_short_8 === הוסף מקצר
-and_admin_subs_8 === הוסף מנוי
-and_admin_vouch_6 === מחק פריטים נבחרים
-and_droid_dev_3 === מכשירי אנדרואיד
-and_droid_dev_6 === קרא תיעוד
-and_droid_dev_8 === מסמכים
 and_droid_dev_11 === הגש בקשה להיות ספק שער שותף
 and_droid_dev_13 === שׁוּתָפוּת
 and_droid_dev_16 === רשום מכשיר אנדרואיד חדש
@@ -851,29 +636,21 @@ and_droid_rev_3 === התקבל SMS
 and_droid_rev_6 === מחק את ההודעות שנבחרו
 and_droid_sched_6 === מחק פריטים נבחרים
 and_droid_sent_3 === נשלח SMS
-and_droid_sent_6 === מחק פריטים נבחרים
 and_droid_sent_10 === נקה את כל ההודעות הממתינות
 and_droid_sent_14 === שלח SMS מהיר
-and_droid_sent_16 === מָהִיר
 and_droid_sent_19 === שלח SMS בכמות גדולה
-and_droid_sent_21 === תִפזוֹרֶת
 and_droid_sent_24 === שלח SMS בכמות גדולה באמצעות Excel
 and_droid_ussd_3 === בקשות USSD
-and_droid_ussd_6 === מחק פריטים נבחרים
 and_droid_ussd_10 === מחק את כל הבקשות הממתינות
 and_droid_ussd_14 === בקשת USSD חדשה
-and_droid_ussd_16 === בַּקָשָׁה
 and_con_grp_6 === מחק פריטים נבחרים
 and_con_grp_10 === הוסף קבוצת אנשי קשר חדשה
-and_con_sav_6 === מחק פריטים נבחרים
 and_con_sav_10 === הוסף איש קשר חדש
 and_con_sav_15 === ייבא אנשי קשר מקובץ אקסל
 and_con_unsub_3 === בוטל מנוי
-and_con_unsub_6 === מחק פריטים נבחרים
 and_doc_act_3 === פעולות
 and_doc_api_3 === תיעוד API
 and_doc_dev_3 === מכשירים
-and_doc_partner_3 === שׁוּתָפוּת
 and_doc_webhook_3 === Webhooks
 and_rate_gate_3 === תעריפים
 and_rate_gate_10 === מדינה
@@ -886,21 +663,12 @@ and_tool_act_8 === מסמכים
 and_tool_act_11 === הוסף פעולת וו חדשה
 and_tool_act_13 === וו
 and_tool_act_16 === הוסף פעולת תשובה אוטומטית חדשה
-and_tool_act_18 === תשובה אוטומטית
-and_tool_key_6 === קרא תיעוד
-and_tool_key_8 === מסמכים
 and_tool_key_11 === צור מפתח API חדש
-and_tool_webhook_6 === קרא תיעוד
-and_tool_webhook_8 === מסמכים
 and_what_accnt_6 === חבר חשבון חדש
-and_what_accnt_8 === הוסף חשבון
 and_what_attach_8 === מחק את ההודעות שנבחרו
 and_what_rev_3 === צ'אטים שהתקבלו
-and_what_rev_6 === מחק פריטים נבחרים
 and_what_sched_6 === מחק פריטים נבחרים
-and_what_sched_12 === תזמן צ'אט
 and_what_sent_3 === שלח צ'אטים
-and_what_sent_6 === מחק פריטים נבחרים
 and_what_sent_10 === שלח צ'אט מהיר
 and_what_sent_12 === מָהִיר
 and_what_sent_15 === שלח צ'אטים בכמות גדולה
@@ -912,10 +680,8 @@ and_def_f_blck_8 === הצטרף אלינו
 and_def_f_blck_35 === נהיה בקשר
 and_head_blck_21 === בית
 and_head_blck_24 === מאפיינים
-and_head_blck_27 === תמחור
 and_head_blck_30 === לקוחות
 and_head_blck_39 === לוּחַ מַחווָנִים
-and_head_blck_42 === להתנתק
 and_pages_default_8 === שיווק SMS ו-WhatsApp במיטבו
 and_pages_default_29 === הודעות SMS
 and_pages_default_31 === השתמש במכשירי האנדרואיד שלך כשער SMS, זה למעשה זול יותר מאשר שימוש בשערים של צד שלישי.
@@ -929,11 +695,9 @@ and_pages_default_73 === למה להשתמש בשירות שלנו?
 and_pages_default_74 === הנה כמה סיבות מדוע כדאי להתחיל להשתמש בשירות שלנו
 and_pages_default_84 === שליחה מהירה ובכמות גדולה
 and_pages_default_86 === שלח טונות של הודעות לקבוצות אנשי קשר שונות בקלות ותוכל גם לשלוח הודעות מהירות לעסקאות מהירות. הפלטפורמה שלנו כוללת גם לוח מחוונים חי, קבל התראות כאשר ההודעות שלך נשלחות או מתקבלות!
-and_pages_default_89 === קודים קצרים
 and_pages_default_89_1 === לחיבור ההודעות שלך עם נתונים מוגדרים מראש.
 and_pages_default_90 === ספינטקס
 and_pages_default_90_1 === להפצה אקראית של קבוצת מילים למלחמה בבעיות ספאם.
-and_pages_default_91 === מְתוּרגְמָן
 and_pages_default_91_1 === למיקוד קהל לפי השפות שלהם.
 and_pages_default_98 === כלים אוטומטיים וחכמים
 and_pages_default_100 === נהל את העסק שלך תוך כדי שאנחנו דואגים לעבודה המלוכלכת, הפלטפורמה שלנו חכמה וצריכה רק את ההודעות שאתה רוצה לשלוח ואז אנחנו נעשה את השאר!
@@ -955,17 +719,12 @@ and_pages_default_156 === כלים ולוח מחוונים אינטואיטיב�
 and_pages_default_159 === חוויה מהירה וללא פיגור בזמן שאתה משווק את המוצרים שלך
 and_pages_default_171 === תמחור שירות
 and_pages_default_187 === שלח SMS
-and_pages_default_194 === קבלת SMS
-and_pages_default_201 === שלח וואטסאפ
-and_pages_default_208 === קבלה בוואטסאפ
 and_pages_default_215 === USSD
 and_pages_default_222 === התראות
-and_pages_default_229 === SMS/צ'אטים מתוזמנים
 and_pages_default_236 === אנשי קשר
 and_pages_default_243 === מפתחות API
 and_pages_default_250 === Webhooks
 and_pages_default_257 === פעולות
-and_pages_default_264 === מכשירי אנדרואיד
 and_pages_default_271 === חשבונות וואטסאפ
 and_pages_default_287 === הלקוחות שלנו
 and_pages_default_290 === מהימנים על ידי למעלה מ-3,000 לקוחות. התחל לשווק את המוצרים שלך והגדל את העסק שלך איתנו!
@@ -1330,10 +1089,6 @@ form_fullname === שם מלא
 form_cpassword === אשר סיסמה
 form_haveaccount === יש לי חשבון
 datatable_processing === מעבד, אנא המתן...
-datatable_length === מציג _MENU_ ערכים
-datatable_info === מציג _START_ עד _END_ מתוך _TOTAL_ ערכים
-datatable_empty === מציג 0 עד 0 מתוך 0 ערכים
-datatable_filtered === (מסונן מ-_MAX_ ערכים בסך הכל)
 datatable_loading === בטעינה אנא המתן...
 datatable_zero === לא מצאנו שום דבר התואם לשאילתה שלך!
 datatable_null === אין נתונים להציג!
@@ -2403,7 +2158,6 @@ js_calendarall_monoct === אוֹקְטוֹבֶּר
 js_calendarall_monnov === נוֹבֶמבֶּר
 js_calendarall_mondec === דֵצֶמבֶּר
 response_ussddelete_success === בקשת USSD נמחקה!
-response_titanecho_invaltoken === שגיאת תצורת מערכת!
 widgets_addplugin_loader === התקנת תוסף חדש למערכת
 widgets_addwhatsapp_newmodal === חבר את ה-WhatsApp שלך על ידי לחיצה על הכפתור כדי להציג את QRCode ואז סרוק אותו באמצעות כפתור _8880_ באפליקציה. יש לך רק 15 שניות לסרוק את QRCode.
 widgets_addwhatsapp_newmodal2 === פג תוקפו של _8880_, אם חשבונך קושר או לא, אנא לחץ על הלחצן למטה.
@@ -2419,7 +2173,6 @@ widget_waquick_requireaccountnew1 === חשבון וואטסאפ
 requests_whatsapp_notavail === שרת WhatsApp אינו זמין!
 requests_whatsapp_unablegenqr === לא ניתן ליצור WhatsApp QRCode!
 requests_charts_commisionstitle === עמלות
-requests_token_refreshecho === טוקן עבור _8880_ רענן!
 requests_remote_smscampaignresumed === קמפיין ה-SMS חודש!
 requests_remote_smscampaignpaused === קמפיין SMS הושהה!
 requests_remote_wacampaignresumed === קמפיין וואטסאפ חודש!
@@ -2500,8 +2253,6 @@ table_android_copydeviceid === העתק מזהה ייחודי של מכשיר
 table_partnerrates_devicename === שם התקן
 widget_fetchgroups_titlefetch === אחזר קבוצות
 widget_fetchgroups_loaderfetch === שואב קבוצות מהחשבון
-pages_admin_tokenrefreshbutt === אֲסִימוֹן
-pages_admin_tokenrefreshbutthelp === רענן את אסימון התקשורת בשקע. אם המערכת לא מציגה התראות בזמן אמת או לא מתעדכנת בזמן אמת, אנא לחץ על כפתור זה.
 pages_admin_cachehelp === נקה את כל מטמון המערכת. אַזהָרָה! זה גם ינקה מטמונים הקשורים ל-API, אימות ותשלום. מומלץ לעשות זאת רק בעת שדרוג המערכת.
 pages_admin_themehelp === שנה תבנית ועיצוב אתר.
 pages_admin_systemsettingshelp === התאם הגדרות מערכת חשובות.
@@ -2600,7 +2351,6 @@ app_fetching_messages === מביא הודעות
 app_fetching_ussd === מביא USSD
 app_campaign_resumed === השליחה התחדשה עבור מסע הפרסום:
 app_campaign_paused === שליחה מושהית עבור מסע פרסום:
-js_response_titanechorefreshdesc === לרענן אסימון לתקשורת השקע בזמן אמת?
 form_wa_templatetype_knownissue === בעיה ידועה
 form_wa_templatetype_knownissuedesc === סוג זה של הודעת WhatsApp אינו מוצג כראוי ב-iOS. אפליקציית WhatsApp iOS תציג הודעה ריקה.
 app_response_devicealreadylinked === המכשיר הזה כבר היה מקושר לחשבון אחר!
@@ -3076,6 +2826,9 @@ flow_header_title === בונה זרימות
 flow_response_saved === הזרימה נשמרה בהצלחה!
 flow_response_nofile === לא הועלה קובץ או שגיאת העלאה!
 flow_response_fileuploaded === הקובץ הועלה בהצלחה
+flow_response_ai_key_required === אנא בחר מפתח AI עבור כל צומת תגובת AI!
+flow_response_file_too_large === הקובץ שהועלה גדול מדי, הגודל המרבי הוא 10MB!
+flow_response_invalid_filetype === סוג קובץ זה אינו מורשה!
 flow_modal_upload_title === העלה קובץ
 flow_modal_upload_button_select === בחר קובץ
 flow_modal_upload_button_upload === העלה
@@ -3200,3 +2953,23 @@ flowjs_node_pause_duration_placeholder === הזן משך בשניות (0 = אי�
 flowjs_node_resume === קורות חיים
 flowjs_node_resume_context === הקשר
 flowjs_node_resume_description === מחדש תגובות אוטומטיות מושהות
+modal_adminsettings_currencyapikey === מפתח API לשערי חליפין
+modal_adminsettings_currencyapikeyinfo === מפתח ה-API שלך אצל ספק שערי החליפין. המרת מטבע תישאר מושבתת עד שתגדיר אותו.
+modal_adminsettings_realtimetitle === התראות בזמן אמת
+modal_adminsettings_realtimeinfo === עדכונים חיים משתמשים בפרוטוקול Pusher. בחר בשירות המתארח של Pusher או בכל שרת תואם כגון Sockety, Soketi או Reverb. השאר את פרטי הגישה ריקים כדי לכבות זמן אמת.
+modal_adminsettings_realtimeappid === מזהה יישום
+modal_adminsettings_realtimekey === מפתח יישום
+modal_adminsettings_realtimesecret === סוד יישום
+modal_adminsettings_realtimecluster === אשכול
+modal_adminsettings_realtimehost === כתובת השרת
+modal_adminsettings_realtimehostinfo === הכתובת המלאה של השרת שלך, לדוגמה https://sockets.example.com:6001
+modal_adminsettings_realtimedriver === ספק
+modal_adminsettings_realtimedriverpusher === Pusher (ענן)
+modal_adminsettings_realtimedrivercompatible === שרת תואם (אחסון עצמי)
+modal_adminsettings_realtimecredentials === קבל את פרטי הגישה מלוח הבקרה של Pusher
+modal_adminsettings_realtimeconfigured === מוגדר
+modal_adminsettings_realtimekeepblank === השאר ריק כדי לשמור על הערך הנוכחי
+modal_adminsettings_realtimetest === בדיקת חיבור
+js_realtime_testing === בודק את החיבור בזמן אמת...
+response_realtime_testok === החיבור בזמן אמת הצליח!
+response_realtime_testfailed === החיבור בזמן אמת נכשל. בדוק את פרטי הגישה ואת כתובת השרת.

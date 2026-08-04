@@ -11,18 +11,12 @@ and_dashboard_pages_defailt_line37 === Ƙofar Ƙofar
 and_dashboard_pages_default_line42 === Docs
 and_dashboard_pages_default_line58 === Saƙonni
 and_dashboard_pages_default_line60 === Kwanaki 7 na ƙarshe
-and_dashboard_pages_default_line74 === Abubuwan da suka faru
-and_dashboard_pages_default_line76 === Kwanaki 7 na ƙarshe
-and_dashboard_pages_default_line90 === Abubuwan amfani
-and_dashboard_pages_default_line92 === Kwanaki 7 na ƙarshe
-and_dashboard_pages_default_line109 === Abokan hulɗa
 and_dashboard_pages_default_line117 === Abubuwan da ake samu
 and_dashboard_pages_default_line131 === Biya
 and_dashboard_pages_default_line140 === Ma'auni
 and_dashboard_pages_default_line148 === Kiredit
 and_dashboard_pages_default_line162 === Sama sama
 and_dashboard_pages_default_line170 === Rabon isarwa
-and_dash_pg_def_line178 === Nasara
 and_dash_pg_def_line190 === Ba a yi nasara ba
 and_dash_pg_def_line204 === Masu aikawa
 and_dash_pg_def_line209 === Ba a yi muku rajista ga kowane fakitinmu na ƙima ba!
@@ -32,11 +26,9 @@ and_dash_pg_def_line232 === Asusu
 and_dash_pg_def_line239 === An haɗa
 and_dash_pg_def_line250 === Zazzage kuma shigar da aikace-aikacen mu na hukuma don samun mafi kyawun ƙwarewar mai amfani
 and_dash_pg_doc_line10 === Takardu
-and_dash_pg_doc_line28 === API
 and_dash_pg_doc_line34 === Webhooks
 and_dash_pg_doc_line40 === Ayyuka
 and_dash_pg_doc_line46 === Na'urori
-and_dash_pg_doc_line52 === Haɗin kai
 and_dash_pg_for_line29 === Soke
 and_dash_pg_log_line14 === Shiga tare da Facebook
 and_dash_pg_log_line17 === Shiga tare da Google
@@ -50,15 +42,10 @@ and_dash_pg_reg_line20 === Yi rijista da Google
 and_dash_pg_reg_line25 === Yi rajista tare da VKontakte
 and_dash_pg_whats_line10 === WhatsApp
 and_dash_pg_whats_line10_1 === Beta
-and_dash_pg_whats_line28 === An aika
 and_dash_pg_whats_line34 === An karɓa
 and_dash_pg_whats_line40 === An tsara
 and_dash_pg_whats_line46 === Asusu
-and_dash_api_line17 === Sunan mabuɗin.
-and_dash_api_line19 === misali. Domin Sabar Nawa
-and_dash_api_line24 === Maɓalli izini.
 and_dash_auto_line17 === Sunan aiki.
-and_dash_auto_line19 === misali. Michael
 and_dash_auto_line24 === Source
 and_dash_auto_line24_1 === Tushen karɓar taron.
 and_dash_auto_line27 === SMS
@@ -75,23 +62,16 @@ and_dash_cre_line28 === Sayi
 and_dash_gate_line17 === Suna
 and_dash_gate_line17_1 === Wannan shine sunan ƙofar da za a nuna wa masu amfani da ku.
 and_dash_gate_line19 === misali. Twilio
-and_dash_gate_line24 === Mai sarrafawa
 and_dash_gate_line24_1 === Zaɓi fayil ɗin mai sarrafa ƙofa, wannan zai ƙunshi dabaru da lambar ku. Ana ba da shawarar duba takaddun.
-and_dash_gate_line27 === Tushen Tufafin Mai Sarrafa:
 and_dash_gate_line34 === Komawa kira
 and_dash_gate_line34_1 === Idan an kunna, za a buƙaci tabbatar da saƙon ta amfani da fasalin dawo da kira na ƙofofin ƙofa na 3 don aikawa, in ba haka ba, saƙonnin za a yi alama nan da nan kamar yadda aka aiko lokacin aikawa.
-and_dash_gate_line37 === Kunna
-and_dash_gate_line38 === A kashe
 and_dash_gate_line44 === ID na dawowa
 and_dash_gate_line44_1 === Idan an kunna dawo da kira, dole ne ku kwafi wannan ID ɗin kuma ku liƙa zuwa ga mai sarrafa ku don tsarin zai iya gano abin da aka dawo da shi.
 and_dash_gate_line47 === Kwafi da liƙa don ID na dawowa
-and_dash_gate_line54 === Farashi
 and_dash_gate_line54_1 === Teburin farashin ku na al'ada don wannan ƙofar. Wannan zai ba ku damar yin caji a saman farashin ɓangare na uku. Misali, idan twilio yana cajin 0.01 don ƙayyadadden ƙasa, to zaku iya cajin 0.02 maimakon, kuɗin yana dogara ne akan tsarin kuɗin ku. Da fatan za a bi tsarin farashi daidai.
 and_dash_gate_line57 === Misalin Farashin JSON:
-and_dash_gate_line57_1 === Zazzagewa
 and_dash_grp_line17 === Sunan rukuni.
 and_dash_grp_line19 === misali. Abokai
-and_dash_hook_line17 === Sunan aiki.
 and_dash_hook_line19 === misali. Gwajin Aiki
 and_dash_hook_line24 === Source
 and_dash_hook_line24_1 === Tushen taron.
@@ -100,8 +80,6 @@ and_dash_hook_line44 === Tsarin hanyar haɗin ƙugiya, wannan shine url ɗin da 
 and_dash_hook_line51 === Saitin masu canji waɗanda za ku iya amfani da su a cikin URL ɗin ku.
 and_dash_hook_line27 === SMS
 and_dash_hook_line28 === WhatsApp
-and_dash_hook_line37 === Akan Aika
-and_dash_hook_line38 === Kan Karba
 and_dash_lang_line17 === Sunan harshe.
 and_dash_lang_line19 === misali. Yaren Koriya
 and_dash_lang_line24 === Lambar ƙasa.
@@ -110,19 +88,14 @@ and_dash_lang_line35_1 === Idan an kunna, za a gano harshe a matsayin dama zuwa 
 and_dash_lang_line38 === Ee
 and_dash_lang_line39 === A'a
 and_dash_lang_line45 === Zaren fassara.
-and_dash_mail_line17 === Take
 and_dash_mail_line17_1 === Taken wasiku.
-and_dash_mail_line19 === misali. Sanarwa
 and_dash_mail_line24 === Masu amfani
 and_dash_mail_line24_1 === Aika ta masu amfani.
-and_dash_mail_line36 === Matsayi
 and_dash_mail_line36_1 === Aika ta hanyar ayyuka.
 and_dash_mail_line48 === Abun ciki
 and_dash_mail_line48_1 === Abun cikin saƙo, html an yarda.
 and_dash_mail_line50 === Sannu Duniya!
-and_dash_not_line17 === Take
 and_dash_not_line17_1 === Sanar da take.
-and_dash_not_line19 === misali. Sanarwa
 and_dash_not_line24 === Sako
 and_dash_not_line24_1 === Sanar da sako.
 and_dash_not_line31 === Launi
@@ -130,13 +103,8 @@ and_dash_not_line31_1 === Sanar da launi.
 and_dash_not_line35 === Nasara
 and_dash_not_line36 === Gargadi
 and_dash_not_line37 === hadari
-and_dash_not_line43 === Hoto
 and_dash_not_line43_1 === Sanar da hoto, wannan zaɓi ne.
-and_dash_not_line46 === Na zaɓi
 and_dash_not_line53 === Masu amfani
-and_dash_not_line53_1 === Watsawa ta masu amfani.
-and_dash_not_line65 === Matsayi
-and_dash_not_line65_1 === Watsawa ta hanyar ayyuka.
 and_pack_line17 === Sunan kunshin
 and_pack_line19 === misali. Kunshin VIP
 and_pack_line24 === Farashin fakitin, wannan yakamata ya bi kudin tsarin. Ba a yarda da ƙimar masu iyo.
@@ -151,33 +119,25 @@ and_pack_line65_1 === Matsakaicin adadin saƙonnin da mai amfani zai iya karɓa 
 and_pack_line67 === misali. 150
 and_pack_line72 === USSD iyaka
 and_pack_line72_1 === Matsakaicin adadin ussd wanda mai amfani zai iya nema kafin sake saiti. Shigar da 0 don mara iyaka.
-and_pack_line74 === misali. 25
 and_pack_line79 === Iyakar Sanarwa
 and_pack_line79_1 === Matsakaicin adadin sanarwar da mai amfani zai iya karɓa kafin sake saiti. Shigar da 0 don mara iyaka.
 and_pack_line81 === misali. 1300
 and_pack_line86 === Matsakaicin adadin na'urorin android waɗanda za a iya haɗa su zuwa asusun mai amfani. Shigar da 0 don mara iyaka.
-and_pack_line88 === misali. 25
 and_pack_line92 === Saitunan WhatsApp
 and_pack_line97 === Matsakaicin adadin taɗi wanda mai amfani zai iya aikawa kafin sake saiti. Shigar da 0 don mara iyaka.
-and_pack_line99 === misali. 300
 and_pack_line104 === Matsakaicin adadin taɗi wanda mai amfani zai iya karɓa kafin sake saiti. Shigar da 0 don mara iyaka.
-and_pack_line106 === misali. 150
 and_pack_line111 === Iyakar Asusu
 and_pack_line111_1 === Matsakaicin adadin asusun WhatsApp waɗanda za a iya haɗa su da asusun mai amfani. Shigar da 0 don mara iyaka.
 and_pack_line113 === misali. 10
 and_pack_line117 === Saitunan Utility
 and_pack_line122 === Matsakaicin adadin lambobin sadarwa waɗanda mai amfani zai iya ajiyewa. Shigar da 0 don mara iyaka.
-and_pack_line124 === misali. 25
 and_pack_line129 === Iyakar da aka tsara
 and_pack_line129_1 === Matsakaicin adadin saƙonnin da aka tsara/taɗi wanda mai amfani zai iya ajiyewa. Shigar da 0 don mara iyaka. Ana haɗa wannan don duka SMS da whatsapp.
-and_pack_line131 === misali. 25
 and_pack_line136 === Matsakaicin adadin maɓallan API waɗanda za a iya ƙirƙira. Shigar da 0 don mara iyaka.
-and_pack_line138 === misali. 10
 and_pack_line143 === Matsakaicin adadin Webhooks waɗanda za a iya ƙirƙira. Shigar da 0 don mara iyaka.
 and_pack_line145 === misali. 5
 and_pack_line150 === Iyakar Ayyuka
 and_pack_line150_1 === Matsakaicin adadin Ayyukan da za a iya ƙirƙira. Shigar da 0 don mara iyaka.
-and_pack_line152 === misali. 5
 and_page_line17 === Sunan shafin.
 and_page_line24 === Ayyukan da aka zaɓa kawai za su sami damar shiga wannan shafin.
 and_page_line35 === Idan an kunna, ba za a sami damar shafi ba idan ba a shiga ba.
@@ -189,13 +149,10 @@ and_payout_line24 === Mai bayarwa
 and_payout_line24_1 === Zaɓi mai bada biyan kuɗi da kuke son amfani da shi don karɓar kuɗin.
 and_payout_line27 === Paypal
 and_payout_line28 === Payoneer
-and_payout_line34 === Adireshin Biyan Kuɗi
 and_payout_line34_1 === Adireshin biyan kuɗi ko imel, da fatan za a bincika a hankali don hana al'amuran biyan kuɗi.
 and_payout_line36 === misali. Imel ɗin ku na PayPal
-and_payout_line43 === nema
 and_plug_line17 === Fayil ɗin plugin
 and_plug_line17_1 === Plugin zip file, da fatan za a tabbatar da zaɓar fayil ɗin daidai.
-and_push_line17 === Take
 and_push_line17_1 === Tura take.
 and_push_line19 === misali. Sanarwa
 and_push_line24 === Hoto
@@ -205,7 +162,6 @@ and_push_line34 === Sako
 and_push_line34_1 === Tura sako.
 and_push_line41 === Masu amfani
 and_push_line41_1 === Watsawa ta masu amfani.
-and_push_line53 === Matsayi
 and_push_line53_1 === Watsawa ta hanyar ayyuka.
 and_role_line17 === Sunan aikin.
 and_role_line19 === misali. Mai haɓakawa
@@ -224,19 +180,14 @@ and_sms_line31 === Idan an kunna, za a tsara saƙon duk lokacin da aka tsara kwa
 and_sms_line42 === Lambobin E.164 da yawa sun rabu ta hanyar karya layi.
 and_sms_line55 === Zaɓi ƙungiyoyin sadarwa da yawa
 and_sms_line67 === Shortener
-and_sms_line67_1 === Idan an kunna, za a gajarta hanyoyin haɗin yanar gizo ta atomatik ta amfani da gajeriyar da aka zaɓa.
 and_sms_line70 === Kar a rage hanyoyin sadarwa
 and_sms_line79 === Yanayin Ƙofar
-and_sms_line79_1 === Yanayin ƙofa da kake son amfani da shi. Idan ka zaɓi na'urori, za a nuna na'urorin da aka haɗa don aikawa, in ba haka ba, za a nuna ƙofofin ɓangare na uku da abokan tarayya.
 and_sms_line82 === Na'urori
 and_sms_line83 === Kiredit
 and_sms_line88 === Ramin katin SIM don amfani.
-and_sms_line91 === SIM1
-and_sms_line92 === SIM2
 and_sms_line97 === Samfuran saƙonku da aka riga aka yi.
 and_sms_line110 === Na'urorin da aka haɗa ku, zaɓi abin da kuke son amfani da shi don aikawa.
 and_sms_line121 === SMS Gateway
-and_sms_line121_1 === Ƙofar ƙofa ta 3 da abokan haɗin gwiwa, za a yi amfani da kiredit ɗin ku lokacin da kuka aika saƙonni ta amfani da waɗannan ƙofofin. Muna ba da shawarar ku duba farashin ƙofa kafin amfani da su.
 and_sms_line141 === Spintax
 and_sms_line144 === Misali:
 and_sms_line144_1 === Tom a
@@ -270,8 +221,6 @@ and_user_line31 === Shigar da kalmar wucewa ta mai amfani.
 and_user_line38 === Yankin lokacin wurin mai amfani, canza wannan idan suna cikin wata ƙasa daban. Ana amfani da yankin lokaci don daidaiton kwanan wata da lokaci na saƙonnin da aka aiko da sauran bayanai.
 and_user_line49 === Ƙasa
 and_user_line49_1 === Ƙasar mai amfani, ana amfani da wannan don biyan kuɗi da tsara lambar waya.
-and_user_line60 === Sanarwa Sauti
-and_user_line60_1 === Idan an kashe, sanarwar za ta yi shiru.
 and_user_line70 === Zaɓi rawar mai amfani.
 and_user_line81 === Zaɓi harshen mai amfani.
 and_user_line92 === Shirin Abokin Hulɗa
@@ -280,17 +229,12 @@ and_ussd_line17 === USSD Code
 and_ussd_line17_1 === USSD code code.
 and_ussd_line19 === misali. *121#
 and_ussd_line24 === Ramin katin SIM don amfani.
-and_ussd_line27 === SIM1
-and_ussd_line28 === SIM2
 and_ussd_line34 === Na'urorinku masu alaƙa, zaɓi abin da kuke son amfani da su don buƙatar ussd.
 and_ussd_line47 === nema
 and_vouch_line17 === Sunan baucan.
 and_vouch_line19 === misali. Na musamman
 and_vouch_line24 === Adadin baucan da kuke son ƙirƙirar. Matsakaicin darajar shine 1000!
 and_vouch_line26 === misali. 100
-and_vouch_line31 === Tsawon lokacin biyan kuɗi.
-and_vouch_line33 === misali. 12
-and_vouch_line38 === Kunshin biyan kuɗi.
 and_web_line17 === Sunan Webhook.
 and_web_line24 === Karɓi Events
 and_web_line24_1 === Zaɓi abubuwan karɓan da kuke buƙata, za a aika su zuwa url ƙugiya na gidan yanar gizon ku ta hanyar POST.
@@ -300,18 +244,11 @@ and_web_line29 === USSD
 and_web_line30 === Sanarwa
 and_web_line36 === url na gidan yanar gizon ku, duk bayanan da aka biya za a aika su nan ta hanyar POST.
 and_web_line38 === misali. http://yourdomain.com/hook_listen.php
-and_whatssched_line17 === Sunan tattaunawar da aka tsara.
-and_whatssched_line19 === misali. Sakona
-and_whatssched_line24 === Zaɓi ranar jadawalin.
-and_whatssched_line26 === misali. 22/06/2020 12:00 na safe
 and_whatssched_line31 === Idan an kunna, za a tsara taɗi a duk lokacin da aka tsara kwanan watan.
 and_whatssched_line42 === Lambobin E.164 da yawa sun rabu ta hanyar karya layi.
-and_whatssched_line55 === Zaɓi ƙungiyoyin sadarwa da yawa
 and_whatssched_line67 === Shortener
-and_whatssched_line67_1 === Idan an kunna, za a gajarta hanyoyin haɗin yanar gizo ta atomatik ta amfani da gajeriyar da aka zaɓa.
 and_whatssched_line70 === Kar a rage hanyoyin sadarwa
 and_whatssched_line79 === Asusu
-and_whatssched_line79_1 === Zaɓi asusun WhatsApp ɗin da kuke son amfani da shi.
 and_whatsached_line88 === Samfuran saƙonku da aka riga aka yi.
 and_whatssched_line103 === Spintax
 and_whatssched_line103_1 === Siffar da ke ba ku damar bazuwar kalmomi a cikin saƙonnin ku waɗanda ke hana gano ɓoyayyen ɓoyayyiya.
@@ -366,14 +303,11 @@ and_admin_build_line95_1 === Tambarin hoton shiga app, wannan shine hoton da aka
 and_admin_build_line103 === Alamar hoton app, ana nuna wannan a cikin aljihunan app da tsarin android. Girman da aka ba da shawarar sune 1024x1024 a px da tsarin png.
 and_admin_build_line111 === Hoton splashscreen app, ana nuna wannan lokacin da mai amfani ya buɗe app ɗin. Girman da aka ba da shawarar sune 2732x2732 a px da tsarin png.
 and_admin_build_line118 === Tsarin
-and_admin_build_line123 === JavaScript na al'ada
 and_admin_build_line123_1 === Idan kuna son amfani da lambar javascript ta al'ada, da fatan za a ƙara ta nan. Ana ɗora wannan abu mai ƙarfi a cikin ƙa'idar.
 and_admin_build_line125 === misali., faɗakarwa ('Hello Duniya!');
-and_admin_build_line130 === CSS na al'ada
 and_admin_build_line130_1 === Idan kana son amfani da lambar css ta al'ada, da fatan za a ƙara ta nan. Ana ɗora wannan abu mai ƙarfi a cikin ƙa'idar.
 and_admin_build_line137 === Tsarin Al'ada
 and_admin_build_line137_1 === Idan kuna son yin amfani da tsarin ƙa'idar ta al'ada, da fatan za a canza abun cikin html, idan ba ku san abin da kuke yi ba, da fatan za a bar ƙimar da ta dace.
-and_admin_build_line139 === Sannu Duniya!
 and_settings_line21 === Sunan rukunin yanar gizon, ana nuna wannan a duk inda ake buƙatar yin alama.
 and_settings_line23 === misali. Zander
 and_settings_line28 === Bayanin rukunin yanar gizon, wannan don haɓaka injin bincike ne, don haka ku kasance masu kirkira.
@@ -388,14 +322,12 @@ and_settings_line70 === Idan an kashe, ba za a ba da izinin yin rajista ta shafi
 and_settings_line80 === Yanayin Sake saitin Kunshin
 and_settings_line80_1 === Tazarar sake saiti na iyakoki kamar aika, karɓa, ussd da sanarwa. Wannan ya shafi duka Android da WhatsApp fasali. Zaɓin ku anan dole ne kuma a yi amfani da shi a cikin saitin cron.
 and_settings_line83 === Kullum
-and_settings_line84 === kowane wata
 and_settings_line90 === Samfurin Kyauta
 and_settings_line90_1 === Idan an kunna, tsoho fakitin kyauta ana sanya shi ta atomatik ga mai amfani bayan rajista.
 and_settings_line100 === Idan an kashe, ba za a yi amfani da shafin gida ba. Duk ziyarce-ziyarcen da ke cikin tushen adireshin za a karkatar da su zuwa dashboard.
 and_settings_line110 === TAWK Widget din Taɗi
 and_settings_line110_1 === Idan an kunna tawk widget din tawk zai bayyana ga masu amfani.
 and_settings_line120 === Hanyar haɗin widget ɗin tawk ɗin ku, ana buƙatar wannan idan kuna son amfani da goyan bayan tawk taɗi.
-and_settings_line127 === API ɗin Admin
 and_settings_line127_1 === Zaɓi wuraren ƙarshen API ɗin mai gudanarwa da kuke son kunnawa. Ana ba da shawarar cewa ku kunna wuraren ƙarshen da kuke buƙata kawai.
 and_settings_line159 === Kada a raba wannan alamar ga kowa. Ana amfani da wannan don tsaro na cronjobs, tsarin API da sauran buƙatun waje. Idan kuna tunani, an lalata alamar tsarin ku, da fatan za a sake haifar da wani sabo, kuna buƙatar sake saita cronjobs ɗinku, API ɗin tsarin da sauran saitunan da ke da alaƙa bayan sabunta sabon alama.
 and_settings_line160 === Sake haɓakawa
@@ -419,9 +351,7 @@ and_settings_line263 === misali. test_4vzuJVhRCFSyNyuc6gwvJpQ474Vngp
 and_settings_line268 === Kuɗin tsarin da za a yi amfani da shi, za a yi amfani da wannan azaman tushe lokacin canza ma'amaloli zuwa USD.
 and_settings_line279 === Zaɓi masu ba da biyan kuɗi da kuke son amfani da su.
 and_settings_line293 === Ƙananan haruffa don saƙonni. Wannan ya shafi duka SMS da WhatsApp.
-and_settings_line295 === misali. 5
 and_settings_line300 === Matsakaicin haruffa don saƙonni. Wannan ya shafi duka SMS da WhatsApp. Shigar da 0 don haruffa marasa iyaka.
-and_settings_line302 === misali. 300
 and_settings_line307 === Alamar saƙon saƙo, ana haɗa wannan ga saƙonni idan kunshin su yana da alamar ƙafar sa.
 and_settings_line309 === misali. An aika daga Tsarin Zender
 and_settings_line318 === Tsohuwar adadin layuka don nunawa a teburin saƙonnin da aka aika. Wannan ya shafi duka SMS da WhatsApp.
@@ -484,16 +414,11 @@ and_edit_auto_line36 === misali. na gode, okay, yi subscribing, iya
 and_edit_auto_line41 === Sakon da za a aika zuwa ga mai aikawa.
 and_edit_auto_line43 === misali. Sakon amsawar ku anan, gajerun lambobi sun karɓi
 and_edit_auto_line48 === Saitin masu canji waɗanda zaku iya amfani da su a cikin saƙonku.
-and_edit_con_line17 === Sunan tuntuɓar
 and_edit_con_line19 === misali. Michael
-and_edit_con_line24 === Lambar tuntuɓar.
-and_edit_con_line31 === Ƙungiyar tuntuɓar juna.
-and_edit_dev_line16 === Cikakkun na'ura
 and_edit_dev_line21 === Sunan na'ura.
 and_edit_dev_line23 === misali. Na'urara
 and_edit_dev_line28 === Idan an kunna, za a aika saƙonni a cikin tsaka-tsaki tsakanin ƙima biyu. Kuna iya saita su a ƙasa.
 and_edit_dev_line38 === Mafi ƙarancin tazara a cikin daƙiƙa.
-and_edit_dev_line41 === misali. 5
 and_edit_dev_line46 === Matsakaicin tazara a cikin daƙiƙa.
 and_edit_dev_line49 === misali. 20
 and_edit_dev_line53 === Saitunan Sanarwa
@@ -514,109 +439,25 @@ and_edit_dev_line112_1 === Zaɓi ramukan sim ɗin da kuke son amfani da su don a
 and_edit_email_line16 === Samfurin Imel
 and_edit_email_line18 === HTML an yarda
 and_edit_gate_line17 === Suna
-and_edit_gate_line17_1 === Wannan shine sunan ƙofar da za a nuna wa masu amfani da ku.
-and_edit_gate_line19 === misali. Twilio
-and_edit_gate_line24 === Mai sarrafawa
-and_edit_gate_line24_1 === Zaɓi fayil ɗin mai sarrafa ƙofa, wannan zai ƙunshi dabaru da lambar ku. Ana ba da shawarar duba takaddun.
-and_edit_gate_line31 === Komawa kira
-and_edit_gate_line31_1 === Idan an kunna, za a buƙaci tabbatar da saƙon ta amfani da fasalin dawo da kira na ƙofofin ƙofa na 3 don aikawa, in ba haka ba, saƙonnin za a yi alama nan da nan kamar yadda aka aiko lokacin aikawa.
-and_edit_gate_line34 === Kunna
-and_edit_gate_line35 === A kashe
 and_edit_gate_line41 === ID na dawowa
-and_edit_gate_line41_1 === Idan an kunna dawo da kira, dole ne ku kwafi wannan ID ɗin kuma ku liƙa zuwa ga mai sarrafa ku don tsarin zai iya gano abin da aka dawo da shi.
-and_edit_gate_line44 === Kwafi da liƙa don ID na dawowa
-and_edit_gate_line51 === Farashi
-and_edit_gate_line51_1 === Teburin farashin ku na al'ada don wannan ƙofar. Wannan zai ba ku damar yin caji a saman farashin ɓangare na uku. Misali, idan twilio yana cajin 0.01 don ƙayyadadden ƙasa, to zaku iya cajin 0.02 maimakon, kuɗin yana dogara ne akan tsarin kuɗin ku. Da fatan za a bi tsarin farashi daidai.
-and_edit_gate_line54 === Misalin Farashin JSON:
-and_edit_gate_line54_1 === Zazzagewa
-and_edit_grp_line17 === Sunan rukuni.
-and_edit_grp_line19 === misali. Abokai
-and_edit_hook_line17 === Sunan aiki.
-and_edit_hook_line19 === misali. Gwajin Aiki
 and_edit_hook_line24 === Source
-and_edit_hook_line24_1 === Tushen taron.
 and_edit_hook_line27 === SMS
 and_edit_hook_line28 === WhatsApp
-and_edit_hook_line34 === Zaɓi taron da za a kira wannan ƙugiya.
-and_edit_hook_line37 === Akan Aika
-and_edit_hook_line38 === Kan Karba
-and_edit_hook_line44 === Tsarin hanyar haɗin ƙugiya, wannan shine url ɗin da tsarin zai kira. Hanyar GET kawai ake tallafawa.
-and_edit_hook_line51 === Saitin masu canji waɗanda za ku iya amfani da su a cikin URL ɗin ku.
-and_edit_lang_line17 === misali. Yaren Koriya
-and_edit_lang_line30 === RTL
 and_edit_lang_line32 === Ee
 and_edit_lang_line33 === A'a
-and_edit_pack_line17 === Sunan kunshin
-and_edit_pack_line19 === misali. Kunshin VIP
-and_edit_pack_line24 === Farashin fakitin, wannan yakamata ya bi kudin tsarin. Ba a yarda da ƙimar masu iyo.
-and_edit_pack_line29 === misali. 25
-and_edit_pack_line34 === Idan an kunna, saƙonni da hirarrakin whatsapp zasu ƙunshi alamar ƙafa lokacin da masu karɓa suka karɓa.
-and_edit_pack_line44 === Idan an kunna, za a ɓoye fakitin daga tsarin fakitin da shafin gida.
 and_edit_pack_line53 === Saitunan Android
-and_edit_pack_line58 === Iyakancin Aika SMS
-and_edit_pack_line58_1 === Matsakaicin adadin saƙonnin da mai amfani zai iya aikawa kafin sake saiti. Shigar da 0 don mara iyaka.
-and_edit_pack_line60 === misali. 300
-and_edit_pack_line65 === Iyakar Karbar SMS
-and_edit_pack_line65_1 === Matsakaicin adadin saƙonnin da mai amfani zai iya karɓa kafin sake saiti. Shigar da 0 don mara iyaka.
-and_edit_pack_line67 === misali. 150
-and_edit_pack_line72 === USSD iyaka
-and_edit_pack_line72_1 === Matsakaicin adadin ussd wanda mai amfani zai iya nema kafin sake saiti. Shigar da 0 don mara iyaka.
-and_edit_pack_line74 === misali. 25
 and_edit_pack_line79 === Iyakar Sanarwa
 and_edit_pack_line79_1 === Matsakaicin adadin sanarwar da mai amfani zai iya karɓa kafin sake saiti. Shigar da 0 don mara iyaka.
 and_edit_pack_line81 === misali. 1300
-and_edit_pack_line86 === Matsakaicin adadin na'urorin android waɗanda za a iya haɗa su zuwa asusun mai amfani. Shigar da 0 don mara iyaka.
-and_edit_pack_line88 === misali. 25
-and_edit_pack_line92 === Saitunan WhatsApp
-and_edit_pack_line97 === Matsakaicin adadin taɗi wanda mai amfani zai iya aikawa kafin sake saiti. Shigar da 0 don mara iyaka.
-and_edit_pack_line99 === misali. 300
-and_edit_pack_line104 === Matsakaicin adadin taɗi wanda mai amfani zai iya karɓa kafin sake saiti. Shigar da 0 don mara iyaka.
-and_edit_pack_line106 === misali. 150
-and_edit_pack_line111 === Iyakar Asusu
-and_edit_pack_line111_1 === Matsakaicin adadin asusun WhatsApp waɗanda za a iya haɗa su da asusun mai amfani. Shigar da 0 don mara iyaka.
-and_edit_pack_line113 === misali. 10
-and_edit_pack_line117 === Saitunan Utility
-and_edit_pack_line122 === Matsakaicin adadin lambobin sadarwa waɗanda mai amfani zai iya ajiyewa. Shigar da 0 don mara iyaka.
-and_edit_pack_line124 === misali. 25
 and_edit_pack_line129 === Iyakar da aka tsara
-and_edit_pack_line129_1 === Matsakaicin adadin saƙonnin da aka tsara/taɗi wanda mai amfani zai iya ajiyewa. Shigar da 0 don mara iyaka. Ana haɗa wannan don duka SMS da whatsapp.
-and_edit_pack_line131 === misali. 25
-and_edit_pack_line136 === Matsakaicin adadin maɓallan API waɗanda za a iya ƙirƙira. Shigar da 0 don mara iyaka.
-and_edit_pack_line138 === misali. 10
-and_edit_pack_line143 === Matsakaicin adadin Webhooks waɗanda za a iya ƙirƙira. Shigar da 0 don mara iyaka.
-and_edit_pack_line145 === misali. 5
-and_edit_pack_line150 === Iyakar Ayyuka
-and_edit_pack_line150_1 === Matsakaicin adadin Ayyukan da za a iya ƙirƙira. Shigar da 0 don mara iyaka.
-and_edit_pack_line152 === misali. 5
-and_edit_page_line17 === Sunan shafin.
-and_edit_page_line24 === Ayyukan da aka zaɓa kawai za su sami damar shiga wannan shafin.
-and_edit_page_line35 === Idan an kunna, ba za a sami damar shafi ba idan ba a shiga ba.
-and_edit_page_line45 === Abun cikin shafi. An ba da izinin duk alamun html, yi hankali lokacin ƙara rubutun daga tushen da ba a sani ba!
-and_edit_role_line17 === Sunan aikin.
-and_edit_role_line19 === misali. Mai haɓakawa
-and_edit_role_line24 === Zaɓi izini da fasalulluka da kuke son kashewa/kunna don wannan rawar. Ana amfani da canje-canje a ainihin lokacin, ana sake loda shafukan burauzar masu amfani da aka haɗa tare da rawar ta atomatik.
 and_edit_short_line17 === Suna
-and_edit_short_line17_1 === Sunan gajarta.
-and_edit_short_line19 === misali. Dan kadan
-and_edit_short_line24 === Mai sarrafawa
-and_edit_short_line24_1 === Zaɓi fayil ɗin mai gajarta, wannan zai ƙunshi dabaru da lambar ku. Ana ba da shawarar duba takaddun.
-and_edit_sms_line17 === Sunan saƙon da aka tsara.
-and_edit_sms_line19 === misali. Sakona
-and_edit_sms_line24 === Zaɓi ranar jadawalin.
-and_edit_sms_line26 === misali. 22/06/2020 12:00 na safe
 and_edit_sms_line31 === Idan an kunna, za a tsara saƙon duk lokacin da aka tsara kwanan watan.
-and_edit_sms_line42 === Lambobin E.164 da yawa sun rabu ta hanyar karya layi.
-and_edit_sms_line55 === Zaɓi ƙungiyoyin sadarwa da yawa
 and_edit_sms_line67 === Yanayin Ƙofar
-and_edit_sms_line67_1 === Yanayin ƙofa da kake son amfani da shi. Idan ka zaɓi na'urori, za a nuna na'urorin da aka haɗa don aikawa, in ba haka ba, za a nuna ƙofofin ɓangare na uku da abokan tarayya.
 and_edit_sms_line70 === Na'urori
 and_edit_sms_line71 === Kiredit
 and_edit_sms_line76 === Ramin katin SIM don amfani.
-and_edit_sms_line79 === SIM1
-and_edit_sms_line80 === SIM2
 and_edit_sms_line88 === Na'urorin da aka haɗa ku, zaɓi abin da kuke son amfani da shi don aikawa.
 and_edit_sms_line99 === SMS Gateway
-and_edit_sms_line99_1 === Ƙofar ƙofa ta 3 da abokan haɗin gwiwa, za a yi amfani da kiredit ɗin ku lokacin da kuka aika saƙonni ta amfani da waɗannan ƙofofin. Muna ba da shawarar ku duba farashin ƙofa kafin amfani da su.
 and_edit_sms_line119 === Spintax
 and_edit_sms_line122 === Misali:
 and_edit_sms_line122_1 === Tom a
@@ -626,8 +467,6 @@ and_edit_sms_line125_1 === mai kyau
 and_edit_sms_line125_2 === kuma
 and_edit_sms_line125_3 === mara kyau
 and_edit_sms_line125_4 === za a yi amfani da shi ba da gangan ba.
-and_edit_temp_line17 === Sunan samfuri.
-and_edit_temp_line24 === Tsarin samfuri.
 and_edit_temp_line31 === Spintax
 and_edit_temp_line31_1 === Siffar da ke ba ku damar bazuwar kalmomi a cikin saƙonnin ku waɗanda ke hana gano ɓoyayyen ɓoyayyiya.
 and_edit_temp_line35 === Misali:
@@ -639,35 +478,16 @@ and_edit_temp_line38_2 === kuma
 and_edit_temp_line38_3 === mara kyau
 and_edit_temp_line38_4 === za a yi amfani da shi ba da gangan ba.
 and_edit_temp_line43 === Saitin masu canji waɗanda zaku iya amfani da su a cikin saƙonninku.
-and_eduse_line17 === Cikakken sunan ku na doka, lura cewa yin amfani da sunan karya na iya sa a dakatar da asusunku.
-and_eduse_line19 === misali. Michael Cors
 and_eduse_line24 === Ingantacciyar adireshin imel, yi watsi da wannan filin idan kuna son kiyaye adireshin imel na yanzu.
-and_eduse_line26 === misali. mai amfani @mail.com
 and_eduse_line31 === Idan kana son kiyaye kalmar sirri ta yanzu, da fatan za a yi watsi da wannan filin, in ba haka ba, shigar da sabon kalmar sirri.
-and_eduse_line38 === Yankin lokacin wurin ku, canza wannan idan kuna cikin wata ƙasa daban. Ana amfani da yankin lokaci don daidaiton kwanan wata da lokaci na saƙonnin da kuka aiko da sauran bayanai.
 and_eduse_line49 === Ƙasa
-and_eduse_line49_1 === Kasar ku, ana amfani da wannan don biyan kuɗi da tsara lambar waya.
-and_eduse_line60 === Sanarwa Sauti
-and_eduse_line60_1 === Idan an kashe, sanarwar za ta yi shiru.
-and_eduse_line70 === Zaɓi rawar mai amfani.
-and_eduse_line81 === Zaɓi harshen mai amfani.
-and_eduse_line92 === Shirin Abokin Hulɗa
-and_eduse_line92_1 === Idan an kunna, mai amfani zai iya amfani da na'urorin su azaman na'urori na duniya wanda zai ba su damar samun kuɗi lokacin da sauran masu amfani ke aika saƙonni ta amfani da na'urorin su.
-and_edweb_line17 === Sunan Webhook.
 and_edweb_line24 === Karɓi Events
-and_edweb_line24_1 === Zaɓi abubuwan karɓan da kuke buƙata, za a aika su zuwa url ƙugiya na gidan yanar gizon ku ta hanyar POST.
 and_edweb_line30 === Sanarwa
-and_edweb_line36 === url na gidan yanar gizon ku, duk bayanan da aka biya za a aika su nan ta hanyar POST.
 and_edweb_line38 === misali. https://yourdomain.com/reply.php
 and_edwhat_line17 === Sunan tattaunawar da aka tsara.
-and_edwhat_line19 === misali. Sakona
-and_edwhat_line24 === Zaɓi ranar jadawalin.
-and_edwhat_line26 === misali. 22/06/2020 12:00 na safe
 and_edwhat_line31 === Idan an kunna, za a tsara taɗi a duk lokacin da aka tsara kwanan watan.
 and_edwhat_line42 === Lambobin E.164 da yawa sun rabu ta hanyar karya layi.
-and_edwhat_line55 === Zaɓi ƙungiyoyin sadarwa da yawa
 and_edwhat_line67 === Asusu
-and_edwhat_line67_1 === Zaɓi asusun WhatsApp ɗin da kuke son amfani da shi.
 and_edwhat_line76 === Samfuran saƙonku da aka riga aka yi.
 and_edwhat_line91 === Spintax
 and_edwhat_line91_1 === Siffar da ke ba ku damar bazuwar kalmomi a cikin saƙonnin ku waɗanda ke hana gano ɓoyayyen ɓoyayyiya.
@@ -691,34 +511,23 @@ and_edwid_line53 === Matsayin widget, don modal kawai.
 and_edwid_line64 === Abubuwan widget. Ana ba da izinin duk alamun html, yi hankali lokacin ƙara rubutun daga tushen da ba a sani ba!
 and_import_line17 === Fayil ɗin Excel da kake son shigo da shi, da fatan za a tabbatar da bin tsarin da ake buƙata.
 and_import_line20 === Misalin Fayil:
-and_import_line20_1 === Zazzagewa
-and_package_line36 === Karɓi SMS
-and_package_line41 === WhatsApp Aika
-and_package_line46 === WhatsApp karba
 and_package_line51 === USSD
 and_package_line56 === Sanarwa
-and_package_line61 === SMS/Taɗi da aka tsara
 and_package_line66 === Lambobin sadarwa
 and_package_line71 === Maɓallan API
 and_package_line76 === Webhooks
 and_package_line81 === Ayyuka
-and_package_line86 === Na'urorin Android
 and_package_line91 === WhatsApp Accounts
 and_redeem_line18 === Maida lambar.
 and_redeem_line20 === misali. 2f5b4727c7c8596779b21d7644e2ebb8
 and_sms_bulk_18 === Lambobin E.164 da yawa sun rabu ta hanyar karya layi. Saƙo 1 kawai za a aika zuwa lamba ko da kun zaɓi ƙungiyoyin da aka saka.
 and_sms_bulk_31 === Zaɓi ƙungiyoyin sadarwa da yawa. Saƙo 1 kawai za a aika zuwa lamba koda kun zaɓi ƙungiyoyi da yawa inda aka ƙara shi.
 and_sms_bulk_43 === Shortener
-and_sms_bulk_43_1 === Idan an kunna, za a gajarta hanyoyin haɗin yanar gizo ta atomatik ta amfani da gajeriyar da aka zaɓa.
 and_sms_bulk_46 === Kar a rage hanyoyin sadarwa
 and_sms_bulk_55 === Yanayin Ƙofar
-and_sms_bulk_55_1 === Yanayin ƙofa da kake son amfani da shi. Idan ka zaɓi na'urori, za a nuna na'urorin da aka haɗa don aikawa, in ba haka ba, za a nuna ƙofofin ɓangare na uku da abokan tarayya.
 and_sms_bulk_58 === Na'urori
 and_sms_bulk_59 === Kiredit
 and_sms_bulk_64 === Ramin katin SIM don amfani.
-and_sms_bulk_67 === SIM1
-and_sms_bulk_68 === SIM2
-and_sms_bulk_72 === Idan an kunna, za a aika waɗannan saƙonni kafin wani abu.
 and_sms_bulk_81 === Samfuran saƙonku da aka riga aka yi.
 and_sms_bulk_94 === Na'urorin da aka haɗa ku, zaɓi abin da kuke son amfani da shi don aikawa.
 and_sms_bulk_105 === SMS Gateway
@@ -730,9 +539,7 @@ and_sms_bulk_135 === Misali:
 and_sms_bulk_143 === Saitin masu canji waɗanda zaku iya amfani da su a cikin saƙonninku.
 and_sms_exe17 === Fayil ɗin Excel da kake son shigo da shi, da fatan za a tabbatar da bin tsarin da ake buƙata.
 and_sms_exe20 === Misalin Fayil:
-and_sms_exe20_1 === Zazzagewa
 and_sms_exe27 === Shortener
-and_sms_exe27_1 === Idan an kunna, za a gajarta hanyoyin haɗin yanar gizo ta atomatik ta amfani da gajeriyar da aka zaɓa.
 and_sms_exe30 === Kar a rage hanyoyin sadarwa
 and_sms_exe39 === Yanayin Ƙofar
 and_sms_exe39_1 === Yanayin ƙofa da kake son amfani da shi. Idan ka zaɓi na'urori, za a nuna na'urorin da aka haɗa don aikawa, in ba haka ba, za a nuna ƙofofin ɓangare na uku da abokan tarayya.
@@ -748,11 +555,9 @@ and_sms_exe97_1 === Siffar da ke ba ku damar bazuwar kalmomi a cikin saƙonnin k
 and_sms_exe109 === Saitin masu canji waɗanda zaku iya amfani da su a cikin saƙonninku.
 and_sms_quick17 === Lambar wayar mai karɓa.
 and_sms_quick24 === Yanayin Ƙofar
-and_sms_quick24_1 === Yanayin ƙofa da kake son amfani da shi. Idan ka zaɓi na'urori, za a nuna na'urorin da aka haɗa don aikawa, in ba haka ba, za a nuna ƙofofin ɓangare na uku da abokan tarayya.
 and_sms_quick27 === Na'urori
 and_sms_quick28 === Kiredit
 and_sms_quick34 === Shortener
-and_sms_quick34_1 === Idan an kunna, za a gajarta hanyoyin haɗin yanar gizo ta atomatik ta amfani da gajeriyar da aka zaɓa.
 and_sms_quick37 === Kar a rage hanyoyin sadarwa
 and_sms_quick46 === Ramin katin SIM don amfani.
 and_sms_quick49 === SIM1
@@ -760,13 +565,11 @@ and_sms_quick50 === SIM2
 and_sms_quick56 === Idan an kunna, za a aika waɗannan saƙonni kafin wani abu.
 and_sms_quick66 === Na'urorin da aka haɗa ku, zaɓi abin da kuke son amfani da shi don aikawa.
 and_sms_quick77 === SMS Gateway
-and_sms_quick77_1 === Ƙofar ƙofa ta 3 da abokan haɗin gwiwa, za a yi amfani da kiredit ɗin ku lokacin da kuka aika saƙonni ta amfani da waɗannan ƙofofin. Muna ba da shawarar ku duba farashin ƙofa kafin amfani da su.
 and_sms_quick104 === Spintax
 and_sms_quick104_1 === Siffar da ke ba ku damar bazuwar kalmomi a cikin saƙonnin ku waɗanda ke hana gano ɓoyayyen ɓoyayyiya.
 and_sysup17 === Sabunta Fayil
 and_sysup17_1 === Sabunta fayil ɗin zip, da fatan za a tabbatar da zaɓar fayil ɗin daidai.
 and_upplug17 === Sabunta Fayil
-and_upplug17_1 === Sabunta fayil ɗin zip, da fatan za a tabbatar da zaɓar fayil ɗin daidai.
 and_uset17 === Hoton bayanin martabarku.
 and_uset24 === Cikakken sunan ku na doka, lura cewa yin amfani da sunan karya na iya sa a dakatar da asusunku.
 and_uset26 === misali. Michael Shmuck
@@ -793,18 +596,14 @@ and_view20 === Cikakken Duba
 and_whatsbulk_18 === Lambobin E.164 da yawa sun rabu ta hanyar karya layi.
 and_whatsbulk_31 === Zaɓi ƙungiyoyin sadarwa da yawa. Lura cewa idan lambar sadarwa tana da ƙungiyoyi da yawa, ana iya aika saƙon sau da yawa zuwa gare shi idan kun zaɓi ƙungiyoyin da aka haɗa shi.
 and_whatsbulk_43 === Shortener
-and_whatsbulk_43_1 === Idan an kunna, za a gajarta hanyoyin haɗin yanar gizo ta atomatik ta amfani da gajeriyar da aka zaɓa.
 and_whatsbulk_46 === Kar a rage hanyoyin sadarwa
 and_whatsbulk_55 === Asusu
-and_whatsbulk_55_1 === Zaɓi asusun WhatsApp ɗin da kuke son amfani da shi.
 and_whatsbulk_64 === Samfuran saƙonku da aka riga aka yi.
-and_whatsbulk_79 === Fassara saƙon.
 and_whatsbulk_84 === Spintax
 and_whatsbulk_84_1 === Siffar da ke ba ku damar bazuwar kalmomi a cikin saƙonnin ku waɗanda ke hana gano ɓoyayyen ɓoyayyiya.
 and_whatsbulk_96 === Saitin masu canji waɗanda zaku iya amfani da su a cikin saƙonninku.
 and_whatex17 === Fayil ɗin Excel da kake son shigo da shi, da fatan za a tabbatar da bin tsarin da ake buƙata.
 and_whatex20 === Misalin Fayil:
-and_whatex20_1 === Zazzagewa
 and_whatex27 === Shortener
 and_whatex27_1 === Idan an kunna, za a gajarta hanyoyin haɗin yanar gizo ta atomatik ta amfani da gajeriyar da aka zaɓa.
 and_whatex30 === Kar a rage hanyoyin sadarwa
@@ -817,31 +616,17 @@ and_whatex68_1 === Siffar da ke ba ku damar bazuwar kalmomi a cikin saƙonnin ku
 and_whatex80 === Saitin masu canji waɗanda zaku iya amfani da su a cikin saƙonninku.
 and_whatquick_17 === E.164 lambar wayar mai karɓa.
 and_whatquick_24 === Shortener
-and_whatquick_24_1 === Idan an kunna, za a gajarta hanyoyin haɗin yanar gizo ta atomatik ta amfani da gajeriyar da aka zaɓa.
 and_whatquick_27 === Kar a rage hanyoyin sadarwa
 and_whatquick_36 === Asusu
-and_whatquick_36_1 === Zaɓi asusun WhatsApp ɗin da kuke son amfani da shi.
 and_whatquick_50 === Fassara saƙon.
 and_whatquick_55 === Spintax
 and_whatquick_55_1 === Siffar da ke ba ku damar bazuwar kalmomi a cikin saƙonnin ku waɗanda ke hana gano ɓoyayyen ɓoyayyiya.
 and_admin_api_3 === API ɗin Gudanarwa
 and_admin_fileman_3 === Editan Samfura
 and_admin_gate_3 === SMS Gateways
-and_admin_gate_8 === Ƙara Ƙofar
 and_admin_lang_6 === Sake yin oda harsuna
-and_admin_mark_3 === Talla
-and_admin_mark_6 === Share abubuwan da aka zaɓa
-and_admin_mark_12 === Tura
-and_admin_mark_17 === Sanarwa
-and_admin_mark_22 === Mai aikawa
 and_admin_payout_3 === Buƙatun Biyan Kuɗi
-and_admin_short_3 === Masu gajarta
 and_admin_short_8 === Ƙara Shortener
-and_admin_subs_8 === Ƙara Biyan Kuɗi
-and_admin_vouch_6 === Share abubuwan da aka zaɓa
-and_droid_dev_3 === Na'urorin Android
-and_droid_dev_6 === Karanta takardun
-and_droid_dev_8 === Docs
 and_droid_dev_11 === Aiwatar don zama abokin tarayya mai ba da ƙofa
 and_droid_dev_13 === Haɗin kai
 and_droid_dev_16 === Yi rijistar sabuwar na'urar android
@@ -851,29 +636,21 @@ and_droid_rev_3 === An karɓi SMS
 and_droid_rev_6 === Share saƙonnin da aka zaɓa
 and_droid_sched_6 === Share abubuwan da aka zaɓa
 and_droid_sent_3 === An aika SMS
-and_droid_sent_6 === Share abubuwan da aka zaɓa
 and_droid_sent_10 === Share duk saƙonnin da ke jiran aiki
 and_droid_sent_14 === Aika SMS mai sauri
-and_droid_sent_16 === Mai sauri
 and_droid_sent_19 === Aika SMS mai girma
-and_droid_sent_21 === Girma
 and_droid_sent_24 === Aika SMS mai yawa ta hanyar Excel
 and_droid_ussd_3 === Buƙatun USSD
-and_droid_ussd_6 === Share abubuwan da aka zaɓa
 and_droid_ussd_10 === Share duk buƙatun da ke jira
 and_droid_ussd_14 === Sabuwar Neman USSD
-and_droid_ussd_16 === nema
 and_con_grp_6 === Share abubuwan da aka zaɓa
 and_con_grp_10 === Ƙara sabon rukunin lamba
-and_con_sav_6 === Share abubuwan da aka zaɓa
 and_con_sav_10 === Ƙara sabuwar lamba
 and_con_sav_15 === Shigo da lambobin sadarwa daga fayil na Excel
 and_con_unsub_3 === Ba a yi rajista ba
-and_con_unsub_6 === Share abubuwan da aka zaɓa
 and_doc_act_3 === Ayyuka
 and_doc_api_3 === Takardun API
 and_doc_dev_3 === Na'urori
-and_doc_partner_3 === Haɗin kai
 and_doc_webhook_3 === Webhooks
 and_rate_gate_3 === Farashin
 and_rate_gate_10 === Ƙasa
@@ -886,21 +663,12 @@ and_tool_act_8 === Docs
 and_tool_act_11 === Ƙara sabon aikin ƙugiya
 and_tool_act_13 === Kugiya
 and_tool_act_16 === Ƙara sabon aikin amsa kai tsaye
-and_tool_act_18 === Amsa ta atomatik
-and_tool_key_6 === Karanta takardun
-and_tool_key_8 === Docs
 and_tool_key_11 === Ƙirƙiri sabon maɓallin API
-and_tool_webhook_6 === Karanta takardun
-and_tool_webhook_8 === Docs
 and_what_accnt_6 === Haɗa sabon asusu
-and_what_accnt_8 === Ƙara Account
 and_what_attach_8 === Share saƙonnin da aka zaɓa
 and_what_rev_3 === Hirar da aka karɓa
-and_what_rev_6 === Share abubuwan da aka zaɓa
 and_what_sched_6 === Share abubuwan da aka zaɓa
-and_what_sched_12 === Jadawalin Taɗi
 and_what_sent_3 === Aiko Hirarraki
-and_what_sent_6 === Share abubuwan da aka zaɓa
 and_what_sent_10 === Aika Taɗi mai Sauri
 and_what_sent_12 === Mai sauri
 and_what_sent_15 === Aika Babban Taɗi
@@ -912,10 +680,8 @@ and_def_f_blck_8 === Shiga Mu
 and_def_f_blck_35 === Shiga Tunawa
 and_head_blck_21 === Gida
 and_head_blck_24 === Siffofin
-and_head_blck_27 === Farashi
 and_head_blck_30 === Abokan ciniki
 and_head_blck_39 === Dashboard
-and_head_blck_42 === Fita
 and_pages_default_8 === SMS da WhatsApp marketing a mafi kyau
 and_pages_default_29 === Saƙon SMS
 and_pages_default_31 === Yi amfani da na'urorin android ɗinku azaman ƙofar SMS, wannan yana da arha sosai fiye da amfani da ƙofofin ɓangare na uku.
@@ -929,11 +695,9 @@ and_pages_default_73 === Me yasa amfani da sabis ɗinmu?
 and_pages_default_74 === Ga wasu dalilan da ya sa ya kamata ka fara amfani da sabis ɗinmu
 and_pages_default_84 === Aiko da sauri da yawa
 and_pages_default_86 === Aika ɗimbin saƙonni zuwa ƙungiyoyin tuntuɓi daban-daban cikin sauƙi kuma kuna iya aika saƙonnin gaggawa don ma'amala cikin sauri. Dandalin mu kuma ya haɗa da dashboard kai tsaye, samun sanarwa lokacin da aka aika ko karɓan saƙonninku!
-and_pages_default_89 === Gajerun lambobi
 and_pages_default_89_1 === don tsara saƙonninku tare da bayanan da aka riga aka ƙayyade.
 and_pages_default_90 === Spintax
 and_pages_default_90_1 === don bazuwar saitin kalmomi don yaƙi al'amuran banza.
-and_pages_default_91 === Mai fassara
 and_pages_default_91_1 === don nisantar masu sauraro dangane da harsunansu.
 and_pages_default_98 === Kayan aikin atomatik da wayo
 and_pages_default_100 === Sarrafa kasuwancin ku yayin da muke kula da aikin ƙazanta, dandalin mu yana da wayo kuma kawai yana buƙatar saƙonnin da kuke son aikawa to za mu yi sauran!
@@ -955,17 +719,12 @@ and_pages_default_156 === Kayan aiki masu ban sha'awa da dashboard
 and_pages_default_159 === Ƙwarewa mai sauri da lalacewa yayin da kuke tallata samfuran ku
 and_pages_default_171 === Farashin Sabis
 and_pages_default_187 === SMS Aika
-and_pages_default_194 === Karɓi SMS
-and_pages_default_201 === WhatsApp Aika
-and_pages_default_208 === WhatsApp karba
 and_pages_default_215 === USSD
 and_pages_default_222 === Sanarwa
-and_pages_default_229 === SMS/Taɗi da aka tsara
 and_pages_default_236 === Lambobin sadarwa
 and_pages_default_243 === Maɓallan API
 and_pages_default_250 === Webhooks
 and_pages_default_257 === Ayyuka
-and_pages_default_264 === Na'urorin Android
 and_pages_default_271 === WhatsApp Accounts
 and_pages_default_287 === Abokan cinikinmu
 and_pages_default_290 === Amintattun abokan ciniki sama da 3,000+. Fara tallata samfuran ku kuma haɓaka kasuwancin ku tare da mu!
@@ -1330,10 +1089,6 @@ form_fullname === Cikakken suna
 form_cpassword === tabbata kalmar shiga
 form_haveaccount === Ina da Account
 datatable_processing === Ana aiwatarwa, da fatan za a jira...
-datatable_length === Nuna shigarwar _MENU_
-datatable_info === Nuna _START_ zuwa _END_ na shigarwar _TOTAL_
-datatable_empty === Nuna 0 zuwa 0 na shigarwar 0
-datatable_filtered === (an tace daga jimlar shigarwar _MAX_)
 datatable_loading === Ana lodawa, da fatan za a jira...
 datatable_zero === Ba za mu iya samun wani abu da ya dace da tambayar ku ba!
 datatable_null === Babu bayanan da za a nuna!
@@ -1968,7 +1723,7 @@ table_ratespartners_simsingle === SIM _8880_
 table_adminusers_exportcopy === Kwafin Clipboard Masu Amfani _8880_
 table_adminusers_exportexcel === Masu amfani Excel Export _8880_
 table_adminusers_exportpdf === Masu amfani da PDF Export _8880_
-table_adminusersexportdata === Matsayi: _8880_, Ƙasa: _8881_, Harshe: _8882_, Shiyyar lokaci: _8883_, Abubuwan da aka samu: _8884_, Kiredit: _8885_, Biyan kuɗi: _8886_, Sauti: _8887_, An dakatar da: _888
+table_adminusersexportdata === Matsayi: _8880_, Ƙasa: _8881_, Harshe: _8882_, Shiyyar lokaci: _8883_, Abubuwan da aka samu: _8884_, Kiredit: _8885_, Biyan kuɗi: _8886_, Sauti: _8887_, An dakatar da: _8888_
 table_adminusers_exportdata1 === Matsayi: _8880_
 table_adminusers_exportdata2 === Kasar: _8880_
 table_adminusers_exportdata3 === Harshe: _8880_
@@ -2403,7 +2158,6 @@ js_calendarall_monoct === Oktoba
 js_calendarall_monnov === Nuwamba
 js_calendarall_mondec === Disamba
 response_ussddelete_success === An share buƙatar USSD!
-response_titanecho_invaltoken === Kuskuren tsarin tsari!
 widgets_addplugin_loader === Shigar da sabon plugin zuwa tsarin
 widgets_addwhatsapp_newmodal === Haɗa WhatsApp ɗin ku ta danna maɓallin don nuna QRCode sannan ku duba ta maɓallin _8880_ a cikin app. Kuna da daƙiƙa 15 kawai don duba QRCode.
 widgets_addwhatsapp_newmodal2 === _8880_ ya ƙare, idan an haɗa asusunku, ko a'a, da fatan za a danna maɓallin da ke ƙasa.
@@ -2419,7 +2173,6 @@ widget_waquick_requireaccountnew1 === WhatsApp account
 requests_whatsapp_notavail === Babu uwar garken WhatsApp!
 requests_whatsapp_unablegenqr === An kasa samar da WhatsApp QRCode!
 requests_charts_commisionstitle === Kwamitocin
-requests_token_refreshecho === Alamar _8880_ an sabunta ta!
 requests_remote_smscampaignresumed === An ci gaba da yakin SMS!
 requests_remote_smscampaignpaused === An dakatar da yakin SMS!
 requests_remote_wacampaignresumed === An dawo da yakin neman zaben WhatsApp!
@@ -2500,8 +2253,6 @@ table_android_copydeviceid === Kwafi ID na Musamman na Na'ura
 table_partnerrates_devicename === Sunan na'ura
 widget_fetchgroups_titlefetch === Dauki Ƙungiyoyi
 widget_fetchgroups_loaderfetch === Dabo ƙungiyoyi daga asusu
-pages_admin_tokenrefreshbutt === Alama
-pages_admin_tokenrefreshbutthelp === Sake sabunta alamar sadarwar soket. Idan tsarin baya nuna duk wani sanarwar toast ɗin kai tsaye ko baya sabuntawa a ainihin lokacin, da fatan za a danna wannan maɓallin.
 pages_admin_cachehelp === Share dukan tsarin cache. Gargadi! Wannan kuma zai share caches masu alaƙa da API, tantancewa da biyan kuɗi. Ana ba da shawarar yin wannan kawai lokacin haɓaka tsarin.
 pages_admin_themehelp === Gyara samfuri da ƙira.
 pages_admin_systemsettingshelp === Daidaita mahimman saitunan tsarin.
@@ -2600,7 +2351,6 @@ app_fetching_messages === Dauke Saƙonni
 app_fetching_ussd === Farashin USSD
 app_campaign_resumed === An ci gaba da aikawa don yaƙin neman zaɓe:
 app_campaign_paused === An dakatar da aikawa don yakin neman zabe:
-js_response_titanechorefreshdesc === Sake sabunta alamar don sadarwar soket na ainihi?
 form_wa_templatetype_knownissue === Batun Sani
 form_wa_templatetype_knownissuedesc === Irin wannan saƙon WhatsApp baya nunawa da kyau akan iOS. The WhatsApp iOS app zai nuna wani m saƙo.
 app_response_devicealreadylinked === An riga an haɗa wannan na'urar zuwa wani asusu!
@@ -2864,7 +2614,7 @@ plugin_paymentpage_processingtagline === Da fatan za a danna maɓallin da ke ƙa
 plugin_paymentpage_processingbutton === Biya Yanzu
 plugin_generic_downloadstitle === Zazzagewar plugin
 table_waservers_detailsid === ID
-table_waservers_detailsversion === Sigarform_waserver_secretkeydesc_386 === Ƙirƙiri amintaccen maɓalli na sirri na musamman. Sabar ta WhatsApp za ta yi amfani da wannan don tabbatar da haɗin kai tare da Zender. Don Allah kar a yi amfani da haruffa na musamman!
+table_waservers_detailsversion === Sigar
 form_package_enabledservicestitle === Sabis da aka kunna
 form_package_enabledservicesdesc === Zaɓi ayyukan da kuke son kunnawa don wannan fakitin. Ana ɓoye ayyukan da aka kashe kuma za a iyakance ga mai amfani.
 plugins_btn_pluginsdefopagegeneric === Plugins
@@ -3076,6 +2826,9 @@ flow_header_title === Mai Gina Gudana
 flow_response_saved === An adana gudana cikin nasara!
 flow_response_nofile === Babu fayil ɗin da aka ɗora ko kuskuren ɗora fayil!
 flow_response_fileuploaded === An loda fayil ɗin cikin nasara
+flow_response_ai_key_required === Da fatan za a zaɓi maɓallin AI don kowace kumburin Amsar AI!
+flow_response_file_too_large === Fayil ɗin da aka ɗora ya yi girma sosai, matsakaicin girman shine 10MB!
+flow_response_invalid_filetype === Ba a yarda da wannan nau'in fayil ɗin ba!
 flow_modal_upload_title === Loda Fayil
 flow_modal_upload_button_select === Zaɓi Fayil
 flow_modal_upload_button_upload === Loda
@@ -3200,3 +2953,23 @@ flowjs_node_pause_duration_placeholder === Shigar da tsawon lokaci a cikin dakik
 flowjs_node_resume === Sake farawa
 flowjs_node_resume_context === Mahallin
 flowjs_node_resume_description === Ci gaba da martani na atomatik da aka dakatar
+modal_adminsettings_currencyapikey === Maɓallin API na Farashin Musaya
+modal_adminsettings_currencyapikeyinfo === Maɓallin API naka daga mai bayar da farashin musaya. Canjin kuɗi zai kasance a kashe har sai an saita shi.
+modal_adminsettings_realtimetitle === Sanarwa Kai Tsaye
+modal_adminsettings_realtimeinfo === Sabuntawa kai tsaye suna amfani da yarjejeniyar Pusher. Ka zabi sabis na Pusher ko kowane uwar garke mai jituwa kamar Sockety, Soketi ko Reverb. Ka bar bayanan shiga wofi don kashe aiki kai tsaye.
+modal_adminsettings_realtimeappid === Lambar Manhaja
+modal_adminsettings_realtimekey === Makullin Manhaja
+modal_adminsettings_realtimesecret === Sirrin Manhaja
+modal_adminsettings_realtimecluster === Gungu
+modal_adminsettings_realtimehost === Adireshin Uwar Garke
+modal_adminsettings_realtimehostinfo === Cikakken adireshin uwar garken ka, misali https://sockets.example.com:6001
+modal_adminsettings_realtimedriver === Mai Bayarwa
+modal_adminsettings_realtimedriverpusher === Pusher (Girgije)
+modal_adminsettings_realtimedrivercompatible === Uwar Garke Mai Jituwa (Na Kai)
+modal_adminsettings_realtimecredentials === Ka samo bayanan shiga daga dashboard na Pusher
+modal_adminsettings_realtimeconfigured === An Saita
+modal_adminsettings_realtimekeepblank === Ka bar shi wofi don rike darajar yanzu
+modal_adminsettings_realtimetest === Gwada Haduwa
+js_realtime_testing === Ana gwada haduwa kai tsaye...
+response_realtime_testok === Haduwa kai tsaye ta yi nasara!
+response_realtime_testfailed === Haduwa kai tsaye ta gaza. Ka duba bayanan shiga da adireshin uwar garke.

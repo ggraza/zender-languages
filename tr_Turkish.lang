@@ -11,18 +11,12 @@ and_dashboard_pages_defailt_line37 === Ağ Geçidi Oranları
 and_dashboard_pages_default_line42 === Dokümanlar
 and_dashboard_pages_default_line58 === Mesajlar
 and_dashboard_pages_default_line60 === Son 7 gün
-and_dashboard_pages_default_line74 === Olaylar
-and_dashboard_pages_default_line76 === Son 7 gün
-and_dashboard_pages_default_line90 === Araçlar
-and_dashboard_pages_default_line92 === Son 7 gün
-and_dashboard_pages_default_line109 === Ortaklar
 and_dashboard_pages_default_line117 === Kazanç
 and_dashboard_pages_default_line131 === ödeme
 and_dashboard_pages_default_line140 === Denge
 and_dashboard_pages_default_line148 === Kredi
 and_dashboard_pages_default_line162 === tamamla
 and_dashboard_pages_default_line170 === Teslimat Oranı
-and_dash_pg_def_line178 === Başarı
 and_dash_pg_def_line190 === Arızalı
 and_dash_pg_def_line204 === gönderenler
 and_dash_pg_def_line209 === Premium paketlerimizin hiçbirine abone değilsiniz!
@@ -32,11 +26,9 @@ and_dash_pg_def_line232 === hesaplar
 and_dash_pg_def_line239 === bağlantılı
 and_dash_pg_def_line250 === En iyi kullanıcı deneyimini elde etmek için resmi uygulamamızı indirin ve yükleyin
 and_dash_pg_doc_line10 === Belgeler
-and_dash_pg_doc_line28 === API
 and_dash_pg_doc_line34 === Web kancaları
 and_dash_pg_doc_line40 === Hareketler
 and_dash_pg_doc_line46 === cihazlar
-and_dash_pg_doc_line52 === ortaklık
 and_dash_pg_for_line29 === İptal
 and_dash_pg_log_line14 === Facebook ile giriş
 and_dash_pg_log_line17 === Google ile giriş yapın
@@ -50,15 +42,10 @@ and_dash_pg_reg_line20 === Google'a kaydolun
 and_dash_pg_reg_line25 === VKontakte'ye kaydolun
 and_dash_pg_whats_line10 === Naber
 and_dash_pg_whats_line10_1 === Beta
-and_dash_pg_whats_line28 === Gönderilmiş
 and_dash_pg_whats_line34 === Alınan
 and_dash_pg_whats_line40 === zamanlanmış
 and_dash_pg_whats_line46 === hesaplar
-and_dash_api_line17 === Anahtar adı.
-and_dash_api_line19 === Örneğin. Sunucum İçin
-and_dash_api_line24 === Anahtar izinleri.
 and_dash_auto_line17 === Eylem adı.
-and_dash_auto_line19 === Örneğin. Michael
 and_dash_auto_line24 === Kaynak
 and_dash_auto_line24_1 === Alma olayının kaynağı.
 and_dash_auto_line27 === SMS
@@ -75,23 +62,16 @@ and_dash_cre_line28 === Satın alma
 and_dash_gate_line17 === İsim
 and_dash_gate_line17_1 === Bu, kullanıcılarınıza gösterilecek ağ geçidi adıdır.
 and_dash_gate_line19 === Örneğin. Twilio
-and_dash_gate_line24 === kontrolör
 and_dash_gate_line24_1 === Ağ geçidi denetleyici dosyasını seçin, bu, ağ geçidi mantığınızı ve kodunuzu içerecektir. Belgeleri kontrol etmeniz önerilir.
-and_dash_gate_line27 === Kontrolör Kazan Plakası:
 and_dash_gate_line34 === Geri aramak
 and_dash_gate_line34_1 === Etkinleştirilirse, gönderme durumu için 3. taraf ağ geçidinin geri arama özelliği kullanılarak mesajların doğrulanması gerekir, aksi takdirde mesajlar gönderildikten hemen sonra gönderildi olarak işaretlenir.
-and_dash_gate_line37 === Olanak vermek
-and_dash_gate_line38 === Devre dışı bırakmak
 and_dash_gate_line44 === geri arama kimliği
 and_dash_gate_line44_1 === Geri arama etkinse, sistemin geri aramaları tanımlayabilmesi için bu kimliği kopyalamanız ve denetleyicinize yapıştırmanız gerekir.
 and_dash_gate_line47 === Geri arama kimliği için kopyalayıp yapıştırın
-and_dash_gate_line54 === fiyatlandırma
 and_dash_gate_line54_1 === Bu ağ geçidi için özel fiyatlandırma tablonuz. Bu, 3. taraf fiyatlarının üzerine ücretlendirmenizi sağlar. Örneğin, belirli bir ülke için twilio 0,01 ücret alıyorsa, bunun yerine 0,02 ücret alabilirsiniz, para birimi sistem para biriminize bağlıdır. Lütfen fiyatlandırma biçimini doğru takip edin.
 and_dash_gate_line57 === Örnek JSON Fiyatlandırması:
-and_dash_gate_line57_1 === İndirmek
 and_dash_grp_line17 === Grup ismi.
 and_dash_grp_line19 === Örneğin. Arkadaşlar
-and_dash_hook_line17 === Eylem adı.
 and_dash_hook_line19 === Örneğin. Test Eylemi
 and_dash_hook_line24 === Kaynak
 and_dash_hook_line24_1 === Olay kaynağı.
@@ -100,8 +80,6 @@ and_dash_hook_line44 === Hook link yapısı, bu sistem tarafından çağrılacak
 and_dash_hook_line51 === Kanca URL'nizde kullanabileceğiniz değişkenler kümesi.
 and_dash_hook_line27 === SMS
 and_dash_hook_line28 === Naber
-and_dash_hook_line37 === Gönderildiğinde
-and_dash_hook_line38 === Alındığında
 and_dash_lang_line17 === Dil adı.
 and_dash_lang_line19 === Örneğin. Koreli
 and_dash_lang_line24 === Ülke kodu.
@@ -110,19 +88,14 @@ and_dash_lang_line35_1 === Etkinleştirilirse, dil sağdan sola yön olarak tan�
 and_dash_lang_line38 === Evet
 and_dash_lang_line39 === Numara
 and_dash_lang_line45 === Çeviri dizeleri.
-and_dash_mail_line17 === Başlık
 and_dash_mail_line17_1 === Posta başlığı.
-and_dash_mail_line19 === Örneğin. Duyuru
 and_dash_mail_line24 === Kullanıcılar
 and_dash_mail_line24_1 === Kullanıcılar tarafından gönder.
-and_dash_mail_line36 === Roller
 and_dash_mail_line36_1 === Rollere göre gönder.
 and_dash_mail_line48 === İçerik
 and_dash_mail_line48_1 === Posta içeriği, html'ye izin verilir.
 and_dash_mail_line50 === Selam Dünya!
-and_dash_not_line17 === Başlık
 and_dash_not_line17_1 === Başlığa bildir.
-and_dash_not_line19 === Örneğin. Duyuru
 and_dash_not_line24 === İleti
 and_dash_not_line24_1 === Mesajı bildir.
 and_dash_not_line31 === Renk
@@ -130,13 +103,8 @@ and_dash_not_line31_1 === Renk bildir.
 and_dash_not_line35 === Başarı
 and_dash_not_line36 === Uyarı
 and_dash_not_line37 === Tehlike
-and_dash_not_line43 === resim
 and_dash_not_line43_1 === Resmi bildir, bu isteğe bağlıdır.
-and_dash_not_line46 === İsteğe bağlı
 and_dash_not_line53 === Kullanıcılar
-and_dash_not_line53_1 === Kullanıcılar tarafından yayın.
-and_dash_not_line65 === Roller
-and_dash_not_line65_1 === Rollere göre yayın.
 and_pack_line17 === Paket ismi.
 and_pack_line19 === Örneğin. VIP Paket
 and_pack_line24 === Paket fiyatı, bu sistem para birimini takip etmelidir. Kayan değerlere izin verilmez.
@@ -151,33 +119,25 @@ and_pack_line65_1 === Sıfırlamadan önce kullanıcının alabileceği maksimum
 and_pack_line67 === Örneğin. 150
 and_pack_line72 === USSD Sınırı
 and_pack_line72_1 === Sıfırlamadan önce kullanıcı tarafından talep edilebilecek maksimum ussd sayısı. Sınırsız için 0 girin.
-and_pack_line74 === Örneğin. 25
 and_pack_line79 === Bildirim Sınırı
 and_pack_line79_1 === Sıfırlamadan önce kullanıcı tarafından alınabilecek maksimum bildirim sayısı. Sınırsız için 0 girin.
 and_pack_line81 === Örneğin. 1300
 and_pack_line86 === Kullanıcının hesabına bağlanabilecek maksimum android cihaz sayısı. Sınırsız için 0 girin.
-and_pack_line88 === Örneğin. 25
 and_pack_line92 === WhatsApp Ayarları
 and_pack_line97 === Sıfırlamadan önce kullanıcı tarafından gönderilebilecek maksimum sohbet sayısı. Sınırsız için 0 girin.
-and_pack_line99 === Örneğin. 300
 and_pack_line104 === Sıfırlamadan önce kullanıcının alabileceği maksimum sohbet sayısı. Sınırsız için 0 girin.
-and_pack_line106 === Örneğin. 150
 and_pack_line111 === Hesap Limiti
 and_pack_line111_1 === Kullanıcının hesabına bağlanabilecek maksimum WhatsApp hesabı sayısı. Sınırsız için 0 girin.
 and_pack_line113 === Örneğin. 10
 and_pack_line117 === Ultilite Ayarları
 and_pack_line122 === Kullanıcı tarafından kaydedilebilecek maksimum kişi sayısı. Sınırsız için 0 girin.
-and_pack_line124 === Örneğin. 25
 and_pack_line129 === Planlanmış Sınır
 and_pack_line129_1 === Kullanıcı tarafından kaydedilebilecek maksimum planlanmış mesaj/sohbet sayısı. Sınırsız için 0 girin. Bu hem sms hem de whatsapp için birleştirilir.
-and_pack_line131 === Örneğin. 25
 and_pack_line136 === Oluşturulabilecek maksimum API anahtarı sayısı. Sınırsız için 0 girin.
-and_pack_line138 === Örneğin. 10
 and_pack_line143 === Oluşturulabilecek maksimum Web kancası sayısı. Sınırsız için 0 girin.
 and_pack_line145 === Örneğin. 5
 and_pack_line150 === Eylem Sınırı
 and_pack_line150_1 === Oluşturulabilecek maksimum Eylem sayısı. Sınırsız için 0 girin.
-and_pack_line152 === Örneğin. 5
 and_page_line17 === Sayfa ismi.
 and_page_line24 === Bu sayfaya yalnızca seçilen roller erişebilecek.
 and_page_line35 === Etkinleştirilirse, oturum açılmamışsa sayfaya erişilemez.
@@ -189,13 +149,10 @@ and_payout_line24 === Sağlayıcı
 and_payout_line24_1 === Parayı almak için kullanmak istediğiniz ödeme sağlayıcısını seçin.
 and_payout_line27 === paypal
 and_payout_line28 === Payoneer
-and_payout_line34 === fatura adresi
 and_payout_line34_1 === Ödeme adresi veya e-posta, ödeme sorunlarını önlemek için lütfen dikkatlice kontrol edin.
 and_payout_line36 === Örneğin. PayPal e-postanız
-and_payout_line43 === Rica etmek
 and_plug_line17 === Eklenti Dosyası
 and_plug_line17_1 === Eklenti zip dosyası, lütfen doğru dosyayı seçtiğinizden emin olun.
-and_push_line17 === Başlık
 and_push_line17_1 === Başlığı itin.
 and_push_line19 === Örneğin. Duyuru
 and_push_line24 === resim
@@ -205,7 +162,6 @@ and_push_line34 === İleti
 and_push_line34_1 === Mesajı itin.
 and_push_line41 === Kullanıcılar
 and_push_line41_1 === Kullanıcılar tarafından yayın.
-and_push_line53 === Roller
 and_push_line53_1 === Rollere göre yayın.
 and_role_line17 === Rol ismi.
 and_role_line19 === Örneğin. geliştirici
@@ -224,19 +180,14 @@ and_sms_line31 === Etkinleştirilirse, planlanan tarih her eşleştiğinde mesaj
 and_sms_line42 === Satır sonu ile ayrılmış birden çok E.164 numarası.
 and_sms_line55 === Birden çok kişi grubu seçin
 and_sms_line67 === kısaltıcı
-and_sms_line67_1 === Etkinleştirilirse, mesajlardaki bağlantılar seçilen kısaltıcı kullanılarak otomatik olarak kısaltılacaktır.
 and_sms_line70 === Linkleri kısaltmayın
 and_sms_line79 === Ağ Geçidi Modu
-and_sms_line79_1 === Kullanmak istediğiniz ağ geçidi modu. Cihazları seçerseniz, bağlı cihazlarınız gönderilmek üzere gösterilir, aksi takdirde 3. taraf ve ortak ağ geçitleri gösterilir.
 and_sms_line82 === cihazlar
 and_sms_line83 === Kredi
 and_sms_line88 === Kullanılacak Sim kart yuvası.
-and_sms_line91 === SIM1
-and_sms_line92 === SIM2
 and_sms_line97 === Hazır mesaj şablonlarınız.
 and_sms_line110 === Bağlı cihazlarınız, göndermek için ne kullanmak istediğinizi seçin.
 and_sms_line121 === SMS Ağ Geçidi
-and_sms_line121_1 === 3. taraf ve ortak ağ geçitleri, bu ağ geçitlerini kullanarak mesaj gönderdiğinizde kredileriniz kullanılacaktır. Kullanmadan önce ağ geçidi fiyatlarını kontrol etmenizi öneririz.
 and_sms_line141 === omurilik
 and_sms_line144 === Örnek:
 and_sms_line144_1 === Tom bir
@@ -270,8 +221,6 @@ and_user_line31 === Kullanıcı şifresini girin.
 and_user_line38 === Kullanıcı konumu saat dilimi, farklı bir ülkedeyse bunu değiştirin. Gönderilen mesajların ve diğer verilerin tarih ve saat doğruluğu için saat dilimi kullanılır.
 and_user_line49 === Ülke
 and_user_line49_1 === Kullanıcı ülkesi, bu, ödemeler ve telefon numarası biçimlendirmesi için kullanılır.
-and_user_line60 === Bildirim Sesleri
-and_user_line60_1 === Devre dışı bırakılırsa, bildirimler sessiz olacaktır.
 and_user_line70 === Kullanıcı rolünü seçin.
 and_user_line81 === Kullanıcı dilini seçin.
 and_user_line92 === Ortak Programı
@@ -280,17 +229,12 @@ and_ussd_line17 === USSD Kodu
 and_ussd_line17_1 === USSD istek kodu.
 and_ussd_line19 === Örneğin. *121#
 and_ussd_line24 === Kullanılacak Sim kart yuvası.
-and_ussd_line27 === SIM1
-and_ussd_line28 === SIM2
 and_ussd_line34 === Bağlı cihazlarınız, ussd talebi için ne kullanmak istediğinizi seçin.
 and_ussd_line47 === Rica etmek
 and_vouch_line17 === Kupon adı.
 and_vouch_line19 === Örneğin. Özel
 and_vouch_line24 === Oluşturmak istediğiniz kupon miktarı. Maksimum değer 1000!
 and_vouch_line26 === Örneğin. 100
-and_vouch_line31 === Abonelik süresi.
-and_vouch_line33 === Örneğin. 12
-and_vouch_line38 === Abonelik paketi.
 and_web_line17 === Web kancası adı.
 and_web_line24 === Olayları Al
 and_web_line24_1 === İhtiyacınız olan alma olaylarını seçin, bunlar POST yöntemiyle web kanca url'nize gönderilecektir.
@@ -300,18 +244,11 @@ and_web_line29 === USSD
 and_web_line30 === Bildirimler
 and_web_line36 === Webhook url'niz, tüm yük verileri buraya POST yöntemiyle gönderilecektir.
 and_web_line38 === Örneğin. http://alaniniz.com/hook_listen.php
-and_whatssched_line17 === Planlanmış sohbetin adı.
-and_whatssched_line19 === Örneğin. Benim mesajım
-and_whatssched_line24 === Program tarihini seçin.
-and_whatssched_line26 === Örneğin. 22.06.2020 12:00
 and_whatssched_line31 === Etkinleştirilirse, planlanan tarih her eşleştiğinde sohbet planlanır.
 and_whatssched_line42 === Satır sonu ile ayrılmış birden çok E.164 numarası.
-and_whatssched_line55 === Birden çok kişi grubu seçin
 and_whatssched_line67 === kısaltıcı
-and_whatssched_line67_1 === Etkinleştirilirse, mesajlardaki bağlantılar seçilen kısaltıcı kullanılarak otomatik olarak kısaltılacaktır.
 and_whatssched_line70 === Linkleri kısaltmayın
 and_whatssched_line79 === Hesap
-and_whatssched_line79_1 === Kullanmak istediğiniz WhatsApp hesabını seçin.
 and_whatsached_line88 === Hazır mesaj şablonlarınız.
 and_whatssched_line103 === omurilik
 and_whatssched_line103_1 === Spam algılamalarını etkili bir şekilde önleyen, iletilerinizdeki sözcükleri rastgele seçmenize olanak tanıyan bir özellik.
@@ -366,14 +303,11 @@ and_admin_build_line95_1 === Uygulama oturum açma resmi logosu, bu, oturum açm
 and_admin_build_line103 === Uygulama resmi simgesi, bu, uygulama çekmecesinde ve android sisteminde gösterilir. Önerilen boyutlar px ve png formatında 1024x1024'tür.
 and_admin_build_line111 === Uygulama açılış ekranı görüntüsü, bu, kullanıcı uygulamayı açtığında gösterilir. Önerilen boyutlar px ve png formatında 2732x2732'dir.
 and_admin_build_line118 === Yapı
-and_admin_build_line123 === Özel JavaScript
 and_admin_build_line123_1 === Özel bir javascript kodu kullanmak istiyorsanız, lütfen buraya ekleyin. Bu, uygulamada dinamik olarak yüklenir.
 and_admin_build_line125 === örneğin, alert('Merhaba Dünya!');
-and_admin_build_line130 === Özel CSS
 and_admin_build_line130_1 === Özel bir css kodu kullanmak istiyorsanız, lütfen buraya ekleyin. Bu, uygulamada dinamik olarak yüklenir.
 and_admin_build_line137 === Özel Düzen
 and_admin_build_line137_1 === Özel bir uygulama yapısı kullanmak istiyorsanız, lütfen html içeriğini değiştirin, ne yaptığınızı bilmiyorsanız lütfen varsayılan değeri bırakın.
-and_admin_build_line139 === Selam Dünya!
 and_settings_line21 === Site adı, markalaşmanın gerekli olduğu her yerde bu gösterilir.
 and_settings_line23 === Örneğin. Zender
 and_settings_line28 === Site açıklaması, bu arama motoru optimizasyonu içindir, bu yüzden yaratıcı olun.
@@ -388,14 +322,12 @@ and_settings_line70 === Devre dışı bırakılırsa, kayıt sayfası üzerinden
 and_settings_line80 === Paket Sıfırlama Modu
 and_settings_line80_1 === Gönderme, alma, ussd ve bildirimler gibi limitlerin sıfırlama aralığı. Bu hem Android hem de WhatsApp özellikleri için geçerlidir. Buradaki seçiminiz ayrıca cron kurulumunda da uygulanmalıdır.
 and_settings_line83 === Günlük
-and_settings_line84 === Aylık
 and_settings_line90 === Ücretsiz Model
 and_settings_line90_1 === Etkinleştirilirse, varsayılan ücretsiz paket, kayıttan sonra otomatik olarak kullanıcıya atanır.
 and_settings_line100 === Devre dışı bırakılırsa, ana sayfa kullanılmayacaktır. Kök dizindeki tüm ziyaretler kontrol paneline yönlendirilecektir.
 and_settings_line110 === TAWK Sohbet Widget'ı
 and_settings_line110_1 === Etkinleştirilirse, kullanıcılara tawk sohbet widget'ı görünecektir.
 and_settings_line120 === Tawk sohbet widget bağlantınız, tawk sohbet desteğini kullanmak istiyorsanız bu gereklidir.
-and_settings_line127 === Yönetici API'sı
 and_settings_line127_1 === Etkinleştirmek istediğiniz yönetici API uç noktalarını seçin. Yalnızca ihtiyacınız olan uç noktaları etkinleştirmeniz önerilir.
 and_settings_line159 === Bu jeton kimseyle paylaşılmamalıdır. Bu, cronjobs, sistem API'si ve diğer harici isteklerin güvenliği için kullanılır. Sistem jetonunuzun güvenliğinin ihlal edildiğini düşünüyorsanız, lütfen yeni bir tane oluşturun, yeni bir jeton oluşturduktan sonra cronjobs, sistem API ve diğer ilgili ayarlarınızı yeniden yapılandırmanız gerekecektir.
 and_settings_line160 === yeniden oluştur
@@ -419,9 +351,7 @@ and_settings_line263 === Örneğin. test_4vzuJVhRCFSyNyuc6gwvJpQ474Vngp
 and_settings_line268 === Kullanılacak sistem para birimi, işlemler USD'ye çevrilirken temel olarak kullanılacaktır.
 and_settings_line279 === Kullanmak istediğiniz ödeme sağlayıcılarını seçin.
 and_settings_line293 === Mesajlar için minimum karakter. Bu hem SMS hem de WhatsApp için geçerlidir.
-and_settings_line295 === Örneğin. 5
 and_settings_line300 === Mesajlar için maksimum karakter. Bu hem SMS hem de WhatsApp için geçerlidir. Sonsuz karakterler için 0 girin.
-and_settings_line302 === Örneğin. 300
 and_settings_line307 === Mesaj alt bilgi işareti, bu, paketlerinde alt bilgi işareti etkinleştirilmişse mesajlara eklenir.
 and_settings_line309 === Örneğin. Zender Sisteminden Gönderildi
 and_settings_line318 === Gönderilen iletiler tablosunda görüntülenecek varsayılan satır sayısı. Bu hem SMS hem de WhatsApp için geçerlidir.
@@ -484,16 +414,11 @@ and_edit_auto_line36 === Örneğin. teşekkür ederim, tamam, abone ol, evet
 and_edit_auto_line41 === Gönderene gönderilecek mesaj.
 and_edit_auto_line43 === Örneğin. Yanıt mesajınız burada, kısa kodlar kabul edildi
 and_edit_auto_line48 === Mesajınızda kullanabileceğiniz değişkenler kümesi.
-and_edit_con_line17 === Kişi adı.
 and_edit_con_line19 === Örneğin. Michael
-and_edit_con_line24 === İletişim numarası.
-and_edit_con_line31 === İletişim grubu.
-and_edit_dev_line16 === Cihaz Ayrıntıları
 and_edit_dev_line21 === Cihaz adı.
 and_edit_dev_line23 === Örneğin. Cihazım
 and_edit_dev_line28 === Etkinleştirilirse, mesajlar 2 değer arasında rastgele aralıklarla gönderilir. Bunları aşağıda yapılandırabilirsiniz.
 and_edit_dev_line38 === Saniye cinsinden minimum aralık.
-and_edit_dev_line41 === Örneğin. 5
 and_edit_dev_line46 === Saniye cinsinden maksimum aralık.
 and_edit_dev_line49 === Örneğin. 20
 and_edit_dev_line53 === Bildirim ayarları
@@ -514,109 +439,25 @@ and_edit_dev_line112_1 === Göndermek için kullanmak istediğiniz sim slotları
 and_edit_email_line16 === E-posta şablonu
 and_edit_email_line18 === HTML'ye izin verildi
 and_edit_gate_line17 === İsim
-and_edit_gate_line17_1 === Bu, kullanıcılarınıza gösterilecek ağ geçidi adıdır.
-and_edit_gate_line19 === Örneğin. Twilio
-and_edit_gate_line24 === kontrolör
-and_edit_gate_line24_1 === Ağ geçidi denetleyici dosyasını seçin, bu, ağ geçidi mantığınızı ve kodunuzu içerecektir. Belgeleri kontrol etmeniz önerilir.
-and_edit_gate_line31 === Geri aramak
-and_edit_gate_line31_1 === Etkinleştirilirse, gönderme durumu için 3. taraf ağ geçidinin geri arama özelliği kullanılarak mesajların doğrulanması gerekir, aksi takdirde mesajlar gönderildikten hemen sonra gönderildi olarak işaretlenir.
-and_edit_gate_line34 === Olanak vermek
-and_edit_gate_line35 === Devre dışı bırakmak
 and_edit_gate_line41 === geri arama kimliği
-and_edit_gate_line41_1 === Geri arama etkinse, sistemin geri aramaları tanımlayabilmesi için bu kimliği kopyalamanız ve denetleyicinize yapıştırmanız gerekir.
-and_edit_gate_line44 === Geri arama kimliği için kopyalayıp yapıştırın
-and_edit_gate_line51 === fiyatlandırma
-and_edit_gate_line51_1 === Bu ağ geçidi için özel fiyatlandırma tablonuz. Bu, 3. taraf fiyatlarının üzerine ücretlendirmenizi sağlar. Örneğin, belirli bir ülke için twilio 0,01 ücret alıyorsa, bunun yerine 0,02 ücret alabilirsiniz, para birimi sistem para biriminize bağlıdır. Lütfen fiyatlandırma biçimini doğru takip edin.
-and_edit_gate_line54 === Örnek JSON Fiyatlandırması:
-and_edit_gate_line54_1 === İndirmek
-and_edit_grp_line17 === Grup ismi.
-and_edit_grp_line19 === Örneğin. Arkadaşlar
-and_edit_hook_line17 === Eylem adı.
-and_edit_hook_line19 === Örneğin. Test Eylemi
 and_edit_hook_line24 === Kaynak
-and_edit_hook_line24_1 === Olay kaynağı.
 and_edit_hook_line27 === SMS
 and_edit_hook_line28 === Naber
-and_edit_hook_line34 === Bu kancanın çağrılacağı olayı seçin.
-and_edit_hook_line37 === Gönderildiğinde
-and_edit_hook_line38 === Alındığında
-and_edit_hook_line44 === Hook link yapısı, bu sistem tarafından çağrılacak url'dir. Yalnızca GET yöntemi desteklenir.
-and_edit_hook_line51 === Kanca URL'nizde kullanabileceğiniz değişkenler kümesi.
-and_edit_lang_line17 === Örneğin. Koreli
-and_edit_lang_line30 === sağdan sola
 and_edit_lang_line32 === Evet
 and_edit_lang_line33 === Numara
-and_edit_pack_line17 === Paket ismi.
-and_edit_pack_line19 === Örneğin. VIP Paket
-and_edit_pack_line24 === Paket fiyatı, bu sistem para birimini takip etmelidir. Kayan değerlere izin verilmez.
-and_edit_pack_line29 === Örneğin. 25
-and_edit_pack_line34 === Etkinleştirilirse, mesajlar ve whatsapp sohbetleri, alıcılar tarafından alındığında alt bilgi işareti içerecektir.
-and_edit_pack_line44 === Etkinleştirilirse, paket modal ve ana sayfasından gizlenecektir.
 and_edit_pack_line53 === Android Ayarları
-and_edit_pack_line58 === SMS Gönderme Sınırı
-and_edit_pack_line58_1 === Sıfırlamadan önce kullanıcı tarafından gönderilebilecek maksimum mesaj sayısı. Sınırsız için 0 girin.
-and_edit_pack_line60 === Örneğin. 300
-and_edit_pack_line65 === SMS Alma Sınırı
-and_edit_pack_line65_1 === Sıfırlamadan önce kullanıcının alabileceği maksimum mesaj sayısı. Sınırsız için 0 girin.
-and_edit_pack_line67 === Örneğin. 150
-and_edit_pack_line72 === USSD Sınırı
-and_edit_pack_line72_1 === Sıfırlamadan önce kullanıcı tarafından talep edilebilecek maksimum ussd sayısı. Sınırsız için 0 girin.
-and_edit_pack_line74 === Örneğin. 25
 and_edit_pack_line79 === Bildirim Sınırı
 and_edit_pack_line79_1 === Sıfırlamadan önce kullanıcı tarafından alınabilecek maksimum bildirim sayısı. Sınırsız için 0 girin.
 and_edit_pack_line81 === Örneğin. 1300
-and_edit_pack_line86 === Kullanıcının hesabına bağlanabilecek maksimum android cihaz sayısı. Sınırsız için 0 girin.
-and_edit_pack_line88 === Örneğin. 25
-and_edit_pack_line92 === WhatsApp Ayarları
-and_edit_pack_line97 === Sıfırlamadan önce kullanıcı tarafından gönderilebilecek maksimum sohbet sayısı. Sınırsız için 0 girin.
-and_edit_pack_line99 === Örneğin. 300
-and_edit_pack_line104 === Sıfırlamadan önce kullanıcının alabileceği maksimum sohbet sayısı. Sınırsız için 0 girin.
-and_edit_pack_line106 === Örneğin. 150
-and_edit_pack_line111 === Hesap Limiti
-and_edit_pack_line111_1 === Kullanıcının hesabına bağlanabilecek maksimum WhatsApp hesabı sayısı. Sınırsız için 0 girin.
-and_edit_pack_line113 === Örneğin. 10
-and_edit_pack_line117 === Ultilite Ayarları
-and_edit_pack_line122 === Kullanıcı tarafından kaydedilebilecek maksimum kişi sayısı. Sınırsız için 0 girin.
-and_edit_pack_line124 === Örneğin. 25
 and_edit_pack_line129 === Planlanmış Sınır
-and_edit_pack_line129_1 === Kullanıcı tarafından kaydedilebilecek maksimum planlanmış mesaj/sohbet sayısı. Sınırsız için 0 girin. Bu hem sms hem de whatsapp için birleştirilir.
-and_edit_pack_line131 === Örneğin. 25
-and_edit_pack_line136 === Oluşturulabilecek maksimum API anahtarı sayısı. Sınırsız için 0 girin.
-and_edit_pack_line138 === Örneğin. 10
-and_edit_pack_line143 === Oluşturulabilecek maksimum Web kancası sayısı. Sınırsız için 0 girin.
-and_edit_pack_line145 === Örneğin. 5
-and_edit_pack_line150 === Eylem Sınırı
-and_edit_pack_line150_1 === Oluşturulabilecek maksimum Eylem sayısı. Sınırsız için 0 girin.
-and_edit_pack_line152 === Örneğin. 5
-and_edit_page_line17 === Sayfa ismi.
-and_edit_page_line24 === Bu sayfaya yalnızca seçilen roller erişebilecek.
-and_edit_page_line35 === Etkinleştirilirse, oturum açılmamışsa sayfaya erişilemez.
-and_edit_page_line45 === Sayfa içeriği. Tüm html etiketlerine izin verilir, bilinmeyen kaynaklardan komut dosyaları eklerken dikkatli olun!
-and_edit_role_line17 === Rol ismi.
-and_edit_role_line19 === Örneğin. geliştirici
-and_edit_role_line24 === Bu rol için devre dışı bırakmak/etkinleştirmek istediğiniz izinleri ve özellikleri seçin. Değişiklikler gerçek zamanlı olarak uygulanır, role sahip bağlı kullanıcıların tarayıcı sekmeleri otomatik olarak yeniden yüklenir.
 and_edit_short_line17 === İsim
-and_edit_short_line17_1 === Kısaltma adı.
-and_edit_short_line19 === Örneğin. biraz
-and_edit_short_line24 === kontrolör
-and_edit_short_line24_1 === Kısaltıcı denetleyici dosyasını seçin, bu, kısaltıcı mantığınızı ve kodunuzu içerecektir. Belgeleri kontrol etmeniz önerilir.
-and_edit_sms_line17 === Planlanan mesajın adı.
-and_edit_sms_line19 === Örneğin. Benim mesajım
-and_edit_sms_line24 === Program tarihini seçin.
-and_edit_sms_line26 === Örneğin. 22.06.2020 12:00
 and_edit_sms_line31 === Etkinleştirilirse, planlanan tarih her eşleştiğinde mesaj programlanır.
-and_edit_sms_line42 === Satır sonu ile ayrılmış birden çok E.164 numarası.
-and_edit_sms_line55 === Birden çok kişi grubu seçin
 and_edit_sms_line67 === Ağ Geçidi Modu
-and_edit_sms_line67_1 === Kullanmak istediğiniz ağ geçidi modu. Cihazları seçerseniz, bağlı cihazlarınız gönderilmek üzere gösterilir, aksi takdirde 3. taraf ve ortak ağ geçitleri gösterilir.
 and_edit_sms_line70 === Cihazlar
 and_edit_sms_line71 === Kredi
 and_edit_sms_line76 === Kullanılacak sim kart yuvası.
-and_edit_sms_line79 === SIM1
-and_edit_sms_line80 === SIM2
 and_edit_sms_line88 === Bağlı cihazlarınız, göndermek için ne kullanmak istediğinizi seçin.
 and_edit_sms_line99 === SMS Ağ Geçidi
-and_edit_sms_line99_1 === 3. taraf ve ortak ağ geçitleri, bu ağ geçitlerini kullanarak mesaj gönderdiğinizde kredileriniz kullanılacaktır. Kullanmadan önce ağ geçidi fiyatlarını kontrol etmenizi öneririz.
 and_edit_sms_line119 === omurilik
 and_edit_sms_line122 === Örnek:
 and_edit_sms_line122_1 === Tom bir
@@ -626,8 +467,6 @@ and_edit_sms_line125_1 === iyi
 and_edit_sms_line125_2 === ve
 and_edit_sms_line125_3 === kötü
 and_edit_sms_line125_4 === rastgele kullanılacaktır.
-and_edit_temp_line17 === Şablon adı.
-and_edit_temp_line24 === Şablon biçimi.
 and_edit_temp_line31 === omurilik
 and_edit_temp_line31_1 === İletilerinizdeki sözcükleri rastgele belirlemenize olanak tanıyan ve spam algılamalarını etkili bir şekilde önleyen bir özellik.
 and_edit_temp_line35 === Örnek:
@@ -639,35 +478,16 @@ and_edit_temp_line38_2 === ve
 and_edit_temp_line38_3 === kötü
 and_edit_temp_line38_4 === rastgele kullanılacaktır.
 and_edit_temp_line43 === Mesajlarınızda kullanabileceğiniz değişkenler kümesi.
-and_eduse_line17 === Tam yasal adınız, lütfen sahte bir ad kullanmanın hesabınızın askıya alınmasına neden olabileceğini unutmayın.
-and_eduse_line19 === Örneğin. Michael Kors
 and_eduse_line24 === Geçerli e-posta adresi, mevcut e-posta adresini saklamak istiyorsanız bu alanı yok sayın.
-and_eduse_line26 === Örneğin. kullanıcı@mail.com
 and_eduse_line31 === Mevcut şifreyi saklamak istiyorsanız lütfen bu alanı dikkate almayınız, aksi takdirde yeni şifreyi giriniz.
-and_eduse_line38 === Bulunduğunuz yerin saat dilimi, farklı bir ülkedeyseniz bunu değiştirin. Gönderilen mesajların ve diğer verilerin tarih ve saat doğruluğu için saat dilimi kullanılır.
 and_eduse_line49 === Ülke
-and_eduse_line49_1 === Ülkeniz, bu ödemeler ve telefon numarası biçimlendirmesi için kullanılır.
-and_eduse_line60 === Bildirim Sesleri
-and_eduse_line60_1 === Devre dışı bırakılırsa, bildirimler sessiz olacaktır.
-and_eduse_line70 === Kullanıcı rolünü seçin.
-and_eduse_line81 === Kullanıcı dilini seçin.
-and_eduse_line92 === Ortak Programı
-and_eduse_line92_1 === Etkinleştirilirse, kullanıcı cihazlarını küresel cihazlar olarak kullanabilecek ve diğer kullanıcılar cihazlarını kullanarak mesaj gönderdiğinde para kazanmalarına olanak tanıyacaktır.
-and_edweb_line17 === Web kancası adı.
 and_edweb_line24 === Olayları Al
-and_edweb_line24_1 === İhtiyacınız olan alma olaylarını seçin, bunlar POST yöntemiyle web kanca url'nize gönderilecektir.
 and_edweb_line30 === Bildirimler
-and_edweb_line36 === Webhook url'niz, tüm yük verileri buraya POST yöntemiyle gönderilecektir.
 and_edweb_line38 === Örneğin. https://alaniniz.com/reply.php
 and_edwhat_line17 === Planlanmış sohbetin adı.
-and_edwhat_line19 === Örneğin. Benim mesajım
-and_edwhat_line24 === Program tarihini seçin.
-and_edwhat_line26 === Örneğin. 22.06.2020 12:00
 and_edwhat_line31 === Etkinleştirilirse, planlanan tarih her eşleştiğinde sohbet planlanır.
 and_edwhat_line42 === Satır sonu ile ayrılmış birden çok E.164 numarası.
-and_edwhat_line55 === Birden çok kişi grubu seçin
 and_edwhat_line67 === Hesap
-and_edwhat_line67_1 === Kullanmak istediğiniz WhatsApp hesabını seçin.
 and_edwhat_line76 === Hazır mesaj şablonlarınız.
 and_edwhat_line91 === omurilik
 and_edwhat_line91_1 === İletilerinizdeki sözcükleri rastgele belirlemenize olanak tanıyan ve spam algılamalarını etkili bir şekilde önleyen bir özellik.
@@ -691,34 +511,23 @@ and_edwid_line53 === Widget konumu, yalnızca modlar için.
 and_edwid_line64 === Widget içeriği. Tüm html etiketlerine izin verilir, bilinmeyen kaynaklardan komut dosyaları eklerken dikkatli olun!
 and_import_line17 === Almak istediğiniz excel dosyası, lütfen gerekli formatı takip ettiğinizden emin olun.
 and_import_line20 === Örnek Dosya:
-and_import_line20_1 === İndirmek
-and_package_line36 === SMS Alma
-and_package_line41 === WhatsApp Gönder
-and_package_line46 === WhatsApp Alımı
 and_package_line51 === USSD
 and_package_line56 === Bildirimler
-and_package_line61 === Planlanmış SMS/Sohbetler
 and_package_line66 === Kişiler
 and_package_line71 === API Anahtarları
 and_package_line76 === Web kancaları
 and_package_line81 === Hareketler
-and_package_line86 === Android Cihazlar
 and_package_line91 === WhatsApp Hesapları
 and_redeem_line18 === Kodu kullan.
 and_redeem_line20 === Örneğin. 2f5b4727c7c8596779b21d7644e2ebb8
 and_sms_bulk_18 === Satır sonu ile ayrılmış birden çok E.164 numarası. Bir numaraya eklendiği grupları seçmiş olsanız bile sadece 1 mesaj gönderilecektir.
 and_sms_bulk_31 === Birden çok kişi grubu seçin. Eklendiği yerde birden fazla grup seçmiş olsanız bile, bir kişiye yalnızca 1 mesaj gönderilecektir.
 and_sms_bulk_43 === kısaltıcı
-and_sms_bulk_43_1 === Etkinleştirilirse, mesajlardaki bağlantılar seçilen kısaltıcı kullanılarak otomatik olarak kısaltılacaktır.
 and_sms_bulk_46 === Linkleri kısaltmayın
 and_sms_bulk_55 === Ağ Geçidi Modu
-and_sms_bulk_55_1 === Kullanmak istediğiniz ağ geçidi modu. Cihazları seçerseniz, bağlı cihazlarınız gönderilmek üzere gösterilir, aksi takdirde 3. taraf ve ortak ağ geçitleri gösterilir.
 and_sms_bulk_58 === Cihazlar
 and_sms_bulk_59 === Kredi
 and_sms_bulk_64 === Kullanılacak sim kart yuvası.
-and_sms_bulk_67 === SIM1
-and_sms_bulk_68 === SIM2
-and_sms_bulk_72 === Etkinleştirilirse, bu mesajlar her şeyden önce gönderilir.
 and_sms_bulk_81 === Hazır mesaj şablonlarınız.
 and_sms_bulk_94 === Bağlı cihazlarınız, göndermek için ne kullanmak istediğinizi seçin.
 and_sms_bulk_105 === SMS Ağ Geçidi
@@ -730,9 +539,7 @@ and_sms_bulk_135 === Örnek:
 and_sms_bulk_143 === Mesajlarınızda kullanabileceğiniz değişkenler kümesi.
 and_sms_exe17 === Almak istediğiniz excel dosyası, lütfen gerekli formatı takip ettiğinizden emin olun.
 and_sms_exe20 === Örnek Dosya:
-and_sms_exe20_1 === İndirmek
 and_sms_exe27 === kısaltıcı
-and_sms_exe27_1 === Etkinleştirilirse, mesajlardaki bağlantılar seçilen kısaltıcı kullanılarak otomatik olarak kısaltılacaktır.
 and_sms_exe30 === Linkleri kısaltmayın
 and_sms_exe39 === Ağ Geçidi Modu
 and_sms_exe39_1 === Kullanmak istediğiniz ağ geçidi modu. Cihazları seçerseniz, bağlı cihazlarınız gönderilmek üzere gösterilir, aksi takdirde 3. taraf ve ortak ağ geçitleri gösterilir.
@@ -748,11 +555,9 @@ and_sms_exe97_1 === İletilerinizdeki sözcükleri rastgele belirlemenize olanak
 and_sms_exe109 === Mesajlarınızda kullanabileceğiniz değişkenler kümesi.
 and_sms_quick17 === Alıcı telefon numarası.
 and_sms_quick24 === Ağ Geçidi Modu
-and_sms_quick24_1 === Kullanmak istediğiniz ağ geçidi modu. Cihazları seçerseniz, bağlı cihazlarınız gönderilmek üzere gösterilir, aksi takdirde 3. taraf ve ortak ağ geçitleri gösterilir.
 and_sms_quick27 === Cihazlar
 and_sms_quick28 === Kredi
 and_sms_quick34 === kısaltıcı
-and_sms_quick34_1 === Etkinleştirilirse, mesajlardaki bağlantılar seçilen kısaltıcı kullanılarak otomatik olarak kısaltılacaktır.
 and_sms_quick37 === Linkleri kısaltmayın
 and_sms_quick46 === Kullanılacak sim kart yuvası.
 and_sms_quick49 === SIM1
@@ -760,13 +565,11 @@ and_sms_quick50 === SIM2
 and_sms_quick56 === Etkinleştirilirse, bu mesajlar her şeyden önce gönderilir.
 and_sms_quick66 === Bağlı cihazlarınız, göndermek için ne kullanmak istediğinizi seçin.
 and_sms_quick77 === SMS Ağ Geçidi
-and_sms_quick77_1 === 3. taraf ve ortak ağ geçitleri, bu ağ geçitlerini kullanarak mesaj gönderdiğinizde kredileriniz kullanılacaktır. Kullanmadan önce ağ geçidi fiyatlarını kontrol etmenizi öneririz.
 and_sms_quick104 === omurilik
 and_sms_quick104_1 === İletilerinizdeki sözcükleri rastgele belirlemenize olanak tanıyan ve spam algılamalarını etkili bir şekilde önleyen bir özellik.
 and_sysup17 === Dosyayı Güncelle
 and_sysup17_1 === Zip dosyasını güncelleyin, lütfen doğru dosyayı seçtiğinizden emin olun.
 and_upplug17 === Dosyayı Güncelle
-and_upplug17_1 === Zip dosyasını güncelleyin, lütfen doğru dosyayı seçtiğinizden emin olun.
 and_uset17 === Profil avatar resminiz.
 and_uset24 === Tam yasal adınız, lütfen sahte bir ad kullanmanın hesabınızın askıya alınmasına neden olabileceğini unutmayın.
 and_uset26 === Örneğin. Michael Shmuck
@@ -793,18 +596,14 @@ and_view20 === Tam görüntü
 and_whatsbulk_18 === Satır sonu ile ayrılmış birden çok E.164 numarası.
 and_whatsbulk_31 === Birden çok kişi grubu seçin. Bir kişinin birden fazla grubu varsa, dahil edildiği grupları seçerseniz mesajın bu kişiye birden çok kez gönderilebileceğini lütfen unutmayın.
 and_whatsbulk_43 === kısaltıcı
-and_whatsbulk_43_1 === Etkinleştirilirse, mesajlardaki bağlantılar seçilen kısaltıcı kullanılarak otomatik olarak kısaltılacaktır.
 and_whatsbulk_46 === Linkleri kısaltmayın
 and_whatsbulk_55 === Hesap
-and_whatsbulk_55_1 === Kullanmak istediğiniz WhatsApp hesabını seçin.
 and_whatsbulk_64 === Hazır mesaj şablonlarınız.
-and_whatsbulk_79 === Mesajı çevir.
 and_whatsbulk_84 === omurilik
 and_whatsbulk_84_1 === İletilerinizdeki sözcükleri rastgele belirlemenize olanak tanıyan ve spam algılamalarını etkili bir şekilde önleyen bir özellik.
 and_whatsbulk_96 === Mesajlarınızda kullanabileceğiniz değişkenler kümesi.
 and_whatex17 === Almak istediğiniz excel dosyası, lütfen gerekli formatı takip ettiğinizden emin olun.
 and_whatex20 === Örnek Dosya:
-and_whatex20_1 === İndirmek
 and_whatex27 === kısaltıcı
 and_whatex27_1 === Etkinleştirilirse, mesajlardaki bağlantılar seçilen kısaltıcı kullanılarak otomatik olarak kısaltılacaktır.
 and_whatex30 === Linkleri kısaltmayın
@@ -817,31 +616,17 @@ and_whatex68_1 === İletilerinizdeki sözcükleri rastgele belirlemenize olanak 
 and_whatex80 === Mesajlarınızda kullanabileceğiniz değişkenler kümesi.
 and_whatquick_17 === E.164 alıcı telefon numarası.
 and_whatquick_24 === kısaltıcı
-and_whatquick_24_1 === Etkinleştirilirse, mesajlardaki bağlantılar seçilen kısaltıcı kullanılarak otomatik olarak kısaltılacaktır.
 and_whatquick_27 === Linkleri kısaltmayın
 and_whatquick_36 === Hesap
-and_whatquick_36_1 === Kullanmak istediğiniz WhatsApp hesabını seçin.
 and_whatquick_50 === Mesajı çevir.
 and_whatquick_55 === omurilik
 and_whatquick_55_1 === İletilerinizdeki sözcükleri rastgele belirlemenize olanak tanıyan ve spam algılamalarını etkili bir şekilde önleyen bir özellik.
 and_admin_api_3 === Yönetim API'sı
 and_admin_fileman_3 === Şablon Düzenleyici
 and_admin_gate_3 === SMS Ağ Geçitleri
-and_admin_gate_8 === Ağ Geçidi Ekle
 and_admin_lang_6 === Dilleri yeniden sırala
-and_admin_mark_3 === Pazarlama
-and_admin_mark_6 === Seçili öğeleri sil
-and_admin_mark_12 === İtmek
-and_admin_mark_17 === bildir
-and_admin_mark_22 === posta
 and_admin_payout_3 === Ödeme Talepleri
-and_admin_short_3 === kısaltıcılar
 and_admin_short_8 === Kısaltıcı Ekle
-and_admin_subs_8 === Abonelik Ekle
-and_admin_vouch_6 === Seçili öğeleri sil
-and_droid_dev_3 === Android Cihazlar
-and_droid_dev_6 === Belgeleri okuyun
-and_droid_dev_8 === Dokümanlar
 and_droid_dev_11 === İş ortağı ağ geçidi sağlayıcısı olmak için başvurun
 and_droid_dev_13 === ortaklık
 and_droid_dev_16 === Yeni bir android cihaz kaydedin
@@ -851,29 +636,21 @@ and_droid_rev_3 === alınan SMS
 and_droid_rev_6 === Seçili mesajları sil
 and_droid_sched_6 === Seçili öğeleri sil
 and_droid_sent_3 === SMS gönderildi
-and_droid_sent_6 === Seçili öğeleri sil
 and_droid_sent_10 === Bekleyen tüm mesajları temizle
 and_droid_sent_14 === Hızlı SMS Gönder
-and_droid_sent_16 === Hızlı
 and_droid_sent_19 === Toplu SMS Gönder
-and_droid_sent_21 === toplu
 and_droid_sent_24 === Excel ile Toplu SMS Gönderin
 and_droid_ussd_3 === USSD Talepleri
-and_droid_ussd_6 === Seçili öğeleri sil
 and_droid_ussd_10 === Bekleyen tüm istekleri sil
 and_droid_ussd_14 === Yeni USSD Talebi
-and_droid_ussd_16 === Rica etmek
 and_con_grp_6 === Seçili öğeleri sil
 and_con_grp_10 === Yeni kişi grubu ekle
-and_con_sav_6 === Seçili öğeleri sil
 and_con_sav_10 === Yeni kişi ekle
 and_con_sav_15 === Kişileri excel dosyasından içe aktar
 and_con_unsub_3 === abonelikten çıktı
-and_con_unsub_6 === Seçili öğeleri sil
 and_doc_act_3 === Hareketler
 and_doc_api_3 === API Belgeleri
 and_doc_dev_3 === Cihazlar
-and_doc_partner_3 === ortaklık
 and_doc_webhook_3 === Web kancaları
 and_rate_gate_3 === oranlar
 and_rate_gate_10 === Ülke
@@ -886,21 +663,12 @@ and_tool_act_8 === Dokümanlar
 and_tool_act_11 === Yeni kanca eylemi ekle
 and_tool_act_13 === kanca
 and_tool_act_16 === Yeni otomatik yanıt eylemi ekle
-and_tool_act_18 === Otomatik cevap
-and_tool_key_6 === Belgeleri okuyun
-and_tool_key_8 === Dokümanlar
 and_tool_key_11 === Yeni bir API anahtarı oluşturun
-and_tool_webhook_6 === Belgeleri okuyun
-and_tool_webhook_8 === Dokümanlar
 and_what_accnt_6 === Yeni bir hesap bağla
-and_what_accnt_8 === Hesap eklemek
 and_what_attach_8 === Seçili mesajları sil
 and_what_rev_3 === Alınan Sohbetler
-and_what_rev_6 === Seçili öğeleri sil
 and_what_sched_6 === Seçili öğeleri sil
-and_what_sched_12 === Sohbet Planla
 and_what_sent_3 === Gönderilen Sohbetler
-and_what_sent_6 === Seçili öğeleri sil
 and_what_sent_10 === Hızlı Sohbet Gönder
 and_what_sent_12 === Hızlı
 and_what_sent_15 === Toplu Sohbet Gönder
@@ -912,10 +680,8 @@ and_def_f_blck_8 === Bize katılın
 and_def_f_blck_35 === Temasta olmak
 and_head_blck_21 === Ev
 and_head_blck_24 === Özellikler
-and_head_blck_27 === fiyatlandırma
 and_head_blck_30 === müşteriler
 and_head_blck_39 === Gösterge Paneli
-and_head_blck_42 === Çıkış Yap
 and_pages_default_8 === SMS ve WhatsApp pazarlamasının en iyisi
 and_pages_default_29 === SMS Mesajlaşma
 and_pages_default_31 === Android cihazlarınızı SMS ağ geçidi olarak kullanın, bu, üçüncü taraf ağ geçitlerini kullanmaktan daha ucuzdur.
@@ -929,11 +695,9 @@ and_pages_default_73 === Neden hizmetimizi kullanmalısınız?
 and_pages_default_74 === Hizmetimizi kullanmaya başlamanız için bazı nedenler
 and_pages_default_84 === Hızlı ve toplu gönderme
 and_pages_default_86 === Farklı kişi gruplarına kolayca tonlarca mesaj gönderin ve hızlı işlemler için hızlı mesajlar da gönderebilirsiniz. Platformumuz ayrıca canlı gösterge tablosu içerir, mesajlarınız gönderildiğinde veya alındığında bildirim alın!
-and_pages_default_89 === Kısa kodlar
 and_pages_default_89_1 === mesajlarınızı önceden tanımlanmış verilerle oluşturmak için.
 and_pages_default_90 === omurilik
 and_pages_default_90_1 === spam sorunlarıyla mücadele etmek için kelime kümesini rastgele hale getirmek için.
-and_pages_default_91 === Çevirmen
 and_pages_default_91_1 === hedef kitleyi dillerine göre hedeflemek için.
 and_pages_default_98 === Otomatik ve akıllı araçlar
 and_pages_default_100 === Biz kirli işlerle ilgilenirken işinizi yönetin, platformumuz akıllıdır ve yalnızca göndermek istediğiniz mesajlara ihtiyaç duyar, gerisini biz hallederiz!
@@ -955,17 +719,12 @@ and_pages_default_156 === Sezgisel araçlar ve gösterge tablosu
 and_pages_default_159 === Ürünlerinizi pazarlarken hızlı ve gecikmesiz deneyim
 and_pages_default_171 === Hizmet Fiyatlandırması
 and_pages_default_187 === SMS Gönder
-and_pages_default_194 === SMS Alma
-and_pages_default_201 === WhatsApp Gönder
-and_pages_default_208 === WhatsApp Alımı
 and_pages_default_215 === USSD
 and_pages_default_222 === Bildirimler
-and_pages_default_229 === Planlanmış SMS/Sohbetler
 and_pages_default_236 === Kişiler
 and_pages_default_243 === API Anahtarları
 and_pages_default_250 === Web kancaları
 and_pages_default_257 === Hareketler
-and_pages_default_264 === Android Cihazlar
 and_pages_default_271 === WhatsApp Hesapları
 and_pages_default_287 === Müşterilerimiz
 and_pages_default_290 === 3.000'den fazla müşteri tarafından güvenilmektedir. Ürünlerinizi pazarlamaya başlayın ve işinizi bizimle büyütün!
@@ -1330,10 +1089,6 @@ form_fullname === Ad Soyad
 form_cpassword === Şifreyi Onayla
 form_haveaccount === Bir hesabım var
 datatable_processing === İşleniyor .. Lütfen bekleyin...
-datatable_length === _MENU_ giriş gösteriliyor
-datatable_info === _TOTAL_ kayıttan _START_ ile _END_ arası gösteriliyor
-datatable_empty === 0 girdiden 0 ile 0 arası gösteriliyor
-datatable_filtered === (_MAX_ toplam girişten filtrelenmiştir)
 datatable_loading === Yükleniyor lütfen bekleyin...
 datatable_zero === Sorgunuzla eşleşen hiçbir şey bulamıyoruz!
 datatable_null === Görüntülenecek veri yok!
@@ -2403,7 +2158,6 @@ js_calendarall_monoct === Ekim
 js_calendarall_monnov === Kasım
 js_calendarall_mondec === Aralık
 response_ussddelete_success === USSD talebi silindi!
-response_titanecho_invaltoken === Sistem yapılandırma hatası!
 widgets_addplugin_loader === Yeni eklentinin sisteme yüklenmesi
 widgets_addwhatsapp_newmodal === QRCode'u görüntülemek için düğmeye tıklayarak WhatsApp'ınızı bağlayın ve ardından uygulamadaki _8880_ düğmesiyle tarayın. QRCode'u taramak için sadece 15 saniyeniz var.
 widgets_addwhatsapp_newmodal2 === _8880_ süresi doldu, hesabınız bağlandıysa veya bağlanmadıysa, lütfen aşağıdaki düğmeyi tıklayın.
@@ -2419,7 +2173,6 @@ widget_waquick_requireaccountnew1 === WhatsApp hesabı
 requests_whatsapp_notavail === WhatsApp sunucusu kullanılamıyor!
 requests_whatsapp_unablegenqr === WhatsApp QRCode oluşturulamıyor!
 requests_charts_commisionstitle === Komisyonlar
-requests_token_refreshecho === _8880_ için jeton yenilendi!
 requests_remote_smscampaignresumed === SMS kampanyası yeniden başladı!
 requests_remote_smscampaignpaused === SMS kampanyası durduruldu!
 requests_remote_wacampaignresumed === WhatsApp kampanyası yeniden başladı!
@@ -2500,8 +2253,6 @@ table_android_copydeviceid === Aygıt Benzersiz Kimliğini Kopyala
 table_partnerrates_devicename === Cihaz adı
 widget_fetchgroups_titlefetch === Grupları Getir
 widget_fetchgroups_loaderfetch === Gruplar hesaptan getiriliyor
-pages_admin_tokenrefreshbutt === Jeton
-pages_admin_tokenrefreshbutthelp === Soket iletişim belirtecini yenileyin. Sistem herhangi bir canlı tost bildirimi göstermiyorsa veya gerçek zamanlı olarak güncellenmiyorsa, lütfen bu butona tıklayın.
 pages_admin_cachehelp === Tüm sistem önbelleğini temizleyin. Uyarı! Bu ayrıca API, kimlik doğrulama ve ödeme ile ilgili önbellekleri de temizleyecektir. Bunu yalnızca sistemi yükseltirken yapmanız önerilir.
 pages_admin_themehelp === Site şablonunu ve tasarımını değiştirin.
 pages_admin_systemsettingshelp === Önemli sistem ayarlarını düzenleyin.
@@ -2600,7 +2351,6 @@ app_fetching_messages === Mesajlar Alınıyor
 app_fetching_ussd === USSD getiriliyor
 app_campaign_resumed === Kampanya için gönderme devam ettirildi:
 app_campaign_paused === Kampanya için gönderme duraklatıldı:
-js_response_titanechorefreshdesc === Gerçek zamanlı soket iletişimi için jeton yenilensin mi?
 form_wa_templatetype_knownissue === Bilinen Sorun
 form_wa_templatetype_knownissuedesc === Bu tür WhatsApp mesajı iOS'ta düzgün görüntülenmiyor. WhatsApp iOS uygulaması boş bir mesaj görüntüler.
 app_response_devicealreadylinked === Bu cihaz zaten başka bir hesaba bağlıydı!
@@ -3076,6 +2826,9 @@ flow_header_title === Akış Oluşturucu
 flow_response_saved === Akış başarıyla kaydedildi!
 flow_response_nofile === Dosya yüklenmedi veya yükleme hatası!
 flow_response_fileuploaded === Dosya başarıyla yüklendi
+flow_response_ai_key_required === Lütfen her AI Yanıt düğümü için bir AI anahtarı seçin!
+flow_response_file_too_large === Yüklenen dosya çok büyük, maksimum boyut 10 MB!
+flow_response_invalid_filetype === Bu dosya türüne izin verilmiyor!
 flow_modal_upload_title === Dosya Yükle
 flow_modal_upload_button_select === Dosya Seç
 flow_modal_upload_button_upload === Yükle
@@ -3200,3 +2953,23 @@ flowjs_node_pause_duration_placeholder === Süreyi saniye cinsinden girin (0 = s
 flowjs_node_resume === Devam et
 flowjs_node_resume_context === Bağlam
 flowjs_node_resume_description === Durdurulan otomatik yanıtları devam ettirir
+modal_adminsettings_currencyapikey === Döviz Kuru API Anahtarı
+modal_adminsettings_currencyapikeyinfo === Kendi döviz kuru sağlayıcınızın API anahtarı. Bu ayarlanana kadar para birimi dönüştürme devre dışı kalır.
+modal_adminsettings_realtimetitle === Gerçek Zamanlı Bildirimler
+modal_adminsettings_realtimeinfo === Canlı güncellemeler Pusher protokolünü kullanır. Pusher'ın barındırılan hizmetini veya Sockety, Soketi ya da Reverb gibi uyumlu bir sunucuyu seçin. Gerçek zamanlı bildirimleri kapatmak için kimlik bilgilerini boş bırakın.
+modal_adminsettings_realtimeappid === Uygulama Kimliği
+modal_adminsettings_realtimekey === Uygulama Anahtarı
+modal_adminsettings_realtimesecret === Uygulama Gizli Anahtarı
+modal_adminsettings_realtimecluster === Küme
+modal_adminsettings_realtimehost === Sunucu URL'si
+modal_adminsettings_realtimehostinfo === Sunucunuzun tam adresi, örneğin https://sockets.example.com:6001
+modal_adminsettings_realtimedriver === Sağlayıcı
+modal_adminsettings_realtimedriverpusher === Pusher (Bulut)
+modal_adminsettings_realtimedrivercompatible === Uyumlu Sunucu (Kendi Sunucunuz)
+modal_adminsettings_realtimecredentials === Kimlik bilgilerinizi Pusher panosundan alın
+modal_adminsettings_realtimeconfigured === Yapılandırıldı
+modal_adminsettings_realtimekeepblank === Mevcut değeri korumak için boş bırakın
+modal_adminsettings_realtimetest === Bağlantıyı Test Et
+js_realtime_testing === Gerçek zamanlı bağlantı test ediliyor...
+response_realtime_testok === Gerçek zamanlı bağlantı başarılı!
+response_realtime_testfailed === Gerçek zamanlı bağlantı başarısız. Kimlik bilgilerini ve sunucu adresini kontrol edin.
