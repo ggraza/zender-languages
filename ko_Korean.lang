@@ -2974,3 +2974,4 @@ js_realtime_testing === 실시간 연결을 테스트하는 중...
 response_realtime_testok === 실시간 연결에 성공했습니다!
 response_realtime_testfailed === 실시간 연결에 실패했습니다. 자격 증명과 서버 주소를 확인하세요.
 device_pair_invalidtoken === 이 페어링 코드는 만료되었거나 이미 사용되었습니다. 새 코드를 받으려면 사이트에서 "기기 추가"를 다시 여세요.
+admin_gateway_googlepackage === Firebase 프로젝트에 패키지 이름 dev.titansys.smsgateway 인 Android 앱을 등록한 뒤, 생성된 google-services.json 파일을 업로드하세요.

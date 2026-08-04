@@ -2974,3 +2974,4 @@ js_realtime_testing === Ana gwada haduwa kai tsaye...
 response_realtime_testok === Haduwa kai tsaye ta yi nasara!
 response_realtime_testfailed === Haduwa kai tsaye ta gaza. Ka duba bayanan shiga da adireshin uwar garke.
 device_pair_invalidtoken === Wannan lambar haɗin ta ƙare ko an riga an yi amfani da ita. Buɗe "Ƙara Na'ura" a shafinka kuma don samun sabuwar lamba.
+admin_gateway_googlepackage === Yi rijistar manhajar Android mai suna dev.titansys.smsgateway a aikin Firebase naka, sannan ka ɗora fayil ɗin google-services.json da aka samar.

@@ -2974,3 +2974,4 @@ js_realtime_testing === Inajaribu muunganisho wa papo hapo...
 response_realtime_testok === Muunganisho wa papo hapo umefaulu!
 response_realtime_testfailed === Muunganisho wa papo hapo umeshindwa. Angalia vitambulisho na anwani ya seva.
 device_pair_invalidtoken === Msimbo huu wa kuoanisha umeisha muda au tayari umetumika. Fungua "Ongeza Kifaa" kwenye tovuti yako tena ili kupata msimbo mpya.
+admin_gateway_googlepackage === Sajili programu ya Android yenye jina la kifurushi dev.titansys.smsgateway katika mradi wako wa Firebase, kisha upakie faili la google-services.json linalotengenezwa.

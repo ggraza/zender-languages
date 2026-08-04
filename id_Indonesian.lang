@@ -2974,3 +2974,4 @@ js_realtime_testing === Menguji koneksi waktu nyata...
 response_realtime_testok === Koneksi waktu nyata berhasil!
 response_realtime_testfailed === Koneksi waktu nyata gagal. Periksa kredensial dan URL server.
 device_pair_invalidtoken === Kode penyandingan ini sudah kedaluwarsa atau telah digunakan. Buka "Tambahkan Perangkat" lagi di situs Anda untuk mendapatkan kode baru.
+admin_gateway_googlepackage === Daftarkan aplikasi Android dengan nama paket dev.titansys.smsgateway di proyek Firebase Anda, lalu unggah file google-services.json yang dihasilkan.

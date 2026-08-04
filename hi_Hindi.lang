@@ -2974,3 +2974,4 @@ js_realtime_testing === रीयल-टाइम कनेक्शन जा�
 response_realtime_testok === रीयल-टाइम कनेक्शन सफल!
 response_realtime_testfailed === रीयल-टाइम कनेक्शन विफल। क्रेडेंशियल और सर्वर पता जाँचें।
 device_pair_invalidtoken === यह पेयरिंग कोड समाप्त हो चुका है या पहले ही उपयोग किया जा चुका है। नया कोड पाने के लिए अपनी साइट पर फिर से "डिवाइस जोडे" खोलें।
+admin_gateway_googlepackage === अपने Firebase प्रोजेक्ट में पैकेज नाम dev.titansys.smsgateway के साथ एक Android ऐप पंजीकृत करें, फिर बनी हुई google-services.json फ़ाइल अपलोड करें।

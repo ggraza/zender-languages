@@ -2974,3 +2974,4 @@ js_realtime_testing === Testuje sa pripojenie v reálnom čase...
 response_realtime_testok === Pripojenie v reálnom čase je úspešné!
 response_realtime_testfailed === Pripojenie v reálnom čase zlyhalo. Skontrolujte údaje a adresu servera.
 device_pair_invalidtoken === Tento párovací kód vypršal alebo už bol použitý. Znova otvorte „Pridať zariadenie“ na svojej stránke a získajte nový kód.
+admin_gateway_googlepackage === Zaregistrujte aplikáciu Android s názvom balíka dev.titansys.smsgateway vo svojom projekte Firebase a nahrajte vygenerovaný súbor google-services.json.

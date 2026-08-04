@@ -2974,3 +2974,4 @@ js_realtime_testing === Проверка подключения в реальн�
 response_realtime_testok === Подключение в реальном времени установлено!
 response_realtime_testfailed === Не удалось подключиться. Проверьте учётные данные и адрес сервера.
 device_pair_invalidtoken === Этот код сопряжения истёк или уже был использован. Откройте «Добавить устройство» на сайте ещё раз, чтобы получить новый код.
+admin_gateway_googlepackage === Зарегистрируйте Android-приложение с именем пакета dev.titansys.smsgateway в вашем проекте Firebase и загрузите созданный файл google-services.json.

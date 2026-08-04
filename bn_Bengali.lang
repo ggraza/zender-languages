@@ -2974,3 +2974,4 @@ js_realtime_testing === রিয়েলটাইম সংযোগ পরী
 response_realtime_testok === রিয়েলটাইম সংযোগ সফল!
 response_realtime_testfailed === রিয়েলটাইম সংযোগ ব্যর্থ হয়েছে। শংসাপত্র ও সার্ভার ঠিকানা যাচাই করুন।
 device_pair_invalidtoken === এই পেয়ারিং কোডের মেয়াদ শেষ হয়ে গেছে বা এটি ইতিমধ্যে ব্যবহৃত হয়েছে। নতুন কোডের জন্য আপনার সাইটে আবার "যন্ত্র সংযুক্ত করুন" খুলুন।
+admin_gateway_googlepackage === আপনার Firebase প্রকল্পে dev.titansys.smsgateway প্যাকেজ নামে একটি অ্যান্ড্রয়েড অ্যাপ নিবন্ধন করুন, তারপর তৈরি হওয়া google-services.json ফাইলটি আপলোড করুন।

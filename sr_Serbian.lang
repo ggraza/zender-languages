@@ -2974,3 +2974,4 @@ js_realtime_testing === Тестирање везе у реалном време
 response_realtime_testok === Веза у реалном времену је успешна!
 response_realtime_testfailed === Веза у реалном времену није успела. Проверите акредитиве и адресу сервера.
 device_pair_invalidtoken === Овај код за упаривање је истекао или је већ искоришћен. Поново отворите „Додај уређај“ на свом сајту за нови код.
+admin_gateway_googlepackage === Региструјте Android апликацију са називом пакета dev.titansys.smsgateway у свом Firebase пројекту, па отпремите генерисану google-services.json датотеку.

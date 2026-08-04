@@ -2974,3 +2974,4 @@ js_realtime_testing === N dan isopo akoko gidi wo...
 response_realtime_testok === Isopo akoko gidi yori si rere!
 response_realtime_testfailed === Isopo akoko gidi kuna. Yewo awon iwe eri ati adiresi olupese.
 device_pair_invalidtoken === Kóòdù ìsopọ̀ yìí ti pé tàbí a ti lò ó tẹ́lẹ̀. Ṣí "Fi ẹrọ kun" lórí ojúlé rẹ lẹ́ẹ̀kansí fún kóòdù tuntun.
+admin_gateway_googlepackage === Forúkọsílẹ̀ ohun-èlò Android pẹ̀lú orúkọ package dev.titansys.smsgateway nínú iṣẹ́ Firebase rẹ, kí o sì gbé fáìlì google-services.json tí a ṣẹ̀dá sókè.

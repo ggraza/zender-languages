@@ -2974,3 +2974,4 @@ js_realtime_testing === جارٍ اختبار الاتصال الفوري...
 response_realtime_testok === نجح الاتصال الفوري!
 response_realtime_testfailed === فشل الاتصال الفوري. تحقق من بيانات الاعتماد ورابط الخادم.
 device_pair_invalidtoken === انتهت صلاحية رمز الاقتران هذا أو تم استخدامه بالفعل. افتح "اضف جهاز" في موقعك مرة أخرى للحصول على رمز جديد.
+admin_gateway_googlepackage === أنشئ تطبيق أندرويد باسم الحزمة dev.titansys.smsgateway في مشروع Firebase الخاص بك، ثم ارفع ملف google-services.json الناتج.

@@ -2974,3 +2974,4 @@ js_realtime_testing === Valós idejű kapcsolat tesztelése...
 response_realtime_testok === A valós idejű kapcsolat sikeres!
 response_realtime_testfailed === A valós idejű kapcsolat sikertelen. Ellenőrizze a hitelesítő adatokat és a kiszolgáló címét.
 device_pair_invalidtoken === Ez a párosítási kód lejárt, vagy már felhasználták. Nyissa meg újra az „Eszköz hozzáadása” lehetőséget az oldalán egy új kódért.
+admin_gateway_googlepackage === Regisztráljon egy Android-alkalmazást dev.titansys.smsgateway csomagnévvel a Firebase-projektjében, majd töltse fel a létrejövő google-services.json fájlt.

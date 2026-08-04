@@ -2974,3 +2974,4 @@ js_realtime_testing === فوری کنکشن جانچا جا رہا ہے...
 response_realtime_testok === فوری کنکشن کامیاب رہا!
 response_realtime_testfailed === فوری کنکشن ناکام۔ اسناد اور سرور کا پتہ جانچیں۔
 device_pair_invalidtoken === یہ پیئرنگ کوڈ ختم ہو چکا ہے یا پہلے ہی استعمال ہو چکا ہے۔ نیا کوڈ حاصل کرنے کے لیے اپنی سائٹ پر دوبارہ "ڈیوائس شامل کریں۔" کھولیں۔
+admin_gateway_googlepackage === اپنے Firebase پروجیکٹ میں پیکیج نام dev.titansys.smsgateway کے ساتھ ایک اینڈرائیڈ ایپ رجسٹر کریں، پھر بننے والی google-services.json فائل اپ لوڈ کریں۔

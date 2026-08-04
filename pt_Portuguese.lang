@@ -2974,3 +2974,4 @@ js_realtime_testing === A testar a ligação em tempo real...
 response_realtime_testok === Ligação em tempo real bem-sucedida!
 response_realtime_testfailed === A ligação em tempo real falhou. Verifique as credenciais e o URL do servidor.
 device_pair_invalidtoken === Este código de emparelhamento expirou ou já foi utilizado. Abra novamente "Adicionar Dispositivo" no seu site para obter um código novo.
+admin_gateway_googlepackage === Registe uma aplicação Android com o nome de pacote dev.titansys.smsgateway no seu projeto Firebase e carregue o ficheiro google-services.json gerado.

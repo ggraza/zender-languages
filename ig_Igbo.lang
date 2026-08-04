@@ -2974,3 +2974,4 @@ js_realtime_testing === Na-anwale njikọ ozugbo...
 response_realtime_testok === Njikọ ozugbo gara nke ọma!
 response_realtime_testfailed === Njikọ ozugbo dara. Lelee nzere na adreesi ihe nkesa.
 device_pair_invalidtoken === Koodu njikọ a agwụla ma ọ bụ ejirila ya. Meghee "Tinye ngwaọrụ" na saịtị gị ọzọ maka koodu ọhụrụ.
+admin_gateway_googlepackage === Debanye aha ngwa Android nwere aha ngwugwu dev.titansys.smsgateway na ọrụ Firebase gị, wee bulite faịlụ google-services.json e mepụtara.

@@ -2974,3 +2974,4 @@ js_realtime_testing === กำลังทดสอบการเชื่อ�
 response_realtime_testok === เชื่อมต่อแบบเรียลไทม์สำเร็จ
 response_realtime_testfailed === การเชื่อมต่อแบบเรียลไทม์ล้มเหลว ตรวจสอบข้อมูลรับรองและที่อยู่เซิร์ฟเวอร์
 device_pair_invalidtoken === รหัสจับคู่นี้หมดอายุหรือถูกใช้ไปแล้ว เปิด "เพิ่มอุปกรณ์" บนเว็บไซต์ของคุณอีกครั้งเพื่อรับรหัสใหม่
+admin_gateway_googlepackage === ลงทะเบียนแอป Android ด้วยชื่อแพ็กเกจ dev.titansys.smsgateway ในโปรเจกต์ Firebase ของคุณ แล้วอัปโหลดไฟล์ google-services.json ที่สร้างขึ้น

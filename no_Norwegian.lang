@@ -2974,3 +2974,4 @@ js_realtime_testing === Tester sanntidstilkoblingen...
 response_realtime_testok === Sanntidstilkoblingen lyktes!
 response_realtime_testfailed === Sanntidstilkoblingen mislyktes. Kontroller legitimasjonen og server-URL-en.
 device_pair_invalidtoken === Denne paringskoden er utløpt eller allerede brukt. Åpne «Legg til enhet» på nettstedet ditt på nytt for å få en ny kode.
+admin_gateway_googlepackage === Registrer en Android-app med pakkenavnet dev.titansys.smsgateway i Firebase-prosjektet ditt, og last opp google-services.json-filen som genereres.

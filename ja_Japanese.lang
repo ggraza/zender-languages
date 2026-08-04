@@ -2974,3 +2974,4 @@ js_realtime_testing === リアルタイム接続をテストしています...
 response_realtime_testok === リアルタイム接続に成功しました。
 response_realtime_testfailed === リアルタイム接続に失敗しました。認証情報とサーバー URL を確認してください。
 device_pair_invalidtoken === このペアリングコードは有効期限が切れているか、すでに使用されています。新しいコードを取得するには、サイトで「デバイスを追加」をもう一度開いてください。
+admin_gateway_googlepackage === Firebase プロジェクトにパッケージ名 dev.titansys.smsgateway の Android アプリを登録し、生成された google-services.json をアップロードしてください。

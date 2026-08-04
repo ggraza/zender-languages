@@ -2974,3 +2974,4 @@ js_realtime_testing === Gerçek zamanlı bağlantı test ediliyor...
 response_realtime_testok === Gerçek zamanlı bağlantı başarılı!
 response_realtime_testfailed === Gerçek zamanlı bağlantı başarısız. Kimlik bilgilerini ve sunucu adresini kontrol edin.
 device_pair_invalidtoken === Bu eşleştirme kodunun süresi dolmuş veya kod zaten kullanılmış. Yeni bir kod için sitenizde "Cihaz ekle" bölümünü yeniden açın.
+admin_gateway_googlepackage === Firebase projenizde dev.titansys.smsgateway paket adıyla bir Android uygulaması kaydedin, ardından oluşturulan google-services.json dosyasını yükleyin.

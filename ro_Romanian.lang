@@ -2974,3 +2974,4 @@ js_realtime_testing === Se testează conexiunea în timp real...
 response_realtime_testok === Conexiune în timp real reușită!
 response_realtime_testfailed === Conexiunea în timp real a eșuat. Verificați datele de autentificare și adresa serverului.
 device_pair_invalidtoken === Acest cod de asociere a expirat sau a fost deja folosit. Deschideți din nou „Adăugați dispozitiv” pe site pentru un cod nou.
+admin_gateway_googlepackage === Înregistrați o aplicație Android cu numele de pachet dev.titansys.smsgateway în proiectul dumneavoastră Firebase, apoi încărcați fișierul google-services.json generat.

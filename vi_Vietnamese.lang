@@ -2974,3 +2974,4 @@ js_realtime_testing === Đang kiểm tra kết nối thời gian thực...
 response_realtime_testok === Kết nối thời gian thực thành công!
 response_realtime_testfailed === Kết nối thời gian thực thất bại. Hãy kiểm tra thông tin đăng nhập và địa chỉ máy chủ.
 device_pair_invalidtoken === Mã ghép nối này đã hết hạn hoặc đã được sử dụng. Hãy mở lại "Thêm thiết bị" trên trang của bạn để lấy mã mới.
+admin_gateway_googlepackage === Đăng ký một ứng dụng Android với tên gói dev.titansys.smsgateway trong dự án Firebase của bạn, rồi tải lên tệp google-services.json được tạo ra.

@@ -2974,3 +2974,4 @@ js_realtime_testing === בודק את החיבור בזמן אמת...
 response_realtime_testok === החיבור בזמן אמת הצליח!
 response_realtime_testfailed === החיבור בזמן אמת נכשל. בדוק את פרטי הגישה ואת כתובת השרת.
 device_pair_invalidtoken === קוד ההתאמה פג או שכבר נעשה בו שימוש. פתח שוב את "הוסף מכשיר" באתר שלך כדי לקבל קוד חדש.
+admin_gateway_googlepackage === רשום אפליקציית אנדרואיד בשם החבילה dev.titansys.smsgateway בפרויקט ה-Firebase שלך, ולאחר מכן העלה את קובץ google-services.json שנוצר.
