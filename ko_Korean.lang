@@ -898,11 +898,6 @@ response_user_updated === 사용자가 업데이트되었습니다!
 response_package_updated === 패키지가 업데이트되었습니다!
 response_widget_updated === 위젯이 업데이트되었습니다!
 response_language_updated === 언어가 업데이트되었습니다!
-response_builder_packagenameshort === 패키지 이름이 너무 짧습니다!
-response_builder_appnameshort === 앱 이름이 너무 짧습니다!
-response_builder_applogofail === 앱 로고를 업로드할 수 없습니다!
-response_builder_appsplashfail === 앱 스플래시를 업로드할 수 없습니다!
-response_builder_settingsupdated === 빌더 설정이 업데이트되었습니다!
 response_theme_updated === 테마 설정이 업데이트되었습니다!
 response_system_settingsupdated === 시스템 설정이 업데이트되었습니다!
 response_deleted_sent === 보낸 메시지가 삭제되었습니다!
@@ -937,7 +932,6 @@ modal_adddevice_title === 기기 추가
 modal_addkey_title === API 키 추가
 modal_editkey_title === API 키 수정
 modal_edithook_title === 웹훅 수정
-modal_buildersettings_title === 빌더 설정
 modal_themesettings_title === 주제 설정
 modal_systemsettings_title === 환경 설정
 modal_adduser_title === 사용자 추가
@@ -1032,12 +1026,6 @@ form_widgetcenter === 센터
 form_widgetleft === 왼쪽
 form_widgetright === 오른쪽
 form_widgetcontent === 콘텐츠
-form_builderpackagename === 패키지 이름
-form_builderappname === 앱 이름
-form_builderappdesc === 앱 설명
-form_builderappdesc_placeholder === 이것은 멋진 앱입니다
-form_builderapplogo === 앱 로고
-form_builderappsplash === 앱 시작 화면
 form_uploaded === 업로드됨
 form_notuploaded === 없음
 form_themebg === 배경색
@@ -1117,7 +1105,6 @@ recaptcha_add_keys === 이 기능을 활성화하려면 보안 문자 키를 추
 pay_with_paypal === 페이팔로 결제
 pay_with_mollie === 몰리로 결제
 form_settingsenabledproviders === 활성화된 공급자
-form_builderappicon === 앱 아이콘
 payment_transact_failed === 결제 거래 실패!
 cookieconsent_message === 당사는 귀하가 당사 웹사이트에서 최상의 경험을 얻을 수 있도록 쿠키를 사용하고 있습니다.
 cookieconsent_link === 더 알아보기
@@ -1186,7 +1173,6 @@ table_action_name === 이름
 form_scheduled_title === SMS 예약
 response_scheduled_deleted === 예약된 메시지가 삭제되었습니다!
 response_no_permission === 이 작업에 대한 권한이 없습니다!
-response_builder_appiconfail === 앱 아이콘을 업로드할 수 없습니다!
 form_require_login === 로그인 필요
 widget_addpage_title === 페이지 추가
 widget_editpage_title === 페이지 편집

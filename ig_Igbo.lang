@@ -898,11 +898,6 @@ response_user_updated === Emelitela onye ọrụ!
 response_package_updated === Emelitela ngwugwu!
 response_widget_updated === Emelitela wijetị!
 response_language_updated === Emelitela asụsụ!
-response_builder_packagenameshort === Aha ngwugwu dị mkpụmkpụ!
-response_builder_appnameshort === Aha ngwa dị mkpụmkpụ!
-response_builder_applogofail === Enweghị ike ibugo akara ngwa!
-response_builder_appsplashfail === Enweghị ike ibugo splash ngwa!
-response_builder_settingsupdated === Emelitere ntọala onye nrụpụta!
 response_theme_updated === Emelitere ntọala isiokwu!
 response_system_settingsupdated === Emelitere ntọala sistemụ!
 response_deleted_sent === A ehichapụla ozi ezigara!
@@ -937,7 +932,6 @@ modal_adddevice_title === Tinye ngwaọrụ
 modal_addkey_title === Tinye igodo API
 modal_editkey_title === Dezie igodo API
 modal_edithook_title === Dezie Webhook
-modal_buildersettings_title === Ntọala Nrụpụta
 modal_themesettings_title === Ntọala isiokwu
 modal_systemsettings_title === Ntọala sistemụ
 modal_adduser_title === Tinye onye ọrụ
@@ -1032,12 +1026,6 @@ form_widgetcenter === Ebe etiti
 form_widgetleft === Aka ekpe
 form_widgetright === Right
 form_widgetcontent === Ọdịnaya
-form_builderpackagename === Aha ngwugwu
-form_builderappname === Aha ngwa
-form_builderappdesc === Nkọwa ngwa
-form_builderappdesc_placeholder === Nke a bụ ngwa dị egwu
-form_builderapplogo === Akara ngwa
-form_builderappsplash === Ngwa Splashscreen
 form_uploaded === Ebugoro
 form_notuploaded === Ọ dịghị
 form_themebg === Agba ndabere
@@ -1117,7 +1105,6 @@ recaptcha_add_keys === Biko tinye igodo recaptcha gị iji mee ka atụmatụ a 
 pay_with_paypal === Jiri Paypal kwụọ ụgwọ
 pay_with_mollie === Soro Mollie kwụọ ụgwọ
 form_settingsenabledproviders === Ndị nyere aka
-form_builderappicon === Akara ngosi ngwa
 payment_transact_failed === Azụmahịa ịkwụ ụgwọ dara!
 cookieconsent_message === Anyị na-eji kuki iji hụ na ị na-enweta ahụmịhe kachasị mma na webụsaịtị anyị.
 cookieconsent_link === Mụtakwuo
@@ -1186,7 +1173,6 @@ table_action_name === Aha
 form_scheduled_title === Hazie SMS
 response_scheduled_deleted === E ehichapụla ozi ahaziri!
 response_no_permission === Ịnweghị ikike maka omume a!
-response_builder_appiconfail === Enweghị ike ibugo akara ngosi ngwa!
 form_require_login === Nbanye chọrọ
 widget_addpage_title === Tinye ibe
 widget_editpage_title === Dezie Ibe

@@ -898,11 +898,6 @@ response_user_updated === המשתמש עודכן!
 response_package_updated === החבילה עודכנה!
 response_widget_updated === הווידג'ט עודכן!
 response_language_updated === השפה עודכנה!
-response_builder_packagenameshort === שם החבילה קצר מדי!
-response_builder_appnameshort === שם האפליקציה קצר מדי!
-response_builder_applogofail === לא ניתן להעלות את לוגו האפליקציה!
-response_builder_appsplashfail === לא ניתן להעלות את האפליקציה Splash!
-response_builder_settingsupdated === הגדרות Builder עודכנו!
 response_theme_updated === הגדרות ערכת הנושא עודכנו!
 response_system_settingsupdated === הגדרות המערכת עודכנו!
 response_deleted_sent === ההודעה שנשלחה נמחקה!
@@ -937,7 +932,6 @@ modal_adddevice_title === הוסף מכשיר
 modal_addkey_title === הוסף מפתח API
 modal_editkey_title === ערוך מפתח API
 modal_edithook_title === ערוך את Webhook
-modal_buildersettings_title === הגדרות Builder
 modal_themesettings_title === הגדרות נושא
 modal_systemsettings_title === הגדרות מערכת
 modal_adduser_title === הוסף משתמש
@@ -1032,12 +1026,6 @@ form_widgetcenter === מֶרְכָּז
 form_widgetleft === שמאלה
 form_widgetright === ימין
 form_widgetcontent === תוֹכֶן
-form_builderpackagename === שם חבילה
-form_builderappname === שם האפליקציה
-form_builderappdesc === תיאור האפליקציה
-form_builderappdesc_placeholder === זו אפליקציה מדהימה
-form_builderapplogo === לוגו האפליקציה
-form_builderappsplash === מסך הפתיחה של האפליקציה
 form_uploaded === הועלה
 form_notuploaded === אף אחד
 form_themebg === צבע רקע
@@ -1117,7 +1105,6 @@ recaptcha_add_keys === אנא הוסף את מפתחות ה-recapcha שלך כד
 pay_with_paypal === שלם עם Paypal
 pay_with_mollie === שלם עם מולי
 form_settingsenabledproviders === ספקים מופעלים
-form_builderappicon === סמל אפליקציה
 payment_transact_failed === עסקת התשלום נכשלה!
 cookieconsent_message === אנו משתמשים בקובצי Cookie כדי להבטיח שאתה מקבל את החוויה הטובה ביותר באתר שלנו.
 cookieconsent_link === למד עוד
@@ -1186,7 +1173,6 @@ table_action_name === שֵׁם
 form_scheduled_title === תזמן SMS
 response_scheduled_deleted === ההודעה המתוזמנת נמחקה!
 response_no_permission === אין לך הרשאה לפעולה זו!
-response_builder_appiconfail === לא ניתן להעלות את סמל האפליקציה!
 form_require_login === דרוש כניסה
 widget_addpage_title === הוסף עמוד
 widget_editpage_title === ערוך עמוד

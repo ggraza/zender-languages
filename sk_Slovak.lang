@@ -898,11 +898,6 @@ response_user_updated === Používateľ bol aktualizovaný!
 response_package_updated === Balíček bol aktualizovaný!
 response_widget_updated === Widget bol aktualizovaný!
 response_language_updated === Jazyk bol aktualizovaný!
-response_builder_packagenameshort === Názov balíka je príliš krátky!
-response_builder_appnameshort === Názov aplikácie je príliš krátky!
-response_builder_applogofail === Logo aplikácie nie je možné nahrať!
-response_builder_appsplashfail === Splash aplikácie nie je možné nahrať!
-response_builder_settingsupdated === Nastavenia Builder aktualizované!
 response_theme_updated === Nastavenia motívu boli aktualizované!
 response_system_settingsupdated === Nastavenia systému aktualizované!
 response_deleted_sent === Odoslaná správa bola vymazaná!
@@ -937,7 +932,6 @@ modal_adddevice_title === Pridať zariadenie
 modal_addkey_title === Pridať kľúč API
 modal_editkey_title === Upraviť kľúč API
 modal_edithook_title === Upraviť webhook
-modal_buildersettings_title === Nastavenia Builder
 modal_themesettings_title === Nastavenia témy
 modal_systemsettings_title === Systémové nastavenia
 modal_adduser_title === Pridať používateľa
@@ -1032,12 +1026,6 @@ form_widgetcenter === centrum
 form_widgetleft === Vľavo
 form_widgetright === Správny
 form_widgetcontent === Obsah
-form_builderpackagename === Názov balíka
-form_builderappname === Názov aplikácie
-form_builderappdesc === Popis aplikácie
-form_builderappdesc_placeholder === Toto je úžasná aplikácia
-form_builderapplogo === Logo aplikácie
-form_builderappsplash === Úvodná obrazovka aplikácie
 form_uploaded === Nahrané
 form_notuploaded === žiadne
 form_themebg === Farba pozadia
@@ -1117,7 +1105,6 @@ recaptcha_add_keys === Ak chcete povoliť túto funkciu, pridajte svoje kľúče
 pay_with_paypal === Plaťte cez Paypal
 pay_with_mollie === Plaťte s Mollie
 form_settingsenabledproviders === Povolení poskytovatelia
-form_builderappicon === Ikona aplikácie
 payment_transact_failed === Platobná transakcia zlyhala!
 cookieconsent_message === Používame cookies, aby sme zaistili, že na našej webovej stránke budete mať čo najlepší zážitok.
 cookieconsent_link === Uč sa viac
@@ -1186,7 +1173,6 @@ table_action_name === názov
 form_scheduled_title === Naplánujte si SMS
 response_scheduled_deleted === Naplánovaná správa bola odstránená!
 response_no_permission === Na túto akciu nemáte povolenie!
-response_builder_appiconfail === Ikonu aplikácie nie je možné nahrať!
 form_require_login === Vyžadovať prihlásenie
 widget_addpage_title === Pridať stránku
 widget_editpage_title === Upraviť stránku

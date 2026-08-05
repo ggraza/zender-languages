@@ -898,11 +898,6 @@ response_user_updated === Brukeren er oppdatert!
 response_package_updated === Pakken er oppdatert!
 response_widget_updated === Widget har blitt oppdatert!
 response_language_updated === Språket er oppdatert!
-response_builder_packagenameshort === Pakkenavnet er for kort!
-response_builder_appnameshort === Appnavnet er for kort!
-response_builder_applogofail === Applogoen kan ikke lastes opp!
-response_builder_appsplashfail === Appsplash kan ikke lastes opp!
-response_builder_settingsupdated === Builder-innstillinger oppdatert!
 response_theme_updated === Temainnstillinger oppdatert!
 response_system_settingsupdated === Systeminnstillingene er oppdatert!
 response_deleted_sent === Sendt melding er slettet!
@@ -937,7 +932,6 @@ modal_adddevice_title === Legg til enhet
 modal_addkey_title === Legg til API-nøkkel
 modal_editkey_title === Rediger API-nøkkel
 modal_edithook_title === Rediger Webhook
-modal_buildersettings_title === Builder-innstillinger
 modal_themesettings_title === Temainnstillinger
 modal_systemsettings_title === Systeminnstillinger
 modal_adduser_title === Legg til bruker
@@ -1032,12 +1026,6 @@ form_widgetcenter === Senter
 form_widgetleft === Venstre
 form_widgetright === Ikke sant
 form_widgetcontent === Innhold
-form_builderpackagename === Pakkenavn
-form_builderappname === App navn
-form_builderappdesc === Appbeskrivelse
-form_builderappdesc_placeholder === Dette er en fantastisk app
-form_builderapplogo === App-logo
-form_builderappsplash === App Splashscreen
 form_uploaded === Lastet opp
 form_notuploaded === Ingen
 form_themebg === Bakgrunnsfarge
@@ -1117,7 +1105,6 @@ recaptcha_add_keys === Vennligst legg til dine recaptcha-nøkler for å aktivere
 pay_with_paypal === Betal med Paypal
 pay_with_mollie === Betal med Mollie
 form_settingsenabledproviders === Aktiverte leverandører
-form_builderappicon === App-ikon
 payment_transact_failed === Betalingstransaksjonen mislyktes!
 cookieconsent_message === Vi bruker informasjonskapsler for å sikre at du får den beste opplevelsen på nettstedet vårt.
 cookieconsent_link === Lære mer
@@ -1186,7 +1173,6 @@ table_action_name === Navn
 form_scheduled_title === Planlegg SMS
 response_scheduled_deleted === Planlagt melding er slettet!
 response_no_permission === Du har ikke tillatelse til denne handlingen!
-response_builder_appiconfail === Appikonet kan ikke lastes opp!
 form_require_login === Krev innlogging
 widget_addpage_title === Legg til side
 widget_editpage_title === Rediger side

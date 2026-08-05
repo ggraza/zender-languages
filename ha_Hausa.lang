@@ -898,11 +898,6 @@ response_user_updated === An sabunta mai amfani!
 response_package_updated === An sabunta fakitin!
 response_widget_updated === An sabunta widget!
 response_language_updated === An sabunta harshe!
-response_builder_packagenameshort === Sunan kunshin ya yi guntu sosai!
-response_builder_appnameshort === Sunan app ya yi guntu sosai!
-response_builder_applogofail === Ba za a iya loda tambarin app ba!
-response_builder_appsplashfail === Ba za a iya ɗora app ɗin ba!
-response_builder_settingsupdated === An sabunta saitunan magini!
 response_theme_updated === An sabunta saitunan jigo!
 response_system_settingsupdated === An sabunta saitunan tsarin!
 response_deleted_sent === An share sakon da aka aiko!
@@ -937,7 +932,6 @@ modal_adddevice_title === Ƙara Na'ura
 modal_addkey_title === Ƙara Maɓallin API
 modal_editkey_title === Shirya Maɓallin API
 modal_edithook_title === Gyara Webhook
-modal_buildersettings_title === Saitunan Gine-gine
 modal_themesettings_title === Saitunan Jigo
 modal_systemsettings_title === Saitunan Tsari
 modal_adduser_title === Ƙara Mai amfani
@@ -1032,12 +1026,6 @@ form_widgetcenter === Cibiyar
 form_widgetleft === Hagu
 form_widgetright === Dama
 form_widgetcontent === Abun ciki
-form_builderpackagename === Sunan Kunshin
-form_builderappname === App Name
-form_builderappdesc === Bayanin App
-form_builderappdesc_placeholder === Wannan app ne mai ban mamaki
-form_builderapplogo === App Logo
-form_builderappsplash === App Splashscreen
 form_uploaded === An ɗora
 form_notuploaded === Babu
 form_themebg === Kalar Baya
@@ -1117,7 +1105,6 @@ recaptcha_add_keys === Da fatan za a ƙara maɓallan recaptcha don kunna wannan 
 pay_with_paypal === Biya tare da Paypal
 pay_with_mollie === Biya tare da Mollie
 form_settingsenabledproviders === An kunna masu bayarwa
-form_builderappicon === Ikon app
 payment_transact_failed === Ma'amalar biyan kuɗi ta kasa!
 cookieconsent_message === Muna amfani da kukis don tabbatar da cewa kuna samun ƙwarewa mafi kyau akan gidan yanar gizon mu.
 cookieconsent_link === Ƙara koyo
@@ -1186,7 +1173,6 @@ table_action_name === Suna
 form_scheduled_title === Jadawalin SMS
 response_scheduled_deleted === An share saƙon da aka tsara!
 response_no_permission === Ba ku da izinin wannan aikin!
-response_builder_appiconfail === Ba za a iya loda alamar app ba!
 form_require_login === Bukatar Shiga
 widget_addpage_title === Ƙara Shafi
 widget_editpage_title === Gyara Shafi

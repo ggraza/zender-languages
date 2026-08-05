@@ -898,11 +898,6 @@ response_user_updated === Benutzer wurde aktualisiert!
 response_package_updated === Paket wurde aktualisiert!
 response_widget_updated === Widget wurde aktualisiert!
 response_language_updated === Sprache wurde aktualisiert!
-response_builder_packagenameshort === Paketname ist zu kurz!
-response_builder_appnameshort === App-Name ist zu kurz!
-response_builder_applogofail === App-Logo kann nicht hochgeladen werden!
-response_builder_appsplashfail === App-Splash kann nicht hochgeladen werden!
-response_builder_settingsupdated === Builder-Einstellungen aktualisiert!
 response_theme_updated === Theme-Einstellungen aktualisiert!
 response_system_settingsupdated === Systemeinstellungen aktualisiert!
 response_deleted_sent === Gesendete Nachricht wurde gelöscht!
@@ -937,7 +932,6 @@ modal_adddevice_title === Gerät hinzufügen
 modal_addkey_title === API-Schlüssel hinzufügen
 modal_editkey_title === API-Schlüssel bearbeiten
 modal_edithook_title === Webhook bearbeiten
-modal_buildersettings_title === Builder-Einstellungen
 modal_themesettings_title === Themen Einstellungen
 modal_systemsettings_title === Systemeinstellungen
 modal_adduser_title === Benutzer hinzufügen
@@ -1032,12 +1026,6 @@ form_widgetcenter === Center
 form_widgetleft === Links
 form_widgetright === Recht
 form_widgetcontent === Inhalt
-form_builderpackagename === Paketnamen
-form_builderappname === App Name
-form_builderappdesc === App-Beschreibung
-form_builderappdesc_placeholder === Dies ist eine tolle App
-form_builderapplogo === App-Logo
-form_builderappsplash === App-Startbildschirm
 form_uploaded === Hochgeladen
 form_notuploaded === Keiner
 form_themebg === Hintergrundfarbe
@@ -1117,7 +1105,6 @@ recaptcha_add_keys === Bitte fügen Sie Ihre Recaptcha-Schlüssel hinzu, um dies
 pay_with_paypal === Zahlen Sie mit PayPal
 pay_with_mollie === Bezahle mit Mollie
 form_settingsenabledproviders === Aktivierte Anbieter
-form_builderappicon === App-Symbol
 payment_transact_failed === Zahlungsvorgang fehlgeschlagen!
 cookieconsent_message === Wir verwenden Cookies, um sicherzustellen, dass Sie die beste Erfahrung auf unserer Website machen.
 cookieconsent_link === Mehr erfahren
@@ -1186,7 +1173,6 @@ table_action_name === Name
 form_scheduled_title === Planen Sie SMS
 response_scheduled_deleted === Geplante Nachricht wurde gelöscht!
 response_no_permission === Sie haben keine Berechtigung für diese Aktion!
-response_builder_appiconfail === App-Icon kann nicht hochgeladen werden!
 form_require_login === Anmeldung erforderlich
 widget_addpage_title === Seite hinzufügen
 widget_editpage_title === Seite bearbeiten

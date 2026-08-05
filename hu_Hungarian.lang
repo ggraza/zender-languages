@@ -898,11 +898,6 @@ response_user_updated === A felhasználó frissítve!
 response_package_updated === A csomag frissült!
 response_widget_updated === A widget frissítve!
 response_language_updated === A nyelv frissítve lett!
-response_builder_packagenameshort === A csomag neve túl rövid!
-response_builder_appnameshort === Az alkalmazás neve túl rövid!
-response_builder_applogofail === Az alkalmazás logója nem tölthető fel!
-response_builder_appsplashfail === App splash nem tölthető fel!
-response_builder_settingsupdated === A Builder beállításai frissítve!
 response_theme_updated === A téma beállításai frissítve!
 response_system_settingsupdated === Rendszerbeállítások frissítve!
 response_deleted_sent === Az elküldött üzenet törölve lett!
@@ -937,7 +932,6 @@ modal_adddevice_title === Eszköz hozzáadása
 modal_addkey_title === API-kulcs hozzáadása
 modal_editkey_title === Szerkessze az API-kulcsot
 modal_edithook_title === Webhook szerkesztése
-modal_buildersettings_title === Builder beállításai
 modal_themesettings_title === Téma beállítások
 modal_systemsettings_title === Rendszerbeállítások
 modal_adduser_title === Felhasználó hozzáadása
@@ -1032,12 +1026,6 @@ form_widgetcenter === Központ
 form_widgetleft === Bal
 form_widgetright === Jobb
 form_widgetcontent === Tartalom
-form_builderpackagename === Csomag név
-form_builderappname === App név
-form_builderappdesc === Alkalmazás leírása
-form_builderappdesc_placeholder === Ez egy fantasztikus alkalmazás
-form_builderapplogo === Az alkalmazás logója
-form_builderappsplash === Alkalmazás indítóképernyője
 form_uploaded === Feltöltve
 form_notuploaded === Egyik sem
 form_themebg === Háttérszín
@@ -1117,7 +1105,6 @@ recaptcha_add_keys === Kérjük, adja hozzá a recaptcha kulcsait a funkció eng
 pay_with_paypal === Fizess Paypallal
 pay_with_mollie === Fizessen Mollie-val
 form_settingsenabledproviders === Engedélyezett szolgáltatók
-form_builderappicon === Alkalmazásikon
 payment_transact_failed === A fizetési tranzakció sikertelen!
 cookieconsent_message === Sütiket (cookie-kat) használunk, hogy a lehető legjobb élményt nyújthassuk weboldalunkon.
 cookieconsent_link === Tudj meg többet
@@ -1186,7 +1173,6 @@ table_action_name === Név
 form_scheduled_title === Ütemezzen SMS-t
 response_scheduled_deleted === Az ütemezett üzenet törölve!
 response_no_permission === Nincs engedélye ehhez a művelethez!
-response_builder_appiconfail === Az alkalmazás ikonja nem tölthető fel!
 form_require_login === Bejelentkezés szükséges
 widget_addpage_title === Oldal hozzáadása
 widget_editpage_title === Oldal szerkesztése

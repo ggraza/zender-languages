@@ -897,11 +897,6 @@ response_user_updated === صارف کو اپ ڈیٹ کر دیا گیا ہے!
 response_package_updated === پیکیج کو اپ ڈیٹ کر دیا گیا ہے!
 response_widget_updated === ویجیٹ کو اپ ڈیٹ کر دیا گیا ہے!
 response_language_updated === زبان کو اپ ڈیٹ کر دیا گیا ہے!
-response_builder_packagenameshort === پیکیج کا نام بہت چھوٹا ہے!
-response_builder_appnameshort === ایپ کا نام بہت چھوٹا ہے!
-response_builder_applogofail === ایپ کا لوگو اپ لوڈ نہیں کیا جا سکتا!
-response_builder_appsplashfail === ایپ سپلیش کو اپ لوڈ نہیں کیا جا سکتا!
-response_builder_settingsupdated === بلڈر کی ترتیبات کو اپ ڈیٹ کر دیا گیا!
 response_theme_updated === تھیم کی ترتیبات کو اپ ڈیٹ کر دیا گیا!
 response_system_settingsupdated === سسٹم کی ترتیبات کو اپ ڈیٹ کر دیا گیا!
 response_deleted_sent === بھیجا گیا پیغام حذف کر دیا گیا ہے!
@@ -936,7 +931,6 @@ modal_adddevice_title === ڈیوائس شامل کریں۔
 modal_addkey_title === API کلید شامل کریں۔
 modal_editkey_title === API کلید میں ترمیم کریں۔
 modal_edithook_title === Webhook میں ترمیم کریں۔
-modal_buildersettings_title === بلڈر کی ترتیبات
 modal_themesettings_title === تھیم کی ترتیبات
 modal_systemsettings_title === سسٹم کی ترتیبات
 modal_adduser_title === صارف شامل کریں۔
@@ -1031,12 +1025,6 @@ form_widgetcenter === مرکز
 form_widgetleft === بائیں
 form_widgetright === ٹھیک ہے۔
 form_widgetcontent === مواد
-form_builderpackagename === پیکیج کا نام
-form_builderappname === ایپ کا نام
-form_builderappdesc === ایپ کی تفصیل
-form_builderappdesc_placeholder === یہ ایک زبردست ایپ ہے۔
-form_builderapplogo === ایپ کا لوگو
-form_builderappsplash === ایپ سپلیش اسکرین
 form_uploaded === اپ لوڈ کیا گیا
 form_notuploaded === کوئی نہیں۔
 form_themebg === پس منظر کا رنگ
@@ -1116,7 +1104,6 @@ recaptcha_add_keys === اس خصوصیت کو فعال کرنے کے لیے بر
 pay_with_paypal === پے پال کے ساتھ ادائیگی کریں۔
 pay_with_mollie === مولی کے ساتھ ادائیگی کریں۔
 form_settingsenabledproviders === فعال فراہم کنندگان
-form_builderappicon === ایپ آئیکن
 payment_transact_failed === ادائیگی کا لین دین ناکام ہو گیا!
 cookieconsent_message === ہم اس بات کو یقینی بنانے کے لیے کوکیز استعمال کر رہے ہیں کہ آپ ہماری ویب سائٹ پر بہترین تجربہ حاصل کر رہے ہیں۔
 cookieconsent_link === اورجانیے
@@ -1185,7 +1172,6 @@ table_action_name === نام
 form_scheduled_title === ایس ایم ایس شیڈول کریں۔
 response_scheduled_deleted === طے شدہ پیغام کو حذف کر دیا گیا ہے!
 response_no_permission === آپ کو اس کارروائی کی اجازت نہیں ہے!
-response_builder_appiconfail === ایپ کا آئیکن اپ لوڈ نہیں کیا جا سکتا!
 form_require_login === لاگ ان کی ضرورت ہے۔
 widget_addpage_title === صفحہ شامل کریں۔
 widget_editpage_title === صفحہ میں ترمیم کریں۔

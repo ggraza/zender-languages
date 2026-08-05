@@ -897,11 +897,6 @@ response_user_updated === Ο χρήστης έχει ενημερωθεί!
 response_package_updated === Το πακέτο έχει ενημερωθεί!
 response_widget_updated === Το γραφικό στοιχείο έχει ενημερωθεί!
 response_language_updated === Η γλώσσα έχει ενημερωθεί!
-response_builder_packagenameshort === Το όνομα του πακέτου είναι πολύ σύντομο!
-response_builder_appnameshort === Το όνομα της εφαρμογής είναι πολύ σύντομο!
-response_builder_applogofail === Δεν είναι δυνατή η μεταφόρτωση του λογότυπου της εφαρμογής!
-response_builder_appsplashfail === Δεν είναι δυνατή η μεταφόρτωση του app splash!
-response_builder_settingsupdated === Οι ρυθμίσεις του Builder ενημερώθηκαν!
 response_theme_updated === Οι ρυθμίσεις θέματος ενημερώθηκαν!
 response_system_settingsupdated === Οι ρυθμίσεις συστήματος ενημερώθηκαν!
 response_deleted_sent === Το απεσταλμένο μήνυμα διαγράφηκε!
@@ -936,7 +931,6 @@ modal_adddevice_title === Προσθέστε ΣΥΣΚΕΥΗ
 modal_addkey_title === Προσθήκη κλειδιού API
 modal_editkey_title === Επεξεργασία κλειδιού API
 modal_edithook_title === Επεξεργασία Webhook
-modal_buildersettings_title === Ρυθμίσεις Builder
 modal_themesettings_title === Ρυθμίσεις θέματος
 modal_systemsettings_title === Ρυθμίσεις συστήματος
 modal_adduser_title === Πρόσθεσε χρήστη
@@ -1031,12 +1025,6 @@ form_widgetcenter === Κέντρο
 form_widgetleft === Αριστερά
 form_widgetright === σωστά
 form_widgetcontent === Περιεχόμενο
-form_builderpackagename === Ονομα πακέτου
-form_builderappname === Όνομα εφαρμογής
-form_builderappdesc === Περιγραφή εφαρμογής
-form_builderappdesc_placeholder === Αυτή είναι μια φοβερή εφαρμογή
-form_builderapplogo === Λογότυπο εφαρμογής
-form_builderappsplash === Εφαρμογή Splashscreen
 form_uploaded === Μεταφορτώθηκε
 form_notuploaded === Κανένας
 form_themebg === Χρώμα του φόντου
@@ -1116,7 +1104,6 @@ recaptcha_add_keys === Προσθέστε τα κλειδιά recaptcha για �
 pay_with_paypal === Πληρώστε με Paypal
 pay_with_mollie === Πληρώστε με τη Μόλι
 form_settingsenabledproviders === Ενεργοποιημένοι πάροχοι
-form_builderappicon === Εικονίδιο εφαρμογής
 payment_transact_failed === Η συναλλαγή πληρωμής απέτυχε!
 cookieconsent_message === Χρησιμοποιούμε cookies για να διασφαλίσουμε ότι απολαμβάνετε την καλύτερη εμπειρία στον ιστότοπό μας.
 cookieconsent_link === Μάθε περισσότερα
@@ -1185,7 +1172,6 @@ table_action_name === Ονομα
 form_scheduled_title === Προγραμματίστε SMS
 response_scheduled_deleted === Το προγραμματισμένο μήνυμα διαγράφηκε!
 response_no_permission === Δεν έχετε άδεια για αυτήν την ενέργεια!
-response_builder_appiconfail === Δεν είναι δυνατή η μεταφόρτωση του εικονιδίου εφαρμογής!
 form_require_login === Απαιτείται σύνδεση
 widget_addpage_title === Προσθήκη σελίδας
 widget_editpage_title === Επεξεργασία σελίδας

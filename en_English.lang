@@ -898,11 +898,6 @@ response_user_updated === User has been updated!
 response_package_updated === Package has been updated!
 response_widget_updated === Widget has been updated!
 response_language_updated === Language has been updated!
-response_builder_packagenameshort === Package name is too short!
-response_builder_appnameshort === App name is too short!
-response_builder_applogofail === App logo cannot be uploaded!
-response_builder_appsplashfail === App splash cannot be uploaded!
-response_builder_settingsupdated === Builder settings updated!
 response_theme_updated === Theme settings updated!
 response_system_settingsupdated === System settings updated!
 response_deleted_sent === Sent message has been deleted!
@@ -937,7 +932,6 @@ modal_adddevice_title === Add Device
 modal_addkey_title === Add API Key
 modal_editkey_title === Edit API Key
 modal_edithook_title === Edit Webhook
-modal_buildersettings_title === Builder Settings
 modal_themesettings_title === Theme Settings
 modal_systemsettings_title === System Settings
 modal_adduser_title === Add User
@@ -1032,12 +1026,6 @@ form_widgetcenter === Center
 form_widgetleft === Left
 form_widgetright === Right
 form_widgetcontent === Content
-form_builderpackagename === Package Name
-form_builderappname === App Name
-form_builderappdesc === App Description
-form_builderappdesc_placeholder === This is an awesome app
-form_builderapplogo === App Logo
-form_builderappsplash === App Splashscreen
 form_uploaded === Uploaded
 form_notuploaded === None
 form_themebg === Background Color
@@ -1117,7 +1105,6 @@ recaptcha_add_keys === Please add your recaptcha keys to enable this feature!
 pay_with_paypal === Pay with Paypal
 pay_with_mollie === Pay with Mollie
 form_settingsenabledproviders === Enabled Providers
-form_builderappicon === App Icon
 payment_transact_failed === Payment transaction failed!
 cookieconsent_message === We are using cookies to ensure that you are getting the best experience on our website.
 cookieconsent_link === Learn more
@@ -1186,7 +1173,6 @@ table_action_name === Name
 form_scheduled_title === Schedule SMS
 response_scheduled_deleted === Scheduled message has been deleted!
 response_no_permission === You don't have permission for this action!
-response_builder_appiconfail === App icon cannot be uploaded!
 form_require_login === Require Login
 widget_addpage_title === Add Page
 widget_editpage_title === Edit Page

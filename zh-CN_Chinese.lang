@@ -898,11 +898,6 @@ response_user_updated === 用户已更新！
 response_package_updated === 包已更新！
 response_widget_updated === 小部件已更新！
 response_language_updated === 语言已更新！
-response_builder_packagenameshort === 包名太短！
-response_builder_appnameshort === 应用名称太短！
-response_builder_applogofail === 应用标志无法上传！
-response_builder_appsplashfail === 应用启动画面无法上传！
-response_builder_settingsupdated === 生成器设置已更新！
 response_theme_updated === 主题设置更新！
 response_system_settingsupdated === 系统设置更新！
 response_deleted_sent === 发送的消息已被删除！
@@ -937,7 +932,6 @@ modal_adddevice_title === 添加设备
 modal_addkey_title === 添加 API 密钥
 modal_editkey_title === 编辑 API 密钥
 modal_edithook_title === 编辑网络钩子
-modal_buildersettings_title === 生成器设置
 modal_themesettings_title === 主题设置
 modal_systemsettings_title === 系统设置
 modal_adduser_title === 添加用户
@@ -1032,12 +1026,6 @@ form_widgetcenter === 中心
 form_widgetleft === 剩下
 form_widgetright === 正确的
 form_widgetcontent === 内容
-form_builderpackagename === 包裹名字
-form_builderappname === 应用名称
-form_builderappdesc === 应用说明
-form_builderappdesc_placeholder === 这是一个很棒的应用程序
-form_builderapplogo === 应用程序徽标
-form_builderappsplash === 应用启动画面
 form_uploaded === 已上传
 form_notuploaded === 没有任何
 form_themebg === 背景颜色
@@ -1117,7 +1105,6 @@ recaptcha_add_keys === 请添加您的验证码以启用此功能！
 pay_with_paypal === 使用贝宝付款
 pay_with_mollie === 与莫莉一起付款
 form_settingsenabledproviders === 启用的提供者
-form_builderappicon === 应用程序图标
 payment_transact_failed === 支付交易失败！
 cookieconsent_message === 我们使用 cookie 来确保您在我们的网站上获得最佳体验。
 cookieconsent_link === 学到更多
@@ -1186,7 +1173,6 @@ table_action_name === 姓名
 form_scheduled_title === 安排短信
 response_scheduled_deleted === 预定的消息已被删除！
 response_no_permission === 您无权执行此操作！
-response_builder_appiconfail === 应用图标无法上传！
 form_require_login === 需要登录
 widget_addpage_title === 添加页面
 widget_editpage_title === 编辑页面

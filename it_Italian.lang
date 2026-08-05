@@ -898,11 +898,6 @@ response_user_updated === L'utente è stato aggiornato!
 response_package_updated === Il pacchetto è stato aggiornato!
 response_widget_updated === Il widget è stato aggiornato!
 response_language_updated === La lingua è stata aggiornata!
-response_builder_packagenameshort === Il nome del pacchetto è troppo corto!
-response_builder_appnameshort === Il nome dell'app è troppo corto!
-response_builder_applogofail === Impossibile caricare il logo dell'app!
-response_builder_appsplashfail === Impossibile caricare l'app splash!
-response_builder_settingsupdated === Impostazioni del costruttore aggiornate!
 response_theme_updated === Impostazioni del tema aggiornate!
 response_system_settingsupdated === Impostazioni di sistema aggiornate!
 response_deleted_sent === Il messaggio inviato è stato cancellato!
@@ -937,7 +932,6 @@ modal_adddevice_title === Aggiungi dispositivo
 modal_addkey_title === Aggiungi chiave API
 modal_editkey_title === Modifica chiave API
 modal_edithook_title === Modifica webhook
-modal_buildersettings_title === Impostazioni del costruttore
 modal_themesettings_title === Impostazioni tema
 modal_systemsettings_title === Impostazioni di sistema
 modal_adduser_title === Aggiungi utente
@@ -1032,12 +1026,6 @@ form_widgetcenter === Centro
 form_widgetleft === Sono partiti
 form_widgetright === Destra
 form_widgetcontent === Contenuto
-form_builderpackagename === Nome del pacchetto
-form_builderappname === Nome dell'applicazione
-form_builderappdesc === Descrizione dell'app
-form_builderappdesc_placeholder === Questa è un'app fantastica
-form_builderapplogo === Logo dell'app
-form_builderappsplash === Schermata iniziale dell'app
 form_uploaded === Caricato
 form_notuploaded === Nessuno
 form_themebg === Colore di sfondo
@@ -1117,7 +1105,6 @@ recaptcha_add_keys === Aggiungi le tue chiavi recaptcha per abilitare questa fun
 pay_with_paypal === Paga con Paypal
 pay_with_mollie === Paga con Mollie
 form_settingsenabledproviders === Fornitori abilitati
-form_builderappicon === Icona dell'app
 payment_transact_failed === Transazione di pagamento fallita!
 cookieconsent_message === Utilizziamo i cookie per assicurarti la migliore esperienza sul nostro sito web.
 cookieconsent_link === Per saperne di più
@@ -1186,7 +1173,6 @@ table_action_name === Nome
 form_scheduled_title === Pianifica SMS
 response_scheduled_deleted === Il messaggio programmato è stato eliminato!
 response_no_permission === Non hai l'autorizzazione per questa azione!
-response_builder_appiconfail === Impossibile caricare l'icona dell'app!
 form_require_login === Richiedi accesso
 widget_addpage_title === Aggiungi pagina
 widget_editpage_title === Modifica Pagina

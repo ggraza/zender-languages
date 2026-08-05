@@ -898,11 +898,6 @@ response_user_updated === Pengguna telah diperbarui!
 response_package_updated === Paket telah diperbarui!
 response_widget_updated === Widget telah diperbarui!
 response_language_updated === Bahasa telah diperbarui!
-response_builder_packagenameshort === Nama paket terlalu pendek!
-response_builder_appnameshort === Nama aplikasi terlalu pendek!
-response_builder_applogofail === Logo aplikasi tidak dapat diunggah!
-response_builder_appsplashfail === Percikan aplikasi tidak dapat diunggah!
-response_builder_settingsupdated === Setelan pembuat diperbarui!
 response_theme_updated === Pengaturan tema diperbarui!
 response_system_settingsupdated === Pengaturan sistem diperbarui!
 response_deleted_sent === Pesan terkirim telah dihapus!
@@ -937,7 +932,6 @@ modal_adddevice_title === Tambahkan Perangkat
 modal_addkey_title === Tambahkan Kunci API
 modal_editkey_title === Edit Kunci API
 modal_edithook_title === Sunting Webhook
-modal_buildersettings_title === Pengaturan Pembuat
 modal_themesettings_title === Pengaturan tema
 modal_systemsettings_title === Pengaturan sistem
 modal_adduser_title === Tambahkan pengguna
@@ -1032,12 +1026,6 @@ form_widgetcenter === Tengah
 form_widgetleft === Kiri
 form_widgetright === Benar
 form_widgetcontent === Isi
-form_builderpackagename === Nama paket
-form_builderappname === Nama aplikasi
-form_builderappdesc === Deskripsi Aplikasi
-form_builderappdesc_placeholder === Ini adalah aplikasi yang luar biasa
-form_builderapplogo === Logo Aplikasi
-form_builderappsplash === Layar Splash Aplikasi
 form_uploaded === Diunggah
 form_notuploaded === Tidak ada
 form_themebg === Warna latar belakang
@@ -1117,7 +1105,6 @@ recaptcha_add_keys === Silakan tambahkan kunci recaptcha Anda untuk mengaktifkan
 pay_with_paypal === Bayar dengan Paypal
 pay_with_mollie === Bayar dengan Mollie
 form_settingsenabledproviders === Penyedia yang Diaktifkan
-form_builderappicon === Ikon Aplikasi
 payment_transact_failed === Transaksi pembayaran gagal!
 cookieconsent_message === Kami menggunakan cookie untuk memastikan Anda mendapatkan pengalaman terbaik di situs web kami.
 cookieconsent_link === Belajarlah lagi
@@ -1186,7 +1173,6 @@ table_action_name === Nama
 form_scheduled_title === Jadwalkan SMS
 response_scheduled_deleted === Pesan terjadwal telah dihapus!
 response_no_permission === Anda tidak memiliki izin untuk tindakan ini!
-response_builder_appiconfail === Ikon aplikasi tidak dapat diunggah!
 form_require_login === Perlu Masuk
 widget_addpage_title === Tambah halaman
 widget_editpage_title === Sunting Halaman

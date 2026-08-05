@@ -898,11 +898,6 @@ response_user_updated === Kullanıcı güncellendi!
 response_package_updated === Paket güncellendi!
 response_widget_updated === Widget güncellendi!
 response_language_updated === Dil güncellendi!
-response_builder_packagenameshort === Paket adı çok kısa!
-response_builder_appnameshort === Uygulama adı çok kısa!
-response_builder_applogofail === Uygulama logosu yüklenemiyor!
-response_builder_appsplashfail === Uygulama sıçraması yüklenemiyor!
-response_builder_settingsupdated === Oluşturucu ayarları güncellendi!
 response_theme_updated === Tema ayarları güncellendi!
 response_system_settingsupdated === Sistem ayarları güncellendi!
 response_deleted_sent === Gönderilen mesaj silindi!
@@ -937,7 +932,6 @@ modal_adddevice_title === Cihaz ekle
 modal_addkey_title === API Anahtarı Ekle
 modal_editkey_title === API Anahtarını Düzenle
 modal_edithook_title === Web kancasını düzenle
-modal_buildersettings_title === Oluşturucu Ayarları
 modal_themesettings_title === Tema ayarları
 modal_systemsettings_title === Sistem ayarları
 modal_adduser_title === Kullanıcı Ekle
@@ -1032,12 +1026,6 @@ form_widgetcenter === merkez
 form_widgetleft === Ayrıldı
 form_widgetright === Doğru
 form_widgetcontent === İçerik
-form_builderpackagename === Paket ismi
-form_builderappname === Uygulama ismi
-form_builderappdesc === Uygulama Açıklaması
-form_builderappdesc_placeholder === Bu harika bir uygulama
-form_builderapplogo === Uygulama Logosu
-form_builderappsplash === Uygulama Açılış Ekranı
 form_uploaded === yüklendi
 form_notuploaded === Hiçbiri
 form_themebg === Arka plan rengi
@@ -1117,7 +1105,6 @@ recaptcha_add_keys === Bu özelliği etkinleştirmek için lütfen recaptcha ana
 pay_with_paypal === PayPal ile öde
 pay_with_mollie === Mollie ile öde
 form_settingsenabledproviders === Etkin Sağlayıcılar
-form_builderappicon === Uygulama Simgesi
 payment_transact_failed === Ödeme işlemi başarısız oldu!
 cookieconsent_message === Web sitemizde en iyi deneyimi yaşamanızı sağlamak için çerezler kullanıyoruz.
 cookieconsent_link === Daha fazla bilgi edin
@@ -1186,7 +1173,6 @@ table_action_name === İsim
 form_scheduled_title === SMS programlayın
 response_scheduled_deleted === Planlanmış mesaj silindi!
 response_no_permission === Bu işlem için izniniz yok!
-response_builder_appiconfail === Uygulama simgesi yüklenemiyor!
 form_require_login === Giriş Gerektir
 widget_addpage_title === Sayfa ekle
 widget_editpage_title === Sayfayı düzenle

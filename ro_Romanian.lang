@@ -898,11 +898,6 @@ response_user_updated === Utilizatorul a fost actualizat!
 response_package_updated === Pachetul a fost actualizat!
 response_widget_updated === Widgetul a fost actualizat!
 response_language_updated === Limba a fost actualizată!
-response_builder_packagenameshort === Numele pachetului este prea scurt!
-response_builder_appnameshort === Numele aplicației este prea scurt!
-response_builder_applogofail === Logo-ul aplicației nu poate fi încărcat!
-response_builder_appsplashfail === Splash de aplicație nu poate fi încărcat!
-response_builder_settingsupdated === Setările Builder au fost actualizate!
 response_theme_updated === Setările temei au fost actualizate!
 response_system_settingsupdated === Setările sistemului au fost actualizate!
 response_deleted_sent === Mesajul trimis a fost șters!
@@ -937,7 +932,6 @@ modal_adddevice_title === Adăugați dispozitiv
 modal_addkey_title === Adăugați cheia API
 modal_editkey_title === Editați cheia API
 modal_edithook_title === Editați Webhook
-modal_buildersettings_title === Setări Builder
 modal_themesettings_title === Setari tema
 modal_systemsettings_title === Setarile sistemului
 modal_adduser_title === Adăugați utilizator
@@ -1032,12 +1026,6 @@ form_widgetcenter === Centru
 form_widgetleft === Stânga
 form_widgetright === Dreapta
 form_widgetcontent === Conţinut
-form_builderpackagename === Numele pachetului
-form_builderappname === Numele aplicatiei
-form_builderappdesc === Descrierea aplicației
-form_builderappdesc_placeholder === Aceasta este o aplicație minunată
-form_builderapplogo === Logo-ul aplicației
-form_builderappsplash === Ecran de splash al aplicației
 form_uploaded === Încărcat
 form_notuploaded === Nici unul
 form_themebg === Culoare de fundal
@@ -1117,7 +1105,6 @@ recaptcha_add_keys === Vă rugăm să adăugați cheile recaptcha pentru a activ
 pay_with_paypal === Plătiți cu PayPal
 pay_with_mollie === Plătește cu Mollie
 form_settingsenabledproviders === Furnizori activați
-form_builderappicon === Pictograma aplicației
 payment_transact_failed === Tranzacția de plată a eșuat!
 cookieconsent_message === Folosim cookie-uri pentru a ne asigura că beneficiați de cea mai bună experiență pe site-ul nostru.
 cookieconsent_link === Află mai multe
@@ -1186,7 +1173,6 @@ table_action_name === Nume
 form_scheduled_title === Programează SMS
 response_scheduled_deleted === Mesajul programat a fost șters!
 response_no_permission === Nu aveți permisiunea pentru această acțiune!
-response_builder_appiconfail === Pictograma aplicației nu poate fi încărcată!
 form_require_login === Necesită autentificare
 widget_addpage_title === Adauga pagina
 widget_editpage_title === Pagina de editare

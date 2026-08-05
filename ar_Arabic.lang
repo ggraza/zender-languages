@@ -898,11 +898,6 @@ response_user_updated === تم تحديث المستخدم!
 response_package_updated === تم تحديث الحزمة!
 response_widget_updated === تم تحديث القطعة!
 response_language_updated === تم تحديث اللغة!
-response_builder_packagenameshort === اسم الحزمة قصير جدًا!
-response_builder_appnameshort === اسم التطبيق قصير جدًا!
-response_builder_applogofail === لا يمكن تحميل شعار التطبيق!
-response_builder_appsplashfail === لا يمكن تحميل دفقة التطبيق!
-response_builder_settingsupdated === تم تحديث إعدادات المنشئ!
 response_theme_updated === تم تحديث إعدادات المظهر!
 response_system_settingsupdated === تم تحديث إعدادات النظام!
 response_deleted_sent === تم حذف الرسالة المرسلة!
@@ -937,7 +932,6 @@ modal_adddevice_title === اضف جهاز
 modal_addkey_title === أضف مفتاح API
 modal_editkey_title === تحرير مفتاح API
 modal_edithook_title === تحرير Webhook
-modal_buildersettings_title === إعدادات البناء
 modal_themesettings_title === إعدادات الموضوع
 modal_systemsettings_title === اعدادات النظام
 modal_adduser_title === إضافة المستخدم
@@ -1032,12 +1026,6 @@ form_widgetcenter === مركز
 form_widgetleft === اليسار
 form_widgetright === حق
 form_widgetcontent === المحتوى
-form_builderpackagename === اسم الحزمة
-form_builderappname === اسم التطبيق
-form_builderappdesc === وصف التطبيق
-form_builderappdesc_placeholder === هذا هو التطبيق رهيبة
-form_builderapplogo === شعار التطبيق
-form_builderappsplash === تطبيق Splashscreen
 form_uploaded === تم الرفع
 form_notuploaded === لا أحد
 form_themebg === لون الخلفية
@@ -1117,7 +1105,6 @@ recaptcha_add_keys === يرجى إضافة مفاتيح recaptcha الخاصة �
 pay_with_paypal === الدفع بواسط باى بال
 pay_with_mollie === ادفع مع مولي
 form_settingsenabledproviders === الموفرون الممكّنون
-form_builderappicon === أيقونة التطبيق
 payment_transact_failed === فشلت معاملة الدفع!
 cookieconsent_message === نحن نستخدم ملفات تعريف الارتباط لضمان حصولك على أفضل تجربة على موقعنا.
 cookieconsent_link === يتعلم أكثر
@@ -1186,7 +1173,6 @@ table_action_name === اسم
 form_scheduled_title === جدولة الرسائل القصيرة
 response_scheduled_deleted === تم حذف الرسالة المجدولة!
 response_no_permission === ليس لديك إذن للقيام بهذا الإجراء!
-response_builder_appiconfail === لا يمكن تحميل أيقونة التطبيق!
 form_require_login === يتطلب تسجيل الدخول
 widget_addpage_title === إضافة صفحة
 widget_editpage_title === تعديل الصفحة

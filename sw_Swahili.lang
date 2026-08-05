@@ -898,11 +898,6 @@ response_user_updated === Mtumiaji amesasishwa!
 response_package_updated === Kifurushi kimesasishwa!
 response_widget_updated === Wijeti imesasishwa!
 response_language_updated === Lugha imesasishwa!
-response_builder_packagenameshort === Jina la kifurushi ni fupi mno!
-response_builder_appnameshort === Jina la programu ni fupi mno!
-response_builder_applogofail === Nembo ya programu haiwezi kupakiwa!
-response_builder_appsplashfail === Programu ya Splash haiwezi kupakiwa!
-response_builder_settingsupdated === Mipangilio ya wajenzi imesasishwa!
 response_theme_updated === Mipangilio ya mandhari imesasishwa!
 response_system_settingsupdated === Mipangilio ya mfumo imesasishwa!
 response_deleted_sent === Ujumbe uliotumwa umefutwa!
@@ -937,7 +932,6 @@ modal_adddevice_title === Ongeza Kifaa
 modal_addkey_title === Ongeza Ufunguo wa API
 modal_editkey_title === Badilisha Ufunguo wa API
 modal_edithook_title === Hariri Webbook
-modal_buildersettings_title === Mipangilio ya Wajenzi
 modal_themesettings_title === Mipangilio ya Mandhari
 modal_systemsettings_title === Mipangilio ya Mfumo
 modal_adduser_title === Ongeza Mtumiaji
@@ -1032,12 +1026,6 @@ form_widgetcenter === Kituo
 form_widgetleft === Kushoto
 form_widgetright === Haki
 form_widgetcontent === Maudhui
-form_builderpackagename === Jina la Kifurushi
-form_builderappname === Jina la Programu
-form_builderappdesc === Maelezo ya Programu
-form_builderappdesc_placeholder === Hii ni programu ya kushangaza
-form_builderapplogo === Nembo ya Programu
-form_builderappsplash === Programu ya Splashscreen
 form_uploaded === Imepakiwa
 form_notuploaded === Hakuna
 form_themebg === Rangi ya Mandharinyuma
@@ -1117,7 +1105,6 @@ recaptcha_add_keys === Tafadhali ongeza funguo zako za recaptcha ili kuwezesha k
 pay_with_paypal === Lipa kwa Paypal
 pay_with_mollie === Lipa na Mollie
 form_settingsenabledproviders === Watoa Huduma Waliowezeshwa
-form_builderappicon === Aikoni ya Programu
 payment_transact_failed === Shughuli ya malipo imeshindwa!
 cookieconsent_message === Tunatumia vidakuzi ili kuhakikisha kuwa unapata matumizi bora kwenye tovuti yetu.
 cookieconsent_link === Jifunze zaidi
@@ -1186,7 +1173,6 @@ table_action_name === Jina
 form_scheduled_title === Panga SMS
 response_scheduled_deleted === Ujumbe ulioratibiwa umefutwa!
 response_no_permission === Huna ruhusa ya kitendo hiki!
-response_builder_appiconfail === Aikoni ya programu haiwezi kupakiwa!
 form_require_login === Inahitaji Kuingia
 widget_addpage_title === Ongeza Ukurasa
 widget_editpage_title === Badilisha Ukurasa

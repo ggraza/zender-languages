@@ -898,11 +898,6 @@ response_user_updated === ¡El usuario ha sido actualizado!
 response_package_updated === ¡El paquete ha sido actualizado!
 response_widget_updated === ¡El widget ha sido actualizado!
 response_language_updated === ¡El idioma ha sido actualizado!
-response_builder_packagenameshort === ¡El nombre del paquete es demasiado corto!
-response_builder_appnameshort === ¡El nombre de la aplicación es demasiado corto!
-response_builder_applogofail === ¡El logotipo de la aplicación no se puede cargar!
-response_builder_appsplashfail === ¡La presentación de la aplicación no se puede cargar!
-response_builder_settingsupdated === ¡Configuración del constructor actualizada!
 response_theme_updated === ¡Configuración del tema actualizada!
 response_system_settingsupdated === ¡Configuración del sistema actualizada!
 response_deleted_sent === ¡El mensaje enviado ha sido eliminado!
@@ -937,7 +932,6 @@ modal_adddevice_title === Añadir dispositivo
 modal_addkey_title === Agregar clave de API
 modal_editkey_title === Editar clave API
 modal_edithook_title === Editar webhook
-modal_buildersettings_title === Configuración del constructor
 modal_themesettings_title === Ajustes de tema
 modal_systemsettings_title === Ajustes del sistema
 modal_adduser_title === Agregar usuario
@@ -1032,12 +1026,6 @@ form_widgetcenter === Centro
 form_widgetleft === Izquierda
 form_widgetright === Derecha
 form_widgetcontent === Contenido
-form_builderpackagename === Nombre del paquete
-form_builderappname === Nombre de la aplicación
-form_builderappdesc === Descripción de la aplicación
-form_builderappdesc_placeholder === Esta es una aplicación increíble
-form_builderapplogo === Logotipo de la aplicación
-form_builderappsplash === Pantalla de bienvenida de la aplicación
 form_uploaded === subido
 form_notuploaded === Ninguna
 form_themebg === Color de fondo
@@ -1117,7 +1105,6 @@ recaptcha_add_keys === ¡Agregue sus claves de recaptcha para habilitar esta fun
 pay_with_paypal === Pagar con PayPal
 pay_with_mollie === Paga con Mollie
 form_settingsenabledproviders === Proveedores habilitados
-form_builderappicon === Icono de la aplicación
 payment_transact_failed === ¡La transacción de pago falló!
 cookieconsent_message === Estamos utilizando cookies para asegurarnos de que obtenga la mejor experiencia en nuestro sitio web.
 cookieconsent_link === Aprende más
@@ -1186,7 +1173,6 @@ table_action_name === Nombre
 form_scheduled_title === Programar SMS
 response_scheduled_deleted === ¡El mensaje programado ha sido eliminado!
 response_no_permission === ¡No tienes permiso para esta acción!
-response_builder_appiconfail === ¡El icono de la aplicación no se puede cargar!
 form_require_login === Requerir inicio de sesión
 widget_addpage_title === Añadir página
 widget_editpage_title === Editar página

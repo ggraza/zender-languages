@@ -898,11 +898,6 @@ response_user_updated === Användaren har uppdaterats!
 response_package_updated === Paketet har uppdaterats!
 response_widget_updated === Widget har uppdaterats!
 response_language_updated === Språket har uppdaterats!
-response_builder_packagenameshort === Paketnamnet är för kort!
-response_builder_appnameshort === Appens namn är för kort!
-response_builder_applogofail === Applogotypen kan inte laddas upp!
-response_builder_appsplashfail === App splash kan inte laddas upp!
-response_builder_settingsupdated === Builder-inställningar uppdaterade!
 response_theme_updated === Temainställningar uppdaterade!
 response_system_settingsupdated === Systeminställningar uppdaterade!
 response_deleted_sent === Skickat meddelande har raderats!
@@ -937,7 +932,6 @@ modal_adddevice_title === Lägg till enhet
 modal_addkey_title === Lägg till API-nyckel
 modal_editkey_title === Redigera API-nyckel
 modal_edithook_title === Redigera Webhook
-modal_buildersettings_title === Builder-inställningar
 modal_themesettings_title === Temainställningar
 modal_systemsettings_title === Systeminställningar
 modal_adduser_title === Lägg till användare
@@ -1032,12 +1026,6 @@ form_widgetcenter === Centrum
 form_widgetleft === Vänster
 form_widgetright === Höger
 form_widgetcontent === Innehåll
-form_builderpackagename === Paketnamn
-form_builderappname === App-namn
-form_builderappdesc === Appbeskrivning
-form_builderappdesc_placeholder === Detta är en fantastisk app
-form_builderapplogo === Applogotyp
-form_builderappsplash === Appens startskärm
 form_uploaded === Uppladdad
 form_notuploaded === Ingen
 form_themebg === Bakgrundsfärg
@@ -1117,7 +1105,6 @@ recaptcha_add_keys === Lägg till dina recaptcha-nycklar för att aktivera den h
 pay_with_paypal === Betala med PayPal
 pay_with_mollie === Betala med Mollie
 form_settingsenabledproviders === Aktiverade leverantörer
-form_builderappicon === App-ikon
 payment_transact_failed === Betalningstransaktionen misslyckades!
 cookieconsent_message === Vi använder cookies för att säkerställa att du får den bästa upplevelsen på vår webbplats.
 cookieconsent_link === Läs mer
@@ -1186,7 +1173,6 @@ table_action_name === namn
 form_scheduled_title === Schemalägg SMS
 response_scheduled_deleted === Schemalagt meddelande har tagits bort!
 response_no_permission === Du har inte behörighet för den här åtgärden!
-response_builder_appiconfail === Appikonen kan inte laddas upp!
 form_require_login === Kräv inloggning
 widget_addpage_title === Lägg till sida
 widget_editpage_title === Redigera sida

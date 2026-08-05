@@ -898,11 +898,6 @@ response_user_updated === L'utilisateur a été mis à jour!
 response_package_updated === Le paquet a été mis à jour!
 response_widget_updated === Le widget a été mis à jour!
 response_language_updated === La langue a été mise à jour!
-response_builder_packagenameshort === Le nom du package est trop court!
-response_builder_appnameshort === Le nom de l'application est trop court!
-response_builder_applogofail === Le logo de l'application ne peut pas être téléchargé!
-response_builder_appsplashfail === L'application splash ne peut pas être téléchargée!
-response_builder_settingsupdated === Paramètres du constructeur mis à jour!
 response_theme_updated === Paramètres du thème mis à jour!
 response_system_settingsupdated === Paramètres système mis à jour!
 response_deleted_sent === Le message envoyé a été supprimé!
@@ -937,7 +932,6 @@ modal_adddevice_title === Ajouter un appareil
 modal_addkey_title === Ajouter une clé API
 modal_editkey_title === Modifier la clé API
 modal_edithook_title === Modifier le Webhook
-modal_buildersettings_title === Paramètres du constructeur
 modal_themesettings_title === Réglage des thèmes
 modal_systemsettings_title === Les paramètres du système
 modal_adduser_title === Ajouter un utilisateur
@@ -1032,12 +1026,6 @@ form_widgetcenter === Centre
 form_widgetleft === La gauche
 form_widgetright === À droite
 form_widgetcontent === Teneur
-form_builderpackagename === Nom du paquet
-form_builderappname === Nom de l'application
-form_builderappdesc === Description de l'application
-form_builderappdesc_placeholder === Ceci est une application géniale
-form_builderapplogo === Logo de l'application
-form_builderappsplash === Écran de démarrage de l'application
 form_uploaded === Téléchargé
 form_notuploaded === Rien
 form_themebg === Couleur de l'arrière plan
@@ -1117,7 +1105,6 @@ recaptcha_add_keys === Veuillez ajouter vos clés recaptcha pour activer cette f
 pay_with_paypal === Payer avec PayPal
 pay_with_mollie === Payer avec Mollie
 form_settingsenabledproviders === Fournisseurs activés
-form_builderappicon === Icône de l'application
 payment_transact_failed === La transaction de paiement a échoué!
 cookieconsent_message === Nous utilisons des cookies pour nous assurer que vous obtenez la meilleure expérience sur notre site Web.
 cookieconsent_link === Apprendre encore plus
@@ -1186,7 +1173,6 @@ table_action_name === Nom
 form_scheduled_title === Programmer des SMS
 response_scheduled_deleted === Le message programmé a été supprimé!
 response_no_permission === Vous n'avez pas la permission pour cette action!
-response_builder_appiconfail === L'icône de l'application ne peut pas être téléchargée!
 form_require_login === Connexion requise
 widget_addpage_title === Ajouter une page
 widget_editpage_title === Modifier la page

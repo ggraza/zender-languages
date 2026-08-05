@@ -898,11 +898,6 @@ response_user_updated === Корисник је ажуриран!
 response_package_updated === Пакет је ажуриран!
 response_widget_updated === Виџет је ажуриран!
 response_language_updated === Језик је ажуриран!
-response_builder_packagenameshort === Назив пакета је прекратак!
-response_builder_appnameshort === Назив апликације је прекратак!
-response_builder_applogofail === Лого апликације не може да се отпреми!
-response_builder_appsplashfail === Спласх апликације не може да се отпреми!
-response_builder_settingsupdated === Подешавања Буилдер-а су ажурирана!
 response_theme_updated === Подешавања теме су ажурирана!
 response_system_settingsupdated === Подешавања система су ажурирана!
 response_deleted_sent === Послата порука је обрисана!
@@ -937,7 +932,6 @@ modal_adddevice_title === Додај уређај
 modal_addkey_title === Додајте АПИ кључ
 modal_editkey_title === Уредите АПИ кључ
 modal_edithook_title === Уреди Вебхоок
-modal_buildersettings_title === Подешавања градитеља
 modal_themesettings_title === Подешавање тема
 modal_systemsettings_title === Подешавања система
 modal_adduser_title === Додати корисника
@@ -1032,12 +1026,6 @@ form_widgetcenter === Центар
 form_widgetleft === Лево
 form_widgetright === Јел тако
 form_widgetcontent === Садржај
-form_builderpackagename === Назив пакета
-form_builderappname === Назив апликације
-form_builderappdesc === Опис апликације
-form_builderappdesc_placeholder === Ово је сјајна апликација
-form_builderapplogo === Логотип апликације
-form_builderappsplash === Почетни екран апликације
 form_uploaded === Отпремљено
 form_notuploaded === Ниједан
 form_themebg === Боја позадине
@@ -1117,7 +1105,6 @@ recaptcha_add_keys === Додајте своје рецаптцха кључев
 pay_with_paypal === Платите са Паипал-ом
 pay_with_mollie === Плати са Моллие
 form_settingsenabledproviders === Омогућени добављачи
-form_builderappicon === Икона апликације
 payment_transact_failed === Трансакција плаћања није успела!
 cookieconsent_message === Користимо колачиће како бисмо осигурали да имате најбоље искуство на нашој веб страници.
 cookieconsent_link === Сазнајте више
@@ -1186,7 +1173,6 @@ table_action_name === Име
 form_scheduled_title === Закажите СМС
 response_scheduled_deleted === Заказана порука је обрисана!
 response_no_permission === Немате дозволу за ову акцију!
-response_builder_appiconfail === Икона апликације не може да се отпреми!
 form_require_login === Захтевај пријаву
 widget_addpage_title === Додај страницу
 widget_editpage_title === Уреди страницу

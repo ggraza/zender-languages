@@ -898,11 +898,6 @@ response_user_updated === Người dùng đã được cập nhật!
 response_package_updated === Gói đã được cập nhật!
 response_widget_updated === Widget đã được cập nhật!
 response_language_updated === Ngôn ngữ đã được cập nhật!
-response_builder_packagenameshort === Tên gói quá ngắn!
-response_builder_appnameshort === Tên ứng dụng quá ngắn!
-response_builder_applogofail === Không thể tải lên logo ứng dụng!
-response_builder_appsplashfail === Không thể tải lên ứng dụng giật gân!
-response_builder_settingsupdated === Đã cập nhật cài đặt trình tạo!
 response_theme_updated === Đã cập nhật cài đặt chủ đề!
 response_system_settingsupdated === Đã cập nhật cài đặt hệ thống!
 response_deleted_sent === Tin nhắn đã gửi đã bị xóa!
@@ -937,7 +932,6 @@ modal_adddevice_title === Thêm thiết bị
 modal_addkey_title === Thêm khóa API
 modal_editkey_title === Chỉnh sửa khóa API
 modal_edithook_title === Chỉnh sửa Webhook
-modal_buildersettings_title === Cài đặt trình tạo
 modal_themesettings_title === Cài đặt chủ đề
 modal_systemsettings_title === Cài đặt hệ thống
 modal_adduser_title === Thêm người dùng
@@ -1032,12 +1026,6 @@ form_widgetcenter === Trung tâm
 form_widgetleft === Bên trái
 form_widgetright === Đúng
 form_widgetcontent === Nội dung
-form_builderpackagename === Tên gói hàng
-form_builderappname === Tên ứng dụng
-form_builderappdesc === Mô tả ứng dụng
-form_builderappdesc_placeholder === Đây là một ứng dụng tuyệt vời
-form_builderapplogo === Biểu trưng ứng dụng
-form_builderappsplash === App Splashscreen
 form_uploaded === Đã tải lên
 form_notuploaded === Không có
 form_themebg === Màu nền
@@ -1117,7 +1105,6 @@ recaptcha_add_keys === Vui lòng thêm các khóa recaptcha của bạn để k�
 pay_with_paypal === Thanh toán bằng PayPal
 pay_with_mollie === Thanh toán bằng Mollie
 form_settingsenabledproviders === Nhà cung cấp được Kích hoạt
-form_builderappicon === Biểu tượng ứng dụng
 payment_transact_failed === Giao dịch thanh toán không thành công!
 cookieconsent_message === Chúng tôi đang sử dụng cookie để đảm bảo rằng bạn đang có được trải nghiệm tốt nhất trên trang web của chúng tôi.
 cookieconsent_link === Tìm hiểu thêm
@@ -1186,7 +1173,6 @@ table_action_name === Tên
 form_scheduled_title === Lên lịch SMS
 response_scheduled_deleted === Tin nhắn đã lên lịch đã bị xóa!
 response_no_permission === Bạn không có quyền cho hành động này!
-response_builder_appiconfail === Biểu tượng ứng dụng không thể được tải lên!
 form_require_login === Yêu cầu đăng nhập
 widget_addpage_title === Thêm trang
 widget_editpage_title === Chỉnh sửa trang

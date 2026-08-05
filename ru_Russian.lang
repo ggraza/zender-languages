@@ -898,11 +898,6 @@ response_user_updated === Пользователь обновлен!
 response_package_updated === Пакет обновлен!
 response_widget_updated === Виджет обновлен!
 response_language_updated === Язык обновлен!
-response_builder_packagenameshort === Имя пакета слишком короткое!
-response_builder_appnameshort === Название приложения слишком короткое!
-response_builder_applogofail === Логотип приложения не может быть загружен!
-response_builder_appsplashfail === Заставка приложения не может быть загружена!
-response_builder_settingsupdated === Обновлены настройки конструктора!
 response_theme_updated === Настройки темы обновлены!
 response_system_settingsupdated === Системные настройки обновлены!
 response_deleted_sent === Отправленное сообщение было удалено!
@@ -937,7 +932,6 @@ modal_adddevice_title === Добавить устройство
 modal_addkey_title === Добавить ключ API
 modal_editkey_title === Изменить ключ API
 modal_edithook_title === Изменить вебхук
-modal_buildersettings_title === Настройки строителя
 modal_themesettings_title === Настройки темы
 modal_systemsettings_title === Системные настройки
 modal_adduser_title === Добавить пользователя
@@ -1032,12 +1026,6 @@ form_widgetcenter === Центр
 form_widgetleft === Оставил
 form_widgetright === Верно
 form_widgetcontent === Содержание
-form_builderpackagename === Имя пакета
-form_builderappname === Имя приложения
-form_builderappdesc === Описание приложения
-form_builderappdesc_placeholder === Это потрясающее приложение
-form_builderapplogo === Логотип приложения
-form_builderappsplash === Заставка приложения
 form_uploaded === Загружено
 form_notuploaded === Никто
 form_themebg === Фоновый цвет
@@ -1117,7 +1105,6 @@ recaptcha_add_keys === Пожалуйста, добавьте свои ключ�
 pay_with_paypal === Оплата с PayPal
 pay_with_mollie === Плати с Молли
 form_settingsenabledproviders === Включенные провайдеры
-form_builderappicon === Значок приложения
 payment_transact_failed === Платежная транзакция не удалась!
 cookieconsent_message === Мы используем файлы cookie, чтобы обеспечить вам максимальное удобство на нашем веб-сайте.
 cookieconsent_link === Учить больше
@@ -1186,7 +1173,6 @@ table_action_name === Имя
 form_scheduled_title === Расписание SMS
 response_scheduled_deleted === Запланированное сообщение удалено!
 response_no_permission === У вас нет разрешения на это действие!
-response_builder_appiconfail === Значок приложения не может быть загружен!
 form_require_login === Требовать логин
 widget_addpage_title === Добавить страницу
 widget_editpage_title === Отредактируйте страницу

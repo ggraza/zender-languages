@@ -898,11 +898,6 @@ response_user_updated === ব্যবহারকারী আপডেট ক�
 response_package_updated === প্যাকেজ আপডেট করা হয়েছে!
 response_widget_updated === উইজেট আপডেট করা হয়েছে!
 response_language_updated === ভাষা আপডেট করা হয়েছে!
-response_builder_packagenameshort === প্যাকেজের নাম খুব ছোট!
-response_builder_appnameshort === অ্যাপের নাম খুব ছোট!
-response_builder_applogofail === অ্যাপ লোগো আপলোড করা যাবে না!
-response_builder_appsplashfail === অ্যাপ স্প্ল্যাশ আপলোড করা যাবে না!
-response_builder_settingsupdated === বিল্ডার সেটিংস আপডেট করা হয়েছে!
 response_theme_updated === থিম সেটিংস আপডেট করা হয়েছে!
 response_system_settingsupdated === সিস্টেম সেটিংস আপডেট!
 response_deleted_sent === পাঠানো বার্তা মুছে ফেলা হয়েছে!
@@ -937,7 +932,6 @@ modal_adddevice_title === যন্ত্র সংযুক্ত করুন
 modal_addkey_title === API কী যোগ করুন
 modal_editkey_title === API কী সম্পাদনা করুন
 modal_edithook_title === ওয়েবহুক সম্পাদনা করুন
-modal_buildersettings_title === বিল্ডার সেটিংস
 modal_themesettings_title === থিম সেটিং
 modal_systemsettings_title === পদ্ধতি নির্ধারণ
 modal_adduser_title === ব্যবহারকারী যোগ করুন
@@ -1032,12 +1026,6 @@ form_widgetcenter === কেন্দ্র
 form_widgetleft === বাম
 form_widgetright === ঠিক
 form_widgetcontent === বিষয়বস্তু
-form_builderpackagename === প্যাকেজের নাম
-form_builderappname === অ্যাপ্লিকেশন নাম
-form_builderappdesc === অ্যাপের বিবরণ
-form_builderappdesc_placeholder === এটি একটি দুর্দান্ত অ্যাপ
-form_builderapplogo === অ্যাপ লোগো
-form_builderappsplash === অ্যাপ স্প্ল্যাশস্ক্রিন
 form_uploaded === আপলোড করা হয়েছে
 form_notuploaded === কোনোটিই নয়
 form_themebg === পেছনের রঙ
@@ -1117,7 +1105,6 @@ recaptcha_add_keys === এই বৈশিষ্ট্যটি সক্ষম 
 pay_with_paypal === পেপালের মাধ্যমে প্রদান করুন
 pay_with_mollie === মলির সাথে অর্থ প্রদান করুন
 form_settingsenabledproviders === সক্ষম প্রদানকারী
-form_builderappicon === অ্যাপ আইকন
 payment_transact_failed === পেমেন্ট লেনদেন ব্যর্থ হয়েছে!
 cookieconsent_message === আপনি আমাদের ওয়েবসাইটে সেরা অভিজ্ঞতা পাচ্ছেন তা নিশ্চিত করতে আমরা কুকিজ ব্যবহার করছি।
 cookieconsent_link === আরও জানুন
@@ -1186,7 +1173,6 @@ table_action_name === নাম
 form_scheduled_title === এসএমএস শিডিউল করুন
 response_scheduled_deleted === নির্ধারিত বার্তা মুছে ফেলা হয়েছে!
 response_no_permission === এই কর্মের জন্য আপনার কাছে অনুমতি নেই!
-response_builder_appiconfail === অ্যাপ আইকন আপলোড করা যাবে না!
 form_require_login === লগইন প্রয়োজন
 widget_addpage_title === পাতা যোগ কর
 widget_editpage_title === সম্পাদনা পাতা

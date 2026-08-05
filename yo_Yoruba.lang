@@ -898,11 +898,6 @@ response_user_updated === Olumulo ti ni imudojuiwọn!
 response_package_updated === Package ti ni imudojuiwọn!
 response_widget_updated === Ẹrọ ailorukọ ti ni imudojuiwọn!
 response_language_updated === Ede ti ni imudojuiwọn!
-response_builder_packagenameshort === Orukọ idii ti kuru ju!
-response_builder_appnameshort === App orukọ ti kuru ju!
-response_builder_applogofail === App logo ko le wa ni Àwọn!
-response_builder_appsplashfail === App asesejade ko le wa ni Àwọn!
-response_builder_settingsupdated === Awọn eto Akole ti ni imudojuiwọn!
 response_theme_updated === Awọn eto akori imudojuiwọn!
 response_system_settingsupdated === Eto eto imudojuiwọn!
 response_deleted_sent === Ifiranṣẹ ti a firanṣẹ ti paarẹ!
@@ -937,7 +932,6 @@ modal_adddevice_title === Fi ẹrọ kun
 modal_addkey_title === Ṣafikun bọtini API
 modal_editkey_title === Ṣatunkọ API Key
 modal_edithook_title === Ṣatunkọ Webhook
-modal_buildersettings_title === Akole Eto
 modal_themesettings_title === Awọn Eto Akori
 modal_systemsettings_title === Eto Eto
 modal_adduser_title === Fi olumulo kun
@@ -1032,12 +1026,6 @@ form_widgetcenter === Aarin
 form_widgetleft === Osi
 form_widgetright === Ọtun
 form_widgetcontent === Akoonu
-form_builderpackagename === Orukọ Package
-form_builderappname === App Name
-form_builderappdesc === App Apejuwe
-form_builderappdesc_placeholder === Eleyi jẹ ẹya oniyi app
-form_builderapplogo === App Logo
-form_builderappsplash === App Splashscreen
 form_uploaded === Àwọn
 form_notuploaded === Ko si
 form_themebg === Awọ abẹlẹ
@@ -1117,7 +1105,6 @@ recaptcha_add_keys === Jọwọ ṣafikun awọn bọtini recaptcha lati mu ẹy
 pay_with_paypal === Sanwo pẹlu PayPal
 pay_with_mollie === Sanwo pẹlu Mollie
 form_settingsenabledproviders === Ṣiṣẹ Awọn olupese
-form_builderappicon === Aami App
 payment_transact_failed === Iṣowo owo kuna!
 cookieconsent_message === A nlo awọn kuki lati rii daju pe o ni iriri ti o dara julọ lori oju opo wẹẹbu wa.
 cookieconsent_link === Kọ ẹkọ diẹ si
@@ -1186,7 +1173,6 @@ table_action_name === Oruko
 form_scheduled_title === SMS iṣeto
 response_scheduled_deleted === Ifiranṣẹ iṣeto ti paarẹ!
 response_no_permission === O ko ni igbanilaaye fun igbese yii!
-response_builder_appiconfail === Aami App ko le ṣe igbasilẹ!
 form_require_login === Beere Wọle
 widget_addpage_title === Fi Oju-iwe kun
 widget_editpage_title === Oju-iwe Ṣatunkọ

@@ -898,11 +898,6 @@ response_user_updated === ผู้ใช้ได้รับการปรั
 response_package_updated === อัพเดทแพ็คเกจแล้ว!
 response_widget_updated === วิดเจ็ตได้รับการอัปเดตแล้ว!
 response_language_updated === ภาษาได้รับการปรับปรุง!
-response_builder_packagenameshort === ชื่อแพ็คเกจสั้นเกินไป!
-response_builder_appnameshort === ชื่อแอปสั้นเกินไป!
-response_builder_applogofail === ไม่สามารถอัปโหลดโลโก้แอปได้!
-response_builder_appsplashfail === ไม่สามารถอัปโหลด App splash!
-response_builder_settingsupdated === อัปเดตการตั้งค่าตัวสร้างแล้ว!
 response_theme_updated === อัปเดตการตั้งค่าธีมแล้ว!
 response_system_settingsupdated === อัปเดตการตั้งค่าระบบแล้ว!
 response_deleted_sent === ข้อความที่ส่งถูกลบไปแล้ว!
@@ -937,7 +932,6 @@ modal_adddevice_title === เพิ่มอุปกรณ์
 modal_addkey_title === เพิ่มคีย์ API
 modal_editkey_title === แก้ไขคีย์ API
 modal_edithook_title === แก้ไขเว็บฮุค
-modal_buildersettings_title === การตั้งค่าตัวสร้าง
 modal_themesettings_title === การตั้งค่าธีม
 modal_systemsettings_title === การตั้งค่าระบบ
 modal_adduser_title === เพิ่มผู้ใช้
@@ -1032,12 +1026,6 @@ form_widgetcenter === ศูนย์กลาง
 form_widgetleft === ซ้าย
 form_widgetright === ถูกต้อง
 form_widgetcontent === เนื้อหา
-form_builderpackagename === ชื่อแพ็คเกจ
-form_builderappname === ชื่อแอป
-form_builderappdesc === คำอธิบายแอป
-form_builderappdesc_placeholder === นี่เป็นแอพที่ยอดเยี่ยม
-form_builderapplogo === โลโก้แอพ
-form_builderappsplash === หน้าจอสแปลชของแอป
 form_uploaded === อัพโหลดแล้ว
 form_notuploaded === ไม่มี
 form_themebg === สีพื้นหลัง
@@ -1117,7 +1105,6 @@ recaptcha_add_keys === โปรดเพิ่มคีย์ recaptcha ขอ�
 pay_with_paypal === ชำระเงินด้วย Paypal
 pay_with_mollie === ชำระเงินกับมอลลี่
 form_settingsenabledproviders === ผู้ให้บริการที่เปิดใช้งาน
-form_builderappicon === ไอคอนแอพ
 payment_transact_failed === ธุรกรรมการชำระเงินล้มเหลว!
 cookieconsent_message === เราใช้คุกกี้เพื่อให้แน่ใจว่าคุณได้รับประสบการณ์ที่ดีที่สุดบนเว็บไซต์ของเรา
 cookieconsent_link === เรียนรู้เพิ่มเติม
@@ -1186,7 +1173,6 @@ table_action_name === ชื่อ
 form_scheduled_title === กำหนดการ SMS
 response_scheduled_deleted === ข้อความตามกำหนดการถูกลบไปแล้ว!
 response_no_permission === คุณไม่ได้รับอนุญาตให้ดำเนินการนี้!
-response_builder_appiconfail === ไม่สามารถอัปโหลดไอคอนแอปได้!
 form_require_login === ต้องเข้าสู่ระบบ
 widget_addpage_title === เพิ่มหน้า
 widget_editpage_title === แก้ไขหน้า

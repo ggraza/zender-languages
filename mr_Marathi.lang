@@ -898,11 +898,6 @@ response_user_updated === वापरकर्ता अद्यतनित �
 response_package_updated === पॅकेज अद्यतनित केले गेले आहे!
 response_widget_updated === विजेट अद्यतनित केले गेले आहे!
 response_language_updated === भाषा अद्यतनित केली गेली आहे!
-response_builder_packagenameshort === पॅकेजचे नाव खूपच लहान आहे!
-response_builder_appnameshort === अॅपचे नाव खूपच लहान आहे!
-response_builder_applogofail === अॅप लोगो अपलोड केला जाऊ शकत नाही!
-response_builder_appsplashfail === अॅप स्प्लॅश अपलोड केला जाऊ शकत नाही!
-response_builder_settingsupdated === बिल्डर सेटिंग्ज अपडेट!
 response_theme_updated === थीम सेटिंग्ज अद्यतनित!
 response_system_settingsupdated === सिस्टम सेटिंग्ज अपडेट केल्या!
 response_deleted_sent === पाठवलेला संदेश हटवला गेला आहे!
@@ -937,7 +932,6 @@ modal_adddevice_title === डिव्हाइस जोडा
 modal_addkey_title === API की जोडा
 modal_editkey_title === API की संपादित करा
 modal_edithook_title === वेबहुक संपादित करा
-modal_buildersettings_title === बिल्डर सेटिंग्ज
 modal_themesettings_title === थीम सेटिंग्ज
 modal_systemsettings_title === प्रणाली संयोजना
 modal_adduser_title === वापरकर्ता जोडा
@@ -1032,12 +1026,6 @@ form_widgetcenter === केंद्र
 form_widgetleft === डावीकडे
 form_widgetright === बरोबर
 form_widgetcontent === सामग्री
-form_builderpackagename === पॅकेजचे नाव
-form_builderappname === अॅपचे नाव
-form_builderappdesc === अॅप वर्णन
-form_builderappdesc_placeholder === हे एक छान अॅप आहे
-form_builderapplogo === अॅप लोगो
-form_builderappsplash === अॅप स्प्लॅशस्क्रीन
 form_uploaded === अपलोड केले
 form_notuploaded === काहीही नाही
 form_themebg === पार्श्वभूमी रंग
@@ -1117,7 +1105,6 @@ recaptcha_add_keys === हे वैशिष्ट्य सक्षम कर
 pay_with_paypal === Paypal सह पैसे द्या
 pay_with_mollie === मोलीसह पैसे द्या
 form_settingsenabledproviders === सक्षम प्रदाता
-form_builderappicon === अॅप चिन्ह
 payment_transact_failed === पेमेंट व्यवहार अयशस्वी!
 cookieconsent_message === तुम्हाला आमच्या वेबसाइटवर सर्वोत्तम अनुभव मिळत असल्याची खात्री करण्यासाठी आम्ही कुकीज वापरत आहोत.
 cookieconsent_link === अधिक जाणून घ्या
@@ -1186,7 +1173,6 @@ table_action_name === नाव
 form_scheduled_title === एसएमएस शेड्यूल करा
 response_scheduled_deleted === शेड्यूल केलेला संदेश हटवला गेला आहे!
 response_no_permission === तुम्हाला या क्रियेसाठी परवानगी नाही!
-response_builder_appiconfail === अॅप चिन्ह अपलोड केले जाऊ शकत नाही!
 form_require_login === लॉगिन आवश्यक आहे
 widget_addpage_title === पृष्ठ जोडा
 widget_editpage_title === पृष्ठ संपादित करा

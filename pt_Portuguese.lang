@@ -898,11 +898,6 @@ response_user_updated === O usuário foi atualizado!
 response_package_updated === O pacote foi atualizado!
 response_widget_updated === O widget foi atualizado!
 response_language_updated === O idioma foi atualizado!
-response_builder_packagenameshort === O nome do pacote é muito curto!
-response_builder_appnameshort === O nome do aplicativo é muito curto!
-response_builder_applogofail === O logotipo do aplicativo não pode ser carregado!
-response_builder_appsplashfail === O splash do aplicativo não pode ser carregado!
-response_builder_settingsupdated === Configurações do construtor atualizadas!
 response_theme_updated === Configurações do tema atualizadas!
 response_system_settingsupdated === Configurações do sistema atualizadas!
 response_deleted_sent === A mensagem enviada foi excluída!
@@ -937,7 +932,6 @@ modal_adddevice_title === Adicionar Dispositivo
 modal_addkey_title === Adicionar chave de API
 modal_editkey_title === Editar chave de API
 modal_edithook_title === Editar webhook
-modal_buildersettings_title === Configurações do Construtor
 modal_themesettings_title === Configurações de tema
 modal_systemsettings_title === Configurações de sistema
 modal_adduser_title === Adicionar usuário
@@ -1032,12 +1026,6 @@ form_widgetcenter === Centro
 form_widgetleft === Deixei
 form_widgetright === Certo
 form_widgetcontent === Contente
-form_builderpackagename === Nome do pacote
-form_builderappname === Nome do aplicativo
-form_builderappdesc === Descrição do aplicativo
-form_builderappdesc_placeholder === Este é um aplicativo incrível
-form_builderapplogo === Logotipo do aplicativo
-form_builderappsplash === Tela inicial do aplicativo
 form_uploaded === Carregado
 form_notuploaded === Nenhum
 form_themebg === Cor de fundo
@@ -1117,7 +1105,6 @@ recaptcha_add_keys === Por favor, adicione suas chaves recaptcha para habilitar 
 pay_with_paypal === Pague com Paypal
 pay_with_mollie === Pague com Molly
 form_settingsenabledproviders === Provedores habilitados
-form_builderappicon === Ícone do aplicativo
 payment_transact_failed === Falha na transação de pagamento!
 cookieconsent_message === Estamos usando cookies para garantir que você tenha a melhor experiência em nosso site.
 cookieconsent_link === Saber mais
@@ -1186,7 +1173,6 @@ table_action_name === Nome
 form_scheduled_title === Agendar SMS
 response_scheduled_deleted === A mensagem agendada foi excluída!
 response_no_permission === Você não tem permissão para esta ação!
-response_builder_appiconfail === O ícone do aplicativo não pode ser carregado!
 form_require_login === Exigir login
 widget_addpage_title === Adicionar Página
 widget_editpage_title === Editar Página
