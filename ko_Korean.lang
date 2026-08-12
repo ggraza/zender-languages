@@ -2961,3 +2961,12 @@ response_realtime_testok === 실시간 연결에 성공했습니다!
 response_realtime_testfailed === 실시간 연결에 실패했습니다. 자격 증명과 서버 주소를 확인하세요.
 device_pair_invalidtoken === 이 페어링 코드는 만료되었거나 이미 사용되었습니다. 새 코드를 받으려면 사이트에서 "기기 추가"를 다시 여세요.
 admin_gateway_googlepackage === Firebase 프로젝트에 패키지 이름 dev.titansys.smsgateway 인 Android 앱을 등록한 뒤, 생성된 google-services.json 파일을 업로드하세요.
+provider_field_label === 공급자
+provider_field_help === Zender에 기본 포함된 공급자를 선택하거나, 공급자 저장소에서 매니페스트를 붙여넣으세요. 공급자는 JSON 매니페스트이며 -- 원시 PHP 컨트롤러는 더 이상 허용되지 않습니다.
+provider_choose === -- 공급자 선택 --
+provider_custom === 사용자 정의 (매니페스트 붙여넣기)
+provider_repository_hint === 추가 공급자:
+provider_credentials_label === 공급자 자격 증명
+provider_manifest_label === 매니페스트 (JSON)
+provider_manifest_help === 여기에 공급자의 .json 매니페스트를 붙여넣으세요. 공급자 저장소에서 다운로드하거나, boilerplate.json을 사용하여 직접 작성하세요.
+provider_manifest_unreadable === 이 공급자를 읽을 수 없습니다. 다른 공급자를 선택하거나, 매니페스트를 수동으로 붙여넣으세요.

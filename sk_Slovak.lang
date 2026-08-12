@@ -2961,3 +2961,12 @@ response_realtime_testok === Pripojenie v reálnom čase je úspešné!
 response_realtime_testfailed === Pripojenie v reálnom čase zlyhalo. Skontrolujte údaje a adresu servera.
 device_pair_invalidtoken === Tento párovací kód vypršal alebo už bol použitý. Znova otvorte „Pridať zariadenie“ na svojej stránke a získajte nový kód.
 admin_gateway_googlepackage === Zaregistrujte aplikáciu Android s názvom balíka dev.titansys.smsgateway vo svojom projekte Firebase a nahrajte vygenerovaný súbor google-services.json.
+provider_field_label === Poskytovateľ
+provider_field_help === Vyberte poskytovateľa, ktorý je súčasťou Zender, alebo vložte manifest z repozitára poskytovateľov. Poskytovatelia sú JSON manifesty -- surové PHP kontroléry sa už neprijímajú.
+provider_choose === -- Vyberte poskytovateľa --
+provider_custom === Vlastný (vložiť manifest)
+provider_repository_hint === Ďalší poskytovatelia:
+provider_credentials_label === Prihlasovacie údaje poskytovateľa
+provider_manifest_label === Manifest (JSON)
+provider_manifest_help === Sem vložte .json manifest poskytovateľa. Stiahnite si ho z repozitára poskytovateľov, alebo si napíšte vlastný pomocou boilerplate.json.
+provider_manifest_unreadable === Tohto poskytovateľa sa nepodarilo načítať. Vyberte iného, alebo vložte jeho manifest manuálne.

@@ -2961,3 +2961,12 @@ response_realtime_testok === Njikọ ozugbo gara nke ọma!
 response_realtime_testfailed === Njikọ ozugbo dara. Lelee nzere na adreesi ihe nkesa.
 device_pair_invalidtoken === Koodu njikọ a agwụla ma ọ bụ ejirila ya. Meghee "Tinye ngwaọrụ" na saịtị gị ọzọ maka koodu ọhụrụ.
 admin_gateway_googlepackage === Debanye aha ngwa Android nwere aha ngwugwu dev.titansys.smsgateway na ọrụ Firebase gị, wee bulite faịlụ google-services.json e mepụtara.
+provider_field_label === Onye na-enye
+provider_field_help === Họrọ onye na-enye Zender bu na ya, ma ọ bụ tinye manifest si ebe nchekwa ndị na-enye. Ndị na-enye bụ manifest JSON -- anaghị anabata PHP controller ọzọ.
+provider_choose === -- Họrọ onye na-enye --
+provider_custom === Nke gị (tinye manifest)
+provider_repository_hint === Ndị na-enye ọzọ:
+provider_credentials_label === Nzere onye na-enye
+provider_manifest_label === Manifest (JSON)
+provider_manifest_help === Tinye manifest .json nke onye na-enye ebe a. Budata ya na ebe nchekwa ndị na-enye, ma ọ bụ dee nke gị site na iji boilerplate.json.
+provider_manifest_unreadable === A pụghị ịgụ onye na-enye a. Họrọ ọzọ, ma ọ bụ tinye manifest ya n'aka.

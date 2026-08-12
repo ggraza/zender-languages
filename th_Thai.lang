@@ -2961,3 +2961,12 @@ response_realtime_testok === เชื่อมต่อแบบเรียล
 response_realtime_testfailed === การเชื่อมต่อแบบเรียลไทม์ล้มเหลว ตรวจสอบข้อมูลรับรองและที่อยู่เซิร์ฟเวอร์
 device_pair_invalidtoken === รหัสจับคู่นี้หมดอายุหรือถูกใช้ไปแล้ว เปิด "เพิ่มอุปกรณ์" บนเว็บไซต์ของคุณอีกครั้งเพื่อรับรหัสใหม่
 admin_gateway_googlepackage === ลงทะเบียนแอป Android ด้วยชื่อแพ็กเกจ dev.titansys.smsgateway ในโปรเจกต์ Firebase ของคุณ แล้วอัปโหลดไฟล์ google-services.json ที่สร้างขึ้น
+provider_field_label === ผู้ให้บริการ
+provider_field_help === เลือกผู้ให้บริการที่มาพร้อมกับ Zender หรือวาง manifest จากที่เก็บผู้ให้บริการ ผู้ให้บริการคือ manifest แบบ JSON -- ไม่รับตัวควบคุม PHP แบบดิบอีกต่อไป
+provider_choose === -- เลือกผู้ให้บริการ --
+provider_custom === กำหนดเอง (วาง manifest)
+provider_repository_hint === ผู้ให้บริการเพิ่มเติม:
+provider_credentials_label === ข้อมูลรับรองผู้ให้บริการ
+provider_manifest_label === Manifest (JSON)
+provider_manifest_help === วางไฟล์ manifest .json ของผู้ให้บริการที่นี่ ดาวน์โหลดจากที่เก็บผู้ให้บริการ หรือเขียนของคุณเองโดยใช้ boilerplate.json
+provider_manifest_unreadable === ไม่สามารถอ่านผู้ให้บริการรายนี้ได้ เลือกรายอื่น หรือวาง manifest ด้วยตนเอง

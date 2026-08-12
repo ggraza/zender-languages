@@ -2961,3 +2961,12 @@ response_realtime_testok === Koneksi waktu nyata berhasil!
 response_realtime_testfailed === Koneksi waktu nyata gagal. Periksa kredensial dan URL server.
 device_pair_invalidtoken === Kode penyandingan ini sudah kedaluwarsa atau telah digunakan. Buka "Tambahkan Perangkat" lagi di situs Anda untuk mendapatkan kode baru.
 admin_gateway_googlepackage === Daftarkan aplikasi Android dengan nama paket dev.titansys.smsgateway di proyek Firebase Anda, lalu unggah file google-services.json yang dihasilkan.
+provider_field_label === Penyedia
+provider_field_help === Pilih penyedia yang sudah disertakan Zender, atau tempel manifest dari repositori penyedia. Penyedia berupa manifest JSON -- pengontrol PHP mentah tidak lagi diterima.
+provider_choose === -- Pilih penyedia --
+provider_custom === Kustom (tempel manifest)
+provider_repository_hint === Penyedia lainnya:
+provider_credentials_label === Kredensial penyedia
+provider_manifest_label === Manifest (JSON)
+provider_manifest_help === Tempel manifest .json penyedia di sini. Unduh dari repositori penyedia, atau tulis sendiri menggunakan boilerplate.json.
+provider_manifest_unreadable === Penyedia ini tidak dapat dibaca. Pilih yang lain, atau tempel manifestnya secara manual.

@@ -2961,3 +2961,12 @@ response_realtime_testok === نجح الاتصال الفوري!
 response_realtime_testfailed === فشل الاتصال الفوري. تحقق من بيانات الاعتماد ورابط الخادم.
 device_pair_invalidtoken === انتهت صلاحية رمز الاقتران هذا أو تم استخدامه بالفعل. افتح "اضف جهاز" في موقعك مرة أخرى للحصول على رمز جديد.
 admin_gateway_googlepackage === أنشئ تطبيق أندرويد باسم الحزمة dev.titansys.smsgateway في مشروع Firebase الخاص بك، ثم ارفع ملف google-services.json الناتج.
+provider_field_label === مزود
+provider_field_help === اختر مزودًا مضمّنًا مسبقًا مع Zender، أو الصق ملف مانيفست من مستودع المزودين. المزودون عبارة عن ملفات مانيفست بصيغة JSON -- لم تعد وحدات التحكم الخام بلغة PHP مقبولة.
+provider_choose === -- اختر مزودًا --
+provider_custom === مخصص (الصق ملف مانيفست)
+provider_repository_hint === المزيد من المزودين:
+provider_credentials_label === بيانات اعتماد المزود
+provider_manifest_label === مانيفست (JSON)
+provider_manifest_help === الصق ملف مانيفست ‎.json الخاص بالمزود هنا. حمّله من مستودع المزودين، أو أنشئ ملفك الخاص باستخدام boilerplate.json.
+provider_manifest_unreadable === تعذّر قراءة هذا المزود. اختر مزودًا آخر، أو الصق ملف المانيفست الخاص به يدويًا.

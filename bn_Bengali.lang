@@ -2961,3 +2961,12 @@ response_realtime_testok === রিয়েলটাইম সংযোগ স�
 response_realtime_testfailed === রিয়েলটাইম সংযোগ ব্যর্থ হয়েছে। শংসাপত্র ও সার্ভার ঠিকানা যাচাই করুন।
 device_pair_invalidtoken === এই পেয়ারিং কোডের মেয়াদ শেষ হয়ে গেছে বা এটি ইতিমধ্যে ব্যবহৃত হয়েছে। নতুন কোডের জন্য আপনার সাইটে আবার "যন্ত্র সংযুক্ত করুন" খুলুন।
 admin_gateway_googlepackage === আপনার Firebase প্রকল্পে dev.titansys.smsgateway প্যাকেজ নামে একটি অ্যান্ড্রয়েড অ্যাপ নিবন্ধন করুন, তারপর তৈরি হওয়া google-services.json ফাইলটি আপলোড করুন।
+provider_field_label === প্রদানকারী
+provider_field_help === Zender-এর সাথে থাকা কোনো প্রদানকারী বেছে নিন, অথবা প্রদানকারী রিপোজিটরি থেকে একটি ম্যানিফেস্ট পেস্ট করুন। প্রদানকারীরা হলো JSON ম্যানিফেস্ট -- raw PHP কন্ট্রোলার আর গ্রহণ করা হয় না।
+provider_choose === -- একটি প্রদানকারী বেছে নিন --
+provider_custom === কাস্টম (একটি ম্যানিফেস্ট পেস্ট করুন)
+provider_repository_hint === আরও প্রদানকারী:
+provider_credentials_label === প্রদানকারীর শংসাপত্র
+provider_manifest_label === ম্যানিফেস্ট (JSON)
+provider_manifest_help === এখানে প্রদানকারীর .json ম্যানিফেস্ট পেস্ট করুন। প্রদানকারী রিপোজিটরি থেকে এটি ডাউনলোড করুন, অথবা boilerplate.json ব্যবহার করে নিজেরটি লিখুন।
+provider_manifest_unreadable === এই প্রদানকারীকে পড়া যায়নি। অন্যটি বেছে নিন, অথবা এর ম্যানিফেস্ট ম্যানুয়ালি পেস্ট করুন।

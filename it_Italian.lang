@@ -2961,3 +2961,12 @@ response_realtime_testok === Connessione in tempo reale riuscita!
 response_realtime_testfailed === Connessione in tempo reale non riuscita. Controlla le credenziali e l'URL del server.
 device_pair_invalidtoken === Questo codice di associazione è scaduto o è già stato utilizzato. Apri di nuovo «Aggiungi dispositivo» sul tuo sito per ottenere un nuovo codice.
 admin_gateway_googlepackage === Registra un'app Android con il nome pacchetto dev.titansys.smsgateway nel tuo progetto Firebase, poi carica il file google-services.json generato.
+provider_field_label === Fornitore
+provider_field_help === Seleziona un fornitore già incluso in Zender, oppure incolla un manifest dal repository dei fornitori. I fornitori sono manifest JSON -- i controller PHP grezzi non sono più accettati.
+provider_choose === -- Seleziona un fornitore --
+provider_custom === Personalizzato (incolla un manifest)
+provider_repository_hint === Altri fornitori:
+provider_credentials_label === Credenziali del fornitore
+provider_manifest_label === Manifest (JSON)
+provider_manifest_help === Incolla qui il manifest .json del fornitore. Scaricalo dal repository dei fornitori, oppure scrivi il tuo usando boilerplate.json.
+provider_manifest_unreadable === Impossibile leggere questo fornitore. Selezionane un altro, oppure incolla manualmente il suo manifest.

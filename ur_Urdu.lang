@@ -2961,3 +2961,12 @@ response_realtime_testok === فوری کنکشن کامیاب رہا!
 response_realtime_testfailed === فوری کنکشن ناکام۔ اسناد اور سرور کا پتہ جانچیں۔
 device_pair_invalidtoken === یہ پیئرنگ کوڈ ختم ہو چکا ہے یا پہلے ہی استعمال ہو چکا ہے۔ نیا کوڈ حاصل کرنے کے لیے اپنی سائٹ پر دوبارہ "ڈیوائس شامل کریں۔" کھولیں۔
 admin_gateway_googlepackage === اپنے Firebase پروجیکٹ میں پیکیج نام dev.titansys.smsgateway کے ساتھ ایک اینڈرائیڈ ایپ رجسٹر کریں، پھر بننے والی google-services.json فائل اپ لوڈ کریں۔
+provider_field_label === فراہم کنندہ
+provider_field_help === ایک فراہم کنندہ منتخب کریں جو Zender کے ساتھ پہلے سے شامل ہے، یا فراہم کنندگان کے ذخیرے سے ایک مینی فیسٹ پیسٹ کریں۔ فراہم کنندگان JSON مینی فیسٹ ہوتے ہیں -- اب خام PHP کنٹرولرز قبول نہیں کیے جاتے۔
+provider_choose === -- ایک فراہم کنندہ منتخب کریں --
+provider_custom === حسب ضرورت (ایک مینی فیسٹ پیسٹ کریں)
+provider_repository_hint === مزید فراہم کنندگان:
+provider_credentials_label === فراہم کنندہ کی اسناد
+provider_manifest_label === مینی فیسٹ (JSON)
+provider_manifest_help === یہاں فراہم کنندہ کا .json مینی فیسٹ پیسٹ کریں۔ اسے فراہم کنندگان کے ذخیرے سے ڈاؤن لوڈ کریں، یا boilerplate.json استعمال کرتے ہوئے اپنا خود لکھیں۔
+provider_manifest_unreadable === یہ فراہم کنندہ پڑھا نہیں جا سکا۔ کوئی دوسرا منتخب کریں، یا اس کا مینی فیسٹ دستی طور پر پیسٹ کریں۔

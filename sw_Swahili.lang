@@ -2961,3 +2961,12 @@ response_realtime_testok === Muunganisho wa papo hapo umefaulu!
 response_realtime_testfailed === Muunganisho wa papo hapo umeshindwa. Angalia vitambulisho na anwani ya seva.
 device_pair_invalidtoken === Msimbo huu wa kuoanisha umeisha muda au tayari umetumika. Fungua "Ongeza Kifaa" kwenye tovuti yako tena ili kupata msimbo mpya.
 admin_gateway_googlepackage === Sajili programu ya Android yenye jina la kifurushi dev.titansys.smsgateway katika mradi wako wa Firebase, kisha upakie faili la google-services.json linalotengenezwa.
+provider_field_label === Mtoa huduma
+provider_field_help === Chagua mtoa huduma anayekuja na Zender, au bandika manifest kutoka hifadhi ya watoa huduma. Watoa huduma ni manifest za JSON -- vidhibiti ghafi vya PHP havikubaliwi tena.
+provider_choose === -- Chagua mtoa huduma --
+provider_custom === Maalum (bandika manifest)
+provider_repository_hint === Watoa huduma zaidi:
+provider_credentials_label === Vitambulisho vya mtoa huduma
+provider_manifest_label === Manifest (JSON)
+provider_manifest_help === Bandika manifest ya .json ya mtoa huduma hapa. Pakua kutoka hifadhi ya watoa huduma, au andika yako mwenyewe ukitumia boilerplate.json.
+provider_manifest_unreadable === Mtoa huduma huyu hakuweza kusomwa. Chagua mwingine, au bandika manifest yake mwenyewe.

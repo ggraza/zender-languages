@@ -2961,3 +2961,12 @@ response_realtime_testok === Isopo akoko gidi yori si rere!
 response_realtime_testfailed === Isopo akoko gidi kuna. Yewo awon iwe eri ati adiresi olupese.
 device_pair_invalidtoken === Kóòdù ìsopọ̀ yìí ti pé tàbí a ti lò ó tẹ́lẹ̀. Ṣí "Fi ẹrọ kun" lórí ojúlé rẹ lẹ́ẹ̀kansí fún kóòdù tuntun.
 admin_gateway_googlepackage === Forúkọsílẹ̀ ohun-èlò Android pẹ̀lú orúkọ package dev.titansys.smsgateway nínú iṣẹ́ Firebase rẹ, kí o sì gbé fáìlì google-services.json tí a ṣẹ̀dá sókè.
+provider_field_label === Olupese
+provider_field_help === Yan olupese kan tí Zender ti wá pẹlu, tàbí lẹ̀ mọ́ manifest kan láti ilé-ìpamọ́ olùpèsè. Àwọn olùpèsè jẹ́ manifest JSON -- a kò gba PHP controller àdánidá mọ́.
+provider_choose === -- Yan olupese kan --
+provider_custom === Tirẹ (lẹ̀ mọ́ manifest kan)
+provider_repository_hint === Awọn olupese síwájú sí i:
+provider_credentials_label === Ìwé-ẹ̀rí olùpèsè
+provider_manifest_label === Manifest (JSON)
+provider_manifest_help === Lẹ̀ mọ́ manifest .json olùpèsè níbí. Gbà á sílẹ̀ láti ilé-ìpamọ́ olùpèsè, tàbí kọ tìrẹ ní lílo boilerplate.json.
+provider_manifest_unreadable === A kò lè ka olùpèsè yìí. Yan òmíràn, tàbí lẹ̀ mọ́ manifest rẹ̀ fúnra rẹ.

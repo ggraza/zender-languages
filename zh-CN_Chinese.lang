@@ -2961,3 +2961,12 @@ response_realtime_testok === 实时连接成功！
 response_realtime_testfailed === 实时连接失败。请检查凭据和服务器地址。
 device_pair_invalidtoken === 此配对码已过期或已被使用。请在您的网站上重新打开“添加设备”以获取新的配对码。
 admin_gateway_googlepackage === 在您的 Firebase 项目中注册一个包名为 dev.titansys.smsgateway 的 Android 应用，然后上传生成的 google-services.json 文件。
+provider_field_label === 提供者
+provider_field_help === 选择 Zender 自带的提供者，或从提供者仓库粘贴一个清单。提供者是 JSON 清单 -- 不再接受原始 PHP 控制器。
+provider_choose === -- 选择提供者 --
+provider_custom === 自定义（粘贴清单）
+provider_repository_hint === 更多提供者：
+provider_credentials_label === 提供者凭据
+provider_manifest_label === 清单（JSON）
+provider_manifest_help === 在此粘贴提供者的 .json 清单。从提供者仓库下载，或使用 boilerplate.json 自行编写。
+provider_manifest_unreadable === 无法读取该提供者。请选择另一个，或手动粘贴其清单。

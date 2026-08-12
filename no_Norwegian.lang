@@ -2961,3 +2961,12 @@ response_realtime_testok === Sanntidstilkoblingen lyktes!
 response_realtime_testfailed === Sanntidstilkoblingen mislyktes. Kontroller legitimasjonen og server-URL-en.
 device_pair_invalidtoken === Denne paringskoden er utløpt eller allerede brukt. Åpne «Legg til enhet» på nettstedet ditt på nytt for å få en ny kode.
 admin_gateway_googlepackage === Registrer en Android-app med pakkenavnet dev.titansys.smsgateway i Firebase-prosjektet ditt, og last opp google-services.json-filen som genereres.
+provider_field_label === Leverandør
+provider_field_help === Velg en leverandør som følger med Zender, eller lim inn et manifest fra leverandørrepositoriet. Leverandører er JSON-manifester -- rå PHP-kontrollere godtas ikke lenger.
+provider_choose === -- Velg en leverandør --
+provider_custom === Egendefinert (lim inn et manifest)
+provider_repository_hint === Flere leverandører:
+provider_credentials_label === Leverandørens legitimasjon
+provider_manifest_label === Manifest (JSON)
+provider_manifest_help === Lim inn leverandørens .json-manifest her. Last det ned fra leverandørrepositoriet, eller skriv ditt eget med boilerplate.json.
+provider_manifest_unreadable === Denne leverandøren kunne ikke leses. Velg en annen, eller lim inn manifestet manuelt.

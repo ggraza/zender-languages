@@ -2961,3 +2961,12 @@ response_realtime_testok === リアルタイム接続に成功しました。
 response_realtime_testfailed === リアルタイム接続に失敗しました。認証情報とサーバー URL を確認してください。
 device_pair_invalidtoken === このペアリングコードは有効期限が切れているか、すでに使用されています。新しいコードを取得するには、サイトで「デバイスを追加」をもう一度開いてください。
 admin_gateway_googlepackage === Firebase プロジェクトにパッケージ名 dev.titansys.smsgateway の Android アプリを登録し、生成された google-services.json をアップロードしてください。
+provider_field_label === プロバイダー
+provider_field_help === Zender に同梱されているプロバイダーを選択するか、プロバイダーリポジトリからマニフェストを貼り付けてください。プロバイダーはJSONマニフェストです -- 生のPHPコントローラーは受け付けなくなりました。
+provider_choose === -- プロバイダーを選択 --
+provider_custom === カスタム（マニフェストを貼り付け）
+provider_repository_hint === その他のプロバイダー：
+provider_credentials_label === プロバイダーの認証情報
+provider_manifest_label === マニフェスト（JSON）
+provider_manifest_help === ここにプロバイダーの.jsonマニフェストを貼り付けてください。プロバイダーリポジトリからダウンロードするか、boilerplate.jsonを使って自分で作成してください。
+provider_manifest_unreadable === このプロバイダーは読み込めませんでした。別のプロバイダーを選択するか、マニフェストを手動で貼り付けてください。

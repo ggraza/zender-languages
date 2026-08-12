@@ -2961,3 +2961,12 @@ response_realtime_testok === रिअल-टाइम जोडणी यशस
 response_realtime_testfailed === रिअल-टाइम जोडणी अयशस्वी. क्रेडेन्शियल्स आणि सर्व्हर पत्ता तपासा.
 device_pair_invalidtoken === हा पेअरिंग कोड कालबाह्य झाला आहे किंवा आधीच वापरला गेला आहे. नवीन कोडसाठी तुमच्या साइटवर पुन्हा "डिव्हाइस जोडा" उघडा.
 admin_gateway_googlepackage === तुमच्या Firebase प्रकल्पात dev.titansys.smsgateway या पॅकेज नावाने Android ॲप नोंदवा, आणि तयार झालेली google-services.json फाइल अपलोड करा.
+provider_field_label === प्रदाता
+provider_field_help === Zender सोबत आधीच समाविष्ट असलेला प्रदाता निवडा, किंवा प्रदाता रिपॉझिटरीमधून मॅनिफेस्ट पेस्ट करा. प्रदाते हे JSON मॅनिफेस्ट असतात -- कच्चे PHP कंट्रोलर्स आता स्वीकारले जात नाहीत.
+provider_choose === -- प्रदाता निवडा --
+provider_custom === सानुकूल (मॅनिफेस्ट पेस्ट करा)
+provider_repository_hint === आणखी प्रदाते:
+provider_credentials_label === प्रदात्याचे क्रेडेन्शियल्स
+provider_manifest_label === मॅनिफेस्ट (JSON)
+provider_manifest_help === येथे प्रदात्याचे .json मॅनिफेस्ट पेस्ट करा. ते प्रदाता रिपॉझिटरीमधून डाउनलोड करा, किंवा boilerplate.json वापरून स्वतःचे लिहा.
+provider_manifest_unreadable === हा प्रदाता वाचता आला नाही. दुसरा निवडा, किंवा त्याचे मॅनिफेस्ट स्वहस्ते पेस्ट करा.

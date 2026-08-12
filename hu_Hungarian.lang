@@ -2961,3 +2961,12 @@ response_realtime_testok === A valós idejű kapcsolat sikeres!
 response_realtime_testfailed === A valós idejű kapcsolat sikertelen. Ellenőrizze a hitelesítő adatokat és a kiszolgáló címét.
 device_pair_invalidtoken === Ez a párosítási kód lejárt, vagy már felhasználták. Nyissa meg újra az „Eszköz hozzáadása” lehetőséget az oldalán egy új kódért.
 admin_gateway_googlepackage === Regisztráljon egy Android-alkalmazást dev.titansys.smsgateway csomagnévvel a Firebase-projektjében, majd töltse fel a létrejövő google-services.json fájlt.
+provider_field_label === Szolgáltató
+provider_field_help === Válasszon egy Zenderrel érkező szolgáltatót, vagy illesszen be egy manifestet a szolgáltatói tárolóból. A szolgáltatók JSON manifestek -- nyers PHP vezérlők többé nem fogadhatók el.
+provider_choose === -- Válasszon szolgáltatót --
+provider_custom === Egyedi (manifest beillesztése)
+provider_repository_hint === További szolgáltatók:
+provider_credentials_label === Szolgáltató hitelesítő adatai
+provider_manifest_label === Manifest (JSON)
+provider_manifest_help === Illessze be ide a szolgáltató .json manifestjét. Töltse le a szolgáltatói tárolóból, vagy írja meg a sajátját a boilerplate.json felhasználásával.
+provider_manifest_unreadable === Ez a szolgáltató nem volt olvasható. Válasszon másikat, vagy illessze be a manifestjét manuálisan.

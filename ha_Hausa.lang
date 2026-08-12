@@ -2961,3 +2961,12 @@ response_realtime_testok === Haduwa kai tsaye ta yi nasara!
 response_realtime_testfailed === Haduwa kai tsaye ta gaza. Ka duba bayanan shiga da adireshin uwar garke.
 device_pair_invalidtoken === Wannan lambar haɗin ta ƙare ko an riga an yi amfani da ita. Buɗe "Ƙara Na'ura" a shafinka kuma don samun sabuwar lamba.
 admin_gateway_googlepackage === Yi rijistar manhajar Android mai suna dev.titansys.smsgateway a aikin Firebase naka, sannan ka ɗora fayil ɗin google-services.json da aka samar.
+provider_field_label === Mai bayarwa
+provider_field_help === Zaɓi mai bayarwa da Zender ke zuwa da shi, ko manna manifest daga ma'ajiyar masu bayarwa. Masu bayarwa manifest ne na JSON -- ba a ƙara karɓar sarrafan PHP kai tsaye ba.
+provider_choose === -- Zaɓi mai bayarwa --
+provider_custom === Na musamman (manna manifest)
+provider_repository_hint === Ƙarin masu bayarwa:
+provider_credentials_label === Bayanan shiga na mai bayarwa
+provider_manifest_label === Manifest (JSON)
+provider_manifest_help === Manna manifest ɗin .json na mai bayarwa a nan. Sauke shi daga ma'ajiyar masu bayarwa, ko rubuta naka ta amfani da boilerplate.json.
+provider_manifest_unreadable === An kasa karanta wannan mai bayarwa. Zaɓi wani, ko manna manifest ɗinsa da hannu.

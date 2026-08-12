@@ -2961,3 +2961,12 @@ response_realtime_testok === החיבור בזמן אמת הצליח!
 response_realtime_testfailed === החיבור בזמן אמת נכשל. בדוק את פרטי הגישה ואת כתובת השרת.
 device_pair_invalidtoken === קוד ההתאמה פג או שכבר נעשה בו שימוש. פתח שוב את "הוסף מכשיר" באתר שלך כדי לקבל קוד חדש.
 admin_gateway_googlepackage === רשום אפליקציית אנדרואיד בשם החבילה dev.titansys.smsgateway בפרויקט ה-Firebase שלך, ולאחר מכן העלה את קובץ google-services.json שנוצר.
+provider_field_label === ספק
+provider_field_help === בחר ספק המגיע מובנה עם Zender, או הדבק מניפסט ממאגר הספקים. ספקים הם מניפסטים בפורמט JSON -- בקרי PHP גולמיים אינם מתקבלים עוד.
+provider_choose === -- בחר ספק --
+provider_custom === מותאם אישית (הדבקת מניפסט)
+provider_repository_hint === עוד ספקים:
+provider_credentials_label === פרטי גישה של הספק
+provider_manifest_label === מניפסט (JSON)
+provider_manifest_help === הדבק כאן את מניפסט ה-.json של הספק. הורד אותו ממאגר הספקים, או כתוב אחד משלך באמצעות boilerplate.json.
+provider_manifest_unreadable === לא ניתן היה לקרוא את הספק הזה. בחר ספק אחר, או הדבק את המניפסט שלו ידנית.

@@ -2961,3 +2961,12 @@ response_realtime_testok === Ligação em tempo real bem-sucedida!
 response_realtime_testfailed === A ligação em tempo real falhou. Verifique as credenciais e o URL do servidor.
 device_pair_invalidtoken === Este código de emparelhamento expirou ou já foi utilizado. Abra novamente "Adicionar Dispositivo" no seu site para obter um código novo.
 admin_gateway_googlepackage === Registe uma aplicação Android com o nome de pacote dev.titansys.smsgateway no seu projeto Firebase e carregue o ficheiro google-services.json gerado.
+provider_field_label === Provedor
+provider_field_help === Selecione um provedor que já vem com o Zender, ou cole um manifesto do repositório de provedores. Provedores são manifestos JSON -- controladores PHP brutos não são mais aceitos.
+provider_choose === -- Selecione um provedor --
+provider_custom === Personalizado (colar um manifesto)
+provider_repository_hint === Mais provedores:
+provider_credentials_label === Credenciais do provedor
+provider_manifest_label === Manifesto (JSON)
+provider_manifest_help === Cole aqui o manifesto .json do provedor. Baixe-o do repositório de provedores, ou escreva o seu usando boilerplate.json.
+provider_manifest_unreadable === Não foi possível ler esse provedor. Selecione outro, ou cole o manifesto manualmente.

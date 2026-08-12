@@ -2962,3 +2962,12 @@ response_realtime_testok === Realtime connection successful!
 response_realtime_testfailed === Realtime connection failed. Check the credentials and the server URL.
 device_pair_invalidtoken === This pairing code has expired or was already used. Open Add Device on your site again for a fresh code.
 admin_gateway_googlepackage === Register an Android app with package name dev.titansys.smsgateway in your Firebase project, then upload the google-services.json it generates.
+provider_field_label === Provider
+provider_field_help === Choose a provider Zender ships with, or paste a manifest from the provider repository. Providers are JSON manifests -- raw PHP controllers are no longer accepted.
+provider_choose === -- Choose a provider --
+provider_custom === Custom (paste a manifest)
+provider_repository_hint === More providers:
+provider_credentials_label === Provider credentials
+provider_manifest_label === Manifest (JSON)
+provider_manifest_help === Paste the provider's .json manifest here. Download it from the provider repository, or write your own using boilerplate.json.
+provider_manifest_unreadable === That provider could not be read. Choose another, or paste its manifest manually.

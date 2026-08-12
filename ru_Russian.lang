@@ -2961,3 +2961,12 @@ response_realtime_testok === Подключение в реальном врем
 response_realtime_testfailed === Не удалось подключиться. Проверьте учётные данные и адрес сервера.
 device_pair_invalidtoken === Этот код сопряжения истёк или уже был использован. Откройте «Добавить устройство» на сайте ещё раз, чтобы получить новый код.
 admin_gateway_googlepackage === Зарегистрируйте Android-приложение с именем пакета dev.titansys.smsgateway в вашем проекте Firebase и загрузите созданный файл google-services.json.
+provider_field_label === Провайдер
+provider_field_help === Выберите провайдера, поставляемого вместе с Zender, или вставьте манифест из репозитория провайдеров. Провайдеры — это манифесты в формате JSON -- необработанные PHP-контроллеры больше не принимаются.
+provider_choose === -- Выберите провайдера --
+provider_custom === Пользовательский (вставить манифест)
+provider_repository_hint === Больше провайдеров:
+provider_credentials_label === Учётные данные провайдера
+provider_manifest_label === Манифест (JSON)
+provider_manifest_help === Вставьте сюда .json манифест провайдера. Скачайте его из репозитория провайдеров, или напишите свой, используя boilerplate.json.
+provider_manifest_unreadable === Не удалось прочитать этого провайдера. Выберите другого, или вставьте его манифест вручную.

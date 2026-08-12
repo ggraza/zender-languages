@@ -2961,3 +2961,12 @@ response_realtime_testok === Веза у реалном времену је ус
 response_realtime_testfailed === Веза у реалном времену није успела. Проверите акредитиве и адресу сервера.
 device_pair_invalidtoken === Овај код за упаривање је истекао или је већ искоришћен. Поново отворите „Додај уређај“ на свом сајту за нови код.
 admin_gateway_googlepackage === Региструјте Android апликацију са називом пакета dev.titansys.smsgateway у свом Firebase пројекту, па отпремите генерисану google-services.json датотеку.
+provider_field_label === Провајдер
+provider_field_help === Изаберите провајдера који долази уз Zender, или налепите манифест из репозиторијума провајдера. Провајдери су JSON манифести -- сирови PHP контролери се више не прихватају.
+provider_choose === -- Изаберите провајдера --
+provider_custom === Прилагођено (налепите манифест)
+provider_repository_hint === Више провајдера:
+provider_credentials_label === Акредитиви провајдера
+provider_manifest_label === Манифест (JSON)
+provider_manifest_help === Овде налепите .json манифест провајдера. Преузмите га из репозиторијума провајдера, или напишите свој користећи boilerplate.json.
+provider_manifest_unreadable === Овај провајдер није могао бити прочитан. Изаберите другог, или ручно налепите његов манифест.

@@ -2961,3 +2961,12 @@ response_realtime_testok === Kết nối thời gian thực thành công!
 response_realtime_testfailed === Kết nối thời gian thực thất bại. Hãy kiểm tra thông tin đăng nhập và địa chỉ máy chủ.
 device_pair_invalidtoken === Mã ghép nối này đã hết hạn hoặc đã được sử dụng. Hãy mở lại "Thêm thiết bị" trên trang của bạn để lấy mã mới.
 admin_gateway_googlepackage === Đăng ký một ứng dụng Android với tên gói dev.titansys.smsgateway trong dự án Firebase của bạn, rồi tải lên tệp google-services.json được tạo ra.
+provider_field_label === Nhà cung cấp
+provider_field_help === Chọn một nhà cung cấp có sẵn trong Zender, hoặc dán một manifest từ kho lưu trữ nhà cung cấp. Nhà cung cấp là các manifest JSON -- các trình điều khiển PHP thô không còn được chấp nhận.
+provider_choose === -- Chọn một nhà cung cấp --
+provider_custom === Tùy chỉnh (dán một manifest)
+provider_repository_hint === Thêm nhà cung cấp:
+provider_credentials_label === Thông tin xác thực nhà cung cấp
+provider_manifest_label === Manifest (JSON)
+provider_manifest_help === Dán manifest .json của nhà cung cấp vào đây. Tải xuống từ kho lưu trữ nhà cung cấp, hoặc tự viết bằng boilerplate.json.
+provider_manifest_unreadable === Không thể đọc nhà cung cấp này. Chọn nhà cung cấp khác, hoặc dán manifest của nó theo cách thủ công.

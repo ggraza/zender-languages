@@ -2961,3 +2961,12 @@ response_realtime_testok === Gerçek zamanlı bağlantı başarılı!
 response_realtime_testfailed === Gerçek zamanlı bağlantı başarısız. Kimlik bilgilerini ve sunucu adresini kontrol edin.
 device_pair_invalidtoken === Bu eşleştirme kodunun süresi dolmuş veya kod zaten kullanılmış. Yeni bir kod için sitenizde "Cihaz ekle" bölümünü yeniden açın.
 admin_gateway_googlepackage === Firebase projenizde dev.titansys.smsgateway paket adıyla bir Android uygulaması kaydedin, ardından oluşturulan google-services.json dosyasını yükleyin.
+provider_field_label === Sağlayıcı
+provider_field_help === Zender ile birlikte gelen bir sağlayıcı seçin veya sağlayıcı deposundan bir manifest yapıştırın. Sağlayıcılar JSON manifestleridir -- artık ham PHP denetleyicileri kabul edilmiyor.
+provider_choose === -- Bir sağlayıcı seçin --
+provider_custom === Özel (bir manifest yapıştırın)
+provider_repository_hint === Daha fazla sağlayıcı:
+provider_credentials_label === Sağlayıcı kimlik bilgileri
+provider_manifest_label === Manifest (JSON)
+provider_manifest_help === Sağlayıcının .json manifestini buraya yapıştırın. Sağlayıcı deposundan indirin veya boilerplate.json kullanarak kendinizinkini yazın.
+provider_manifest_unreadable === Bu sağlayıcı okunamadı. Başka birini seçin veya manifestini elle yapıştırın.
