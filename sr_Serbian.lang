@@ -1052,6 +1052,7 @@ form_settingsrecaptchakey === Рецаптцха кључ сајта
 form_settingsrecaptchasecret === Рецаптцха тајни кључ
 form_enable === Омогући
 form_disable === Онемогући
+form_close === Затвори
 form_native === Нативе
 form_remotesmtp === Удаљени СМТП
 form_device === Мобилни уређај
@@ -1113,6 +1114,7 @@ role_updated === Улога је ажурирана!
 role_deleted === Улога је обрисана!
 role_default_update === Подразумевана улога се не може мењати!
 role_default_delete === Подразумевана улога се не може избрисати!
+role_default_permissions === Подразумеване дозволе
 voucher_added === Ваучер је додат!
 form_voucher === Ваучер код
 btn_redeem === Искупити
@@ -2963,6 +2965,8 @@ device_pair_invalidtoken === Овај код за упаривање је ист
 admin_gateway_googlepackage === Региструјте Android апликацију са називом пакета dev.titansys.smsgateway у свом Firebase пројекту, па отпремите генерисану google-services.json датотеку.
 provider_field_label === Провајдер
 provider_field_help === Изаберите провајдера који долази уз Zender, или налепите манифест из репозиторијума провајдера. Провајдери су JSON манифести -- сирови PHP контролери се више не прихватају.
+provider_callback_help === Ако је повратни позив омогућен, дајте свом провајдеру ову webhook адресу за статус испоруке: адресу вашег сајта, затим /gateway/ па овај ИД. Zender користи ИД да повеже сваки извештај о испоруци са овим гејтвејом.
+provider_pricing_invalid === Цене морају бити исправан JSON који садржи цену "default", на пример {"default": "0.01", "countries": {"us": "0.01"}}.
 provider_choose === -- Изаберите провајдера --
 provider_custom === Прилагођено (налепите манифест)
 provider_repository_hint === Више провајдера:

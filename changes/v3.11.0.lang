@@ -1,0 +1,13 @@
+form_close === Close
+role_default_permissions === Default permissions
+provider_field_label === Provider
+provider_field_help === Choose a provider Zender ships with, or paste a manifest from the provider repository. Providers are JSON manifests -- raw PHP controllers are no longer accepted.
+provider_callback_help === If callback is enabled, give your provider this delivery-status webhook URL: your site address followed by /gateway/ and then this ID. Zender uses the ID to match each delivery report to this gateway.
+provider_pricing_invalid === Pricing must be valid JSON containing a "default" price, for example {"default": "0.01", "countries": {"us": "0.01"}}.
+provider_choose === -- Choose a provider --
+provider_custom === Custom (paste a manifest)
+provider_repository_hint === More providers:
+provider_credentials_label === Provider credentials
+provider_manifest_label === Manifest (JSON)
+provider_manifest_help === Paste the provider's .json manifest here. Download it from the provider repository, or write your own using boilerplate.json.
+provider_manifest_unreadable === That provider could not be read. Choose another, or paste its manifest manually.

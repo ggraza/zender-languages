@@ -1052,6 +1052,7 @@ form_settingsrecaptchakey === Recaptcha webhelykulcs
 form_settingsrecaptchasecret === Recaptcha titkos kulcs
 form_enable === Engedélyezze
 form_disable === Letiltás
+form_close === Bezárás
 form_native === Anyanyelvi
 form_remotesmtp === Távoli SMTP
 form_device === Mobil eszköz
@@ -1113,6 +1114,7 @@ role_updated === A szerepkör frissítve!
 role_deleted === A szerepkör törölve!
 role_default_update === Az alapértelmezett szerepkör nem szerkeszthető!
 role_default_delete === Az alapértelmezett szerepkör nem törölhető!
+role_default_permissions === Alapértelmezett engedélyek
 voucher_added === Az utalvány hozzáadva!
 form_voucher === Kupon kód
 btn_redeem === Beváltani
@@ -2963,6 +2965,8 @@ device_pair_invalidtoken === Ez a párosítási kód lejárt, vagy már felhaszn
 admin_gateway_googlepackage === Regisztráljon egy Android-alkalmazást dev.titansys.smsgateway csomagnévvel a Firebase-projektjében, majd töltse fel a létrejövő google-services.json fájlt.
 provider_field_label === Szolgáltató
 provider_field_help === Válasszon egy Zenderrel érkező szolgáltatót, vagy illesszen be egy manifestet a szolgáltatói tárolóból. A szolgáltatók JSON manifestek -- nyers PHP vezérlők többé nem fogadhatók el.
+provider_callback_help === Ha a visszahívás engedélyezett, adja meg szolgáltatójának ezt a kézbesítési állapot webhook URL-t: a webhelye címe, majd /gateway/, majd ez az azonosító. A Zender az azonosító alapján párosítja az egyes kézbesítési jelentéseket ehhez az átjáróhoz.
+provider_pricing_invalid === Az árazásnak érvényes JSON-nak kell lennie, amely tartalmaz egy "default" árat, például {"default": "0.01", "countries": {"us": "0.01"}}.
 provider_choose === -- Válasszon szolgáltatót --
 provider_custom === Egyedi (manifest beillesztése)
 provider_repository_hint === További szolgáltatók:

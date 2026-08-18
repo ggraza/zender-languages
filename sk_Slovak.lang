@@ -1052,6 +1052,7 @@ form_settingsrecaptchakey === Kľúč webu Recaptcha
 form_settingsrecaptchasecret === Tajný kľúč Recaptcha
 form_enable === Povoliť
 form_disable === Zakázať
+form_close === Zavrieť
 form_native === Natívne
 form_remotesmtp === Vzdialený SMTP
 form_device === Mobilné zariadenie
@@ -1113,6 +1114,7 @@ role_updated === Úloha bola aktualizovaná!
 role_deleted === Rola bola odstránená!
 role_default_update === Predvolenú rolu nie je možné upraviť!
 role_default_delete === Predvolenú rolu nemožno odstrániť!
+role_default_permissions === Predvolené povolenia
 voucher_added === Voucher bol pridaný!
 form_voucher === Kód voucheru
 btn_redeem === Uplatniť
@@ -2963,6 +2965,8 @@ device_pair_invalidtoken === Tento párovací kód vypršal alebo už bol použi
 admin_gateway_googlepackage === Zaregistrujte aplikáciu Android s názvom balíka dev.titansys.smsgateway vo svojom projekte Firebase a nahrajte vygenerovaný súbor google-services.json.
 provider_field_label === Poskytovateľ
 provider_field_help === Vyberte poskytovateľa, ktorý je súčasťou Zender, alebo vložte manifest z repozitára poskytovateľov. Poskytovatelia sú JSON manifesty -- surové PHP kontroléry sa už neprijímajú.
+provider_callback_help === Ak je spätné volanie zapnuté, poskytnite svojmu poskytovateľovi túto webhook adresu stavu doručenia: adresu vašej stránky, potom /gateway/ a následne toto ID. Zender používa ID na priradenie každej správy o doručení k tejto bráne.
+provider_pricing_invalid === Ceny musia byť platný JSON obsahujúci cenu "default", napríklad {"default": "0.01", "countries": {"us": "0.01"}}.
 provider_choose === -- Vyberte poskytovateľa --
 provider_custom === Vlastný (vložiť manifest)
 provider_repository_hint === Ďalší poskytovatelia:

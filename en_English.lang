@@ -66,7 +66,7 @@ and_dash_gate_line24_1 === Select the gateway controller file, this will contain
 and_dash_gate_line34 === Callback
 and_dash_gate_line34_1 === If enabled, messages will need to be verified using the callback feature of the 3rd party gateway for send status, otherwise, messages will be immediately marked as sent upon sending.
 and_dash_gate_line44 === Callback ID
-and_dash_gate_line44_1 === If callback is enabled, you must copy this ID and paste it to your controller so the system can identify the callbacks.
+and_dash_gate_line44_1 === If callback is enabled, give this ID to your provider as the delivery-status webhook, so the system can identify the callbacks. The full URL is your site address followed by /gateway/ and this ID.
 and_dash_gate_line47 ===  Copy and paste for callback ID
 and_dash_gate_line54_1 === Your custom pricing table for this gateway. This will allow you to charge on top of the 3rd party prices. For example, if twilio charges 0.01 for a specified country, then you can charge 0.02 instead, currency is based on your system currency. Please follow the pricing format correctly.
 and_dash_gate_line57 === Sample JSON Pricing:
@@ -1052,6 +1052,7 @@ form_settingsrecaptchakey === Recaptcha Site Key
 form_settingsrecaptchasecret === Recaptcha Secret Key
 form_enable === Enable
 form_disable === Disable
+form_close === Close
 form_native === Native
 form_remotesmtp === Remote SMTP
 form_device === Mobile Device
@@ -1113,6 +1114,7 @@ role_updated === Role has been updated!
 role_deleted === Role has been deleted!
 role_default_update === Default role cannot be edited!
 role_default_delete === Default role cannot be deleted!
+role_default_permissions === Default permissions
 voucher_added === Voucher has been added!
 form_voucher === Voucher Code
 btn_redeem === Redeem
@@ -2964,6 +2966,8 @@ device_pair_invalidtoken === This pairing code has expired or was already used. 
 admin_gateway_googlepackage === Register an Android app with package name dev.titansys.smsgateway in your Firebase project, then upload the google-services.json it generates.
 provider_field_label === Provider
 provider_field_help === Choose a provider Zender ships with, or paste a manifest from the provider repository. Providers are JSON manifests -- raw PHP controllers are no longer accepted.
+provider_callback_help === If callback is enabled, give your provider this delivery-status webhook URL: your site address followed by /gateway/ and then this ID. Zender uses the ID to match each delivery report to this gateway.
+provider_pricing_invalid === Pricing must be valid JSON containing a "default" price, for example {"default": "0.01", "countries": {"us": "0.01"}}.
 provider_choose === -- Choose a provider --
 provider_custom === Custom (paste a manifest)
 provider_repository_hint === More providers:

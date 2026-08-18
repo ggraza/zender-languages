@@ -1052,6 +1052,7 @@ form_settingsrecaptchakey === Clé de site Recaptcha
 form_settingsrecaptchasecret === Clé secrète Recaptcha
 form_enable === Permettre
 form_disable === Désactiver
+form_close === Fermer
 form_native === Indigène
 form_remotesmtp === SMTP distant
 form_device === Appareil mobile
@@ -1113,6 +1114,7 @@ role_updated === Le rôle a été mis à jour!
 role_deleted === Le rôle a été supprimé!
 role_default_update === Le rôle par défaut ne peut pas être modifié!
 role_default_delete === Le rôle par défaut ne peut pas être supprimé!
+role_default_permissions === Autorisations par défaut
 voucher_added === Le bon a été ajouté!
 form_voucher === Code promo
 btn_redeem === Racheter
@@ -2963,6 +2965,8 @@ device_pair_invalidtoken === Ce code d'association a expiré ou a déjà été u
 admin_gateway_googlepackage === Enregistrez une application Android avec le nom de package dev.titansys.smsgateway dans votre projet Firebase, puis importez le fichier google-services.json généré.
 provider_field_label === Fournisseur
 provider_field_help === Choisissez un fournisseur livré avec Zender, ou collez un manifeste depuis le dépôt de fournisseurs. Les fournisseurs sont des manifestes JSON -- les contrôleurs PHP bruts ne sont plus acceptés.
+provider_callback_help === Si le rappel est activé, donnez à votre fournisseur cette URL de webhook d'état de livraison : l'adresse de votre site, suivie de /gateway/ puis de cet identifiant. Zender utilise l'identifiant pour associer chaque rapport de livraison à cette passerelle.
+provider_pricing_invalid === La tarification doit être un JSON valide contenant un prix "default", par exemple {"default": "0.01", "countries": {"us": "0.01"}}.
 provider_choose === -- Choisissez un fournisseur --
 provider_custom === Personnalisé (coller un manifeste)
 provider_repository_hint === Plus de fournisseurs:

@@ -1051,6 +1051,7 @@ form_settingsrecaptchakey === Recaptcha سائٹ کی کلید
 form_settingsrecaptchasecret === Recaptcha خفیہ کلید
 form_enable === فعال
 form_disable === غیر فعال کریں۔
+form_close === بند کریں۔
 form_native === مقامی
 form_remotesmtp === ریموٹ SMTP
 form_device === موبائل ڈیوائس
@@ -1112,6 +1113,7 @@ role_updated === کردار کو اپ ڈیٹ کر دیا گیا ہے!
 role_deleted === کردار کو حذف کر دیا گیا ہے!
 role_default_update === پہلے سے طے شدہ کردار میں ترمیم نہیں کی جا سکتی!
 role_default_delete === پہلے سے طے شدہ کردار کو حذف نہیں کیا جا سکتا!
+role_default_permissions === ڈیفالٹ اجازتیں
 voucher_added === واؤچر شامل کر دیا گیا ہے!
 form_voucher === واؤچر کوڈ
 btn_redeem === چھڑانا
@@ -2963,6 +2965,8 @@ device_pair_invalidtoken === یہ پیئرنگ کوڈ ختم ہو چکا ہے ی
 admin_gateway_googlepackage === اپنے Firebase پروجیکٹ میں پیکیج نام dev.titansys.smsgateway کے ساتھ ایک اینڈرائیڈ ایپ رجسٹر کریں، پھر بننے والی google-services.json فائل اپ لوڈ کریں۔
 provider_field_label === فراہم کنندہ
 provider_field_help === ایک فراہم کنندہ منتخب کریں جو Zender کے ساتھ پہلے سے شامل ہے، یا فراہم کنندگان کے ذخیرے سے ایک مینی فیسٹ پیسٹ کریں۔ فراہم کنندگان JSON مینی فیسٹ ہوتے ہیں -- اب خام PHP کنٹرولرز قبول نہیں کیے جاتے۔
+provider_callback_help === اگر کال بیک فعال ہے تو اپنے فراہم کنندہ کو یہ ڈیلیوری اسٹیٹس ویب ہک URL دیں: آپ کی سائٹ کا پتہ، اس کے بعد /gateway/ اور پھر یہ ID۔ Zender ہر ڈیلیوری رپورٹ کو اس گیٹ وے سے ملانے کے لیے اس ID کا استعمال کرتا ہے۔
+provider_pricing_invalid === قیمتوں کا تعین درست JSON ہونا چاہیے جس میں "default" قیمت شامل ہو، مثال کے طور پر {"default": "0.01", "countries": {"us": "0.01"}}۔
 provider_choose === -- ایک فراہم کنندہ منتخب کریں --
 provider_custom === حسب ضرورت (ایک مینی فیسٹ پیسٹ کریں)
 provider_repository_hint === مزید فراہم کنندگان:

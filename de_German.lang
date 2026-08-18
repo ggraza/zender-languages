@@ -1052,6 +1052,7 @@ form_settingsrecaptchakey === Recaptcha-Site-Schlüssel
 form_settingsrecaptchasecret === Recaptcha-Geheimschlüssel
 form_enable === Ermöglichen
 form_disable === Deaktivieren
+form_close === Schließen
 form_native === Einheimisch
 form_remotesmtp === Remote-SMTP
 form_device === Mobilgerät
@@ -1113,6 +1114,7 @@ role_updated === Rolle wurde aktualisiert!
 role_deleted === Rolle wurde gelöscht!
 role_default_update === Standardrolle kann nicht bearbeitet werden!
 role_default_delete === Standardrolle kann nicht gelöscht werden!
+role_default_permissions === Standardberechtigungen
 voucher_added === Gutschein wurde hinzugefügt!
 form_voucher === Coupon Code
 btn_redeem === Tilgen
@@ -2963,6 +2965,8 @@ device_pair_invalidtoken === Dieser Kopplungscode ist abgelaufen oder wurde bere
 admin_gateway_googlepackage === Registrieren Sie in Ihrem Firebase-Projekt eine Android-App mit dem Paketnamen dev.titansys.smsgateway und laden Sie die erzeugte google-services.json hoch.
 provider_field_label === Anbieter
 provider_field_help === Wählen Sie einen Anbieter, der bereits mit Zender ausgeliefert wird, oder fügen Sie ein Manifest aus dem Anbieter-Repository ein. Anbieter sind JSON-Manifeste -- rohe PHP-Controller werden nicht mehr akzeptiert.
+provider_callback_help === Wenn Callback aktiviert ist, geben Sie Ihrem Anbieter diese Webhook-URL für den Zustellstatus: Ihre Website-Adresse, gefolgt von /gateway/ und dann dieser ID. Zender ordnet mit der ID jeden Zustellbericht diesem Gateway zu.
+provider_pricing_invalid === Die Preise müssen gültiges JSON mit einem "default"-Preis sein, zum Beispiel {"default": "0.01", "countries": {"us": "0.01"}}.
 provider_choose === -- Anbieter wählen --
 provider_custom === Benutzerdefiniert (Manifest einfügen)
 provider_repository_hint === Weitere Anbieter:

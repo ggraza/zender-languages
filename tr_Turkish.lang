@@ -1052,6 +1052,7 @@ form_settingsrecaptchakey === Recaptcha Site Anahtarı
 form_settingsrecaptchasecret === Recaptcha Gizli Anahtarı
 form_enable === Olanak vermek
 form_disable === Devre dışı bırakmak
+form_close === Kapat
 form_native === Yerli
 form_remotesmtp === Uzak SMTP
 form_device === Mobil cihaz
@@ -1113,6 +1114,7 @@ role_updated === Rol güncellendi!
 role_deleted === Rol silindi!
 role_default_update === Varsayılan rol düzenlenemez!
 role_default_delete === Varsayılan rol silinemez!
+role_default_permissions === Varsayılan izinler
 voucher_added === Kupon eklendi!
 form_voucher === Kupon Kodu
 btn_redeem === Tazmin etmek
@@ -2963,6 +2965,8 @@ device_pair_invalidtoken === Bu eşleştirme kodunun süresi dolmuş veya kod za
 admin_gateway_googlepackage === Firebase projenizde dev.titansys.smsgateway paket adıyla bir Android uygulaması kaydedin, ardından oluşturulan google-services.json dosyasını yükleyin.
 provider_field_label === Sağlayıcı
 provider_field_help === Zender ile birlikte gelen bir sağlayıcı seçin veya sağlayıcı deposundan bir manifest yapıştırın. Sağlayıcılar JSON manifestleridir -- artık ham PHP denetleyicileri kabul edilmiyor.
+provider_callback_help === Geri arama etkinse sağlayıcınıza bu teslim durumu webhook URL'sini verin: site adresiniz, ardından /gateway/ ve sonra bu kimlik. Zender, her teslim raporunu bu ağ geçidiyle eşleştirmek için bu kimliği kullanır.
+provider_pricing_invalid === Fiyatlandırma, "default" fiyatı içeren geçerli bir JSON olmalıdır, örneğin {"default": "0.01", "countries": {"us": "0.01"}}.
 provider_choose === -- Bir sağlayıcı seçin --
 provider_custom === Özel (bir manifest yapıştırın)
 provider_repository_hint === Daha fazla sağlayıcı:

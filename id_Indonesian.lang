@@ -1052,6 +1052,7 @@ form_settingsrecaptchakey === Kunci Situs Recaptcha
 form_settingsrecaptchasecret === Kunci Rahasia Recaptcha
 form_enable === Memungkinkan
 form_disable === Cacat
+form_close === Tutup
 form_native === Warga asli
 form_remotesmtp === SMTP jarak jauh
 form_device === Perangkat Seluler
@@ -1113,6 +1114,7 @@ role_updated === Peran telah diperbarui!
 role_deleted === Peran telah dihapus!
 role_default_update === Peran default tidak dapat diedit!
 role_default_delete === Peran default tidak dapat dihapus!
+role_default_permissions === Izin bawaan
 voucher_added === Voucher telah ditambahkan!
 form_voucher === Kode Voucher
 btn_redeem === Menukarkan
@@ -2963,6 +2965,8 @@ device_pair_invalidtoken === Kode penyandingan ini sudah kedaluwarsa atau telah 
 admin_gateway_googlepackage === Daftarkan aplikasi Android dengan nama paket dev.titansys.smsgateway di proyek Firebase Anda, lalu unggah file google-services.json yang dihasilkan.
 provider_field_label === Penyedia
 provider_field_help === Pilih penyedia yang sudah disertakan Zender, atau tempel manifest dari repositori penyedia. Penyedia berupa manifest JSON -- pengontrol PHP mentah tidak lagi diterima.
+provider_callback_help === Jika callback diaktifkan, berikan kepada penyedia Anda URL webhook status pengiriman ini: alamat situs Anda, diikuti /gateway/ lalu ID ini. Zender menggunakan ID tersebut untuk mencocokkan setiap laporan pengiriman dengan gateway ini.
+provider_pricing_invalid === Harga harus berupa JSON yang valid dan memuat harga "default", misalnya {"default": "0.01", "countries": {"us": "0.01"}}.
 provider_choose === -- Pilih penyedia --
 provider_custom === Kustom (tempel manifest)
 provider_repository_hint === Penyedia lainnya:

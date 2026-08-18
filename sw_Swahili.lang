@@ -1052,6 +1052,7 @@ form_settingsrecaptchakey === Recaptcha Site Key
 form_settingsrecaptchasecret === Ufunguo wa Siri wa Recaptcha
 form_enable === Washa
 form_disable === Zima
+form_close === Funga
 form_native === Asili
 form_remotesmtp === SMTP ya mbali
 form_device === Kifaa cha Mkononi
@@ -1113,6 +1114,7 @@ role_updated === Jukumu limesasishwa!
 role_deleted === Jukumu limefutwa!
 role_default_update === Jukumu chaguo-msingi haliwezi kuhaririwa!
 role_default_delete === Jukumu chaguo-msingi haliwezi kufutwa!
+role_default_permissions === Ruhusa chaguo-msingi
 voucher_added === Vocha imeongezwa!
 form_voucher === Msimbo wa Vocha
 btn_redeem === Komboa
@@ -2963,6 +2965,8 @@ device_pair_invalidtoken === Msimbo huu wa kuoanisha umeisha muda au tayari umet
 admin_gateway_googlepackage === Sajili programu ya Android yenye jina la kifurushi dev.titansys.smsgateway katika mradi wako wa Firebase, kisha upakie faili la google-services.json linalotengenezwa.
 provider_field_label === Mtoa huduma
 provider_field_help === Chagua mtoa huduma anayekuja na Zender, au bandika manifest kutoka hifadhi ya watoa huduma. Watoa huduma ni manifest za JSON -- vidhibiti ghafi vya PHP havikubaliwi tena.
+provider_callback_help === Ikiwa simu ya kurudi imewashwa, mpe mtoa huduma wako URL hii ya webhook ya hali ya uwasilishaji: anwani ya tovuti yako, ikifuatiwa na /gateway/ kisha kitambulisho hiki. Zender hutumia kitambulisho hicho kulinganisha kila ripoti ya uwasilishaji na lango hili.
+provider_pricing_invalid === Bei lazima iwe JSON halali yenye bei ya "default", kwa mfano {"default": "0.01", "countries": {"us": "0.01"}}.
 provider_choose === -- Chagua mtoa huduma --
 provider_custom === Maalum (bandika manifest)
 provider_repository_hint === Watoa huduma zaidi:

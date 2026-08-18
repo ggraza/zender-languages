@@ -1052,6 +1052,7 @@ form_settingsrecaptchakey === Recaptcha webbplatsnyckel
 form_settingsrecaptchasecret === Recaptcha hemlig nyckel
 form_enable === Gör det möjligt
 form_disable === Inaktivera
+form_close === Stäng
 form_native === Inföding
 form_remotesmtp === Fjärrstyrd SMTP
 form_device === Mobilenhet
@@ -1113,6 +1114,7 @@ role_updated === Rollen har uppdaterats!
 role_deleted === Rollen har tagits bort!
 role_default_update === Standardrollen kan inte redigeras!
 role_default_delete === Standardroll kan inte tas bort!
+role_default_permissions === Standardbehörigheter
 voucher_added === Kupongen har lagts till!
 form_voucher === Rabattkod
 btn_redeem === Lösa in
@@ -2963,6 +2965,8 @@ device_pair_invalidtoken === Den här kopplingskoden har gått ut eller har reda
 admin_gateway_googlepackage === Registrera en Android-app med paketnamnet dev.titansys.smsgateway i ditt Firebase-projekt och ladda upp filen google-services.json som skapas.
 provider_field_label === Leverantör
 provider_field_help === Välj en leverantör som redan följer med Zender, eller klistra in ett manifest från leverantörernas repository. Leverantörer är JSON-manifest -- råa PHP-kontroller accepteras inte längre.
+provider_callback_help === Om återanrop är aktiverat, ge din leverantör denna webhook-URL för leveransstatus: din webbplatsadress, följt av /gateway/ och sedan detta ID. Zender använder ID:t för att koppla varje leveransrapport till denna gateway.
+provider_pricing_invalid === Prissättningen måste vara giltig JSON som innehåller ett "default"-pris, till exempel {"default": "0.01", "countries": {"us": "0.01"}}.
 provider_choose === -- Välj en leverantör --
 provider_custom === Anpassat (klistra in ett manifest)
 provider_repository_hint === Fler leverantörer:

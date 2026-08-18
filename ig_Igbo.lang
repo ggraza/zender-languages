@@ -1052,6 +1052,7 @@ form_settingsrecaptchakey === Igodo saịtị recaptcha
 form_settingsrecaptchasecret === Igodo Nzuzo Recaptcha
 form_enable === Kwado
 form_disable === Gbanyụọ
+form_close === Mechie
 form_native === Ụmụ amaala
 form_remotesmtp === Ime SMTP
 form_device === Ekwentị mkpanaaka
@@ -1113,6 +1114,7 @@ role_updated === Emelitela ọrụ!
 role_deleted === E ehichapụla ọrụ!
 role_default_update === Enweghị ike dezie ọrụ akpaghị aka!
 role_default_delete === Enweghị ike ihichapụ ọrụ ndabara!
+role_default_permissions === Ikikere ndabere
 voucher_added === Agbakwunyela akwụkwọ ikike!
 form_voucher === Koodu akwụkwọ ikike
 btn_redeem === gbapụta
@@ -2963,6 +2965,8 @@ device_pair_invalidtoken === Koodu njikọ a agwụla ma ọ bụ ejirila ya. Me
 admin_gateway_googlepackage === Debanye aha ngwa Android nwere aha ngwugwu dev.titansys.smsgateway na ọrụ Firebase gị, wee bulite faịlụ google-services.json e mepụtara.
 provider_field_label === Onye na-enye
 provider_field_help === Họrọ onye na-enye Zender bu na ya, ma ọ bụ tinye manifest si ebe nchekwa ndị na-enye. Ndị na-enye bụ manifest JSON -- anaghị anabata PHP controller ọzọ.
+provider_callback_help === Ọ bụrụ na akpọghachi akwadoro, nye onye na-eweta gị URL webhook ọnọdụ nnyefe a: adreesị saịtị gị, sochie /gateway/ wee bụrụ ID a. Zender na-eji ID ahụ kwekọọ akụkọ nnyefe ọ bụla na ọnụ ụzọ a.
+provider_pricing_invalid === Ọnụahịa aghaghị ịbụ JSON ziri ezi nwere ọnụahịa "default", dịka ọmụmaatụ {"default": "0.01", "countries": {"us": "0.01"}}.
 provider_choose === -- Họrọ onye na-enye --
 provider_custom === Nke gị (tinye manifest)
 provider_repository_hint === Ndị na-enye ọzọ:

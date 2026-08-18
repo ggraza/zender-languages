@@ -1052,6 +1052,7 @@ form_settingsrecaptchakey === คีย์ไซต์ Recaptcha
 form_settingsrecaptchasecret === Recaptcha Secret Key
 form_enable === เปิดใช้งาน
 form_disable === ปิดการใช้งาน
+form_close === ปิด
 form_native === พื้นเมือง
 form_remotesmtp === SMTP ระยะไกล
 form_device === อุปกรณ์โทรศัพท์
@@ -1113,6 +1114,7 @@ role_updated === อัปเดตบทบาทแล้ว!
 role_deleted === บทบาทถูกลบ!
 role_default_update === แก้ไขบทบาทเริ่มต้นไม่ได้!
 role_default_delete === ไม่สามารถลบบทบาทเริ่มต้นได้!
+role_default_permissions === สิทธิ์เริ่มต้น
 voucher_added === เพิ่ม Voucher แล้ว!
 form_voucher === รหัสบัตรกำนัล
 btn_redeem === ไถ่ถอน
@@ -2963,6 +2965,8 @@ device_pair_invalidtoken === รหัสจับคู่นี้หมดอ
 admin_gateway_googlepackage === ลงทะเบียนแอป Android ด้วยชื่อแพ็กเกจ dev.titansys.smsgateway ในโปรเจกต์ Firebase ของคุณ แล้วอัปโหลดไฟล์ google-services.json ที่สร้างขึ้น
 provider_field_label === ผู้ให้บริการ
 provider_field_help === เลือกผู้ให้บริการที่มาพร้อมกับ Zender หรือวาง manifest จากที่เก็บผู้ให้บริการ ผู้ให้บริการคือ manifest แบบ JSON -- ไม่รับตัวควบคุม PHP แบบดิบอีกต่อไป
+provider_callback_help === หากเปิดใช้งานการเรียกกลับ ให้แจ้ง URL เว็บฮุกสถานะการจัดส่งนี้แก่ผู้ให้บริการของคุณ: ที่อยู่เว็บไซต์ของคุณ ตามด้วย /gateway/ แล้วตามด้วยรหัสนี้ Zender ใช้รหัสนี้เพื่อจับคู่รายงานการจัดส่งแต่ละรายการกับเกตเวย์นี้
+provider_pricing_invalid === ราคาต้องเป็น JSON ที่ถูกต้องและมีราคา "default" เช่น {"default": "0.01", "countries": {"us": "0.01"}}
 provider_choose === -- เลือกผู้ให้บริการ --
 provider_custom === กำหนดเอง (วาง manifest)
 provider_repository_hint === ผู้ให้บริการเพิ่มเติม:

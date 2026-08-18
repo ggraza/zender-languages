@@ -1052,6 +1052,7 @@ form_settingsrecaptchakey === Recaptcha Site Key
 form_settingsrecaptchasecret === Recaptcha cheie secretă
 form_enable === Permite
 form_disable === Dezactivați
+form_close === Închide
 form_native === Nativ
 form_remotesmtp === SMTP la distanță
 form_device === Dispozitiv mobil
@@ -1113,6 +1114,7 @@ role_updated === Rolul a fost actualizat!
 role_deleted === Rolul a fost șters!
 role_default_update === Rolul implicit nu poate fi editat!
 role_default_delete === Rolul implicit nu poate fi șters!
+role_default_permissions === Permisiuni implicite
 voucher_added === Voucherul a fost adăugat!
 form_voucher === Cod voucher
 btn_redeem === Răscumpăra
@@ -2963,6 +2965,8 @@ device_pair_invalidtoken === Acest cod de asociere a expirat sau a fost deja fol
 admin_gateway_googlepackage === Înregistrați o aplicație Android cu numele de pachet dev.titansys.smsgateway în proiectul dumneavoastră Firebase, apoi încărcați fișierul google-services.json generat.
 provider_field_label === Furnizor
 provider_field_help === Selectați un furnizor inclus deja în Zender, sau lipiți un manifest din repozitoriul furnizorilor. Furnizorii sunt manifeste JSON -- controlerele PHP brute nu mai sunt acceptate.
+provider_callback_help === Dacă apelul invers este activat, oferiți furnizorului dvs. această adresă webhook pentru starea livrării: adresa site-ului dvs., urmată de /gateway/ și apoi de acest ID. Zender folosește ID-ul pentru a asocia fiecare raport de livrare cu acest gateway.
+provider_pricing_invalid === Prețurile trebuie să fie JSON valid care conține un preț "default", de exemplu {"default": "0.01", "countries": {"us": "0.01"}}.
 provider_choose === -- Selectați un furnizor --
 provider_custom === Personalizat (lipiți un manifest)
 provider_repository_hint === Mai mulți furnizori:

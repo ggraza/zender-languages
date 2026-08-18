@@ -1051,6 +1051,7 @@ form_settingsrecaptchakey === Κλειδί τοποθεσίας Recaptcha
 form_settingsrecaptchasecret === Μυστικό κλειδί Recaptcha
 form_enable === επιτρέπω
 form_disable === Καθιστώ ανίκανο
+form_close === Κλείσιμο
 form_native === Ντόπιος
 form_remotesmtp === Απομακρυσμένο SMTP
 form_device === Κινητή συσκευή
@@ -1112,6 +1113,7 @@ role_updated === Ο ρόλος έχει ενημερωθεί!
 role_deleted === Ο ρόλος έχει διαγραφεί!
 role_default_update === Δεν είναι δυνατή η επεξεργασία του προεπιλεγμένου ρόλου!
 role_default_delete === Ο προεπιλεγμένος ρόλος δεν μπορεί να διαγραφεί!
+role_default_permissions === Προεπιλεγμένες άδειες
 voucher_added === Το κουπόνι προστέθηκε!
 form_voucher === Κωδικό κουπονιού
 btn_redeem === Εξαργυρώνω
@@ -2963,6 +2965,8 @@ device_pair_invalidtoken === Αυτός ο κωδικός σύζευξης έχ�
 admin_gateway_googlepackage === Καταχωρίστε μια εφαρμογή Android με όνομα πακέτου dev.titansys.smsgateway στο έργο σας στο Firebase και ανεβάστε το αρχείο google-services.json που δημιουργείται.
 provider_field_label === Πάροχος
 provider_field_help === Επιλέξτε έναν πάροχο που συνοδεύει το Zender, ή επικολλήστε ένα μανιφέστο από το αποθετήριο παρόχων. Οι πάροχοι είναι μανιφέστα JSON -- οι απλοί ελεγκτές PHP δεν γίνονται πλέον αποδεκτοί.
+provider_callback_help === Αν η επιστροφή κλήσης είναι ενεργοποιημένη, δώστε στον πάροχό σας αυτή τη διεύθυνση webhook κατάστασης παράδοσης: τη διεύθυνση του ιστότοπού σας, ακολουθούμενη από /gateway/ και μετά αυτό το αναγνωριστικό. Το Zender χρησιμοποιεί το αναγνωριστικό για να αντιστοιχίσει κάθε αναφορά παράδοσης σε αυτήν την πύλη.
+provider_pricing_invalid === Η τιμολόγηση πρέπει να είναι έγκυρο JSON που περιέχει μια τιμή "default", για παράδειγμα {"default": "0.01", "countries": {"us": "0.01"}}.
 provider_choose === -- Επιλέξτε πάροχο --
 provider_custom === Προσαρμοσμένο (επικόλληση μανιφέστου)
 provider_repository_hint === Περισσότεροι πάροχοι:

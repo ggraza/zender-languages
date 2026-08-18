@@ -1052,6 +1052,7 @@ form_settingsrecaptchakey === Recaptcha 사이트 키
 form_settingsrecaptchasecret === Recaptcha 비밀 키
 form_enable === 할 수 있게 하다
 form_disable === 장애를 입히다
+form_close === 닫기
 form_native === 토종의
 form_remotesmtp === 원격 SMTP
 form_device === 휴대 기기
@@ -1113,6 +1114,7 @@ role_updated === 역할이 업데이트되었습니다!
 role_deleted === 역할이 삭제되었습니다!
 role_default_update === 기본 역할은 편집할 수 없습니다!
 role_default_delete === 기본 역할은 삭제할 수 없습니다!
+role_default_permissions === 기본 권한
 voucher_added === 상품권이 추가되었습니다!
 form_voucher === 바우처 코드
 btn_redeem === 상환하다
@@ -2963,6 +2965,8 @@ device_pair_invalidtoken === 이 페어링 코드는 만료되었거나 이미 �
 admin_gateway_googlepackage === Firebase 프로젝트에 패키지 이름 dev.titansys.smsgateway 인 Android 앱을 등록한 뒤, 생성된 google-services.json 파일을 업로드하세요.
 provider_field_label === 공급자
 provider_field_help === Zender에 기본 포함된 공급자를 선택하거나, 공급자 저장소에서 매니페스트를 붙여넣으세요. 공급자는 JSON 매니페스트이며 -- 원시 PHP 컨트롤러는 더 이상 허용되지 않습니다.
+provider_callback_help === 콜백을 사용하는 경우 공급자에게 이 배달 상태 웹훅 URL을 알려주세요. 사이트 주소 뒤에 /gateway/ 와 이 ID를 붙입니다. Zender는 이 ID로 각 배달 보고서를 이 게이트웨이에 연결합니다.
+provider_pricing_invalid === 요금은 "default" 가격이 포함된 유효한 JSON이어야 합니다. 예: {"default": "0.01", "countries": {"us": "0.01"}}
 provider_choose === -- 공급자 선택 --
 provider_custom === 사용자 정의 (매니페스트 붙여넣기)
 provider_repository_hint === 추가 공급자:

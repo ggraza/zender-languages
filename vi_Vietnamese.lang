@@ -1052,6 +1052,7 @@ form_settingsrecaptchakey === Khóa trang web Recaptcha
 form_settingsrecaptchasecret === Khóa bí mật Recaptcha
 form_enable === Cho phép
 form_disable === Vô hiệu hóa
+form_close === Đóng
 form_native === Tự nhiên
 form_remotesmtp === SMTP từ xa
 form_device === Thiết bị di động
@@ -1113,6 +1114,7 @@ role_updated === Vai trò đã được cập nhật!
 role_deleted === Vai trò đã bị xóa!
 role_default_update === Vai trò mặc định không thể được chỉnh sửa!
 role_default_delete === Vai trò mặc định không thể bị xóa!
+role_default_permissions === Quyền mặc định
 voucher_added === Phiếu thưởng đã được thêm vào!
 form_voucher === Mã chứng từ
 btn_redeem === Chuộc lại
@@ -2963,6 +2965,8 @@ device_pair_invalidtoken === Mã ghép nối này đã hết hạn hoặc đã �
 admin_gateway_googlepackage === Đăng ký một ứng dụng Android với tên gói dev.titansys.smsgateway trong dự án Firebase của bạn, rồi tải lên tệp google-services.json được tạo ra.
 provider_field_label === Nhà cung cấp
 provider_field_help === Chọn một nhà cung cấp có sẵn trong Zender, hoặc dán một manifest từ kho lưu trữ nhà cung cấp. Nhà cung cấp là các manifest JSON -- các trình điều khiển PHP thô không còn được chấp nhận.
+provider_callback_help === Nếu bật callback, hãy cung cấp cho nhà cung cấp của bạn URL webhook trạng thái gửi này: địa chỉ trang web của bạn, theo sau là /gateway/ rồi đến ID này. Zender dùng ID để khớp mỗi báo cáo gửi với cổng này.
+provider_pricing_invalid === Giá phải là JSON hợp lệ có chứa giá "default", ví dụ {"default": "0.01", "countries": {"us": "0.01"}}.
 provider_choose === -- Chọn một nhà cung cấp --
 provider_custom === Tùy chỉnh (dán một manifest)
 provider_repository_hint === Thêm nhà cung cấp:

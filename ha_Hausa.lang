@@ -1052,6 +1052,7 @@ form_settingsrecaptchakey === Maɓallin Yanar Gizo Recaptcha
 form_settingsrecaptchasecret === Maɓallin Sirrin Recaptcha
 form_enable === Kunna
 form_disable === A kashe
+form_close === Rufe
 form_native === Dan ƙasa
 form_remotesmtp === SMTP mai nisa
 form_device === Na'urar Waya
@@ -1113,6 +1114,7 @@ role_updated === An sabunta rawar gani!
 role_deleted === An share aikin!
 role_default_update === Ba za a iya gyara tsohuwar rawar ba!
 role_default_delete === Ba za a iya share tsohuwar rawar ba!
+role_default_permissions === Izini na asali
 voucher_added === An ƙara baucan!
 form_voucher === Lambar Baucan
 btn_redeem === fanshi
@@ -2963,6 +2965,8 @@ device_pair_invalidtoken === Wannan lambar haɗin ta ƙare ko an riga an yi amfa
 admin_gateway_googlepackage === Yi rijistar manhajar Android mai suna dev.titansys.smsgateway a aikin Firebase naka, sannan ka ɗora fayil ɗin google-services.json da aka samar.
 provider_field_label === Mai bayarwa
 provider_field_help === Zaɓi mai bayarwa da Zender ke zuwa da shi, ko manna manifest daga ma'ajiyar masu bayarwa. Masu bayarwa manifest ne na JSON -- ba a ƙara karɓar sarrafan PHP kai tsaye ba.
+provider_callback_help === Idan an kunna callback, ba mai samar da sabis ɗinka wannan adireshin webhook na matsayin isarwa: adireshin gidan yanar gizonka, sannan /gateway/ sannan wannan ID. Zender yana amfani da ID ɗin don daidaita kowane rahoton isarwa da wannan ƙofar.
+provider_pricing_invalid === Farashin dole ne ya kasance JSON mai inganci wanda ke ɗauke da farashin "default", misali {"default": "0.01", "countries": {"us": "0.01"}}.
 provider_choose === -- Zaɓi mai bayarwa --
 provider_custom === Na musamman (manna manifest)
 provider_repository_hint === Ƙarin masu bayarwa:

@@ -1052,6 +1052,7 @@ form_settingsrecaptchakey === Recaptchaサイトキー
 form_settingsrecaptchasecret === ReCAPTCHAシークレットキー
 form_enable === 有効
 form_disable === 無効にする
+form_close === 閉じる
 form_native === ネイティブ
 form_remotesmtp === リモートSMTP
 form_device === モバイル機器
@@ -1113,6 +1114,7 @@ role_updated === 役割が更新されました！
 role_deleted === 役割が削除されました！
 role_default_update === デフォルトの役割は編集できません！
 role_default_delete === デフォルトの役割は削除できません！
+role_default_permissions === デフォルトの権限
 voucher_added === バウチャーが追加されました！
 form_voucher === クーポンコード
 btn_redeem === 償還
@@ -2963,6 +2965,8 @@ device_pair_invalidtoken === このペアリングコードは有効期限が切
 admin_gateway_googlepackage === Firebase プロジェクトにパッケージ名 dev.titansys.smsgateway の Android アプリを登録し、生成された google-services.json をアップロードしてください。
 provider_field_label === プロバイダー
 provider_field_help === Zender に同梱されているプロバイダーを選択するか、プロバイダーリポジトリからマニフェストを貼り付けてください。プロバイダーはJSONマニフェストです -- 生のPHPコントローラーは受け付けなくなりました。
+provider_callback_help === コールバックを有効にしている場合は、この配信ステータス用 Webhook URL をプロバイダーに登録してください。サイトのアドレスに続けて /gateway/ とこの ID を指定します。Zender はこの ID で各配信レポートをこのゲートウェイに対応付けます。
+provider_pricing_invalid === 料金は "default" 価格を含む有効な JSON である必要があります。例: {"default": "0.01", "countries": {"us": "0.01"}}
 provider_choose === -- プロバイダーを選択 --
 provider_custom === カスタム（マニフェストを貼り付け）
 provider_repository_hint === その他のプロバイダー：

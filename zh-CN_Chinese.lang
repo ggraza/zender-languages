@@ -1052,6 +1052,7 @@ form_settingsrecaptchakey === Recaptcha 站点密钥
 form_settingsrecaptchasecret === Recaptcha 密钥
 form_enable === 使能够
 form_disable === 禁用
+form_close === 关闭
 form_native === 本国的
 form_remotesmtp === 远程 SMTP
 form_device === 移动设备
@@ -1113,6 +1114,7 @@ role_updated === 角色已更新！
 role_deleted === 角色已被删除！
 role_default_update === 默认角色无法编辑！
 role_default_delete === 默认角色不能删除！
+role_default_permissions === 默认权限
 voucher_added === 优惠券已添加！
 form_voucher === 优惠券代码
 btn_redeem === 赎回
@@ -2963,6 +2965,8 @@ device_pair_invalidtoken === 此配对码已过期或已被使用。请在您的
 admin_gateway_googlepackage === 在您的 Firebase 项目中注册一个包名为 dev.titansys.smsgateway 的 Android 应用，然后上传生成的 google-services.json 文件。
 provider_field_label === 提供者
 provider_field_help === 选择 Zender 自带的提供者，或从提供者仓库粘贴一个清单。提供者是 JSON 清单 -- 不再接受原始 PHP 控制器。
+provider_callback_help === 如果启用了回调，请将此送达状态 Webhook 网址提供给您的服务商：您的站点地址，后跟 /gateway/ 以及此 ID。Zender 使用该 ID 将每份送达报告与此网关相匹配。
+provider_pricing_invalid === 定价必须是包含 "default" 价格的有效 JSON，例如 {"default": "0.01", "countries": {"us": "0.01"}}。
 provider_choose === -- 选择提供者 --
 provider_custom === 自定义（粘贴清单）
 provider_repository_hint === 更多提供者：

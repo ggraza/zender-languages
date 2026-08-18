@@ -1052,6 +1052,7 @@ form_settingsrecaptchakey === מפתח אתר Recaptcha
 form_settingsrecaptchasecret === מפתח סודי Recaptcha
 form_enable === לְאַפשֵׁר
 form_disable === השבת
+form_close === סגור
 form_native === יָלִיד
 form_remotesmtp === SMTP מרוחק
 form_device === מכשיר נייד
@@ -1113,6 +1114,7 @@ role_updated === התפקיד עודכן!
 role_deleted === התפקיד נמחק!
 role_default_update === לא ניתן לערוך את תפקיד ברירת המחדל!
 role_default_delete === לא ניתן למחוק את תפקיד ברירת המחדל!
+role_default_permissions === הרשאות ברירת מחדל
 voucher_added === שובר נוסף!
 form_voucher === קוד שובר
 btn_redeem === לִפְדוֹת
@@ -2963,6 +2965,8 @@ device_pair_invalidtoken === קוד ההתאמה פג או שכבר נעשה ב�
 admin_gateway_googlepackage === רשום אפליקציית אנדרואיד בשם החבילה dev.titansys.smsgateway בפרויקט ה-Firebase שלך, ולאחר מכן העלה את קובץ google-services.json שנוצר.
 provider_field_label === ספק
 provider_field_help === בחר ספק המגיע מובנה עם Zender, או הדבק מניפסט ממאגר הספקים. ספקים הם מניפסטים בפורמט JSON -- בקרי PHP גולמיים אינם מתקבלים עוד.
+provider_callback_help === אם ה-callback מופעל, מסרו לספק שלכם את כתובת ה-webhook הזו לסטטוס מסירה: כתובת האתר שלכם, ואחריה /gateway/ ולאחר מכן המזהה הזה. Zender משתמש במזהה כדי להתאים כל דוח מסירה לשער הזה.
+provider_pricing_invalid === התמחור חייב להיות JSON תקין הכולל מחיר "default", לדוגמה {"default": "0.01", "countries": {"us": "0.01"}}.
 provider_choose === -- בחר ספק --
 provider_custom === מותאם אישית (הדבקת מניפסט)
 provider_repository_hint === עוד ספקים:

@@ -1052,6 +1052,7 @@ form_settingsrecaptchakey === مفتاح موقع Recaptcha
 form_settingsrecaptchasecret === مفتاح Recaptcha السري
 form_enable === ممكن
 form_disable === إبطال
+form_close === إغلاق
 form_native === محلي
 form_remotesmtp === SMTP البعيد
 form_device === جهاز محمول
@@ -1113,6 +1114,7 @@ role_updated === تم تحديث الدور!
 role_deleted === تم حذف الدور!
 role_default_update === لا يمكن تحرير الدور الافتراضي!
 role_default_delete === لا يمكن حذف الدور الافتراضي!
+role_default_permissions === الأذونات الافتراضية
 voucher_added === تمت إضافة القسيمة!
 form_voucher === رمز القسيمة
 btn_redeem === يسترد
@@ -2963,6 +2965,8 @@ device_pair_invalidtoken === انتهت صلاحية رمز الاقتران ه�
 admin_gateway_googlepackage === أنشئ تطبيق أندرويد باسم الحزمة dev.titansys.smsgateway في مشروع Firebase الخاص بك، ثم ارفع ملف google-services.json الناتج.
 provider_field_label === مزود
 provider_field_help === اختر مزودًا مضمّنًا مسبقًا مع Zender، أو الصق ملف مانيفست من مستودع المزودين. المزودون عبارة عن ملفات مانيفست بصيغة JSON -- لم تعد وحدات التحكم الخام بلغة PHP مقبولة.
+provider_callback_help === إذا كان رد الاتصال مفعّلاً، فامنح مزوّدك عنوان الويب هوك الخاص بحالة التسليم: عنوان موقعك متبوعاً بـ /gateway/ ثم هذا المعرّف. يستخدم Zender المعرّف لمطابقة كل تقرير تسليم بهذه البوابة.
+provider_pricing_invalid === يجب أن يكون التسعير بصيغة JSON صالحة تحتوي على سعر "default"، على سبيل المثال {"default": "0.01", "countries": {"us": "0.01"}}.
 provider_choose === -- اختر مزودًا --
 provider_custom === مخصص (الصق ملف مانيفست)
 provider_repository_hint === المزيد من المزودين:

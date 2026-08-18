@@ -1052,6 +1052,7 @@ form_settingsrecaptchakey === Ключ сайта Recaptcha
 form_settingsrecaptchasecret === Секретный ключ рекапчи
 form_enable === включить
 form_disable === Запрещать
+form_close === Закрыть
 form_native === Родной
 form_remotesmtp === Удаленный SMTP
 form_device === Мобильное устройство
@@ -1113,6 +1114,7 @@ role_updated === Роль обновлена!
 role_deleted === Роль удалена!
 role_default_update === Роль по умолчанию не может быть изменена!
 role_default_delete === Роль по умолчанию не может быть удалена!
+role_default_permissions === Разрешения по умолчанию
 voucher_added === Ваучер добавлен!
 form_voucher === Код ваучера
 btn_redeem === Выкупать
@@ -2963,6 +2965,8 @@ device_pair_invalidtoken === Этот код сопряжения истёк и�
 admin_gateway_googlepackage === Зарегистрируйте Android-приложение с именем пакета dev.titansys.smsgateway в вашем проекте Firebase и загрузите созданный файл google-services.json.
 provider_field_label === Провайдер
 provider_field_help === Выберите провайдера, поставляемого вместе с Zender, или вставьте манифест из репозитория провайдеров. Провайдеры — это манифесты в формате JSON -- необработанные PHP-контроллеры больше не принимаются.
+provider_callback_help === Если обратный вызов включён, передайте своему провайдеру этот URL вебхука статуса доставки: адрес вашего сайта, затем /gateway/ и этот идентификатор. Zender использует идентификатор, чтобы сопоставить каждый отчёт о доставке с этим шлюзом.
+provider_pricing_invalid === Цены должны быть корректным JSON с ценой "default", например {"default": "0.01", "countries": {"us": "0.01"}}.
 provider_choose === -- Выберите провайдера --
 provider_custom === Пользовательский (вставить манифест)
 provider_repository_hint === Больше провайдеров:
