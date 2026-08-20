@@ -2974,3 +2974,95 @@ provider_credentials_label === प्रदात्याचे क्रेड
 provider_manifest_label === मॅनिफेस्ट (JSON)
 provider_manifest_help === येथे प्रदात्याचे .json मॅनिफेस्ट पेस्ट करा. ते प्रदाता रिपॉझिटरीमधून डाउनलोड करा, किंवा boilerplate.json वापरून स्वतःचे लिहा.
 provider_manifest_unreadable === हा प्रदाता वाचता आला नाही. दुसरा निवडा, किंवा त्याचे मॅनिफेस्ट स्वहस्ते पेस्ट करा.
+plugin_gpt_conf_actions_h === क्रिया
+plugin_gpt_conf_actions_p === खाली स्क्रोल करा आणि <strong>Create new action</strong> वर क्लिक करा, नंतर खालील सूचना वाचा.
+plugin_gpt_conf_auth_h === प्रमाणीकरण
+plugin_gpt_conf_auth_screenshot_note === <small>हा स्क्रीनशॉट खालील Custom Header आवश्यकतेपूर्वीचा आहे आणि त्यात अजूनही Bearer निवडलेले दिसते -- कृपया लिखित पायऱ्यांचे अनुसरण करा, प्रतिमेचे नाही.</small>
+plugin_gpt_conf_auth_step1 === 1. <strong>API Key</strong> निवडा, <strong>Auth Type</strong> ला <strong>Custom</strong> वर सेट करा, नंतर <strong>Custom Header Name</strong> ला <code>X-Zender-Token</code> वर सेट करा.
+plugin_gpt_conf_auth_step2 === 2. खालील <strong>Authentication Token</strong> कॉपी करा आणि ते इनपुट फील्डमध्ये पेस्ट करून सेव्ह करा.
+plugin_gpt_conf_capabilities_label === क्षमता
+plugin_gpt_conf_capabilities_p === खालील उदाहरणाप्रमाणे क्षमता तपासा.
+plugin_gpt_conf_codeinterp_label === Code Interpreter & Data Analysis
+plugin_gpt_conf_conv1 === तू माझ्यासाठी काय करू शकतोस?
+plugin_gpt_conf_conv2 === एक WhatsApp संदेश पाठवा
+plugin_gpt_conf_conv3 === माझे उर्वरित SMS क्रेडिट्स तपासा
+plugin_gpt_conf_conv4 === माझी सध्याची WhatsApp खाती मिळवा
+plugin_gpt_conf_conv5 === एका फोन नंबरवर SMS संदेश पाठवा
+plugin_gpt_conf_convstarters_label === संभाषण सुरुवाती
+plugin_gpt_conf_convstarters_p === खालील संभाषण सुरुवाती कॉपी करून पेस्ट करा, तुमच्या आवडीनुसार त्या बदलण्यास मोकळे रहा.
+plugin_gpt_conf_copy_btn === कॉपी करा
+plugin_gpt_conf_dalle_label === DALL·E Image Generation
+plugin_gpt_conf_description_label === Description
+plugin_gpt_conf_description_p === खालील मजकूर <strong>Description</strong> फील्डमध्ये कॉपी-पेस्ट करा. तुमच्या आवडीनुसार तो बदलण्यास मोकळे रहा.
+plugin_gpt_conf_description_value === यासह SMS आणि WhatsApp संदेश पाठवा
+plugin_gpt_conf_editsettings_btn === सेटिंग्ज
+plugin_gpt_conf_editsettings_title === ब्रिज सेटिंग्ज संपादित करा
+plugin_gpt_conf_important === महत्त्वाचे!
+plugin_gpt_conf_important_p === येथे सुरुवात करण्यापूर्वी, कृपया खात्री करा की तुम्ही अ‍ॅडमिन पॅनेलमध्ये आधीच प्लगइन सेटिंग्ज संपादित केल्या आहेत. जर तुम्ही अद्याप ते केले नसेल, तर कृपया खालील बटण वापरून संपादित करा आणि नंतर पान रिफ्रेश करा.
+plugin_gpt_conf_info_h === GPT माहिती
+plugin_gpt_conf_info_p === कृपया खालील माहिती तुमच्या GPT कॉन्फिगरेशनमध्ये टाका.
+plugin_gpt_conf_name_label === Name
+plugin_gpt_conf_name_p === खालील मजकूर <strong>Name</strong> फील्डमध्ये कॉपी-पेस्ट करा. हे तुम्ही प्लगइन सेटिंग्जमध्ये सेट केलेल्याशी जुळले पाहिजे.
+plugin_gpt_conf_privacypolicy_label === गोपनीयता धोरण
+plugin_gpt_conf_privacypolicy_p === खालील URL कॉपी करा आणि ती अ‍ॅक्शन सेटिंग्जच्या तळाशी असलेल्या <strong>Privacy policy</strong> फील्डमध्ये पेस्ट करा.
+plugin_gpt_conf_publish_anyonelink === <strong>Anyone with the link</strong> - तुम्ही GPT लिंक देण्यासाठी निवडलेल्या विशिष्ट लोकांना दृश्यमान.
+plugin_gpt_conf_publish_gptstore === <strong>GPT Store</strong> - ChatGPT च्या मोफत वापरकर्त्यांसह सर्वांना दृश्यमान.
+plugin_gpt_conf_publish_gptstore_warning === जर तुम्ही <strong>GPT Store</strong> मध्ये प्रकाशित करणे निवडले, तर खात्री करा की तुम्ही तुमची बिल्डर प्रोफाइल पूर्ण केली आहे आणि तुमच्या ChatGPT प्रोफाइल सेटिंग्जमध्ये तुमचे डोमेन सत्यापित केले आहे.
+plugin_gpt_conf_publish_h === GPT प्रकाशित करा
+plugin_gpt_conf_publish_onlyme === <strong>Only Me</strong> - फक्त तुम्हाला दृश्यमान.
+plugin_gpt_conf_publish_step1 === 1. वरच्या उजव्या कोपऱ्यात, <strong>Share</strong> बटणावर क्लिक करा. तुम्हाला खालील गोष्टी दिसतील.
+plugin_gpt_conf_publish_step2 === 2. तुम्हाला हवा असलेला प्रेक्षकवर्ग निवडा, तीन पर्याय आहेत.
+plugin_gpt_conf_publish_step3 === 3. तुमचा GPT प्रकाशित करण्यासाठी <strong>Save</strong> वर क्लिक करा.
+plugin_gpt_conf_publish_step4 === 4. सर्व पूर्ण झाले, आता तुम्ही हे पान बंद करू शकता.
+plugin_gpt_conf_schema_label === स्कीमा
+plugin_gpt_conf_schema_p === खालील URL कॉपी करा आणि ती <strong>Import from URL</strong> फील्डमध्ये पेस्ट करून <strong>Import</strong> दाबा.
+plugin_gpt_conf_title === GPT कॉन्फिगरेशन
+plugin_gpt_conf_webbrowsing_label === Web Browsing
+plugin_gpt_privacy_email_label === ईमेल:
+plugin_gpt_privacy_lastupdated === <strong>शेवटचे अद्यतनित:</strong>
+plugin_gpt_privacy_s1_h === 1. आम्ही गोळा करत असलेली माहिती
+plugin_gpt_privacy_s1_p1 === जेव्हा तुम्ही
+plugin_gpt_privacy_s1_p2 === सोबत संवाद साधता, तेव्हा आम्ही तुमचा अनुभव सुधारण्यासाठी आणि आमच्या सेवेचा सुरक्षित वापर सुनिश्चित करण्यासाठी काही माहिती गोळा करू शकतो. या माहितीमध्ये हे समाविष्ट आहे:
+plugin_gpt_privacy_s1a_h === अ) वैयक्तिक माहिती
+plugin_gpt_privacy_s1a_li1 === API Key (प्रमाणीकरण आणि एकत्रीकरणाच्या उद्देशाने)
+plugin_gpt_privacy_s1a_li2 === ईमेल पत्ता (सपोर्ट आणि खात्याशी संबंधित संवादासाठी)
+plugin_gpt_privacy_s1a_p1 === प्रवेश करण्यासाठी
+plugin_gpt_privacy_s1a_p2 === सेवेत, आम्ही तुम्हाला काही वैयक्तिकरित्या ओळखण्यायोग्य माहिती प्रदान करण्यास सांगू शकतो, ज्यात समाविष्ट आहे:
+plugin_gpt_privacy_s1b_h === ब) मेसेजिंग सामग्री
+plugin_gpt_privacy_s1b_li1 === प्राप्तकर्त्याचे फोन नंबर
+plugin_gpt_privacy_s1b_li2 === संदेश मजकूर
+plugin_gpt_privacy_s1b_li3 === मीडिया संलग्नके (WhatsApp संदेशांसाठी)
+plugin_gpt_privacy_s1b_note === तुमची विनंती प्रक्रिया केल्यानंतर संदेश सामग्री साठवत नाही.
+plugin_gpt_privacy_s1b_p1 === तुमच्या वतीने संदेश पाठवण्यासाठी,
+plugin_gpt_privacy_s1b_p2 === सेवा तुम्ही प्रदान केलेली सामग्री प्रक्रिया करते, ज्यात समाविष्ट आहे:
+plugin_gpt_privacy_s2_h === 2. आम्ही तुमची माहिती कशी वापरतो
+plugin_gpt_privacy_s2_li1a === सुलभ करण्यासाठी आणि चालवण्यासाठी
+plugin_gpt_privacy_s2_li1b === सेवा
+plugin_gpt_privacy_s2_li2 === वापरकर्त्याच्या विनंत्या प्रमाणित करण्यासाठी आणि API सेवांचा अधिकृत वापर सुनिश्चित करण्यासाठी
+plugin_gpt_privacy_s2_li3 === वापराच्या पद्धतींचे विश्लेषण करून आमची सेवा सुधारण्यासाठी
+plugin_gpt_privacy_s2_li4 === समस्यांचे निवारण करण्यासाठी आणि सपोर्ट प्रदान करण्यासाठी
+plugin_gpt_privacy_s2_li5 === आमची सेवा आणि वापरकर्त्यांना गैरवापरापासून संरक्षित करण्यासाठी
+plugin_gpt_privacy_s2_p === आम्ही गोळा केलेल्या माहितीचा वापर विविध उद्देशांसाठी करतो, ज्यात समाविष्ट आहे:
+plugin_gpt_privacy_s3_h === 3. डेटा सुरक्षा आणि धारणा
+plugin_gpt_privacy_s3_li1 === <strong>डेटा साठवण:</strong> विनंतीवर यशस्वीरित्या प्रक्रिया केल्यानंतर आम्ही संदेश सामग्री किंवा प्राप्तकर्ता डेटा राखून ठेवत नाही.
+plugin_gpt_privacy_s3_li2 === <strong>डेटा धारणा:</strong> API keys सारखी वैयक्तिकरित्या ओळखण्यायोग्य माहिती तुमच्या सत्राच्या कालावधीसाठी साठवली जाते आणि त्यानंतर हटवली जाते.
+plugin_gpt_privacy_s3_p1 === तुमची माहिती सुरक्षित राहावी यासाठी आम्ही कटिबद्ध आहोत.
+plugin_gpt_privacy_s3_p2 === अनधिकृत प्रवेश, बदल, प्रकटीकरण किंवा नाश यापासून तुमच्या वैयक्तिक माहितीचे संरक्षण करण्यासाठी व्यावसायिकदृष्ट्या वाजवी सुरक्षा उपाय वापरते.
+plugin_gpt_privacy_s4_h === 4. डेटा शेअरिंग आणि प्रकटीकरण
+plugin_gpt_privacy_s4_li1 === <strong>तृतीय-पक्ष सेवा प्रदात्यांसह:</strong> आम्ही आमच्या वतीने डेटा प्रक्रिया किंवा विश्लेषण करण्यासाठी तृतीय-पक्ष साधने वापरू शकतो.
+plugin_gpt_privacy_s4_li2 === <strong>कायदेशीर आवश्यकतांसाठी:</strong> कायदेशीर बंधने पूर्ण करण्यासाठी, अधिकारांचे संरक्षण करण्यासाठी किंवा आमच्या सेवेशी संबंधित गैरव्यवहाराचा तपास करण्यासाठी असे करणे आवश्यक आहे असे आम्हाला सद्भावनेने वाटल्यास किंवा कायदेशीररित्या आवश्यक असल्यास आम्ही माहिती उघड करू शकतो.
+plugin_gpt_privacy_s4_p1 === आम्ही माहिती फक्त तेव्हाच शेअर करतो जेव्हा
+plugin_gpt_privacy_s4_p2 === सेवा प्रदान करण्यासाठी आणि विशिष्ट परिस्थितीत ते आवश्यक असते:
+plugin_gpt_privacy_s5_h === 5. वापरकर्त्याचे हक्क आणि पर्याय
+plugin_gpt_privacy_s5_li1 === <strong>प्रवेश आणि सुधारणा:</strong> तुम्ही आमच्याकडे असलेल्या तुमच्या वैयक्तिक डेटामध्ये प्रवेशाची विनंती करू शकता आणि आम्हाला चुका सुधारण्यास सांगू शकता.
+plugin_gpt_privacy_s5_li2 === <strong>डेटा हटवणे:</strong> आमच्या कायदेशीर बंधनांच्या अधीन राहून, तुम्ही आमच्या सिस्टीममधून तुमचा वैयक्तिक डेटा हटवण्याची विनंती करू शकता.
+plugin_gpt_privacy_s5_li3 === <strong>डेटा पोर्टेबिलिटी:</strong> लागू असेल तेथे, तुम्हाला तुमच्या डेटाची एक संरचित, सामान्यतः वापरली जाणारी आणि मशीन-वाचनीय स्वरूपातील प्रत मिळवण्याचा अधिकार आहे.
+plugin_gpt_privacy_s5_p === आमच्याकडे असलेल्या माहितीबाबत तुम्हाला खालील हक्क आहेत:
+plugin_gpt_privacy_s6_h === 6. मुलांची गोपनीयता
+plugin_gpt_privacy_s6_p === 13 वर्षांखालील व्यक्तींसाठी नाही. आम्ही जाणूनबुजून मुलांकडून वैयक्तिक डेटा गोळा करत नाही किंवा मागवत नाही. जर आम्हाला आढळले की आम्ही अनवधानाने 13 वर्षांखालील मुलाकडून वैयक्तिक माहिती गोळा केली आहे, तर आम्ही ती शक्य तितक्या लवकर हटवण्यासाठी पावले उचलू.
+plugin_gpt_privacy_s7_h === 7. या गोपनीयता धोरणातील बदल
+plugin_gpt_privacy_s7_p === आम्ही वेळोवेळी आमचे गोपनीयता धोरण अद्यतनित करू शकतो. आम्ही या पानावर नवीन गोपनीयता धोरण पोस्ट करून तुम्हाला कोणत्याही बदलांची सूचना देऊ. कोणत्याही बदलांसाठी आम्ही तुम्हाला हे गोपनीयता धोरण वेळोवेळी पुनरावलोकन करण्यास प्रोत्साहित करतो.
+plugin_gpt_privacy_s8_h === 8. आमच्याशी संपर्क साधा
+plugin_gpt_privacy_s8_p === या गोपनीयता धोरणाबद्दल किंवा आमच्या डेटा पद्धतींबद्दल तुम्हाला काही प्रश्न किंवा चिंता असल्यास, कृपया आमच्याशी येथे संपर्क साधा:
+plugin_gpt_privacy_title === गोपनीयता धोरण -
+plugin_gpt_privacy_website_label === वेबसाइट:

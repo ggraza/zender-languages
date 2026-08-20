@@ -2974,3 +2974,95 @@ provider_credentials_label === Leverantörens uppgifter
 provider_manifest_label === Manifest (JSON)
 provider_manifest_help === Klistra in leverantörens .json-manifest här. Ladda ner det från leverantörernas repository, eller skriv ditt eget med boilerplate.json.
 provider_manifest_unreadable === Den här leverantören kunde inte läsas. Välj en annan, eller klistra in dess manifest manuellt.
+plugin_gpt_conf_actions_h === Åtgärder
+plugin_gpt_conf_actions_p === Skrolla ner och klicka på <strong>Create new action</strong>, läs sedan instruktionerna nedan.
+plugin_gpt_conf_auth_h === Autentisering
+plugin_gpt_conf_auth_screenshot_note === <small>Denna skärmbild är från innan kravet på Custom Header nedan infördes och visar fortfarande Bearer valt -- följ de skriftliga stegen, inte bilden.</small>
+plugin_gpt_conf_auth_step1 === 1. Välj <strong>API Key</strong>, sätt <strong>Auth Type</strong> till <strong>Custom</strong>, ställ sedan in <strong>Custom Header Name</strong> till <code>X-Zender-Token</code>.
+plugin_gpt_conf_auth_step2 === 2. Kopiera <strong>Authentication Token</strong> nedan och klistra in den i inmatningsfältet, spara sedan.
+plugin_gpt_conf_capabilities_label === Funktioner
+plugin_gpt_conf_capabilities_p === Kryssa i funktionerna som i exemplet nedan.
+plugin_gpt_conf_codeinterp_label === Code Interpreter & Data Analysis
+plugin_gpt_conf_conv1 === Vad kan du göra för mig?
+plugin_gpt_conf_conv2 === Skicka ett WhatsApp-meddelande
+plugin_gpt_conf_conv3 === Kontrollera min återstående SMS-kredit
+plugin_gpt_conf_conv4 === Hämta mina aktuella WhatsApp-konton
+plugin_gpt_conf_conv5 === Skicka ett SMS till ett telefonnummer
+plugin_gpt_conf_convstarters_label === Samtalsstartare
+plugin_gpt_conf_convstarters_p === Kopiera och klistra in följande samtalsstartare, ändra dem gärna efter eget tycke.
+plugin_gpt_conf_copy_btn === Kopiera
+plugin_gpt_conf_dalle_label === DALL·E Image Generation
+plugin_gpt_conf_description_label === Beskrivning
+plugin_gpt_conf_description_p === Kopiera och klistra in följande i fältet <strong>Description</strong>. Ändra gärna efter eget tycke.
+plugin_gpt_conf_description_value === Skicka SMS- och WhatsApp-meddelanden med
+plugin_gpt_conf_editsettings_btn === Inställningar
+plugin_gpt_conf_editsettings_title === Redigera bryggans inställningar
+plugin_gpt_conf_important === Viktigt!
+plugin_gpt_conf_important_p === Innan du börjar, se till att du redan har redigerat pluginets inställningar i adminpanelen. Om du inte har gjort det, redigera med knappen nedan och uppdatera sedan sidan.
+plugin_gpt_conf_info_h === GPT-information
+plugin_gpt_conf_info_p === Ange följande information i din GPT-konfiguration.
+plugin_gpt_conf_name_label === Namn
+plugin_gpt_conf_name_p === Kopiera och klistra in följande i fältet <strong>Name</strong>. Det bör matcha det du angav i pluginets inställningar.
+plugin_gpt_conf_privacypolicy_label === Privacy Policy
+plugin_gpt_conf_privacypolicy_p === Kopiera följande URL och klistra in den i fältet <strong>Privacy policy</strong> längst ner i åtgärdens inställningar.
+plugin_gpt_conf_publish_anyonelink === <strong>Anyone with the link</strong> - Synlig för specifika personer du väljer att ge GPT-länken till.
+plugin_gpt_conf_publish_gptstore === <strong>GPT Store</strong> - Synlig för alla, inklusive gratisanvändare av ChatGPT.
+plugin_gpt_conf_publish_gptstore_warning === Om du väljer att publicera i <strong>GPT Store</strong>, se till att du har fyllt i din utvecklarprofil och verifierat din domän i dina ChatGPT-profilinställningar.
+plugin_gpt_conf_publish_h === Publicera GPT
+plugin_gpt_conf_publish_onlyme === <strong>Only Me</strong> - Endast synlig för dig.
+plugin_gpt_conf_publish_step1 === 1. Klicka på knappen <strong>Share</strong> i det övre högra hörnet. Du bör se följande.
+plugin_gpt_conf_publish_step2 === 2. Välj din önskade målgrupp, det finns tre alternativ.
+plugin_gpt_conf_publish_step3 === 3. Klicka på <strong>Save</strong> för att publicera din GPT.
+plugin_gpt_conf_publish_step4 === 4. Klart, du kan nu stänga den här sidan.
+plugin_gpt_conf_schema_label === Schema
+plugin_gpt_conf_schema_p === Kopiera följande URL och klistra in den i fältet <strong>Import from URL</strong>, tryck sedan på <strong>Import</strong>.
+plugin_gpt_conf_title === GPT-konfiguration
+plugin_gpt_conf_webbrowsing_label === Web Browsing
+plugin_gpt_privacy_email_label === E-post:
+plugin_gpt_privacy_lastupdated === <strong>Senast uppdaterad:</strong>
+plugin_gpt_privacy_s1_h === 1. Information vi samlar in
+plugin_gpt_privacy_s1_p1 === När du interagerar med
+plugin_gpt_privacy_s1_p2 === , kan vi samla in viss information för att förbättra din upplevelse och säkerställa säker användning av vår tjänst. Denna information inkluderar:
+plugin_gpt_privacy_s1a_h === a) Personlig information
+plugin_gpt_privacy_s1a_li1 === API Key (för autentisering och integrationsändamål)
+plugin_gpt_privacy_s1a_li2 === E-postadress (för support och kontorelaterad kommunikation)
+plugin_gpt_privacy_s1a_p1 === För att få tillgång till
+plugin_gpt_privacy_s1a_p2 === -tjänsten kan vi be dig att lämna viss personligt identifierbar information, inklusive:
+plugin_gpt_privacy_s1b_h === b) Meddelandeinnehåll
+plugin_gpt_privacy_s1b_li1 === Mottagarens telefonnummer
+plugin_gpt_privacy_s1b_li2 === Meddelandetext
+plugin_gpt_privacy_s1b_li3 === Mediabilagor (för WhatsApp-meddelanden)
+plugin_gpt_privacy_s1b_note === lagrar inte meddelandeinnehåll efter att din begäran har behandlats.
+plugin_gpt_privacy_s1b_p1 === För att skicka meddelanden å dina vägnar behandlar
+plugin_gpt_privacy_s1b_p2 === -tjänsten det innehåll du tillhandahåller, inklusive:
+plugin_gpt_privacy_s2_h === 2. Hur vi använder din information
+plugin_gpt_privacy_s2_li1a === För att underlätta och driva
+plugin_gpt_privacy_s2_li1b === -tjänsten
+plugin_gpt_privacy_s2_li2 === För att autentisera användarförfrågningar och säkerställa auktoriserad användning av API-tjänster
+plugin_gpt_privacy_s2_li3 === För att förbättra vår tjänst genom att analysera användningsmönster
+plugin_gpt_privacy_s2_li4 === För att felsöka problem och tillhandahålla support
+plugin_gpt_privacy_s2_li5 === För att skydda vår tjänst och våra användare mot missbruk
+plugin_gpt_privacy_s2_p === Vi använder den information vi samlar in för olika syften, inklusive:
+plugin_gpt_privacy_s3_h === 3. Datasäkerhet och lagring
+plugin_gpt_privacy_s3_li1 === <strong>Datalagring:</strong> Vi behåller inte meddelandeinnehåll eller mottagardata efter att en begäran har behandlats framgångsrikt.
+plugin_gpt_privacy_s3_li2 === <strong>Datalagringstid:</strong> Personligt identifierbar information, såsom API-nycklar, lagras under din sessions varaktighet och raderas därefter.
+plugin_gpt_privacy_s3_p1 === Vi är fast beslutna att säkerställa att din information är säker.
+plugin_gpt_privacy_s3_p2 === använder kommersiellt rimliga säkerhetsåtgärder för att skydda din personliga information mot obehörig åtkomst, ändring, avslöjande eller förstörelse.
+plugin_gpt_privacy_s4_h === 4. Delning och utlämnande av uppgifter
+plugin_gpt_privacy_s4_li1 === <strong>Med tredjepartstjänsteleverantörer:</strong> Vi kan använda tredjepartsverktyg för att behandla eller analysera data å våra vägnar.
+plugin_gpt_privacy_s4_li2 === <strong>För rättsliga krav:</strong> Vi kan lämna ut information om det krävs enligt lag eller om vi i god tro tror att en sådan åtgärd är nödvändig för att uppfylla rättsliga skyldigheter, skydda rättigheter eller utreda oegentligheter relaterade till vår tjänst.
+plugin_gpt_privacy_s4_p1 === Vi delar endast information när det är nödvändigt för att tillhandahålla
+plugin_gpt_privacy_s4_p2 === -tjänsten och under specifika omständigheter:
+plugin_gpt_privacy_s5_h === 5. Användarens rättigheter och val
+plugin_gpt_privacy_s5_li1 === <strong>Åtkomst och korrigering:</strong> Du kan begära åtkomst till de personuppgifter vi har om dig och be oss korrigera felaktigheter.
+plugin_gpt_privacy_s5_li2 === <strong>Radering av data:</strong> Du kan begära radering av dina personuppgifter från våra system, med förbehåll för våra rättsliga skyldigheter.
+plugin_gpt_privacy_s5_li3 === <strong>Dataportabilitet:</strong> I tillämpliga fall har du rätt att få en kopia av dina uppgifter i ett strukturerat, allmänt använt och maskinläsbart format.
+plugin_gpt_privacy_s5_p === Du har följande rättigheter avseende den information vi har om dig:
+plugin_gpt_privacy_s6_h === 6. Barns integritet
+plugin_gpt_privacy_s6_p === är inte avsedd för användning av personer under 13 år. Vi samlar inte medvetet in eller efterfrågar personuppgifter från barn. Om vi upptäcker att vi oavsiktligt har samlat in personuppgifter från ett barn under 13 år kommer vi att vidta åtgärder för att radera informationen så snart som möjligt.
+plugin_gpt_privacy_s7_h === 7. Ändringar av denna integritetspolicy
+plugin_gpt_privacy_s7_p === Vi kan uppdatera vår integritetspolicy från tid till annan. Vi kommer att meddela dig om eventuella ändringar genom att publicera den nya integritetspolicyn på denna sida. Vi uppmuntrar dig att regelbundet granska denna integritetspolicy för eventuella ändringar.
+plugin_gpt_privacy_s8_h === 8. Kontakta oss
+plugin_gpt_privacy_s8_p === Om du har några frågor eller funderingar angående denna integritetspolicy eller vår datahantering, vänligen kontakta oss på:
+plugin_gpt_privacy_title === Integritetspolicy för
+plugin_gpt_privacy_website_label === Webbplats:

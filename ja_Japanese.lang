@@ -2974,3 +2974,95 @@ provider_credentials_label === プロバイダーの認証情報
 provider_manifest_label === マニフェスト（JSON）
 provider_manifest_help === ここにプロバイダーの.jsonマニフェストを貼り付けてください。プロバイダーリポジトリからダウンロードするか、boilerplate.jsonを使って自分で作成してください。
 provider_manifest_unreadable === このプロバイダーは読み込めませんでした。別のプロバイダーを選択するか、マニフェストを手動で貼り付けてください。
+plugin_gpt_conf_actions_h === アクション
+plugin_gpt_conf_actions_p === 下にスクロールして<strong>Create new action</strong>をクリックし、以下の手順を読んでください。
+plugin_gpt_conf_auth_h === 認証
+plugin_gpt_conf_auth_screenshot_note === <small>このスクリーンショットは以下のカスタムヘッダーの要件より前のもので、Bearerが選択された状態のままになっています -- 画像ではなく、記載された手順に従ってください。</small>
+plugin_gpt_conf_auth_step1 === 1. <strong>API Key</strong>を選択し、<strong>Auth Type</strong>を<strong>Custom</strong>に設定した後、<strong>Custom Header Name</strong>を<code>X-Zender-Token</code>に設定してください。
+plugin_gpt_conf_auth_step2 === 2. 下記の<strong>認証トークン</strong>をコピーして入力欄に貼り付け、保存してください。
+plugin_gpt_conf_capabilities_label === 機能
+plugin_gpt_conf_capabilities_p === 以下の例のように機能にチェックを入れてください。
+plugin_gpt_conf_codeinterp_label === Code Interpreter & Data Analysis
+plugin_gpt_conf_conv1 === 何をしてくれますか?
+plugin_gpt_conf_conv2 === WhatsAppメッセージを送信する
+plugin_gpt_conf_conv3 === 残りのSMSクレジットを確認する
+plugin_gpt_conf_conv4 === 現在のWhatsAppアカウントを取得する
+plugin_gpt_conf_conv5 === 電話番号にSMSメッセージを送信する
+plugin_gpt_conf_convstarters_label === 会話のきっかけ
+plugin_gpt_conf_convstarters_p === 以下の会話のきっかけをコピーして貼り付けてください。お好みで自由に変更いただけます。
+plugin_gpt_conf_copy_btn === コピー
+plugin_gpt_conf_dalle_label === DALL·E Image Generation
+plugin_gpt_conf_description_label === 説明
+plugin_gpt_conf_description_p === 以下を<strong>Description</strong>欄にコピーして貼り付けてください。お好みで自由に変更いただけます。
+plugin_gpt_conf_description_value === SMSとWhatsAppメッセージを送信できます:
+plugin_gpt_conf_editsettings_btn === 設定
+plugin_gpt_conf_editsettings_title === ブリッジ設定の編集
+plugin_gpt_conf_important === 重要!
+plugin_gpt_conf_important_p === 開始する前に、管理パネルでプラグイン設定をすでに編集済みであることを確認してください。まだの場合は、下のボタンから編集し、ページを更新してください。
+plugin_gpt_conf_info_h === GPT情報
+plugin_gpt_conf_info_p === 以下の情報をGPTの設定に入力してください。
+plugin_gpt_conf_name_label === 名前
+plugin_gpt_conf_name_p === 以下を<strong>Name</strong>欄にコピーして貼り付けてください。プラグイン設定で設定したものと一致させてください。
+plugin_gpt_conf_privacypolicy_label === プライバシーポリシー
+plugin_gpt_conf_privacypolicy_p === 以下のURLをコピーして、アクション設定の下部にある<strong>Privacy policy</strong>欄に貼り付けてください。
+plugin_gpt_conf_publish_anyonelink === <strong>Anyone with the link</strong> - GPTのリンクを渡した特定の相手にのみ表示されます。
+plugin_gpt_conf_publish_gptstore === <strong>GPT Store</strong> - ChatGPTの無料ユーザーを含む、すべての人に表示されます。
+plugin_gpt_conf_publish_gptstore_warning === <strong>GPT Store</strong>で公開する場合は、ビルダープロフィールを完成させ、ChatGPTのプロフィール設定でドメインを確認済みであることを確認してください。
+plugin_gpt_conf_publish_h === GPTを公開
+plugin_gpt_conf_publish_onlyme === <strong>Only Me</strong> - あなたにのみ表示されます。
+plugin_gpt_conf_publish_step1 === 1. 右上にある<strong>Share</strong>ボタンをクリックしてください。以下のような画面が表示されます。
+plugin_gpt_conf_publish_step2 === 2. お好みの公開範囲を選択してください。3つのオプションがあります。
+plugin_gpt_conf_publish_step3 === 3. <strong>Save</strong>をクリックしてGPTを公開してください。
+plugin_gpt_conf_publish_step4 === 4. 完了です。このページを閉じて構いません。
+plugin_gpt_conf_schema_label === スキーマ
+plugin_gpt_conf_schema_p === 以下のURLをコピーして<strong>Import from URL</strong>欄に貼り付け、<strong>Import</strong>を押してください。
+plugin_gpt_conf_title === GPT設定
+plugin_gpt_conf_webbrowsing_label === Web Browsing
+plugin_gpt_privacy_email_label === メール:
+plugin_gpt_privacy_lastupdated === <strong>最終更新日:</strong>
+plugin_gpt_privacy_s1_h === 1. 収集する情報
+plugin_gpt_privacy_s1_p1 === ご利用にあたり、
+plugin_gpt_privacy_s1_p2 === サービスでは、体験の向上と安全な利用の確保のため、一定の情報を収集することがあります。収集する情報には次のものが含まれます:
+plugin_gpt_privacy_s1a_h === a) 個人情報
+plugin_gpt_privacy_s1a_li1 === APIキー(認証および連携のため)
+plugin_gpt_privacy_s1a_li2 === メールアドレス(サポートおよびアカウントに関する連絡のため)
+plugin_gpt_privacy_s1a_p1 === アクセスの際には、
+plugin_gpt_privacy_s1a_p2 === サービスのご利用にあたり、本人確認に必要な次のような個人情報の提供をお願いする場合があります:
+plugin_gpt_privacy_s1b_h === b) メッセージの内容
+plugin_gpt_privacy_s1b_li1 === 受信者の電話番号
+plugin_gpt_privacy_s1b_li2 === メッセージ本文
+plugin_gpt_privacy_s1b_li3 === メディア添付ファイル(WhatsAppメッセージの場合)
+plugin_gpt_privacy_s1b_note === は、リクエストの処理後、メッセージの内容を保存しません。
+plugin_gpt_privacy_s1b_p1 === お客様に代わって、
+plugin_gpt_privacy_s1b_p2 === はメッセージを送信するため、お客様がご提供いただいた次のような内容を処理します:
+plugin_gpt_privacy_s2_h === 2. 情報の利用目的
+plugin_gpt_privacy_s2_li1a === 当社の
+plugin_gpt_privacy_s2_li1b === サービスの円滑な提供及び運営のため
+plugin_gpt_privacy_s2_li2 === ユーザーからのリクエストを認証し、APIサービスの正当な利用を確保するため
+plugin_gpt_privacy_s2_li3 === 利用状況の分析によりサービスを改善するため
+plugin_gpt_privacy_s2_li4 === 問題のトラブルシューティングとサポート提供のため
+plugin_gpt_privacy_s2_li5 === 不正利用からサービスおよびユーザーを保護するため
+plugin_gpt_privacy_s2_p === 収集した情報は、以下を含むさまざまな目的で使用します:
+plugin_gpt_privacy_s3_h === 3. データのセキュリティと保持
+plugin_gpt_privacy_s3_li1 === <strong>Data Storage:</strong> リクエストの処理が完了した後は、メッセージの内容や受信者データを保持しません。
+plugin_gpt_privacy_s3_li2 === <strong>Data Retention:</strong> APIキーなどの個人を特定できる情報は、セッション中のみ保持され、その後削除されます。
+plugin_gpt_privacy_s3_p1 === お客様の情報の安全性を確保することをお約束します。
+plugin_gpt_privacy_s3_p2 === は、お客様の個人情報を不正アクセス、改ざん、開示、破壊から保護するため、商業上妥当なセキュリティ対策を講じています。
+plugin_gpt_privacy_s4_h === 4. データの共有と開示
+plugin_gpt_privacy_s4_li1 === <strong>With Third-Party Service Providers:</strong> 当社に代わってデータを処理・分析するために、第三者のツールを利用する場合があります。
+plugin_gpt_privacy_s4_li2 === <strong>For Legal Requirements:</strong> 法的に要求される場合、または法的義務の遵守、権利の保護、もしくは当サービスに関連する不正行為の調査のために必要であると誠実に判断した場合、情報を開示することがあります。
+plugin_gpt_privacy_s4_p1 === 情報を共有するのは、
+plugin_gpt_privacy_s4_p2 === サービスの提供に必要な場合、かつ次のような特定の状況に限られます:
+plugin_gpt_privacy_s5_h === 5. ユーザーの権利と選択肢
+plugin_gpt_privacy_s5_li1 === <strong>Access and Correction:</strong> 当社が保有するお客様の個人データへのアクセスを要求し、不正確な内容の訂正を依頼することができます。
+plugin_gpt_privacy_s5_li2 === <strong>Data Deletion:</strong> 法的義務が許す範囲で、当社のシステムからお客様の個人データを削除するよう要求することができます。
+plugin_gpt_privacy_s5_li3 === <strong>Data Portability:</strong> 該当する場合、構造化され一般的に利用され、機械が読み取り可能な形式でお客様のデータのコピーを受け取る権利があります。
+plugin_gpt_privacy_s5_p === お客様は、当社が保有する情報について以下の権利を有します:
+plugin_gpt_privacy_s6_h === 6. お子様のプライバシー
+plugin_gpt_privacy_s6_p === は13歳未満の方の利用を想定していません。当社は子供から意図的に個人データを収集または勧誘することはありません。13歳未満のお子様から誤って個人情報を収集したことが判明した場合、速やかにその情報を削除するための措置を講じます。
+plugin_gpt_privacy_s7_h === 7. 本プライバシーポリシーの変更
+plugin_gpt_privacy_s7_p === 当社はプライバシーポリシーを随時更新することがあります。変更があった場合は、本ページに新しいプライバシーポリシーを掲載してお知らせします。変更内容について定期的にご確認いただくことをお勧めします。
+plugin_gpt_privacy_s8_h === 8. お問い合わせ
+plugin_gpt_privacy_s8_p === 本プライバシーポリシーまたは当社のデータ取り扱いについてご質問やご懸念がある場合は、以下までお問い合わせください:
+plugin_gpt_privacy_title === プライバシーポリシー -
+plugin_gpt_privacy_website_label === ウェブサイト:

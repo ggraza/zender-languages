@@ -2974,3 +2974,95 @@ provider_credentials_label === 提供者凭据
 provider_manifest_label === 清单（JSON）
 provider_manifest_help === 在此粘贴提供者的 .json 清单。从提供者仓库下载，或使用 boilerplate.json 自行编写。
 provider_manifest_unreadable === 无法读取该提供者。请选择另一个，或手动粘贴其清单。
+plugin_gpt_conf_actions_h === 操作
+plugin_gpt_conf_actions_p === 向下滚动并点击<strong>Create new action</strong>，然后阅读下方的说明。
+plugin_gpt_conf_auth_h === 身份验证
+plugin_gpt_conf_auth_screenshot_note === <small>此截图早于下方的 Custom Header 要求，图中仍显示选中的是 Bearer——请按照文字步骤操作，而非参照图片。</small>
+plugin_gpt_conf_auth_step1 === 1. 选择<strong>API Key</strong>，将<strong>Auth Type</strong>设置为<strong>Custom</strong>，然后将<strong>Custom Header Name</strong>设置为<code>X-Zender-Token</code>。
+plugin_gpt_conf_auth_step2 === 2. 复制下方的<strong>Authentication Token</strong>，粘贴到输入框中并保存。
+plugin_gpt_conf_capabilities_label === 功能
+plugin_gpt_conf_capabilities_p === 按照下方示例勾选相应功能。
+plugin_gpt_conf_codeinterp_label === Code Interpreter & Data Analysis
+plugin_gpt_conf_conv1 === 你能为我做什么？
+plugin_gpt_conf_conv2 === 发送一条 WhatsApp 消息
+plugin_gpt_conf_conv3 === 查询我剩余的短信额度
+plugin_gpt_conf_conv4 === 获取我当前的 WhatsApp 账户
+plugin_gpt_conf_conv5 === 向某个电话号码发送短信
+plugin_gpt_conf_convstarters_label === 对话开场白
+plugin_gpt_conf_convstarters_p === 复制并粘贴以下对话开场白，你可以随意修改。
+plugin_gpt_conf_copy_btn === 复制
+plugin_gpt_conf_dalle_label === DALL·E Image Generation
+plugin_gpt_conf_description_label === Description
+plugin_gpt_conf_description_p === 将以下内容复制粘贴到<strong>Description</strong>字段中。你可以随意修改。
+plugin_gpt_conf_description_value === 发送短信和 WhatsApp 消息，使用
+plugin_gpt_conf_editsettings_btn === 设置
+plugin_gpt_conf_editsettings_title === 编辑桥接设置
+plugin_gpt_conf_important === 重要！
+plugin_gpt_conf_important_p === 在开始之前，请确保你已经在管理面板中编辑过插件设置。如果尚未完成，请使用下方按钮进行编辑，然后刷新此页面。
+plugin_gpt_conf_info_h === GPT 信息
+plugin_gpt_conf_info_p === 请将以下信息填写到你的 GPT 配置中。
+plugin_gpt_conf_name_label === Name
+plugin_gpt_conf_name_p === 将以下内容复制粘贴到<strong>Name</strong>字段中。这应与你在插件设置中设置的名称一致。
+plugin_gpt_conf_privacypolicy_label === 隐私政策
+plugin_gpt_conf_privacypolicy_p === 复制以下网址，并粘贴到操作设置底部的<strong>Privacy policy</strong>字段中。
+plugin_gpt_conf_publish_anyonelink === <strong>Anyone with the link</strong> - 仅对你选择分享 GPT 链接的特定人员可见。
+plugin_gpt_conf_publish_gptstore === <strong>GPT Store</strong> - 对所有人可见，包括 ChatGPT 的免费用户。
+plugin_gpt_conf_publish_gptstore_warning === 如果你选择在<strong>GPT Store</strong>中发布，请确保你已完成创建者资料，并在 ChatGPT 个人资料设置中验证了你的域名。
+plugin_gpt_conf_publish_h === 发布 GPT
+plugin_gpt_conf_publish_onlyme === <strong>Only Me</strong> - 仅对你自己可见。
+plugin_gpt_conf_publish_step1 === 1. 在右上角点击<strong>Share</strong>按钮。你应该会看到如下内容。
+plugin_gpt_conf_publish_step2 === 2. 选择你偏好的受众，共有三个选项。
+plugin_gpt_conf_publish_step3 === 3. 点击<strong>Save</strong>以发布你的 GPT。
+plugin_gpt_conf_publish_step4 === 4. 全部完成，你现在可以关闭此页面了。
+plugin_gpt_conf_schema_label === Schema
+plugin_gpt_conf_schema_p === 复制以下网址，粘贴到<strong>Import from URL</strong>字段中，然后点击<strong>Import</strong>。
+plugin_gpt_conf_title === GPT 配置
+plugin_gpt_conf_webbrowsing_label === Web Browsing
+plugin_gpt_privacy_email_label === 邮箱：
+plugin_gpt_privacy_lastupdated === <strong>最后更新时间：</strong>
+plugin_gpt_privacy_s1_h === 1. 我们收集的信息
+plugin_gpt_privacy_s1_p1 === 当你与
+plugin_gpt_privacy_s1_p2 === 互动时，我们可能会收集某些信息，以提升你的体验并确保我们服务的安全使用。这些信息包括：
+plugin_gpt_privacy_s1a_h === a) 个人信息
+plugin_gpt_privacy_s1a_li1 === API Key（用于身份验证和集成目的）
+plugin_gpt_privacy_s1a_li2 === 电子邮箱地址（用于支持和账户相关沟通）
+plugin_gpt_privacy_s1a_p1 === 为访问
+plugin_gpt_privacy_s1a_p2 === 服务，我们可能会要求你提供某些个人身份信息，包括：
+plugin_gpt_privacy_s1b_h === b) 消息内容
+plugin_gpt_privacy_s1b_li1 === 收件人电话号码
+plugin_gpt_privacy_s1b_li2 === 消息文本
+plugin_gpt_privacy_s1b_li3 === 媒体附件（用于 WhatsApp 消息）
+plugin_gpt_privacy_s1b_note === 在处理完你的请求后不会存储消息内容。
+plugin_gpt_privacy_s1b_p1 === 为了代表你发送消息，
+plugin_gpt_privacy_s1b_p2 === 服务会处理你提供的内容，包括：
+plugin_gpt_privacy_s2_h === 2. 我们如何使用你的信息
+plugin_gpt_privacy_s2_li1a === 为促进和运营该
+plugin_gpt_privacy_s2_li1b === 服务
+plugin_gpt_privacy_s2_li2 === 验证用户请求并确保 API 服务的授权使用
+plugin_gpt_privacy_s2_li3 === 通过分析使用模式来改进我们的服务
+plugin_gpt_privacy_s2_li4 === 排查问题并提供支持
+plugin_gpt_privacy_s2_li5 === 保护我们的服务和用户免遭滥用
+plugin_gpt_privacy_s2_p === 我们将收集的信息用于多种目的，包括：
+plugin_gpt_privacy_s3_h === 3. 数据安全与保留
+plugin_gpt_privacy_s3_li1 === <strong>数据存储：</strong>在成功处理请求后，我们不会保留消息内容或收件人数据。
+plugin_gpt_privacy_s3_li2 === <strong>数据保留：</strong>个人身份信息（如 API 密钥）会在你的会话期间保存，并在此后删除。
+plugin_gpt_privacy_s3_p1 === 我们致力于确保你的信息安全。
+plugin_gpt_privacy_s3_p2 === 使用商业上合理的安全措施来保护你的个人信息，防止未经授权的访问、更改、披露或破坏。
+plugin_gpt_privacy_s4_h === 4. 数据共享与披露
+plugin_gpt_privacy_s4_li1 === <strong>与第三方服务提供商：</strong>我们可能会使用第三方工具代表我们处理或分析数据。
+plugin_gpt_privacy_s4_li2 === <strong>基于法律要求：</strong>如果法律要求，或者我们善意地认为此类行为对于遵守法律义务、保护权利或调查与我们服务相关的不当行为是必要的，我们可能会披露信息。
+plugin_gpt_privacy_s4_p1 === 我们仅在必要时分享信息，以提供该
+plugin_gpt_privacy_s4_p2 === 服务，且仅限于特定情形：
+plugin_gpt_privacy_s5_h === 5. 用户权利与选择
+plugin_gpt_privacy_s5_li1 === <strong>访问与更正：</strong>你可以请求访问我们持有的关于你的个人数据，并要求我们更正不准确之处。
+plugin_gpt_privacy_s5_li2 === <strong>数据删除：</strong>在遵守我们法律义务的前提下，你可以请求从我们的系统中删除你的个人数据。
+plugin_gpt_privacy_s5_li3 === <strong>数据可携带性：</strong>在适用的情况下，你有权以结构化、常用且机器可读的格式获取你的数据副本。
+plugin_gpt_privacy_s5_p === 对于我们持有的关于你的信息，你享有以下权利：
+plugin_gpt_privacy_s6_h === 6. 儿童隐私
+plugin_gpt_privacy_s6_p === 不适用于 13 岁以下的个人使用。我们不会故意收集或征求儿童的个人数据。如果我们发现无意中收集了 13 岁以下儿童的个人信息，我们将尽快采取措施删除该信息。
+plugin_gpt_privacy_s7_h === 7. 本隐私政策的变更
+plugin_gpt_privacy_s7_p === 我们可能会不时更新我们的隐私政策。我们会通过在本页面发布新的隐私政策来通知你任何变更。我们建议你定期查看本隐私政策以了解任何变化。
+plugin_gpt_privacy_s8_h === 8. 联系我们
+plugin_gpt_privacy_s8_p === 如果你对本隐私政策或我们的数据处理方式有任何疑问或顾虑，请通过以下方式联系我们：
+plugin_gpt_privacy_title === 隐私政策 -
+plugin_gpt_privacy_website_label === 网站：

@@ -2974,3 +2974,95 @@ provider_credentials_label === Акредитиви провајдера
 provider_manifest_label === Манифест (JSON)
 provider_manifest_help === Овде налепите .json манифест провајдера. Преузмите га из репозиторијума провајдера, или напишите свој користећи boilerplate.json.
 provider_manifest_unreadable === Овај провајдер није могао бити прочитан. Изаберите другог, или ручно налепите његов манифест.
+plugin_gpt_conf_actions_h === Радње
+plugin_gpt_conf_actions_p === Померите се надоле и кликните на <strong>Create new action</strong>, а затим прочитајте следећа упутства испод.
+plugin_gpt_conf_auth_h === Аутентификација
+plugin_gpt_conf_auth_screenshot_note === <small>Овај снимак екрана претходи доле наведеном захтеву за Custom Header и и даље приказује изабрано Bearer -- пратите писана упутства, а не слику.</small>
+plugin_gpt_conf_auth_step1 === 1. Изаберите <strong>API Key</strong>, поставите <strong>Auth Type</strong> на <strong>Custom</strong>, затим поставите <strong>Custom Header Name</strong> на <code>X-Zender-Token</code>.
+plugin_gpt_conf_auth_step2 === 2. Копирајте <strong>Authentication Token</strong> испод и налепите га у поље за унос, а затим сачувајте.
+plugin_gpt_conf_capabilities_label === Могућности
+plugin_gpt_conf_capabilities_p === Означите могућности као у следећем примеру испод.
+plugin_gpt_conf_codeinterp_label === Code Interpreter & Data Analysis
+plugin_gpt_conf_conv1 === Шта можеш да урадиш за мене?
+plugin_gpt_conf_conv2 === Пошаљи WhatsApp поруку
+plugin_gpt_conf_conv3 === Провери мој преостали SMS кредит
+plugin_gpt_conf_conv4 === Прикажи моје тренутне WhatsApp налоге
+plugin_gpt_conf_conv5 === Пошаљи SMS поруку на телефонски број
+plugin_gpt_conf_convstarters_label === Подстицаји за разговор
+plugin_gpt_conf_convstarters_p === Копирајте и налепите следеће подстицаје за разговор, слободно их измените по свом укусу.
+plugin_gpt_conf_copy_btn === Копирај
+plugin_gpt_conf_dalle_label === DALL·E Image Generation
+plugin_gpt_conf_description_label === Опис
+plugin_gpt_conf_description_p === Копирајте и налепите следеће у поље <strong>Description</strong>. Слободно то измените по свом укусу.
+plugin_gpt_conf_description_value === Шаљите SMS и WhatsApp поруке уз помоћ
+plugin_gpt_conf_editsettings_btn === Подешавања
+plugin_gpt_conf_editsettings_title === Измени подешавања моста
+plugin_gpt_conf_important === Важно!
+plugin_gpt_conf_important_p === Пре него што почнете, проверите да ли сте већ изменили подешавања додатка у административном панелу. Ако то нисте урадили, измените их помоћу дугмета испод, а затим освежите страницу.
+plugin_gpt_conf_info_h === Информације о GPT-у
+plugin_gpt_conf_info_p === Унесите следеће информације у конфигурацију вашег GPT-а.
+plugin_gpt_conf_name_label === Име
+plugin_gpt_conf_name_p === Копирајте и налепите следеће у поље <strong>Name</strong>. Ово треба да се поклапа са именом које сте поставили у подешавањима додатка.
+plugin_gpt_conf_privacypolicy_label === Privacy Policy
+plugin_gpt_conf_privacypolicy_p === Копирајте следећи URL и налепите га у поље <strong>Privacy policy</strong> на дну подешавања радње.
+plugin_gpt_conf_publish_anyonelink === <strong>Anyone with the link</strong> - Видљиво одређеним људима којима одлучите да дате линк ка GPT-у.
+plugin_gpt_conf_publish_gptstore === <strong>GPT Store</strong> - Видљиво свима, укључујући бесплатне кориснике ChatGPT-а.
+plugin_gpt_conf_publish_gptstore_warning === Ако одлучите да објавите у <strong>GPT Store</strong>, проверите да ли сте попунили свој профил креатора и верификовали домен у подешавањима вашег ChatGPT профила.
+plugin_gpt_conf_publish_h === Објави GPT
+plugin_gpt_conf_publish_onlyme === <strong>Only Me</strong> - Видљиво само вама.
+plugin_gpt_conf_publish_step1 === 1. У горњем десном углу кликните на дугме <strong>Share</strong>. Требало би да видите следеће.
+plugin_gpt_conf_publish_step2 === 2. Изаберите публику коју желите, доступне су три опције.
+plugin_gpt_conf_publish_step3 === 3. Кликните на <strong>Save</strong> да бисте објавили свој GPT.
+plugin_gpt_conf_publish_step4 === 4. Готово, сада можете затворити ову страницу.
+plugin_gpt_conf_schema_label === Шема
+plugin_gpt_conf_schema_p === Копирајте следећи URL и налепите га у поље <strong>Import from URL</strong>, а затим притисните <strong>Import</strong>.
+plugin_gpt_conf_title === Конфигурација GPT-а
+plugin_gpt_conf_webbrowsing_label === Web Browsing
+plugin_gpt_privacy_email_label === Е-пошта:
+plugin_gpt_privacy_lastupdated === <strong>Последње ажурирано:</strong>
+plugin_gpt_privacy_s1_h === 1. Информације које прикупљамо
+plugin_gpt_privacy_s1_p1 === Када комуницирате са
+plugin_gpt_privacy_s1_p2 === , можемо прикупити одређене информације како бисмо унапредили ваше искуство и обезбедили безбедно коришћење наше услуге. Ове информације укључују:
+plugin_gpt_privacy_s1a_h === а) Лични подаци
+plugin_gpt_privacy_s1a_li1 === API Key (у сврхе аутентификације и интеграције)
+plugin_gpt_privacy_s1a_li2 === Адреса е-поште (за подршку и комуникацију у вези са налогом)
+plugin_gpt_privacy_s1a_p1 === Да бисте приступили услузи
+plugin_gpt_privacy_s1a_p2 === можда ћемо тражити да нам доставите одређене личне идентификационе податке, укључујући:
+plugin_gpt_privacy_s1b_h === б) Садржај порука
+plugin_gpt_privacy_s1b_li1 === Телефонски бројеви примаоца
+plugin_gpt_privacy_s1b_li2 === Текст поруке
+plugin_gpt_privacy_s1b_li3 === Медијски прилози (за WhatsApp поруке)
+plugin_gpt_privacy_s1b_note === не чува садржај порука након обраде вашег захтева.
+plugin_gpt_privacy_s1b_p1 === Да би у ваше име слала поруке, услуга
+plugin_gpt_privacy_s1b_p2 === обрађује садржај који доставите, укључујући:
+plugin_gpt_privacy_s2_h === 2. Како користимо ваше информације
+plugin_gpt_privacy_s2_li1a === Да бисмо олакшали и обезбедили функционисање
+plugin_gpt_privacy_s2_li1b === услуге
+plugin_gpt_privacy_s2_li2 === Да бисмо аутентификовали захтеве корисника и обезбедили овлашћено коришћење API услуга
+plugin_gpt_privacy_s2_li3 === Да бисмо унапредили нашу услугу анализом образаца коришћења
+plugin_gpt_privacy_s2_li4 === Да бисмо решавали проблеме и пружали подршку
+plugin_gpt_privacy_s2_li5 === Да бисмо заштитили нашу услугу и кориснике од злоупотребе
+plugin_gpt_privacy_s2_p === Прикупљене информације користимо у разне сврхе, укључујући:
+plugin_gpt_privacy_s3_h === 3. Безбедност и чување података
+plugin_gpt_privacy_s3_li1 === <strong>Складиштење података:</strong> Не задржавамо садржај порука нити податке о примаоцима након успешне обраде захтева.
+plugin_gpt_privacy_s3_li2 === <strong>Чување података:</strong> Лични идентификациони подаци, попут API кључева, чувају се током трајања ваше сесије, а затим се бришу.
+plugin_gpt_privacy_s3_p1 === Посвећени смо обезбеђивању безбедности ваших информација.
+plugin_gpt_privacy_s3_p2 === користи комерцијално разумне безбедносне мере за заштиту ваших личних података од неовлашћеног приступа, измене, откривања или уништења.
+plugin_gpt_privacy_s4_h === 4. Дељење и откривање података
+plugin_gpt_privacy_s4_li1 === <strong>Са пружаоцима услуга трећих страна:</strong> Можемо користити алате трећих страна за обраду или анализу података у наше име.
+plugin_gpt_privacy_s4_li2 === <strong>Из правних разлога:</strong> Можемо открити информације ако је то законски обавезно или ако у доброј вери верујемо да је такво поступање неопходно ради поштовања правних обавеза, заштите права или истраге неправилности везаних за нашу услугу.
+plugin_gpt_privacy_s4_p1 === Информације делимо само када је то неопходно за пружање услуге
+plugin_gpt_privacy_s4_p2 === и под одређеним околностима:
+plugin_gpt_privacy_s5_h === 5. Права и избори корисника
+plugin_gpt_privacy_s5_li1 === <strong>Приступ и исправка:</strong> Можете затражити приступ личним подацима које чувамо о вама и затражити да исправимо нетачности.
+plugin_gpt_privacy_s5_li2 === <strong>Брисање података:</strong> Можете затражити брисање својих личних података из наших система, у складу са нашим законским обавезама.
+plugin_gpt_privacy_s5_li3 === <strong>Преносивост података:</strong> Када је применљиво, имате право да добијете копију својих података у структурираном, уобичајено коришћеном и машински читљивом формату.
+plugin_gpt_privacy_s5_p === Имате следећа права у вези са информацијама које чувамо о вама:
+plugin_gpt_privacy_s6_h === 6. Приватност деце
+plugin_gpt_privacy_s6_p === није намењена за коришћење особама млађим од 13 година. Свесно не прикупљамо нити тражимо личне податке од деце. Ако утврдимо да смо ненамерно прикупили личне податке од детета млађег од 13 година, предузећемо кораке да те информације обришемо што је пре могуће.
+plugin_gpt_privacy_s7_h === 7. Измене ове Политике приватности
+plugin_gpt_privacy_s7_p === Нашу Политику приватности можемо повремено ажурирати. О свим изменама ћемо вас обавестити објављивањем нове Политике приватности на овој страници. Препоручујемо вам да повремено прегледате ову Политику приватности ради евентуалних измена.
+plugin_gpt_privacy_s8_h === 8. Контактирајте нас
+plugin_gpt_privacy_s8_p === Ако имате било каква питања или недоумице у вези са овом Политиком приватности или нашом праксом обраде података, контактирајте нас на:
+plugin_gpt_privacy_title === Политика приватности за
+plugin_gpt_privacy_website_label === Веб-сајт:

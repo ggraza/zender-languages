@@ -2974,3 +2974,95 @@ provider_credentials_label === Credenciales del proveedor
 provider_manifest_label === Manifiesto (JSON)
 provider_manifest_help === Pegue aquí el manifiesto .json del proveedor. Descárguelo del repositorio de proveedores, o escriba el suyo usando boilerplate.json.
 provider_manifest_unreadable === No se pudo leer ese proveedor. Elija otro, o pegue su manifiesto manualmente.
+plugin_gpt_conf_actions_h === Acciones
+plugin_gpt_conf_actions_p === Desplácese hacia abajo y haga clic en <strong>Create new action</strong>, luego lea las siguientes instrucciones.
+plugin_gpt_conf_auth_h === Autenticación
+plugin_gpt_conf_auth_screenshot_note === <small>Esta captura de pantalla es anterior al requisito de encabezado personalizado descrito a continuación y aún muestra Bearer seleccionado -- siga los pasos escritos, no la imagen.</small>
+plugin_gpt_conf_auth_step1 === 1. Seleccione <strong>API Key</strong>, configure <strong>Auth Type</strong> como <strong>Custom</strong>, y luego configure <strong>Custom Header Name</strong> como <code>X-Zender-Token</code>.
+plugin_gpt_conf_auth_step2 === 2. Copie el <strong>Token de autenticación</strong> de abajo y péguelo en el campo correspondiente, luego guarde.
+plugin_gpt_conf_capabilities_label === Capacidades
+plugin_gpt_conf_capabilities_p === Marque las capacidades como en el siguiente ejemplo.
+plugin_gpt_conf_codeinterp_label === Code Interpreter & Data Analysis
+plugin_gpt_conf_conv1 === ¿Qué puedes hacer por mí?
+plugin_gpt_conf_conv2 === Enviar un mensaje de WhatsApp
+plugin_gpt_conf_conv3 === Consultar mis créditos SMS restantes
+plugin_gpt_conf_conv4 === Obtener mis cuentas de WhatsApp actuales
+plugin_gpt_conf_conv5 === Enviar un mensaje SMS a un número de teléfono
+plugin_gpt_conf_convstarters_label === Iniciadores de conversación
+plugin_gpt_conf_convstarters_p === Copie y pegue los siguientes iniciadores de conversación, siéntase libre de modificarlos a su gusto.
+plugin_gpt_conf_copy_btn === Copiar
+plugin_gpt_conf_dalle_label === DALL·E Image Generation
+plugin_gpt_conf_description_label === Description
+plugin_gpt_conf_description_p === Copie y pegue lo siguiente en el campo <strong>Description</strong>. Siéntase libre de modificarlo a su gusto.
+plugin_gpt_conf_description_value === Envía mensajes SMS y de WhatsApp con
+plugin_gpt_conf_editsettings_btn === Configuración
+plugin_gpt_conf_editsettings_title === Editar configuración del Bridge
+plugin_gpt_conf_important === ¡Importante!
+plugin_gpt_conf_important_p === Antes de comenzar aquí, asegúrese de haber editado ya la configuración del plugin en el panel de administración. Si no lo ha hecho, edítela con el botón de abajo y luego actualice la página.
+plugin_gpt_conf_info_h === Información del GPT
+plugin_gpt_conf_info_p === Ingrese la siguiente información en la configuración de su GPT.
+plugin_gpt_conf_name_label === Name
+plugin_gpt_conf_name_p === Copie y pegue lo siguiente en el campo <strong>Name</strong>. Debe coincidir con el que estableció en la configuración del plugin.
+plugin_gpt_conf_privacypolicy_label === Privacy Policy
+plugin_gpt_conf_privacypolicy_p === Copie la siguiente URL y péguela en el campo <strong>Privacy policy</strong>, al final de la configuración de la acción.
+plugin_gpt_conf_publish_anyonelink === <strong>Anyone with the link</strong> - Visible para las personas específicas a las que decida darles el enlace del GPT.
+plugin_gpt_conf_publish_gptstore === <strong>GPT Store</strong> - Visible para todos, incluidos los usuarios gratuitos de ChatGPT.
+plugin_gpt_conf_publish_gptstore_warning === Si elige publicar en <strong>GPT Store</strong>, asegúrese de haber completado su perfil de creador y verificado su dominio en la configuración de su perfil de ChatGPT.
+plugin_gpt_conf_publish_h === Publicar GPT
+plugin_gpt_conf_publish_onlyme === <strong>Only Me</strong> - Visible solo para usted.
+plugin_gpt_conf_publish_step1 === 1. En la esquina superior derecha, haga clic en el botón <strong>Share</strong>. Debería ver lo siguiente.
+plugin_gpt_conf_publish_step2 === 2. Seleccione la audiencia que prefiera, hay tres opciones.
+plugin_gpt_conf_publish_step3 === 3. Haga clic en <strong>Save</strong> para publicar su GPT.
+plugin_gpt_conf_publish_step4 === 4. Listo, ya puede cerrar esta página.
+plugin_gpt_conf_schema_label === Schema
+plugin_gpt_conf_schema_p === Copie la siguiente URL y péguela en el campo <strong>Import from URL</strong>, luego presione <strong>Import</strong>.
+plugin_gpt_conf_title === Configuración de GPT
+plugin_gpt_conf_webbrowsing_label === Web Browsing
+plugin_gpt_privacy_email_label === Correo electrónico:
+plugin_gpt_privacy_lastupdated === <strong>Última actualización:</strong>
+plugin_gpt_privacy_s1_h === 1. Información que recopilamos
+plugin_gpt_privacy_s1_p1 === Cuando interactúa con
+plugin_gpt_privacy_s1_p2 === , podemos recopilar cierta información para mejorar su experiencia y garantizar el uso seguro de nuestro servicio. Esta información incluye:
+plugin_gpt_privacy_s1a_h === a) Información personal
+plugin_gpt_privacy_s1a_li1 === API Key (con fines de autenticación e integración)
+plugin_gpt_privacy_s1a_li2 === Dirección de correo electrónico (para soporte y comunicación relacionada con la cuenta)
+plugin_gpt_privacy_s1a_p1 === Para acceder a
+plugin_gpt_privacy_s1a_p2 === , es posible que le pidamos que proporcione cierta información de identificación personal, incluyendo:
+plugin_gpt_privacy_s1b_h === b) Contenido de los mensajes
+plugin_gpt_privacy_s1b_li1 === Números de teléfono de los destinatarios
+plugin_gpt_privacy_s1b_li2 === Texto del mensaje
+plugin_gpt_privacy_s1b_li3 === Archivos multimedia adjuntos (para mensajes de WhatsApp)
+plugin_gpt_privacy_s1b_note === no almacena el contenido de los mensajes después de procesar su solicitud.
+plugin_gpt_privacy_s1b_p1 === Para enviar mensajes en su nombre, el servicio de
+plugin_gpt_privacy_s1b_p2 === procesa el contenido que usted proporciona, incluyendo:
+plugin_gpt_privacy_s2_h === 2. Cómo usamos su información
+plugin_gpt_privacy_s2_li1a === Para facilitar y operar el
+plugin_gpt_privacy_s2_li1b === servicio
+plugin_gpt_privacy_s2_li2 === Para autenticar las solicitudes de los usuarios y garantizar el uso autorizado de los servicios de API
+plugin_gpt_privacy_s2_li3 === Para mejorar nuestro servicio mediante el análisis de patrones de uso
+plugin_gpt_privacy_s2_li4 === Para solucionar problemas y brindar soporte
+plugin_gpt_privacy_s2_li5 === Para proteger nuestro servicio y a nuestros usuarios contra el uso indebido
+plugin_gpt_privacy_s2_p === Utilizamos la información que recopilamos para diversos fines, entre ellos:
+plugin_gpt_privacy_s3_h === 3. Seguridad y retención de datos
+plugin_gpt_privacy_s3_li1 === <strong>Almacenamiento de datos:</strong> No conservamos el contenido de los mensajes ni los datos de los destinatarios después de procesar una solicitud con éxito.
+plugin_gpt_privacy_s3_li2 === <strong>Retención de datos:</strong> La información de identificación personal, como las claves API, se almacena durante la duración de su sesión y se elimina posteriormente.
+plugin_gpt_privacy_s3_p1 === Nos comprometemos a garantizar la seguridad de su información.
+plugin_gpt_privacy_s3_p2 === utiliza medidas de seguridad comercialmente razonables para proteger su información personal contra el acceso no autorizado, alteración, divulgación o destrucción.
+plugin_gpt_privacy_s4_h === 4. Uso compartido y divulgación de datos
+plugin_gpt_privacy_s4_li1 === <strong>Con proveedores de servicios externos:</strong> Podemos utilizar herramientas de terceros para procesar o analizar datos en nuestro nombre.
+plugin_gpt_privacy_s4_li2 === <strong>Por requisitos legales:</strong> Podemos divulgar información si así lo exige la ley o si creemos de buena fe que dicha acción es necesaria para cumplir con obligaciones legales, proteger derechos o investigar irregularidades relacionadas con nuestro servicio.
+plugin_gpt_privacy_s4_p1 === Solo compartimos información cuando es necesario para proporcionar el
+plugin_gpt_privacy_s4_p2 === servicio, y bajo circunstancias específicas:
+plugin_gpt_privacy_s5_h === 5. Derechos y opciones del usuario
+plugin_gpt_privacy_s5_li1 === <strong>Acceso y corrección:</strong> Puede solicitar acceso a los datos personales que mantenemos sobre usted y pedirnos que corrijamos inexactitudes.
+plugin_gpt_privacy_s5_li2 === <strong>Eliminación de datos:</strong> Puede solicitar la eliminación de sus datos personales de nuestros sistemas, sujeto a nuestras obligaciones legales.
+plugin_gpt_privacy_s5_li3 === <strong>Portabilidad de datos:</strong> Cuando corresponda, tiene derecho a recibir una copia de sus datos en un formato estructurado, de uso común y legible por máquina.
+plugin_gpt_privacy_s5_p === Usted tiene los siguientes derechos con respecto a la información que mantenemos sobre usted:
+plugin_gpt_privacy_s6_h === 6. Privacidad de los menores
+plugin_gpt_privacy_s6_p === no está destinado para el uso de personas menores de 13 años. No recopilamos ni solicitamos conscientemente datos personales de menores. Si descubrimos que hemos recopilado sin querer información personal de un menor de 13 años, tomaremos medidas para eliminar dicha información lo antes posible.
+plugin_gpt_privacy_s7_h === 7. Cambios a esta política de privacidad
+plugin_gpt_privacy_s7_p === Podemos actualizar nuestra política de privacidad de vez en cuando. Le notificaremos cualquier cambio publicando la nueva política de privacidad en esta página. Le recomendamos revisar esta política de privacidad periódicamente para conocer los cambios.
+plugin_gpt_privacy_s8_h === 8. Contáctenos
+plugin_gpt_privacy_s8_p === Si tiene alguna pregunta o inquietud sobre esta política de privacidad o nuestras prácticas de datos, contáctenos en:
+plugin_gpt_privacy_title === Política de privacidad de
+plugin_gpt_privacy_website_label === Sitio web:

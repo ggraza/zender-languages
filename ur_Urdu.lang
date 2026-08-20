@@ -2974,3 +2974,95 @@ provider_credentials_label === فراہم کنندہ کی اسناد
 provider_manifest_label === مینی فیسٹ (JSON)
 provider_manifest_help === یہاں فراہم کنندہ کا .json مینی فیسٹ پیسٹ کریں۔ اسے فراہم کنندگان کے ذخیرے سے ڈاؤن لوڈ کریں، یا boilerplate.json استعمال کرتے ہوئے اپنا خود لکھیں۔
 provider_manifest_unreadable === یہ فراہم کنندہ پڑھا نہیں جا سکا۔ کوئی دوسرا منتخب کریں، یا اس کا مینی فیسٹ دستی طور پر پیسٹ کریں۔
+plugin_gpt_conf_actions_h === اقدامات
+plugin_gpt_conf_actions_p === نیچے سکرول کریں اور <strong>Create new action</strong> پر کلک کریں، پھر ذیل کی ہدایات پڑھیں۔
+plugin_gpt_conf_auth_h === توثیق
+plugin_gpt_conf_auth_screenshot_note === <small>یہ اسکرین شاٹ نیچے دیے گئے Custom Header کی ضرورت سے پہلے کا ہے اور اب بھی Bearer منتخب دکھاتا ہے -- تصویر کے بجائے تحریری مراحل پر عمل کریں۔</small>
+plugin_gpt_conf_auth_step1 === 1. <strong>API Key</strong> منتخب کریں، <strong>Auth Type</strong> کو <strong>Custom</strong> پر سیٹ کریں، پھر <strong>Custom Header Name</strong> کو <code>X-Zender-Token</code> پر سیٹ کریں۔
+plugin_gpt_conf_auth_step2 === 2. نیچے دیا گیا <strong>Authentication Token</strong> کاپی کریں اور اسے ان پٹ فیلڈ میں پیسٹ کرکے محفوظ کریں۔
+plugin_gpt_conf_capabilities_label === صلاحیتیں
+plugin_gpt_conf_capabilities_p === صلاحیتوں کو ذیل کی مثال کی طرح چیک کریں۔
+plugin_gpt_conf_codeinterp_label === Code Interpreter & Data Analysis
+plugin_gpt_conf_conv1 === آپ میرے لیے کیا کر سکتے ہیں؟
+plugin_gpt_conf_conv2 === ایک واٹس ایپ پیغام بھیجیں
+plugin_gpt_conf_conv3 === میرے باقی ماندہ ایس ایم ایس کریڈٹس چیک کریں
+plugin_gpt_conf_conv4 === میرے موجودہ واٹس ایپ اکاؤنٹس حاصل کریں
+plugin_gpt_conf_conv5 === ایک فون نمبر پر ایس ایم ایس پیغام بھیجیں
+plugin_gpt_conf_convstarters_label === گفتگو کے آغاز کنندگان
+plugin_gpt_conf_convstarters_p === درج ذیل گفتگو کے آغاز کنندگان کو کاپی اور پیسٹ کریں، بلا جھجک اپنی پسند کے مطابق تبدیل کریں۔
+plugin_gpt_conf_copy_btn === کاپی کریں
+plugin_gpt_conf_dalle_label === DALL·E Image Generation
+plugin_gpt_conf_description_label === Description
+plugin_gpt_conf_description_p === درج ذیل کو <strong>Description</strong> فیلڈ میں کاپی اور پیسٹ کریں۔ بلا جھجک اپنی پسند کے مطابق تبدیل کریں۔
+plugin_gpt_conf_description_value === ایس ایم ایس اور واٹس ایپ پیغامات بھیجیں
+plugin_gpt_conf_editsettings_btn === ترتیبات
+plugin_gpt_conf_editsettings_title === برج کی ترتیبات میں ترمیم کریں
+plugin_gpt_conf_important === اہم!
+plugin_gpt_conf_important_p === یہاں سے شروع کرنے سے پہلے، براہ کرم یقینی بنائیں کہ آپ ایڈمن پینل میں پہلے ہی پلگ ان کی ترتیبات میں ترمیم کر چکے ہیں۔ اگر آپ نے ابھی تک ایسا نہیں کیا تو، براہ کرم نیچے دیے گئے بٹن کا استعمال کرتے ہوئے ترمیم کریں اور پھر صفحہ ریفریش کریں۔
+plugin_gpt_conf_info_h === GPT کی معلومات
+plugin_gpt_conf_info_p === براہ کرم درج ذیل معلومات اپنی GPT کنفیگریشن میں درج کریں۔
+plugin_gpt_conf_name_label === Name
+plugin_gpt_conf_name_p === درج ذیل کو <strong>Name</strong> فیلڈ میں کاپی اور پیسٹ کریں۔ یہ اس نام سے مماثل ہونا چاہیے جو آپ نے پلگ ان کی ترتیبات میں سیٹ کیا ہے۔
+plugin_gpt_conf_privacypolicy_label === رازداری کی پالیسی
+plugin_gpt_conf_privacypolicy_p === درج ذیل یو آر ایل کاپی کریں اور اسے ایکشن کی ترتیبات کے نیچے موجود <strong>Privacy policy</strong> فیلڈ میں پیسٹ کریں۔
+plugin_gpt_conf_publish_anyonelink === <strong>Anyone with the link</strong> - صرف ان مخصوص افراد کو نظر آتا ہے جنہیں آپ GPT کا لنک دینے کا انتخاب کرتے ہیں۔
+plugin_gpt_conf_publish_gptstore === <strong>GPT Store</strong> - ChatGPT کے مفت صارفین سمیت سب کو نظر آتا ہے۔
+plugin_gpt_conf_publish_gptstore_warning === اگر آپ <strong>GPT Store</strong> میں شائع کرنے کا انتخاب کرتے ہیں، تو یقینی بنائیں کہ آپ نے اپنا بلڈر پروفائل مکمل کر لیا ہے اور اپنے ChatGPT پروفائل کی ترتیبات میں اپنے ڈومین کی توثیق کر لی ہے۔
+plugin_gpt_conf_publish_h === GPT شائع کریں
+plugin_gpt_conf_publish_onlyme === <strong>Only Me</strong> - صرف آپ کو نظر آتا ہے۔
+plugin_gpt_conf_publish_step1 === 1. اوپر دائیں کونے میں <strong>Share</strong> بٹن پر کلک کریں۔ آپ کو درج ذیل نظر آنا چاہیے۔
+plugin_gpt_conf_publish_step2 === 2. اپنی پسندیدہ آڈینس منتخب کریں، تین اختیارات ہیں۔
+plugin_gpt_conf_publish_step3 === 3. اپنا GPT شائع کرنے کے لیے <strong>Save</strong> پر کلک کریں۔
+plugin_gpt_conf_publish_step4 === 4. سب ہو گیا، اب آپ یہ صفحہ بند کر سکتے ہیں۔
+plugin_gpt_conf_schema_label === اسکیما
+plugin_gpt_conf_schema_p === درج ذیل یو آر ایل کاپی کریں اور اسے <strong>Import from URL</strong> فیلڈ میں پیسٹ کریں پھر <strong>Import</strong> دبائیں۔
+plugin_gpt_conf_title === GPT کنفیگریشن
+plugin_gpt_conf_webbrowsing_label === Web Browsing
+plugin_gpt_privacy_email_label === ای میل:
+plugin_gpt_privacy_lastupdated === <strong>آخری اپ ڈیٹ:</strong>
+plugin_gpt_privacy_s1_h === 1. ہم جو معلومات جمع کرتے ہیں
+plugin_gpt_privacy_s1_p1 === جب آپ
+plugin_gpt_privacy_s1_p2 === کے ساتھ تعامل کرتے ہیں، تو ہم آپ کے تجربے کو بہتر بنانے اور ہماری سروس کے محفوظ استعمال کو یقینی بنانے کے لیے کچھ معلومات جمع کر سکتے ہیں۔ ان معلومات میں شامل ہیں:
+plugin_gpt_privacy_s1a_h === a) ذاتی معلومات
+plugin_gpt_privacy_s1a_li1 === API Key (توثیق اور انضمام کے مقاصد کے لیے)
+plugin_gpt_privacy_s1a_li2 === ای میل ایڈریس (سپورٹ اور اکاؤنٹ سے متعلق رابطے کے لیے)
+plugin_gpt_privacy_s1a_p1 === تک رسائی حاصل کرنے کے لیے
+plugin_gpt_privacy_s1a_p2 === سروس تک رسائی حاصل کرنے کے لیے، ہم آپ سے درج ذیل سمیت کچھ ذاتی طور پر شناخت کرنے والی معلومات فراہم کرنے کے لیے کہہ سکتے ہیں:
+plugin_gpt_privacy_s1b_h === b) میسجنگ کا مواد
+plugin_gpt_privacy_s1b_li1 === وصول کنندہ کے فون نمبرز
+plugin_gpt_privacy_s1b_li2 === پیغام کا متن
+plugin_gpt_privacy_s1b_li3 === میڈیا اٹیچمنٹس (واٹس ایپ پیغامات کے لیے)
+plugin_gpt_privacy_s1b_note === آپ کی درخواست پر کارروائی کرنے کے بعد پیغام کا مواد محفوظ نہیں کرتا۔
+plugin_gpt_privacy_s1b_p1 === آپ کی جانب سے پیغامات بھیجنے کے لیے
+plugin_gpt_privacy_s1b_p2 === سروس آپ کی فراہم کردہ معلومات پر کارروائی کرتی ہے، بشمول:
+plugin_gpt_privacy_s2_h === 2. ہم آپ کی معلومات کیسے استعمال کرتے ہیں
+plugin_gpt_privacy_s2_li1a === سروس کو آسان بنانے اور چلانے کے لیے:
+plugin_gpt_privacy_s2_li1b === سروس
+plugin_gpt_privacy_s2_li2 === صارف کی درخواستوں کی توثیق کرنے اور API سروسز کے مجاز استعمال کو یقینی بنانے کے لیے
+plugin_gpt_privacy_s2_li3 === استعمال کے نمونوں کا تجزیہ کرکے اپنی سروس کو بہتر بنانے کے لیے
+plugin_gpt_privacy_s2_li4 === مسائل کا ازالہ کرنے اور سپورٹ فراہم کرنے کے لیے
+plugin_gpt_privacy_s2_li5 === اپنی سروس اور صارفین کو غلط استعمال سے بچانے کے لیے
+plugin_gpt_privacy_s2_p === ہم جمع کردہ معلومات کو مختلف مقاصد کے لیے استعمال کرتے ہیں، بشمول:
+plugin_gpt_privacy_s3_h === 3. ڈیٹا سیکیورٹی اور برقراری
+plugin_gpt_privacy_s3_li1 === <strong>ڈیٹا اسٹوریج:</strong> درخواست پر کامیابی سے کارروائی کرنے کے بعد ہم پیغام کا مواد یا وصول کنندہ کا ڈیٹا برقرار نہیں رکھتے۔
+plugin_gpt_privacy_s3_li2 === <strong>ڈیٹا برقراری:</strong> ذاتی طور پر شناخت کرنے والی معلومات، جیسے API keys، آپ کے سیشن کی مدت کے لیے محفوظ کی جاتی ہیں اور اس کے بعد حذف کر دی جاتی ہیں۔
+plugin_gpt_privacy_s3_p1 === ہم آپ کی معلومات کو محفوظ بنانے کے لیے پرعزم ہیں۔
+plugin_gpt_privacy_s3_p2 === آپ کی ذاتی معلومات کو غیر مجاز رسائی، تبدیلی، افشا یا تباہی سے بچانے کے لیے تجارتی طور پر مناسب حفاظتی اقدامات استعمال کرتا ہے۔
+plugin_gpt_privacy_s4_h === 4. ڈیٹا شیئرنگ اور افشا
+plugin_gpt_privacy_s4_li1 === <strong>تھرڈ پارٹی سروس فراہم کنندگان کے ساتھ:</strong> ہم اپنی جانب سے ڈیٹا پر کارروائی یا تجزیہ کرنے کے لیے تھرڈ پارٹی ٹولز استعمال کر سکتے ہیں۔
+plugin_gpt_privacy_s4_li2 === <strong>قانونی تقاضوں کے لیے:</strong> اگر قانونی طور پر ضروری ہو یا ہم نیک نیتی سے یہ سمجھیں کہ قانونی ذمہ داریوں کی تعمیل، حقوق کے تحفظ، یا ہماری سروس سے متعلق بدعنوانی کی تحقیقات کے لیے ایسا اقدام ضروری ہے تو ہم معلومات ظاہر کر سکتے ہیں۔
+plugin_gpt_privacy_s4_p1 === ہم معلومات صرف اسی وقت شیئر کرتے ہیں جب یہ
+plugin_gpt_privacy_s4_p2 === سروس فراہم کرنے کے لیے ضروری ہو اور مخصوص حالات میں:
+plugin_gpt_privacy_s5_h === 5. صارف کے حقوق اور اختیارات
+plugin_gpt_privacy_s5_li1 === <strong>رسائی اور تصحیح:</strong> آپ ہمارے پاس موجود اپنی ذاتی معلومات تک رسائی کی درخواست کر سکتے ہیں اور ہم سے غلطیوں کی تصحیح کرنے کو کہہ سکتے ہیں۔
+plugin_gpt_privacy_s5_li2 === <strong>ڈیٹا حذف کرنا:</strong> آپ ہمارے قانونی تقاضوں کے تابع، ہمارے سسٹمز سے اپنی ذاتی معلومات کو حذف کرنے کی درخواست کر سکتے ہیں۔
+plugin_gpt_privacy_s5_li3 === <strong>ڈیٹا پورٹیبلٹی:</strong> جہاں قابل اطلاق ہو، آپ کو اپنے ڈیٹا کی کاپی ایک منظم، عام طور پر استعمال ہونے والی، اور مشین سے پڑھی جانے والی شکل میں حاصل کرنے کا حق حاصل ہے۔
+plugin_gpt_privacy_s5_p === ہمارے پاس موجود آپ کی معلومات کے حوالے سے آپ کو درج ذیل حقوق حاصل ہیں:
+plugin_gpt_privacy_s6_h === 6. بچوں کی رازداری
+plugin_gpt_privacy_s6_p === 13 سال سے کم عمر افراد کے استعمال کے لیے نہیں ہے۔ ہم دانستہ طور پر بچوں سے ذاتی ڈیٹا جمع یا طلب نہیں کرتے۔ اگر ہمیں معلوم ہو کہ ہم نے غیر ارادی طور پر 13 سال سے کم عمر کسی بچے سے ذاتی معلومات جمع کر لی ہیں، تو ہم اس معلومات کو جلد از جلد حذف کرنے کے لیے اقدامات کریں گے۔
+plugin_gpt_privacy_s7_h === 7. اس رازداری کی پالیسی میں تبدیلیاں
+plugin_gpt_privacy_s7_p === ہم وقتاً فوقتاً اپنی رازداری کی پالیسی کو اپ ڈیٹ کر سکتے ہیں۔ ہم آپ کو کسی بھی تبدیلی سے آگاہ کریں گے، نئی رازداری کی پالیسی اس صفحے پر شائع کرکے۔ ہم آپ کی حوصلہ افزائی کرتے ہیں کہ کسی بھی تبدیلی کے لیے وقتاً فوقتاً اس رازداری کی پالیسی کا جائزہ لیں۔
+plugin_gpt_privacy_s8_h === 8. ہم سے رابطہ کریں
+plugin_gpt_privacy_s8_p === اگر آپ کو اس رازداری کی پالیسی یا ہمارے ڈیٹا کے طریقہ کار کے بارے میں کوئی سوالات یا خدشات ہیں تو، براہ کرم ہم سے رابطہ کریں:
+plugin_gpt_privacy_title === رازداری کی پالیسی برائے
+plugin_gpt_privacy_website_label === ویب سائٹ:

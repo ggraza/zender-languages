@@ -2974,3 +2974,95 @@ provider_credentials_label === Ìwé-ẹ̀rí olùpèsè
 provider_manifest_label === Manifest (JSON)
 provider_manifest_help === Lẹ̀ mọ́ manifest .json olùpèsè níbí. Gbà á sílẹ̀ láti ilé-ìpamọ́ olùpèsè, tàbí kọ tìrẹ ní lílo boilerplate.json.
 provider_manifest_unreadable === A kò lè ka olùpèsè yìí. Yan òmíràn, tàbí lẹ̀ mọ́ manifest rẹ̀ fúnra rẹ.
+plugin_gpt_conf_actions_h === Awọn Iṣe
+plugin_gpt_conf_actions_p === Yí lọ sí ìsàlẹ̀ kí o sì tẹ <strong>Create new action</strong>, lẹ́yìn náà ka àwọn ìtọ́nisọ́nà tí ó tẹ̀lé e nísàlẹ̀.
+plugin_gpt_conf_auth_h === Ìjẹ́rìísí
+plugin_gpt_conf_auth_screenshot_note === <small>Àwòrán ìhọ̀hò yìí ti ṣáájú ohun tí a béèrè fún Custom Header nísàlẹ̀ yìí, ó sì ṣì ń fi Bearer hàn gẹ́gẹ́ bí a ti yàn -- tẹ̀lé àwọn ìṣísẹ̀ tí a kọ, kì í ṣe àwòrán náà.</small>
+plugin_gpt_conf_auth_step1 === 1. Yan <strong>API Key</strong>, tẹ <strong>Auth Type</strong> sí <strong>Custom</strong>, lẹ́yìn náà tẹ <strong>Custom Header Name</strong> sí <code>X-Zender-Token</code>.
+plugin_gpt_conf_auth_step2 === 2. Dá <strong>Authentication Token</strong> tí ó wà nísàlẹ̀ kọ, kí o sì fi sí àyè ìkọ̀wé náà lẹ́yìn náà kí o fi pamọ́.
+plugin_gpt_conf_capabilities_label === Àwọn Agbára
+plugin_gpt_conf_capabilities_p === Ṣàyẹ̀wò àwọn agbára náà gẹ́gẹ́ bí àpẹẹrẹ tí ó tẹ̀lé e nísàlẹ̀.
+plugin_gpt_conf_codeinterp_label === Code Interpreter & Data Analysis
+plugin_gpt_conf_conv1 === Kí ni o lè ṣe fún mi?
+plugin_gpt_conf_conv2 === Fi ìránṣẹ́ WhatsApp kan ránṣẹ́
+plugin_gpt_conf_conv3 === Ṣàyẹ̀wò iye kírẹ́dítì SMS tí ó ṣẹ́kù fún mi
+plugin_gpt_conf_conv4 === Rí àwọn àkántì WhatsApp tí mo ní lọ́wọ́lọ́wọ́
+plugin_gpt_conf_conv5 === Fi ìránṣẹ́ SMS ránṣẹ́ sí nọ́mbà fóònù kan
+plugin_gpt_conf_convstarters_label === Àwọn Olùbẹ̀rẹ̀ Ìjíròrò
+plugin_gpt_conf_convstarters_p === Dá àwọn olùbẹ̀rẹ̀ ìjíròrò tí ó tẹ̀lé e kọ, kí o sì fi sí ibòmíràn, o lè yí wọn padà bí ó ti wù ọ́.
+plugin_gpt_conf_copy_btn === Dá a Kọ
+plugin_gpt_conf_dalle_label === DALL·E Image Generation
+plugin_gpt_conf_description_label === Description
+plugin_gpt_conf_description_p === Dá ohun tí ó tẹ̀lé e kọ, kí o sì fi sí àyè <strong>Description</strong>. O lè yí i padà bí ó ti wù ọ́.
+plugin_gpt_conf_description_value === Fi ìránṣẹ́ SMS àti WhatsApp ránṣẹ́ pẹ̀lú
+plugin_gpt_conf_editsettings_btn === Ètò
+plugin_gpt_conf_editsettings_title === Ṣàtúnṣe Ètò Afárá
+plugin_gpt_conf_important === Pàtàkì!
+plugin_gpt_conf_important_p === Kí o tó bẹ̀rẹ̀ níbí, jọ̀wọ́ rí i dájú pé o ti ṣàtúnṣe ètò àfikún náà nínú pátákó alábojútó tẹ́lẹ̀. Bí o kò bá ti ṣe é, jọ̀wọ́ ṣàtúnṣe rẹ̀ nípa lílo bọ́tìnnì tí ó wà nísàlẹ̀, lẹ́yìn náà kí o tún ojú-ìwé náà ṣí.
+plugin_gpt_conf_info_h === Àlàyé GPT
+plugin_gpt_conf_info_p === Jọ̀wọ́ tẹ àlàyé tí ó tẹ̀lé e wọlé sí ìṣàtúnṣe GPT rẹ.
+plugin_gpt_conf_name_label === Name
+plugin_gpt_conf_name_p === Dá ohun tí ó tẹ̀lé e kọ, kí o sì fi sí àyè <strong>Name</strong>. Èyí gbọ́dọ̀ bá ohun tí o ti tẹ nínú ètò àfikún náà mu.
+plugin_gpt_conf_privacypolicy_label === Ìlànà Ìpamọ́
+plugin_gpt_conf_privacypolicy_p === Dá URL tí ó tẹ̀lé e kọ, kí o sì fi sí àyè <strong>Privacy policy</strong> ní ìsàlẹ̀ àwọn ètò iṣe náà.
+plugin_gpt_conf_publish_anyonelink === <strong>Anyone with the link</strong> - Ó hàn fún àwọn ẹni pàtó tí o yàn láti fún ní ọ̀nà GPT náà.
+plugin_gpt_conf_publish_gptstore === <strong>GPT Store</strong> - Ó hàn fún gbogbo ènìyàn, títí kan àwọn olùlò ọ̀fẹ́ ChatGPT.
+plugin_gpt_conf_publish_gptstore_warning === Bí o bá yàn láti tẹ̀ jáde ní <strong>GPT Store</strong>, rí i dájú pé o ti parí àpèjúwe olùkọ́ rẹ, o sì ti fi ìdí ìkápá-ayélujára rẹ múlẹ̀ nínú ètò àpèjúwe ChatGPT rẹ.
+plugin_gpt_conf_publish_h === Tẹ̀ GPT Jáde
+plugin_gpt_conf_publish_onlyme === <strong>Only Me</strong> - Ó hàn fún ìwọ nìkan.
+plugin_gpt_conf_publish_step1 === 1. Ní igun òkè ọ̀tún, tẹ bọ́tìnnì <strong>Share</strong>. O yóò rí ohun tí ó tẹ̀lé e.
+plugin_gpt_conf_publish_step2 === 2. Yan àwọn olùgbọ́ tí o fẹ́, àṣàyàn mẹ́ta ni ó wà.
+plugin_gpt_conf_publish_step3 === 3. Tẹ <strong>Save</strong> láti tẹ̀ GPT rẹ jáde.
+plugin_gpt_conf_publish_step4 === 4. Gbogbo rẹ̀ ti parí, o lè ti ojú-ìwé yìí báyìí.
+plugin_gpt_conf_schema_label === Ìlànà Data (Schema)
+plugin_gpt_conf_schema_p === Dá URL tí ó tẹ̀lé e kọ, kí o sì fi sí àyè <strong>Import from URL</strong>, lẹ́yìn náà tẹ <strong>Import</strong>.
+plugin_gpt_conf_title === Ìṣàtúnṣe GPT
+plugin_gpt_conf_webbrowsing_label === Web Browsing
+plugin_gpt_privacy_email_label === Ímeèlì:
+plugin_gpt_privacy_lastupdated === <strong>Ìgbà Ìkẹyìn Tí A Ṣàtúnṣe:</strong>
+plugin_gpt_privacy_s1_h === 1. Àlàyé Tí A Ń Kójọ
+plugin_gpt_privacy_s1_p1 === Nígbà tí o bá ń bá
+plugin_gpt_privacy_s1_p2 === lò, a lè kó àwọn àlàyé kan jọ láti gbé ìrírí rẹ ga àti láti rí i dájú pé lílò iṣẹ́ wa jẹ́ ààbò. Àlàyé yìí ní nínú:
+plugin_gpt_privacy_s1a_h === a) Àlàyé Ìdálẹ́kọ̀ọ́
+plugin_gpt_privacy_s1a_li1 === API Key (fún àwọn ète ìjẹ́rìísí àti ìṣọ̀kan)
+plugin_gpt_privacy_s1a_li2 === Àdírẹ́sì ímeèlì (fún àwọn ète ìrànlọ́wọ́ àti ìbánisọ̀rọ̀ tí ó ní í ṣe pẹ̀lú àkántì)
+plugin_gpt_privacy_s1a_p1 === Láti wọlé sí iṣẹ́
+plugin_gpt_privacy_s1a_p2 === , a lè béèrè lọ́wọ́ rẹ láti pèsè àwọn àlàyé kan tí a fi ń dá ẹnì kan mọ̀, títí kan:
+plugin_gpt_privacy_s1b_h === b) Àkóónú Ìránṣẹ́
+plugin_gpt_privacy_s1b_li1 === Nọ́mbà fóònù olùgbà
+plugin_gpt_privacy_s1b_li2 === Ọ̀rọ̀ ìránṣẹ́
+plugin_gpt_privacy_s1b_li3 === Àwọn faìlì amóhùnmáwòrán tí a so mọ́ (fún àwọn ìránṣẹ́ WhatsApp)
+plugin_gpt_privacy_s1b_note === kì í fi àkóónú ìránṣẹ́ pamọ́ lẹ́yìn tí ó bá ti ṣe iṣẹ́ tí o béèrè fún.
+plugin_gpt_privacy_s1b_p1 === Láti fi ìránṣẹ́ ránṣẹ́ ní orúkọ rẹ, iṣẹ́
+plugin_gpt_privacy_s1b_p2 === ń ṣe àkóónú tí o pèsè, títí kan:
+plugin_gpt_privacy_s2_h === 2. Bí A Ṣe Ń Lo Àlàyé Rẹ
+plugin_gpt_privacy_s2_li1a === Láti mú irọ̀rùn bá iṣẹ́ àti láti ṣe àbójútó
+plugin_gpt_privacy_s2_li1b === iṣẹ́ náà
+plugin_gpt_privacy_s2_li2 === Láti fi ìdí ẹ̀tọ́ àwọn olùlò múlẹ̀ àti láti rí i dájú pé lílò àwọn iṣẹ́ API jẹ́ ọ̀kan tí a fọwọ́sí
+plugin_gpt_privacy_s2_li3 === Láti mú iṣẹ́ wa dára sí i nípa yíyẹ̀wò bí a ṣe ń lò ó
+plugin_gpt_privacy_s2_li4 === Láti yanjú àwọn ìṣòro àti láti pèsè ìrànlọ́wọ́
+plugin_gpt_privacy_s2_li5 === Láti dáàbò bo iṣẹ́ wa àti àwọn olùlò wa kúrò lọ́wọ́ ìlòkulò
+plugin_gpt_privacy_s2_p === A ń lo àlàyé tí a kójọ fún oríṣiríṣi ète, títí kan:
+plugin_gpt_privacy_s3_h === 3. Ààbò àti Ìpamọ́ Dátà
+plugin_gpt_privacy_s3_li1 === <strong>Ìpamọ́ Dátà:</strong> A kì í fi àkóónú ìránṣẹ́ tàbí dátà olùgbà pamọ́ lẹ́yìn tí a bá ti ṣe iṣẹ́ tí a béèrè fún ní àṣeyọrí.
+plugin_gpt_privacy_s3_li2 === <strong>Àkókò Ìpamọ́ Dátà:</strong> Àwọn àlàyé tí a fi ń dá ẹnì kan mọ̀, bí i API keys, ni a máa ń pa mọ́ fún àkókò tí ìjókòó rẹ bá pé, a ó sì parẹ́ lẹ́yìn náà.
+plugin_gpt_privacy_s3_p1 === A ti dúró ṣinṣin láti rí i dájú pé àlàyé rẹ jẹ́ ààbò.
+plugin_gpt_privacy_s3_p2 === ń lo àwọn ìlànà ààbò tí ó bójú mu ní ti òwò láti dáàbò bo àlàyé ìdálẹ́kọ̀ọ́ rẹ kúrò lọ́wọ́ ìwọlé, ìyípadà, ìtẹ̀jáde, tàbí ìparun tí a kò fọwọ́sí.
+plugin_gpt_privacy_s4_h === 4. Pínpín àti Ìtẹ̀jáde Dátà
+plugin_gpt_privacy_s4_li1 === <strong>Pẹ̀lú Àwọn Olùpèsè Iṣẹ́ Ẹgbẹ́ Kẹta:</strong> A lè lo àwọn irinṣẹ́ ẹgbẹ́ kẹta láti ṣe tàbí yẹ̀wò dátà ní orúkọ wa.
+plugin_gpt_privacy_s4_li2 === <strong>Fún Àwọn Ohun Tí Òfin Béèrè:</strong> A lè tẹ̀ àlàyé jáde bí òfin bá béèrè fún, tàbí bí a bá gbà gbọ́ ní ọkàn dídára pé irú ìgbésẹ̀ bẹ́ẹ̀ jẹ́ pàtàkì láti tẹ̀lé àwọn ojúṣe òfin, láti dáàbò bo ẹ̀tọ́, tàbí láti ṣe ìwádìí àìṣedéédéé tí ó ní í ṣe pẹ̀lú iṣẹ́ wa.
+plugin_gpt_privacy_s4_p1 === A kì í pín àlàyé àyàfi bí ó bá ṣe pàtàkì láti pèsè iṣẹ́
+plugin_gpt_privacy_s4_p2 === àti lábẹ́ àwọn ipò kan pàtó:
+plugin_gpt_privacy_s5_h === 5. Ẹ̀tọ́ àti Àṣàyàn Olùlò
+plugin_gpt_privacy_s5_li1 === <strong>Wíwọlé àti Àtúnṣe:</strong> O lè béèrè fún wíwọlé sí dátà ìdálẹ́kọ̀ọ́ tí a ní nípa rẹ, kí o sì béèrè lọ́wọ́ wa láti ṣe àtúnṣe àwọn àṣìṣe.
+plugin_gpt_privacy_s5_li2 === <strong>Ìparẹ́ Dátà:</strong> O lè béèrè fún ìparẹ́ dátà ìdálẹ́kọ̀ọ́ rẹ kúrò nínú àwọn ètò wa, ní ìbámu pẹ̀lú àwọn ojúṣe òfin wa.
+plugin_gpt_privacy_s5_li3 === <strong>Ìgbélọ Dátà:</strong> Níbi tí ó bá ṣe é ṣe, o ní ẹ̀tọ́ láti gba ẹ̀dà dátà rẹ ní ọ̀nà tí a ṣètò, tí a sábà ń lò, tí ẹ̀rọ sì lè kà.
+plugin_gpt_privacy_s5_p === O ní àwọn ẹ̀tọ́ tí ó tẹ̀lé e lórí àlàyé tí a ní nípa rẹ:
+plugin_gpt_privacy_s6_h === 6. Ìpamọ́ Ọmọdé
+plugin_gpt_privacy_s6_p === kì í ṣe fún lílò àwọn ẹni tí ọjọ́-orí wọn kò tí ì tó ọdún mẹ́tàlá. A kì í mọ̀ọ́mọ̀ kó dátà ìdálẹ́kọ̀ọ́ jọ láti ọ̀dọ̀ àwọn ọmọdé tàbí béèrè fún un. Bí a bá ṣàwárí pé a kó àlàyé ìdálẹ́kọ̀ọ́ jọ láìmọ̀ọ́mọ̀ láti ọ̀dọ̀ ọmọdé tí ọjọ́-orí rẹ kò tí ì tó ọdún mẹ́tàlá, a ó gbé àwọn ìgbésẹ̀ láti parẹ́ àlàyé náà kánkán bí ó ti ṣe é ṣe tó.
+plugin_gpt_privacy_s7_h === 7. Àwọn Ìyípadà Sí Ìlànà Ìpamọ́ Yìí
+plugin_gpt_privacy_s7_p === A lè ṣàtúnṣe Ìlànà Ìpamọ́ wa láti ìgbà dé ìgbà. A ó fún ọ ní ìjìnlẹ̀ nípa àwọn ìyípadà kankan nípa fífi Ìlànà Ìpamọ́ tuntun sí ojú-ìwé yìí. A ń fún ọ níyànjú láti ṣàyẹ̀wò Ìlànà Ìpamọ́ yìí lẹ́ẹ̀kọ̀ọ̀kan fún àwọn ìyípadà.
+plugin_gpt_privacy_s8_h === 8. Bá Wa Sọ̀rọ̀
+plugin_gpt_privacy_s8_p === Bí o bá ní ìbéèrè tàbí àníyàn kankan nípa Ìlànà Ìpamọ́ yìí tàbí àwọn ìṣe dátà wa, jọ̀wọ́ bá wa sọ̀rọ̀ ní:
+plugin_gpt_privacy_title === Ìlànà Ìpamọ́ fún
+plugin_gpt_privacy_website_label === Ojú-òpó wẹ́ẹ̀bù:

@@ -2974,3 +2974,95 @@ provider_credentials_label === Sağlayıcı kimlik bilgileri
 provider_manifest_label === Manifest (JSON)
 provider_manifest_help === Sağlayıcının .json manifestini buraya yapıştırın. Sağlayıcı deposundan indirin veya boilerplate.json kullanarak kendinizinkini yazın.
 provider_manifest_unreadable === Bu sağlayıcı okunamadı. Başka birini seçin veya manifestini elle yapıştırın.
+plugin_gpt_conf_actions_h === Eylemler
+plugin_gpt_conf_actions_p === Aşağı kaydırın ve <strong>Create new action</strong> öğesine tıklayın, ardından aşağıdaki talimatları okuyun.
+plugin_gpt_conf_auth_h === Kimlik Doğrulama
+plugin_gpt_conf_auth_screenshot_note === <small>Bu ekran görüntüsü, aşağıdaki Custom Header gerekliliğinden öncesine aittir ve hâlâ Bearer seçili görünmektedir -- görseli değil, yazılı adımları izleyin.</small>
+plugin_gpt_conf_auth_step1 === 1. <strong>API Key</strong> öğesini seçin, <strong>Auth Type</strong> alanını <strong>Custom</strong> olarak ayarlayın, ardından <strong>Custom Header Name</strong> alanını <code>X-Zender-Token</code> olarak ayarlayın.
+plugin_gpt_conf_auth_step2 === 2. Aşağıdaki <strong>Authentication Token</strong> değerini kopyalayın, giriş alanına yapıştırın ve kaydedin.
+plugin_gpt_conf_capabilities_label === Yetenekler
+plugin_gpt_conf_capabilities_p === Yetenekleri aşağıdaki örnekte olduğu gibi işaretleyin.
+plugin_gpt_conf_codeinterp_label === Code Interpreter & Data Analysis
+plugin_gpt_conf_conv1 === Benim için ne yapabilirsin?
+plugin_gpt_conf_conv2 === Bir WhatsApp mesajı gönder
+plugin_gpt_conf_conv3 === Kalan SMS kredimi kontrol et
+plugin_gpt_conf_conv4 === Mevcut WhatsApp hesaplarımı getir
+plugin_gpt_conf_conv5 === Bir telefon numarasına SMS mesajı gönder
+plugin_gpt_conf_convstarters_label === Konuşma Başlatıcılar
+plugin_gpt_conf_convstarters_p === Aşağıdaki konuşma başlatıcılarını kopyalayıp yapıştırın, dilediğiniz gibi değiştirebilirsiniz.
+plugin_gpt_conf_copy_btn === Kopyala
+plugin_gpt_conf_dalle_label === DALL·E Image Generation
+plugin_gpt_conf_description_label === Description
+plugin_gpt_conf_description_p === Aşağıdakini <strong>Description</strong> alanına kopyalayıp yapıştırın. Dilediğiniz gibi değiştirebilirsiniz.
+plugin_gpt_conf_description_value === SMS ve WhatsApp mesajları gönderin
+plugin_gpt_conf_editsettings_btn === Ayarlar
+plugin_gpt_conf_editsettings_title === Köprü Ayarlarını Düzenle
+plugin_gpt_conf_important === Önemli!
+plugin_gpt_conf_important_p === Buraya başlamadan önce, lütfen yönetici panelinde eklenti ayarlarını zaten düzenlediğinizden emin olun. Henüz yapmadıysanız, lütfen aşağıdaki düğmeyi kullanarak düzenleyin ve ardından sayfayı yenileyin.
+plugin_gpt_conf_info_h === GPT Bilgileri
+plugin_gpt_conf_info_p === Lütfen aşağıdaki bilgileri GPT yapılandırmanıza girin.
+plugin_gpt_conf_name_label === Name
+plugin_gpt_conf_name_p === Aşağıdakini <strong>Name</strong> alanına kopyalayıp yapıştırın. Bu, eklenti ayarlarında belirlediğinizle aynı olmalıdır.
+plugin_gpt_conf_privacypolicy_label === Gizlilik Politikası
+plugin_gpt_conf_privacypolicy_p === Aşağıdaki URL'yi kopyalayın ve eylem ayarlarının altındaki <strong>Privacy policy</strong> alanına yapıştırın.
+plugin_gpt_conf_publish_anyonelink === <strong>Anyone with the link</strong> - Yalnızca GPT bağlantısını vermeyi seçtiğiniz belirli kişiler tarafından görülebilir.
+plugin_gpt_conf_publish_gptstore === <strong>GPT Store</strong> - ChatGPT'nin ücretsiz kullanıcıları dahil herkes tarafından görülebilir.
+plugin_gpt_conf_publish_gptstore_warning === <strong>GPT Store</strong>'da yayımlamayı seçerseniz, ChatGPT profil ayarlarınızda oluşturucu profilinizi tamamladığınızdan ve alan adınızı doğruladığınızdan emin olun.
+plugin_gpt_conf_publish_h === GPT'yi Yayımla
+plugin_gpt_conf_publish_onlyme === <strong>Only Me</strong> - Yalnızca size görünür.
+plugin_gpt_conf_publish_step1 === 1. Sağ üst köşede <strong>Share</strong> düğmesine tıklayın. Aşağıdakini görmelisiniz.
+plugin_gpt_conf_publish_step2 === 2. Tercih ettiğiniz kitleyi seçin, üç seçenek vardır.
+plugin_gpt_conf_publish_step3 === 3. GPT'nizi yayımlamak için <strong>Save</strong> düğmesine tıklayın.
+plugin_gpt_conf_publish_step4 === 4. Hepsi bu kadar, artık bu sayfayı kapatabilirsiniz.
+plugin_gpt_conf_schema_label === Şema
+plugin_gpt_conf_schema_p === Aşağıdaki URL'yi kopyalayın, <strong>Import from URL</strong> alanına yapıştırın ve ardından <strong>Import</strong> düğmesine basın.
+plugin_gpt_conf_title === GPT Yapılandırması
+plugin_gpt_conf_webbrowsing_label === Web Browsing
+plugin_gpt_privacy_email_label === E-posta:
+plugin_gpt_privacy_lastupdated === <strong>Son Güncelleme:</strong>
+plugin_gpt_privacy_s1_h === 1. Topladığımız Bilgiler
+plugin_gpt_privacy_s1_p1 === ile etkileşime girdiğinizde
+plugin_gpt_privacy_s1_p2 === , deneyiminizi geliştirmek ve hizmetimizin güvenli kullanımını sağlamak için belirli bilgiler toplayabiliriz. Bu bilgiler şunları içerir:
+plugin_gpt_privacy_s1a_h === a) Kişisel Bilgiler
+plugin_gpt_privacy_s1a_li1 === API Key (kimlik doğrulama ve entegrasyon amaçları için)
+plugin_gpt_privacy_s1a_li2 === E-posta adresi (destek ve hesapla ilgili iletişim için)
+plugin_gpt_privacy_s1a_p1 === hizmetine erişmek için,
+plugin_gpt_privacy_s1a_p2 === sizden aşağıdakiler dahil belirli kişisel olarak tanımlanabilir bilgiler sağlamanızı isteyebiliriz:
+plugin_gpt_privacy_s1b_h === b) Mesajlaşma İçeriği
+plugin_gpt_privacy_s1b_li1 === Alıcı telefon numaraları
+plugin_gpt_privacy_s1b_li2 === Mesaj metni
+plugin_gpt_privacy_s1b_li3 === Medya ekleri (WhatsApp mesajları için)
+plugin_gpt_privacy_s1b_note === isteğinizi işledikten sonra mesaj içeriğini saklamaz.
+plugin_gpt_privacy_s1b_p1 === Sizin adınıza mesaj göndermek için,
+plugin_gpt_privacy_s1b_p2 === hizmeti, aşağıdakiler dahil sağladığınız içeriği işler:
+plugin_gpt_privacy_s2_h === 2. Bilgilerinizi Nasıl Kullanıyoruz
+plugin_gpt_privacy_s2_li1a === Hizmeti kolaylaştırmak ve işletmek için:
+plugin_gpt_privacy_s2_li1b === hizmet
+plugin_gpt_privacy_s2_li2 === Kullanıcı isteklerini doğrulamak ve API hizmetlerinin yetkili kullanımını sağlamak için
+plugin_gpt_privacy_s2_li3 === Kullanım kalıplarını analiz ederek hizmetimizi iyileştirmek için
+plugin_gpt_privacy_s2_li4 === Sorunları gidermek ve destek sağlamak için
+plugin_gpt_privacy_s2_li5 === Hizmetimizi ve kullanıcılarımızı kötüye kullanıma karşı korumak için
+plugin_gpt_privacy_s2_p === Topladığımız bilgileri çeşitli amaçlarla kullanırız, bunlar arasında:
+plugin_gpt_privacy_s3_h === 3. Veri Güvenliği ve Saklama
+plugin_gpt_privacy_s3_li1 === <strong>Veri Depolama:</strong> Bir isteği başarıyla işledikten sonra mesaj içeriğini veya alıcı verilerini saklamayız.
+plugin_gpt_privacy_s3_li2 === <strong>Veri Saklama:</strong> API anahtarları gibi kişisel olarak tanımlanabilir bilgiler, oturumunuz süresince saklanır ve ardından silinir.
+plugin_gpt_privacy_s3_p1 === Bilgilerinizin güvende olmasını sağlamaya kararlıyız.
+plugin_gpt_privacy_s3_p2 === kişisel bilgilerinizi yetkisiz erişim, değiştirme, ifşa veya imhaya karşı korumak için ticari olarak makul güvenlik önlemleri kullanır.
+plugin_gpt_privacy_s4_h === 4. Veri Paylaşımı ve İfşası
+plugin_gpt_privacy_s4_li1 === <strong>Üçüncü Taraf Hizmet Sağlayıcılarıyla:</strong> Verileri bizim adımıza işlemek veya analiz etmek için üçüncü taraf araçlar kullanabiliriz.
+plugin_gpt_privacy_s4_li2 === <strong>Yasal Gereklilikler İçin:</strong> Yasal olarak gerekli görülürse veya yasal yükümlülüklere uymak, hakları korumak ya da hizmetimizle ilgili bir suistimali araştırmak için gerekli olduğuna iyi niyetle inanırsak bilgileri ifşa edebiliriz.
+plugin_gpt_privacy_s4_p1 === Bilgileri yalnızca
+plugin_gpt_privacy_s4_p2 === hizmetini sağlamak için gerekli olduğunda ve belirli koşullar altında paylaşırız:
+plugin_gpt_privacy_s5_h === 5. Kullanıcı Hakları ve Seçenekleri
+plugin_gpt_privacy_s5_li1 === <strong>Erişim ve Düzeltme:</strong> Hakkınızda tuttuğumuz kişisel verilere erişim talep edebilir ve yanlışlıkları düzeltmemizi isteyebilirsiniz.
+plugin_gpt_privacy_s5_li2 === <strong>Veri Silme:</strong> Yasal yükümlülüklerimiz saklı kalmak kaydıyla, kişisel verilerinizin sistemlerimizden silinmesini talep edebilirsiniz.
+plugin_gpt_privacy_s5_li3 === <strong>Veri Taşınabilirliği:</strong> Uygulanabilir olduğu durumlarda, verilerinizin bir kopyasını yapılandırılmış, yaygın olarak kullanılan ve makine tarafından okunabilir bir biçimde alma hakkına sahipsiniz.
+plugin_gpt_privacy_s5_p === Hakkınızda tuttuğumuz bilgilerle ilgili aşağıdaki haklara sahipsiniz:
+plugin_gpt_privacy_s6_h === 6. Çocukların Gizliliği
+plugin_gpt_privacy_s6_p === 13 yaşın altındaki bireyler tarafından kullanılmak üzere tasarlanmamıştır. Çocuklardan bilerek kişisel veri toplamayız veya talep etmeyiz. 13 yaşın altındaki bir çocuktan istemeden kişisel bilgi topladığımızı fark edersek, bu bilgiyi mümkün olan en kısa sürede silmek için adımlar atarız.
+plugin_gpt_privacy_s7_h === 7. Bu Gizlilik Politikasındaki Değişiklikler
+plugin_gpt_privacy_s7_p === Gizlilik Politikamızı zaman zaman güncelleyebiliriz. Herhangi bir değişikliği, yeni Gizlilik Politikasını bu sayfada yayımlayarak size bildireceğiz. Herhangi bir değişiklik için bu Gizlilik Politikasını periyodik olarak gözden geçirmenizi öneririz.
+plugin_gpt_privacy_s8_h === 8. Bize Ulaşın
+plugin_gpt_privacy_s8_p === Bu Gizlilik Politikası veya veri uygulamalarımız hakkında herhangi bir sorunuz veya endişeniz varsa, lütfen bizimle iletişime geçin:
+plugin_gpt_privacy_title === Gizlilik Politikası:
+plugin_gpt_privacy_website_label === Web Sitesi:

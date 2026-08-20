@@ -2974,3 +2974,95 @@ provider_credentials_label === প্রদানকারীর শংসাপ
 provider_manifest_label === ম্যানিফেস্ট (JSON)
 provider_manifest_help === এখানে প্রদানকারীর .json ম্যানিফেস্ট পেস্ট করুন। প্রদানকারী রিপোজিটরি থেকে এটি ডাউনলোড করুন, অথবা boilerplate.json ব্যবহার করে নিজেরটি লিখুন।
 provider_manifest_unreadable === এই প্রদানকারীকে পড়া যায়নি। অন্যটি বেছে নিন, অথবা এর ম্যানিফেস্ট ম্যানুয়ালি পেস্ট করুন।
+plugin_gpt_conf_actions_h === অ্যাকশন
+plugin_gpt_conf_actions_p === নিচে স্ক্রল করে <strong>Create new action</strong>-এ ক্লিক করুন, তারপর নিচের নির্দেশাবলী পড়ুন।
+plugin_gpt_conf_auth_h === প্রমাণীকরণ
+plugin_gpt_conf_auth_screenshot_note === <small>এই স্ক্রিনশটটি নিচের Custom Header প্রয়োজনীয়তার আগের, এবং তাতে এখনও Bearer নির্বাচিত দেখানো হয়েছে -- ছবিটি নয়, লিখিত ধাপগুলো অনুসরণ করুন।</small>
+plugin_gpt_conf_auth_step1 === ১. <strong>API Key</strong> নির্বাচন করুন, <strong>Auth Type</strong>-কে <strong>Custom</strong>-এ সেট করুন, তারপর <strong>Custom Header Name</strong>-কে <code>X-Zender-Token</code>-এ সেট করুন।
+plugin_gpt_conf_auth_step2 === ২. নিচের <strong>Authentication Token</strong> কপি করে ইনপুট ফিল্ডে পেস্ট করুন, তারপর সেভ করুন।
+plugin_gpt_conf_capabilities_label === সক্ষমতাসমূহ
+plugin_gpt_conf_capabilities_p === নিচের উদাহরণের মতো সক্ষমতাগুলো চেক করুন।
+plugin_gpt_conf_codeinterp_label === Code Interpreter & Data Analysis
+plugin_gpt_conf_conv1 === আপনি আমার জন্য কী করতে পারেন?
+plugin_gpt_conf_conv2 === একটি হোয়াটসঅ্যাপ বার্তা পাঠান
+plugin_gpt_conf_conv3 === আমার অবশিষ্ট এসএমএস ক্রেডিট দেখুন
+plugin_gpt_conf_conv4 === আমার বর্তমান হোয়াটসঅ্যাপ অ্যাকাউন্টগুলো দেখুন
+plugin_gpt_conf_conv5 === একটি ফোন নম্বরে এসএমএস বার্তা পাঠান
+plugin_gpt_conf_convstarters_label === কথোপকথন শুরুর বাক্য
+plugin_gpt_conf_convstarters_p === নিচের কথোপকথন শুরুর বাক্যগুলো কপি ও পেস্ট করুন, প্রয়োজনে আপনার পছন্দমতো পরিবর্তন করতে পারেন।
+plugin_gpt_conf_copy_btn === কপি করুন
+plugin_gpt_conf_dalle_label === DALL·E Image Generation
+plugin_gpt_conf_description_label === Description
+plugin_gpt_conf_description_p === নিচেরটি কপি করে <strong>Description</strong> ফিল্ডে পেস্ট করুন। প্রয়োজনে আপনার পছন্দমতো পরিবর্তন করতে পারেন।
+plugin_gpt_conf_description_value === এসএমএস এবং হোয়াটসঅ্যাপ বার্তা পাঠান এর মাধ্যমে
+plugin_gpt_conf_editsettings_btn === সেটিংস
+plugin_gpt_conf_editsettings_title === ব্রিজ সেটিংস সম্পাদনা করুন
+plugin_gpt_conf_important === গুরুত্বপূর্ণ!
+plugin_gpt_conf_important_p === শুরু করার আগে, নিশ্চিত করুন যে আপনি ইতিমধ্যে অ্যাডমিন প্যানেলে প্লাগইন সেটিংস সম্পাদনা করেছেন। যদি না করে থাকেন, তাহলে নিচের বোতাম ব্যবহার করে সম্পাদনা করুন, তারপর পৃষ্ঠাটি রিফ্রেশ করুন।
+plugin_gpt_conf_info_h === GPT তথ্য
+plugin_gpt_conf_info_p === অনুগ্রহ করে নিচের তথ্যগুলো আপনার GPT কনফিগারেশনে প্রবেশ করান।
+plugin_gpt_conf_name_label === Name
+plugin_gpt_conf_name_p === নিচেরটি কপি করে <strong>Name</strong> ফিল্ডে পেস্ট করুন। এটি প্লাগইন সেটিংসে আপনার নির্ধারিত নামের সাথে মিলতে হবে।
+plugin_gpt_conf_privacypolicy_label === গোপনীয়তা নীতি
+plugin_gpt_conf_privacypolicy_p === নিচের ইউআরএলটি কপি করে অ্যাকশন সেটিংসের নিচে থাকা <strong>Privacy policy</strong> ফিল্ডে পেস্ট করুন।
+plugin_gpt_conf_publish_anyonelink === <strong>Anyone with the link</strong> - শুধুমাত্র সেই নির্দিষ্ট ব্যক্তিদের কাছে দৃশ্যমান, যাদের আপনি GPT লিংক দেবেন।
+plugin_gpt_conf_publish_gptstore === <strong>GPT Store</strong> - ChatGPT-এর ফ্রি ব্যবহারকারীসহ সবার কাছে দৃশ্যমান।
+plugin_gpt_conf_publish_gptstore_warning === আপনি যদি <strong>GPT Store</strong>-এ প্রকাশ করতে চান, তাহলে নিশ্চিত করুন যে আপনি আপনার বিল্ডার প্রোফাইল সম্পূর্ণ করেছেন এবং আপনার ChatGPT প্রোফাইল সেটিংসে আপনার ডোমেইন যাচাই করেছেন।
+plugin_gpt_conf_publish_h === GPT প্রকাশ করুন
+plugin_gpt_conf_publish_onlyme === <strong>Only Me</strong> - শুধুমাত্র আপনার কাছে দৃশ্যমান।
+plugin_gpt_conf_publish_step1 === ১. উপরের ডানদিকের কোণায়, <strong>Share</strong> বোতামে ক্লিক করুন। আপনি নিচেরটি দেখতে পাবেন।
+plugin_gpt_conf_publish_step2 === ২. আপনার পছন্দের অডিয়েন্স নির্বাচন করুন, এখানে তিনটি অপশন রয়েছে।
+plugin_gpt_conf_publish_step3 === ৩. আপনার GPT প্রকাশ করতে <strong>Save</strong>-এ ক্লিক করুন।
+plugin_gpt_conf_publish_step4 === ৪. সম্পন্ন, এখন আপনি এই পৃষ্ঠাটি বন্ধ করতে পারেন।
+plugin_gpt_conf_schema_label === স্কিমা
+plugin_gpt_conf_schema_p === নিচের ইউআরএলটি কপি করে <strong>Import from URL</strong> ফিল্ডে পেস্ট করুন, তারপর <strong>Import</strong>-এ চাপুন।
+plugin_gpt_conf_title === GPT কনফিগারেশন
+plugin_gpt_conf_webbrowsing_label === Web Browsing
+plugin_gpt_privacy_email_label === ইমেইল:
+plugin_gpt_privacy_lastupdated === <strong>সর্বশেষ আপডেট:</strong>
+plugin_gpt_privacy_s1_h === ১. আমরা যে তথ্য সংগ্রহ করি
+plugin_gpt_privacy_s1_p1 === আপনি যখন এর সাথে ইন্টারঅ্যাক্ট করেন
+plugin_gpt_privacy_s1_p2 === , আমরা আপনার অভিজ্ঞতা উন্নত করতে এবং আমাদের পরিষেবার নিরাপদ ব্যবহার নিশ্চিত করতে নির্দিষ্ট তথ্য সংগ্রহ করতে পারি। এই তথ্যের মধ্যে রয়েছে:
+plugin_gpt_privacy_s1a_h === a) ব্যক্তিগত তথ্য
+plugin_gpt_privacy_s1a_li1 === API Key (প্রমাণীকরণ ও ইন্টিগ্রেশনের উদ্দেশ্যে)
+plugin_gpt_privacy_s1a_li2 === ইমেইল ঠিকানা (সাপোর্ট ও অ্যাকাউন্ট-সম্পর্কিত যোগাযোগের জন্য)
+plugin_gpt_privacy_s1a_p1 === প্রবেশাধিকার পেতে
+plugin_gpt_privacy_s1a_p2 === পরিষেবাটি ব্যবহার করতে, আমরা আপনাকে নির্দিষ্ট ব্যক্তিগতভাবে শনাক্তযোগ্য তথ্য প্রদান করতে বলতে পারি, যার মধ্যে রয়েছে:
+plugin_gpt_privacy_s1b_h === b) মেসেজিং কনটেন্ট
+plugin_gpt_privacy_s1b_li1 === প্রাপকের ফোন নম্বর
+plugin_gpt_privacy_s1b_li2 === বার্তার টেক্সট
+plugin_gpt_privacy_s1b_li3 === মিডিয়া অ্যাটাচমেন্ট (হোয়াটসঅ্যাপ বার্তার জন্য)
+plugin_gpt_privacy_s1b_note === আপনার অনুরোধ প্রক্রিয়াকরণের পর বার্তার কনটেন্ট সংরক্ষণ করে না।
+plugin_gpt_privacy_s1b_p1 === আপনার পক্ষ থেকে বার্তা পাঠাতে,
+plugin_gpt_privacy_s1b_p2 === পরিষেবাটি আপনার প্রদত্ত কনটেন্ট প্রক্রিয়া করে, যার মধ্যে রয়েছে:
+plugin_gpt_privacy_s2_h === ২. আমরা কীভাবে আপনার তথ্য ব্যবহার করি
+plugin_gpt_privacy_s2_li1a === সহজতর ও পরিচালনা করতে
+plugin_gpt_privacy_s2_li1b === পরিষেবা
+plugin_gpt_privacy_s2_li2 === ব্যবহারকারীর অনুরোধ প্রমাণীকরণ করতে এবং API পরিষেবার অনুমোদিত ব্যবহার নিশ্চিত করতে
+plugin_gpt_privacy_s2_li3 === ব্যবহারের প্যাটার্ন বিশ্লেষণ করে আমাদের পরিষেবা উন্নত করতে
+plugin_gpt_privacy_s2_li4 === সমস্যা সমাধান এবং সাপোর্ট প্রদান করতে
+plugin_gpt_privacy_s2_li5 === অপব্যবহারের বিরুদ্ধে আমাদের পরিষেবা এবং ব্যবহারকারীদের সুরক্ষিত রাখতে
+plugin_gpt_privacy_s2_p === আমরা সংগৃহীত তথ্য বিভিন্ন উদ্দেশ্যে ব্যবহার করি, যার মধ্যে রয়েছে:
+plugin_gpt_privacy_s3_h === ৩. ডেটা নিরাপত্তা ও সংরক্ষণ
+plugin_gpt_privacy_s3_li1 === <strong>ডেটা সংরক্ষণ:</strong> একটি অনুরোধ সফলভাবে প্রক্রিয়া করার পর আমরা বার্তার কনটেন্ট বা প্রাপকের তথ্য ধরে রাখি না।
+plugin_gpt_privacy_s3_li2 === <strong>ডেটা রিটেনশন:</strong> ব্যক্তিগতভাবে শনাক্তযোগ্য তথ্য, যেমন API key, আপনার সেশন চলাকালীন সংরক্ষণ করা হয় এবং পরে মুছে ফেলা হয়।
+plugin_gpt_privacy_s3_p1 === আপনার তথ্য সুরক্ষিত রাখতে আমরা প্রতিশ্রুতিবদ্ধ।
+plugin_gpt_privacy_s3_p2 === আপনার ব্যক্তিগত তথ্যকে অননুমোদিত প্রবেশ, পরিবর্তন, প্রকাশ বা ধ্বংস থেকে রক্ষা করতে বাণিজ্যিকভাবে যুক্তিসঙ্গত নিরাপত্তা ব্যবস্থা ব্যবহার করে।
+plugin_gpt_privacy_s4_h === ৪. ডেটা শেয়ারিং ও প্রকাশ
+plugin_gpt_privacy_s4_li1 === <strong>তৃতীয়-পক্ষের সেবা প্রদানকারীদের সাথে:</strong> আমরা আমাদের পক্ষ থেকে ডেটা প্রক্রিয়া বা বিশ্লেষণ করতে তৃতীয়-পক্ষের টুল ব্যবহার করতে পারি।
+plugin_gpt_privacy_s4_li2 === <strong>আইনি প্রয়োজনীয়তার জন্য:</strong> আইনগতভাবে প্রয়োজন হলে অথবা আইনি বাধ্যবাধকতা মেনে চলা, অধিকার রক্ষা করা বা আমাদের পরিষেবা সংক্রান্ত অন্যায় আচরণ তদন্তের জন্য প্রয়োজনীয় বলে আন্তরিকভাবে বিশ্বাস করলে আমরা তথ্য প্রকাশ করতে পারি।
+plugin_gpt_privacy_s4_p1 === আমরা শুধুমাত্র তথ্য শেয়ার করি যখন তা প্রদান করার জন্য প্রয়োজনীয়
+plugin_gpt_privacy_s4_p2 === পরিষেবা প্রদানের জন্য এবং নির্দিষ্ট পরিস্থিতিতে:
+plugin_gpt_privacy_s5_h === ৫. ব্যবহারকারীর অধিকার ও পছন্দ
+plugin_gpt_privacy_s5_li1 === <strong>প্রবেশাধিকার ও সংশোধন:</strong> আমরা আপনার সম্পর্কে যে ব্যক্তিগত তথ্য সংরক্ষণ করি তাতে প্রবেশাধিকার চাইতে পারেন এবং ভুল তথ্য সংশোধনের অনুরোধ করতে পারেন।
+plugin_gpt_privacy_s5_li2 === <strong>ডেটা মুছে ফেলা:</strong> আমাদের আইনি বাধ্যবাধকতা সাপেক্ষে, আপনি আমাদের সিস্টেম থেকে আপনার ব্যক্তিগত তথ্য মুছে ফেলার অনুরোধ করতে পারেন।
+plugin_gpt_privacy_s5_li3 === <strong>ডেটা পোর্টেবিলিটি:</strong> প্রযোজ্য ক্ষেত্রে, আপনার তথ্যের একটি কপি একটি কাঠামোবদ্ধ, সাধারণভাবে ব্যবহৃত এবং মেশিন-রিডেবল ফরম্যাটে পাওয়ার অধিকার আপনার রয়েছে।
+plugin_gpt_privacy_s5_p === আমরা আপনার সম্পর্কে যে তথ্য সংরক্ষণ করি তার ক্ষেত্রে আপনার নিম্নলিখিত অধিকারগুলো রয়েছে:
+plugin_gpt_privacy_s6_h === ৬. শিশুদের গোপনীয়তা
+plugin_gpt_privacy_s6_p === ১৩ বছরের কম বয়সী ব্যক্তিদের ব্যবহারের জন্য উদ্দেশ্যযুক্ত নয়। আমরা জেনেশুনে শিশুদের কাছ থেকে ব্যক্তিগত তথ্য সংগ্রহ বা অনুরোধ করি না। যদি আমরা আবিষ্কার করি যে অনিচ্ছাকৃতভাবে ১৩ বছরের কম বয়সী কোনো শিশুর কাছ থেকে ব্যক্তিগত তথ্য সংগ্রহ করা হয়েছে, তাহলে আমরা যত দ্রুত সম্ভব সেই তথ্য মুছে ফেলার ব্যবস্থা নেব।
+plugin_gpt_privacy_s7_h === ৭. এই গোপনীয়তা নীতিতে পরিবর্তন
+plugin_gpt_privacy_s7_p === আমরা মাঝে মাঝে আমাদের গোপনীয়তা নীতি আপডেট করতে পারি। এই পৃষ্ঠায় নতুন গোপনীয়তা নীতি প্রকাশ করে আমরা আপনাকে যেকোনো পরিবর্তনের বিষয়ে জানাব। আমরা আপনাকে যেকোনো পরিবর্তনের জন্য নিয়মিতভাবে এই গোপনীয়তা নীতি পর্যালোচনা করার পরামর্শ দিই।
+plugin_gpt_privacy_s8_h === ৮. আমাদের সাথে যোগাযোগ করুন
+plugin_gpt_privacy_s8_p === এই গোপনীয়তা নীতি বা আমাদের ডেটা প্র্যাকটিস সম্পর্কে আপনার কোনো প্রশ্ন বা উদ্বেগ থাকলে, অনুগ্রহ করে আমাদের সাথে যোগাযোগ করুন:
+plugin_gpt_privacy_title === এর জন্য গোপনীয়তা নীতি
+plugin_gpt_privacy_website_label === ওয়েবসাইট:

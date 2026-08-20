@@ -2974,3 +2974,95 @@ provider_credentials_label === Nzere onye na-enye
 provider_manifest_label === Manifest (JSON)
 provider_manifest_help === Tinye manifest .json nke onye na-enye ebe a. Budata ya na ebe nchekwa ndị na-enye, ma ọ bụ dee nke gị site na iji boilerplate.json.
 provider_manifest_unreadable === A pụghị ịgụ onye na-enye a. Họrọ ọzọ, ma ọ bụ tinye manifest ya n'aka.
+plugin_gpt_conf_actions_h === Omume
+plugin_gpt_conf_actions_p === Scrollụọ gaa n'ala wee pịa <strong>Create new action</strong>, wee gụọ ntuziaka ndị dị n'okpuru.
+plugin_gpt_conf_auth_h === Nyocha Ọnụ Ọgụgụ
+plugin_gpt_conf_auth_screenshot_note === <small>Foto ihuenyo a bụ ihe mere tupu mkpa Custom Header dị n'okpuru, ọ ka na-egosi na a họọrọ Bearer -- soro nzọụkwụ e dere ede, ọ bụghị foto ahụ.</small>
+plugin_gpt_conf_auth_step1 === 1. Họrọ <strong>API Key</strong>, tọọ <strong>Auth Type</strong> ka ọ bụrụ <strong>Custom</strong>, wee tọọ <strong>Custom Header Name</strong> ka ọ bụrụ <code>X-Zender-Token</code>.
+plugin_gpt_conf_auth_step2 === 2. Detuo <strong>Authentication Token</strong> dị n'okpuru ma tinye ya n'ubi ntinye, wee chekwaa.
+plugin_gpt_conf_capabilities_label === Ikike
+plugin_gpt_conf_capabilities_p === Lelee ikike ndị ahụ dịka ihe atụ dị n'okpuru.
+plugin_gpt_conf_codeinterp_label === Code Interpreter & Data Analysis
+plugin_gpt_conf_conv1 === Gịnị ka ị nwere ike ime maka m?
+plugin_gpt_conf_conv2 === Ziga ozi WhatsApp
+plugin_gpt_conf_conv3 === Lelee kredit SMS m fọdụrụ
+plugin_gpt_conf_conv4 === Nweta akaụntụ WhatsApp m ugbu a
+plugin_gpt_conf_conv5 === Ziga ozi SMS gaa na nọmba ekwentị
+plugin_gpt_conf_convstarters_label === Ihe Mmalite Mkparịta ụka
+plugin_gpt_conf_convstarters_p === Detuo ma tinye ihe mmalite mkparịta ụka ndị a, ị nwere ike ịgbanwe ha dịka ọ masịrị gị.
+plugin_gpt_conf_copy_btn === Detuo
+plugin_gpt_conf_dalle_label === DALL·E Image Generation
+plugin_gpt_conf_description_label === Description
+plugin_gpt_conf_description_p === Detuo ma tinye ihe dị n'okpuru n'ubi <strong>Description</strong>. Ị nwere ike ịgbanwe ya dịka ọ masịrị gị.
+plugin_gpt_conf_description_value === Ziga ozi SMS na WhatsApp site na
+plugin_gpt_conf_editsettings_btn === Ntọala
+plugin_gpt_conf_editsettings_title === Dezie Ntọala Bridge
+plugin_gpt_conf_important === Ihe Dị Mkpa!
+plugin_gpt_conf_important_p === Tupu ị malite ebe a, jide n'aka na ị edeziela ntọala plugin na admin panel. Ọ bụrụ na ị emebeghị ya, biko jiri bọtịnụ dị n'okpuru dozie ya, wee megharịa ibe ahụ.
+plugin_gpt_conf_info_h === Ozi GPT
+plugin_gpt_conf_info_p === Biko tinye ozi ndị a dị n'okpuru na nhazi GPT gị.
+plugin_gpt_conf_name_label === Name
+plugin_gpt_conf_name_p === Detuo ma tinye ihe dị n'okpuru n'ubi <strong>Name</strong>. Nke a kwesịrị ịdaba n'aha ị họpụtara na ntọala plugin.
+plugin_gpt_conf_privacypolicy_label === Iwu Nzuzo
+plugin_gpt_conf_privacypolicy_p === Detuo URL dị n'okpuru ma tinye ya n'ubi <strong>Privacy policy</strong> dị n'ala ntọala omume ahụ.
+plugin_gpt_conf_publish_anyonelink === <strong>Anyone with the link</strong> - A na-ahụ ya naanị ndị ọ bụla ị họrọ inye njikọ GPT.
+plugin_gpt_conf_publish_gptstore === <strong>GPT Store</strong> - Onye ọ bụla na-ahụ ya, gụnyere ndị ọrụ efu nke ChatGPT.
+plugin_gpt_conf_publish_gptstore_warning === Ọ bụrụ na ị họrọ ibipụta ya na <strong>GPT Store</strong>, jide n'aka na ị emechaala profaịlụ onye owuwu gị ma kwado ngalaba gị na ntọala profaịlụ ChatGPT gị.
+plugin_gpt_conf_publish_h === Bipụta GPT
+plugin_gpt_conf_publish_onlyme === <strong>Only Me</strong> - Naanị gị ka a na-ahụ ya.
+plugin_gpt_conf_publish_step1 === 1. N'akụkụ elu aka nri, pịa bọtịnụ <strong>Share</strong>. Ị ga-ahụ ihe dị n'okpuru.
+plugin_gpt_conf_publish_step2 === 2. Họrọ ndị na-ege ntị ị chọrọ, e nwere nhọrọ atọ.
+plugin_gpt_conf_publish_step3 === 3. Pịa <strong>Save</strong> iji bipụta GPT gị.
+plugin_gpt_conf_publish_step4 === 4. Emechaala, ị nwere ike imechi ibe a ugbu a.
+plugin_gpt_conf_schema_label === Atụmatụ (Schema)
+plugin_gpt_conf_schema_p === Detuo URL dị n'okpuru ma tinye ya n'ubi <strong>Import from URL</strong>, wee pịa <strong>Import</strong>.
+plugin_gpt_conf_title === Nhazi GPT
+plugin_gpt_conf_webbrowsing_label === Web Browsing
+plugin_gpt_privacy_email_label === Email:
+plugin_gpt_privacy_lastupdated === <strong>Emelitere ikpeazụ:</strong>
+plugin_gpt_privacy_s1_h === 1. Ozi Anyị Na-anakọta
+plugin_gpt_privacy_s1_p1 === Mgbe ị na-emekọrịta ihe na
+plugin_gpt_privacy_s1_p2 === , anyị nwere ike ịnakọta ụfọdụ ozi iji melite ahụmịhe gị ma jide n'aka na ojiji nchekwa nke ọrụ anyị. Ozi ndị a gụnyere:
+plugin_gpt_privacy_s1a_h === a) Ozi Onwe
+plugin_gpt_privacy_s1a_li1 === API Key (maka ebumnobi nyocha na njikọ)
+plugin_gpt_privacy_s1a_li2 === Adreesị email (maka nkwado na nkwukọrịta metụtara akaụntụ)
+plugin_gpt_privacy_s1a_p1 === Iji nweta ohere ịbanye na ọrụ
+plugin_gpt_privacy_s1a_p2 === , anyị nwere ike ịjụ gị ka ị nye ụfọdụ ozi nke a na-ejiri mata onye ị bụ, gụnyere:
+plugin_gpt_privacy_s1b_h === b) Ọdịnaya Ozi Ezi
+plugin_gpt_privacy_s1b_li1 === Nọmba ekwentị onye na-anata
+plugin_gpt_privacy_s1b_li2 === Ederede ozi
+plugin_gpt_privacy_s1b_li3 === Ihe mmado midia (maka ozi WhatsApp)
+plugin_gpt_privacy_s1b_note === anaghị echekwa ọdịnaya ozi mgbe ọ chapụtachara arịrịọ gị.
+plugin_gpt_privacy_s1b_p1 === Iji ziga ozi n'ọnọdụ gị, ọrụ
+plugin_gpt_privacy_s1b_p2 === na-ahazi ọdịnaya ị nyere, gụnyere:
+plugin_gpt_privacy_s2_h === 2. Otu Anyị Si Eji Ozi Gị Eme Ihe
+plugin_gpt_privacy_s2_li1a === Iji mee ka ọ dị mfe ma na-arụ ọrụ
+plugin_gpt_privacy_s2_li1b === ahụ
+plugin_gpt_privacy_s2_li2 === Iji nyochaa arịrịọ ndị ọrụ na ijide n'aka na ojiji e nyere ikike nke ọrụ API
+plugin_gpt_privacy_s2_li3 === Iji melite ọrụ anyị site n'inyocha usoro ojiji
+plugin_gpt_privacy_s2_li4 === Iji dozie nsogbu ma nye nkwado
+plugin_gpt_privacy_s2_li5 === Iji chebe ọrụ anyị na ndị ọrụ anyị site na mmejọ
+plugin_gpt_privacy_s2_p === Anyị na-eji ozi anyị na-anakọta eme ọtụtụ ihe, gụnyere:
+plugin_gpt_privacy_s3_h === 3. Nchekwa na Idobe Data
+plugin_gpt_privacy_s3_li1 === <strong>Nchekwa Data:</strong> Anyị anaghị edobe ọdịnaya ozi ma ọ bụ data onye na-anata mgbe anyị chapụtachara arịrịọ nke ọma.
+plugin_gpt_privacy_s3_li2 === <strong>Idobe Data:</strong> Ozi nke a na-eji mata onye ị bụ, dịka API key, ka a na-echekwa ruo mgbe oge nnọkọ gị gasịrị, wee hichapụ ya mgbe ahụ gachara.
+plugin_gpt_privacy_s3_p1 === Anyị ekwesịrị ka ozi gị dị nchebe.
+plugin_gpt_privacy_s3_p2 === na-eji usoro nchekwa ziri ezi n'ụzọ azụmahịa iji chebe ozi onwe gị site na ohere, mgbanwe, mkpughe, ma ọ bụ mbibi na-enweghị ikike.
+plugin_gpt_privacy_s4_h === 4. Ikesa na Mkpughe Data
+plugin_gpt_privacy_s4_li1 === <strong>Site na Ndị Na-enye Ọrụ nke Otu Ọzọ:</strong> Anyị nwere ike iji ngwaọrụ ndị nke otu ọzọ hazie ma ọ bụ nyochaa data n'ọnọdụ anyị.
+plugin_gpt_privacy_s4_li2 === <strong>Maka Iwu:</strong> Anyị nwere ike ikpughe ozi ma ọ bụrụ na iwu chọrọ ya ma ọ bụ ma anyị kwenye n'ezi obi na ọ dị mkpa iji rubere iwu isi, chebe ikike, ma ọ bụ nyochaa omume ọjọọ metụtara ọrụ anyị.
+plugin_gpt_privacy_s4_p1 === Anyị na-ekekọrịta ozi naanị mgbe ọ dị mkpa inye ọrụ
+plugin_gpt_privacy_s4_p2 === na n'okpuru ọnọdụ ụfọdụ:
+plugin_gpt_privacy_s5_h === 5. Ikike na Nhọrọ Onye Ọrụ
+plugin_gpt_privacy_s5_li1 === <strong>Ohere na Mmezi:</strong> Ị nwere ike ịrịọ ohere ịbanye na data onwe anyị na-edebe gbasara gị ma jụọ anyị mezie ihe ndị na-ezighi ezi.
+plugin_gpt_privacy_s5_li2 === <strong>Ihichapụ Data:</strong> Ị nwere ike ịrịọ ka e hichapụ data onwe gị na sistemụ anyị, dịka iwu anyị si dị.
+plugin_gpt_privacy_s5_li3 === <strong>Mbufe Data:</strong> Ebe o kwesịrị, ị nwere ikike ịnata mpịakọta data gị n'ụdị ahazi, nke a na-ejikarị na nke igwe pụrụ ịgụ.
+plugin_gpt_privacy_s5_p === Ị nwere ikike ndị a gbasara ozi anyị na-edebe gbasara gị:
+plugin_gpt_privacy_s6_h === 6. Nzuzo Ụmụaka
+plugin_gpt_privacy_s6_p === ọ bụghị maka ndị dị n'okpuru afọ 13. Anyị anaghị akpachapụ anya nakọta ma ọ bụ rịọ data onwe n'aka ụmụaka. Ọ bụrụ na anyị achọpụta na anyị enweghị mmata nakọtara ozi onwe n'aka nwata dị n'okpuru afọ 13, anyị ga-eme ihe iji hichapụ ozi ahụ ozugbo o kwere mee.
+plugin_gpt_privacy_s7_h === 7. Mgbanwe na Iwu Nzuzo A
+plugin_gpt_privacy_s7_p === Anyị nwere ike imelite Iwu Nzuzo anyị mgbe mgbe. Anyị ga-agwa gị mgbanwe ọ bụla site n'ibipụta Iwu Nzuzo ọhụrụ na ibe a. Anyị na-agba gị ume ka ị na-elele Iwu Nzuzo a mgbe mgbe iji mata mgbanwe ọ bụla.
+plugin_gpt_privacy_s8_h === 8. Kpọtụrụ Anyị
+plugin_gpt_privacy_s8_p === Ọ bụrụ na ị nwere ajụjụ ọ bụla ma ọ bụ nchegbu gbasara Iwu Nzuzo a ma ọ bụ omume data anyị, biko kpọtụrụ anyị na:
+plugin_gpt_privacy_title === Iwu Nzuzo maka
+plugin_gpt_privacy_website_label === Weebụsaịtị:

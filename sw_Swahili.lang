@@ -2974,3 +2974,95 @@ provider_credentials_label === Vitambulisho vya mtoa huduma
 provider_manifest_label === Manifest (JSON)
 provider_manifest_help === Bandika manifest ya .json ya mtoa huduma hapa. Pakua kutoka hifadhi ya watoa huduma, au andika yako mwenyewe ukitumia boilerplate.json.
 provider_manifest_unreadable === Mtoa huduma huyu hakuweza kusomwa. Chagua mwingine, au bandika manifest yake mwenyewe.
+plugin_gpt_conf_actions_h === Vitendo
+plugin_gpt_conf_actions_p === Tembeza chini kisha bofya <strong>Create new action</strong>, kisha soma maagizo yafuatayo hapa chini.
+plugin_gpt_conf_auth_h === Uthibitishaji
+plugin_gpt_conf_auth_screenshot_note === <small>Picha hii ya skrini ilipigwa kabla ya sharti la Custom Header lililo hapa chini na bado inaonyesha Bearer ikiwa imechaguliwa -- fuata hatua zilizoandikwa, siyo picha.</small>
+plugin_gpt_conf_auth_step1 === 1. Chagua <strong>API Key</strong>, weka <strong>Auth Type</strong> kuwa <strong>Custom</strong>, kisha weka <strong>Custom Header Name</strong> kuwa <code>X-Zender-Token</code>.
+plugin_gpt_conf_auth_step2 === 2. Nakili <strong>Authentication Token</strong> hapa chini kisha uibandike kwenye sehemu ya kuingiza data kisha uhifadhi.
+plugin_gpt_conf_capabilities_label === Uwezo
+plugin_gpt_conf_capabilities_p === Tia alama kwenye uwezo kama ilivyo kwenye mfano ufuatao hapa chini.
+plugin_gpt_conf_codeinterp_label === Code Interpreter & Data Analysis
+plugin_gpt_conf_conv1 === Unaweza kunifanyia nini?
+plugin_gpt_conf_conv2 === Tuma ujumbe wa WhatsApp
+plugin_gpt_conf_conv3 === Angalia salio langu la SMS lililobaki
+plugin_gpt_conf_conv4 === Pata akaunti zangu za sasa za WhatsApp
+plugin_gpt_conf_conv5 === Tuma ujumbe wa SMS kwenye nambari ya simu
+plugin_gpt_conf_convstarters_label === Vianzishi vya Mazungumzo
+plugin_gpt_conf_convstarters_p === Nakili na ubandike vianzishi vya mazungumzo vifuatavyo, jisikie huru kuvibadilisha kulingana na upendeleo wako.
+plugin_gpt_conf_copy_btn === Nakili
+plugin_gpt_conf_dalle_label === DALL·E Image Generation
+plugin_gpt_conf_description_label === Maelezo
+plugin_gpt_conf_description_p === Nakili na ubandike yafuatayo kwenye sehemu ya <strong>Description</strong>. Jisikie huru kuyabadilisha kulingana na upendeleo wako.
+plugin_gpt_conf_description_value === Tuma ujumbe wa SMS na WhatsApp kwa kutumia
+plugin_gpt_conf_editsettings_btn === Mipangilio
+plugin_gpt_conf_editsettings_title === Hariri Mipangilio ya Daraja
+plugin_gpt_conf_important === Muhimu!
+plugin_gpt_conf_important_p === Kabla ya kuanza hapa, hakikisha tayari umehariri mipangilio ya programu-jalizi kwenye jopo la msimamizi. Kama hujafanya hivyo, tafadhali hariri kwa kutumia kitufe kilicho hapa chini kisha uonyeshe upya ukurasa.
+plugin_gpt_conf_info_h === Taarifa za GPT
+plugin_gpt_conf_info_p === Tafadhali weka taarifa zifuatazo kwenye usanidi wako wa GPT.
+plugin_gpt_conf_name_label === Jina
+plugin_gpt_conf_name_p === Nakili na ubandike yafuatayo kwenye sehemu ya <strong>Name</strong>. Hii inapaswa kuendana na ile uliyoweka kwenye mipangilio ya programu-jalizi.
+plugin_gpt_conf_privacypolicy_label === Privacy Policy
+plugin_gpt_conf_privacypolicy_p === Nakili URL ifuatayo kisha uibandike kwenye sehemu ya <strong>Privacy policy</strong> chini kabisa ya mipangilio ya kitendo.
+plugin_gpt_conf_publish_anyonelink === <strong>Anyone with the link</strong> - Inaonekana kwa watu maalum unaowachagua kuwapa kiungo cha GPT.
+plugin_gpt_conf_publish_gptstore === <strong>GPT Store</strong> - Inaonekana kwa kila mtu, ikiwa ni pamoja na watumiaji wa bure wa ChatGPT.
+plugin_gpt_conf_publish_gptstore_warning === Ukichagua kuchapisha kwenye <strong>GPT Store</strong>, hakikisha umekamilisha wasifu wako wa mtengenezaji na kuthibitisha eneo lako la wavuti kwenye mipangilio ya wasifu wako wa ChatGPT.
+plugin_gpt_conf_publish_h === Chapisha GPT
+plugin_gpt_conf_publish_onlyme === <strong>Only Me</strong> - Inaonekana kwako pekee.
+plugin_gpt_conf_publish_step1 === 1. Kwenye kona ya juu kulia, bofya kitufe cha <strong>Share</strong>. Unapaswa kuona yafuatayo.
+plugin_gpt_conf_publish_step2 === 2. Chagua hadhira unayoipendelea, kuna chaguo tatu.
+plugin_gpt_conf_publish_step3 === 3. Bofya <strong>Save</strong> ili kuchapisha GPT yako.
+plugin_gpt_conf_publish_step4 === 4. Umemaliza, sasa unaweza kufunga ukurasa huu.
+plugin_gpt_conf_schema_label === Muundo (Schema)
+plugin_gpt_conf_schema_p === Nakili URL ifuatayo kisha uibandike kwenye sehemu ya <strong>Import from URL</strong>, kisha ubofye <strong>Import</strong>.
+plugin_gpt_conf_title === Usanidi wa GPT
+plugin_gpt_conf_webbrowsing_label === Web Browsing
+plugin_gpt_privacy_email_label === Barua pepe:
+plugin_gpt_privacy_lastupdated === <strong>Ilisasishwa Mwisho:</strong>
+plugin_gpt_privacy_s1_h === 1. Taarifa Tunazokusanya
+plugin_gpt_privacy_s1_p1 === Unapotumia
+plugin_gpt_privacy_s1_p2 === , huenda tukakusanya taarifa fulani ili kuboresha uzoefu wako na kuhakikisha matumizi salama ya huduma yetu. Taarifa hii inajumuisha:
+plugin_gpt_privacy_s1a_h === a) Taarifa Binafsi
+plugin_gpt_privacy_s1a_li1 === API Key (kwa madhumuni ya uthibitishaji na uunganishaji)
+plugin_gpt_privacy_s1a_li2 === Anwani ya barua pepe (kwa msaada na mawasiliano yanayohusiana na akaunti)
+plugin_gpt_privacy_s1a_p1 === Ili kupata huduma ya
+plugin_gpt_privacy_s1a_p2 === , tunaweza kukuomba utupatie taarifa fulani zinazoweza kukutambulisha binafsi, ikiwa ni pamoja na:
+plugin_gpt_privacy_s1b_h === b) Maudhui ya Ujumbe
+plugin_gpt_privacy_s1b_li1 === Nambari za simu za wapokeaji
+plugin_gpt_privacy_s1b_li2 === Maandishi ya ujumbe
+plugin_gpt_privacy_s1b_li3 === Viambatisho vya midia (kwa ujumbe wa WhatsApp)
+plugin_gpt_privacy_s1b_note === haihifadhi maudhui ya ujumbe baada ya kushughulikia ombi lako.
+plugin_gpt_privacy_s1b_p1 === Ili kutuma ujumbe kwa niaba yako, huduma ya
+plugin_gpt_privacy_s1b_p2 === inashughulikia maudhui unayotoa, ikiwa ni pamoja na:
+plugin_gpt_privacy_s2_h === 2. Jinsi Tunavyotumia Taarifa Zako
+plugin_gpt_privacy_s2_li1a === Kuwezesha na kuendesha
+plugin_gpt_privacy_s2_li1b === kama huduma
+plugin_gpt_privacy_s2_li2 === Kuthibitisha maombi ya watumiaji na kuhakikisha matumizi yaliyoidhinishwa ya huduma za API
+plugin_gpt_privacy_s2_li3 === Kuboresha huduma yetu kwa kuchambua mifumo ya matumizi
+plugin_gpt_privacy_s2_li4 === Kutatua matatizo na kutoa msaada
+plugin_gpt_privacy_s2_li5 === Kulinda huduma yetu na watumiaji dhidi ya matumizi mabaya
+plugin_gpt_privacy_s2_p === Tunatumia taarifa tunazokusanya kwa madhumuni mbalimbali, ikiwa ni pamoja na:
+plugin_gpt_privacy_s3_h === 3. Usalama na Uhifadhi wa Data
+plugin_gpt_privacy_s3_li1 === <strong>Uhifadhi wa Data:</strong> Hatuhifadhi maudhui ya ujumbe wala data ya wapokeaji baada ya kushughulikia ombi kwa mafanikio.
+plugin_gpt_privacy_s3_li2 === <strong>Muda wa Kuhifadhi Data:</strong> Taarifa zinazoweza kukutambulisha binafsi, kama vile funguo za API, huhifadhiwa kwa muda wa kikao chako kisha hufutwa.
+plugin_gpt_privacy_s3_p1 === Tumejizatiti kuhakikisha kuwa taarifa zako ni salama.
+plugin_gpt_privacy_s3_p2 === hutumia hatua za kibiashara zinazofaa za usalama kulinda taarifa zako binafsi dhidi ya ufikiaji usioidhinishwa, ubadilishaji, ufichuzi, au uharibifu.
+plugin_gpt_privacy_s4_h === 4. Ushirikishwaji na Ufichuzi wa Data
+plugin_gpt_privacy_s4_li1 === <strong>Na Watoa Huduma wa Wahusika Wengine:</strong> Tunaweza kutumia zana za wahusika wengine kuchakata au kuchambua data kwa niaba yetu.
+plugin_gpt_privacy_s4_li2 === <strong>Kwa Mahitaji ya Kisheria:</strong> Tunaweza kufichua taarifa iwapo inatakiwa kisheria au iwapo tunaamini kwa nia njema kuwa hatua hiyo ni muhimu ili kutii wajibu wa kisheria, kulinda haki, au kuchunguza makosa yanayohusiana na huduma yetu.
+plugin_gpt_privacy_s4_p1 === Tunashiriki taarifa tu pale inapohitajika kutoa huduma ya
+plugin_gpt_privacy_s4_p2 === na chini ya mazingira maalum:
+plugin_gpt_privacy_s5_h === 5. Haki na Chaguo za Mtumiaji
+plugin_gpt_privacy_s5_li1 === <strong>Ufikiaji na Marekebisho:</strong> Unaweza kuomba ufikiaji wa data binafsi tuliyonayo kukuhusu na kutuomba turekebishe makosa.
+plugin_gpt_privacy_s5_li2 === <strong>Ufutaji wa Data:</strong> Unaweza kuomba ufutaji wa data yako binafsi kutoka kwenye mifumo yetu, kulingana na wajibu wetu wa kisheria.
+plugin_gpt_privacy_s5_li3 === <strong>Uhamishaji wa Data:</strong> Panapotumika, una haki ya kupokea nakala ya data yako katika muundo uliopangwa, unaotumika kwa kawaida, na unaosomeka na mashine.
+plugin_gpt_privacy_s5_p === Una haki zifuatazo kuhusiana na taarifa tunazokuhusu unazozihifadhi:
+plugin_gpt_privacy_s6_h === 6. Faragha ya Watoto
+plugin_gpt_privacy_s6_p === haikusudiwi kutumiwa na watu walio chini ya umri wa miaka 13. Hatukusanyi wala kuomba taarifa binafsi za watoto kwa makusudi. Tukigundua kuwa tumekusanya bila kukusudia taarifa binafsi za mtoto aliye chini ya umri wa miaka 13, tutachukua hatua za kufuta taarifa hiyo haraka iwezekanavyo.
+plugin_gpt_privacy_s7_h === 7. Mabadiliko ya Sera Hii ya Faragha
+plugin_gpt_privacy_s7_p === Tunaweza kusasisha Sera yetu ya Faragha mara kwa mara. Tutakujulisha kuhusu mabadiliko yoyote kwa kuchapisha Sera mpya ya Faragha kwenye ukurasa huu. Tunakuhimiza kupitia Sera hii ya Faragha mara kwa mara kuangalia mabadiliko yoyote.
+plugin_gpt_privacy_s8_h === 8. Wasiliana Nasi
+plugin_gpt_privacy_s8_p === Iwapo una maswali au wasiwasi wowote kuhusu Sera hii ya Faragha au taratibu zetu za kushughulikia data, tafadhali wasiliana nasi kupitia:
+plugin_gpt_privacy_title === Sera ya Faragha ya
+plugin_gpt_privacy_website_label === Tovuti:

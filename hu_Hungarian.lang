@@ -2974,3 +2974,95 @@ provider_credentials_label === Szolgáltató hitelesítő adatai
 provider_manifest_label === Manifest (JSON)
 provider_manifest_help === Illessze be ide a szolgáltató .json manifestjét. Töltse le a szolgáltatói tárolóból, vagy írja meg a sajátját a boilerplate.json felhasználásával.
 provider_manifest_unreadable === Ez a szolgáltató nem volt olvasható. Válasszon másikat, vagy illessze be a manifestjét manuálisan.
+plugin_gpt_conf_actions_h === Műveletek
+plugin_gpt_conf_actions_p === Görgessen le, és kattintson a <strong>Create new action</strong> gombra, majd olvassa el az alábbi utasításokat.
+plugin_gpt_conf_auth_h === Hitelesítés
+plugin_gpt_conf_auth_screenshot_note === <small>Ez a képernyőkép a lenti Custom Header követelmény előttről származik, és még mindig a Bearer kiválasztását mutatja -- kövesse a leírt lépéseket, ne a képet.</small>
+plugin_gpt_conf_auth_step1 === 1. Válassza az <strong>API Key</strong> lehetőséget, állítsa az <strong>Auth Type</strong> értékét <strong>Custom</strong>-ra, majd a <strong>Custom Header Name</strong> értékét állítsa <code>X-Zender-Token</code>-re.
+plugin_gpt_conf_auth_step2 === 2. Másolja ki az alábbi <strong>Authentication Token</strong>-t, illessze be a beviteli mezőbe, majd mentse el.
+plugin_gpt_conf_capabilities_label === Képességek
+plugin_gpt_conf_capabilities_p === Jelölje be a képességeket az alábbi példa szerint.
+plugin_gpt_conf_codeinterp_label === Code Interpreter & Data Analysis
+plugin_gpt_conf_conv1 === Mit tudsz tenni értem?
+plugin_gpt_conf_conv2 === Küldj egy WhatsApp üzenetet
+plugin_gpt_conf_conv3 === Ellenőrizd a fennmaradó SMS kreditjeimet
+plugin_gpt_conf_conv4 === Mutasd meg a jelenlegi WhatsApp fiókjaimat
+plugin_gpt_conf_conv5 === Küldj egy SMS üzenetet egy telefonszámra
+plugin_gpt_conf_convstarters_label === Beszélgetésindítók
+plugin_gpt_conf_convstarters_p === Másolja ki és illessze be az alábbi beszélgetésindítókat, kedve szerint módosíthatja őket.
+plugin_gpt_conf_copy_btn === Másolás
+plugin_gpt_conf_dalle_label === DALL·E Image Generation
+plugin_gpt_conf_description_label === Description
+plugin_gpt_conf_description_p === Másolja ki és illessze be az alábbit a <strong>Description</strong> mezőbe. Kedve szerint módosíthatja.
+plugin_gpt_conf_description_value === Küldjön SMS és WhatsApp üzeneteket a
+plugin_gpt_conf_editsettings_btn === Beállítások
+plugin_gpt_conf_editsettings_title === Híd Beállítások Szerkesztése
+plugin_gpt_conf_important === Fontos!
+plugin_gpt_conf_important_p === Mielőtt itt elkezdené, győződjön meg róla, hogy már szerkesztette a bővítmény beállításait az admin panelen. Ha még nem tette meg, szerkessze az alábbi gombbal, majd frissítse az oldalt.
+plugin_gpt_conf_info_h === GPT Információ
+plugin_gpt_conf_info_p === Kérjük, adja meg az alábbi információkat a GPT konfigurációjában.
+plugin_gpt_conf_name_label === Name
+plugin_gpt_conf_name_p === Másolja ki és illessze be az alábbit a <strong>Name</strong> mezőbe. Ennek meg kell egyeznie azzal, amit a bővítmény beállításaiban megadott.
+plugin_gpt_conf_privacypolicy_label === Adatvédelmi Szabályzat
+plugin_gpt_conf_privacypolicy_p === Másolja ki az alábbi URL-t, és illessze be a <strong>Privacy policy</strong> mezőbe a művelet beállításainak alján.
+plugin_gpt_conf_publish_anyonelink === <strong>Anyone with the link</strong> - Csak azok számára látható, akiknek Ön megadja a GPT hivatkozását.
+plugin_gpt_conf_publish_gptstore === <strong>GPT Store</strong> - Mindenki számára látható, beleértve a ChatGPT ingyenes felhasználóit is.
+plugin_gpt_conf_publish_gptstore_warning === Ha a <strong>GPT Store</strong>-ban szeretné közzétenni, győződjön meg róla, hogy kitöltötte fejlesztői profilját, és igazolta domainjét a ChatGPT profilbeállításaiban.
+plugin_gpt_conf_publish_h === GPT Közzététele
+plugin_gpt_conf_publish_onlyme === <strong>Only Me</strong> - Csak Ön számára látható.
+plugin_gpt_conf_publish_step1 === 1. A jobb felső sarokban kattintson a <strong>Share</strong> gombra. A következőt fogja látni.
+plugin_gpt_conf_publish_step2 === 2. Válassza ki a kívánt közönséget, három lehetőség közül választhat.
+plugin_gpt_conf_publish_step3 === 3. Kattintson a <strong>Save</strong> gombra a GPT közzétételéhez.
+plugin_gpt_conf_publish_step4 === 4. Kész, most már bezárhatja ezt az oldalt.
+plugin_gpt_conf_schema_label === Séma
+plugin_gpt_conf_schema_p === Másolja ki az alábbi URL-t, és illessze be az <strong>Import from URL</strong> mezőbe, majd nyomja meg az <strong>Import</strong> gombot.
+plugin_gpt_conf_title === GPT Konfiguráció
+plugin_gpt_conf_webbrowsing_label === Web Browsing
+plugin_gpt_privacy_email_label === Email:
+plugin_gpt_privacy_lastupdated === <strong>Utolsó Frissítés:</strong>
+plugin_gpt_privacy_s1_h === 1. Az Általunk Gyűjtött Információk
+plugin_gpt_privacy_s1_p1 === Amikor kapcsolatba lép a
+plugin_gpt_privacy_s1_p2 === szolgáltatással, bizonyos információkat gyűjthetünk az élmény javítása és szolgáltatásunk biztonságos használatának biztosítása érdekében. Ezek az információk a következőket tartalmazzák:
+plugin_gpt_privacy_s1a_h === a) Személyes Adatok
+plugin_gpt_privacy_s1a_li1 === API Key (hitelesítési és integrációs célokra)
+plugin_gpt_privacy_s1a_li2 === E-mail cím (támogatással és fiókkal kapcsolatos kommunikációhoz)
+plugin_gpt_privacy_s1a_p1 === A
+plugin_gpt_privacy_s1a_p2 === szolgáltatás eléréséhez kérhetjük Öntől bizonyos személyazonosításra alkalmas információk megadását, például:
+plugin_gpt_privacy_s1b_h === b) Üzenetküldési Tartalom
+plugin_gpt_privacy_s1b_li1 === Címzett telefonszámai
+plugin_gpt_privacy_s1b_li2 === Üzenet szövege
+plugin_gpt_privacy_s1b_li3 === Médiamellékletek (WhatsApp üzenetekhez)
+plugin_gpt_privacy_s1b_note === nem tárolja az üzenet tartalmát a kérés feldolgozása után.
+plugin_gpt_privacy_s1b_p1 === Az Ön nevében történő üzenetküldéshez a
+plugin_gpt_privacy_s1b_p2 === szolgáltatás feldolgozza az Ön által megadott tartalmat, beleértve:
+plugin_gpt_privacy_s2_h === 2. Hogyan Használjuk Az Ön Adatait
+plugin_gpt_privacy_s2_li1a === A
+plugin_gpt_privacy_s2_li1b === szolgáltatás működtetéséhez és üzemeltetéséhez
+plugin_gpt_privacy_s2_li2 === A felhasználói kérések hitelesítéséhez és az API szolgáltatások engedélyezett használatának biztosításához
+plugin_gpt_privacy_s2_li3 === Szolgáltatásunk fejlesztéséhez a használati minták elemzésével
+plugin_gpt_privacy_s2_li4 === Problémák elhárításához és támogatás nyújtásához
+plugin_gpt_privacy_s2_li5 === Szolgáltatásunk és felhasználóink védelméhez a visszaélésekkel szemben
+plugin_gpt_privacy_s2_p === Az általunk gyűjtött információkat különféle célokra használjuk, például:
+plugin_gpt_privacy_s3_h === 3. Adatbiztonság és Megőrzés
+plugin_gpt_privacy_s3_li1 === <strong>Adattárolás:</strong> Nem őrizzük meg az üzenet tartalmát vagy a címzett adatait a kérés sikeres feldolgozása után.
+plugin_gpt_privacy_s3_li2 === <strong>Adatmegőrzés:</strong> A személyazonosításra alkalmas információkat, mint például az API key-eket, a munkamenet időtartamára tároljuk, majd töröljük.
+plugin_gpt_privacy_s3_p1 === Elkötelezettek vagyunk amellett, hogy az Ön adatai biztonságosak legyenek.
+plugin_gpt_privacy_s3_p2 === kereskedelmi szempontból ésszerű biztonsági intézkedéseket alkalmaz az Ön személyes adatainak jogosulatlan hozzáféréstől, módosítástól, nyilvánosságra hozataltól vagy megsemmisítéstől való védelmére.
+plugin_gpt_privacy_s4_h === 4. Adatmegosztás és Nyilvánosságra Hozatal
+plugin_gpt_privacy_s4_li1 === <strong>Harmadik Féltől Származó Szolgáltatókkal:</strong> Harmadik féltől származó eszközöket használhatunk adatok feldolgozására vagy elemzésére a nevünkben.
+plugin_gpt_privacy_s4_li2 === <strong>Jogi Követelmények Miatt:</strong> Nyilvánosságra hozhatunk információkat, ha ezt törvény írja elő, vagy ha jóhiszeműen úgy véljük, hogy az ilyen intézkedés szükséges a jogi kötelezettségek teljesítéséhez, jogok védelméhez vagy a szolgáltatásunkkal kapcsolatos jogsértések kivizsgálásához.
+plugin_gpt_privacy_s4_p1 === Csak akkor osztunk meg információt, ha az szükséges a
+plugin_gpt_privacy_s4_p2 === szolgáltatás nyújtásához, és bizonyos körülmények között:
+plugin_gpt_privacy_s5_h === 5. Felhasználói Jogok és Választási Lehetőségek
+plugin_gpt_privacy_s5_li1 === <strong>Hozzáférés és Helyesbítés:</strong> Kérheti a rólunk tárolt személyes adatokhoz való hozzáférést, és kérheti tőlünk a pontatlanságok kijavítását.
+plugin_gpt_privacy_s5_li2 === <strong>Adattörlés:</strong> Kérheti személyes adatainak törlését rendszereinkből, jogi kötelezettségeink figyelembevételével.
+plugin_gpt_privacy_s5_li3 === <strong>Adathordozhatóság:</strong> Adott esetben jogosult adatai másolatát strukturált, széles körben használt és géppel olvasható formátumban megkapni.
+plugin_gpt_privacy_s5_p === Az Önről tárolt információkkal kapcsolatban a következő jogok illetik meg:
+plugin_gpt_privacy_s6_h === 6. Gyermekek Adatvédelme
+plugin_gpt_privacy_s6_p === Nem 13 éven aluli személyek általi használatra szánt. Tudatosan nem gyűjtünk vagy kérünk személyes adatokat gyermekektől. Ha felfedezzük, hogy akaratlanul személyes adatokat gyűjtöttünk 13 éven aluli gyermektől, lépéseket teszünk az információ mielőbbi törlésére.
+plugin_gpt_privacy_s7_h === 7. Az Adatvédelmi Szabályzat Módosításai
+plugin_gpt_privacy_s7_p === Időről időre frissíthetjük Adatvédelmi Szabályzatunkat. Az esetleges változásokról az új Adatvédelmi Szabályzat ezen az oldalon történő közzétételével értesítjük Önt. Javasoljuk, hogy rendszeresen tekintse át ezt az Adatvédelmi Szabályzatot az esetleges változások miatt.
+plugin_gpt_privacy_s8_h === 8. Kapcsolat
+plugin_gpt_privacy_s8_p === Ha bármilyen kérdése vagy aggálya van ezzel az Adatvédelmi Szabályzattal vagy adatkezelési gyakorlatunkkal kapcsolatban, kérjük, vegye fel velünk a kapcsolatot itt:
+plugin_gpt_privacy_title === Adatvédelmi Szabályzat -
+plugin_gpt_privacy_website_label === Weboldal:

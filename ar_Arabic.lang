@@ -2974,3 +2974,95 @@ provider_credentials_label === بيانات اعتماد المزود
 provider_manifest_label === مانيفست (JSON)
 provider_manifest_help === الصق ملف مانيفست ‎.json الخاص بالمزود هنا. حمّله من مستودع المزودين، أو أنشئ ملفك الخاص باستخدام boilerplate.json.
 provider_manifest_unreadable === تعذّر قراءة هذا المزود. اختر مزودًا آخر، أو الصق ملف المانيفست الخاص به يدويًا.
+plugin_gpt_conf_actions_h === الإجراءات
+plugin_gpt_conf_actions_p === مرر لأسفل وانقر على <strong>Create new action</strong>، ثم اقرأ التعليمات التالية أدناه.
+plugin_gpt_conf_auth_h === المصادقة
+plugin_gpt_conf_auth_screenshot_note === <small>هذه اللقطة تعود لما قبل متطلب الترويسة المخصصة أدناه، وما زالت تُظهر خيار Bearer محددًا -- اتبع الخطوات المكتوبة، وليس الصورة.</small>
+plugin_gpt_conf_auth_step1 === 1. اختر <strong>API Key</strong>، واضبط <strong>Auth Type</strong> على <strong>Custom</strong>، ثم اضبط <strong>Custom Header Name</strong> على <code>X-Zender-Token</code>.
+plugin_gpt_conf_auth_step2 === 2. انسخ <strong>رمز المصادقة</strong> أدناه، والصقه في حقل الإدخال، ثم احفظ.
+plugin_gpt_conf_capabilities_label === القدرات
+plugin_gpt_conf_capabilities_p === حدّد القدرات كما في المثال التالي أدناه.
+plugin_gpt_conf_codeinterp_label === Code Interpreter & Data Analysis
+plugin_gpt_conf_conv1 === ماذا يمكنك أن تفعل من أجلي؟
+plugin_gpt_conf_conv2 === إرسال رسالة واتساب
+plugin_gpt_conf_conv3 === التحقق من رصيد الرسائل النصية المتبقي لدي
+plugin_gpt_conf_conv4 === الحصول على حسابات واتساب الحالية الخاصة بي
+plugin_gpt_conf_conv5 === إرسال رسالة نصية إلى رقم هاتف
+plugin_gpt_conf_convstarters_label === بادئات المحادثة
+plugin_gpt_conf_convstarters_p === انسخ والصق بادئات المحادثة التالية، ولا تتردد في تعديلها كما يناسبك.
+plugin_gpt_conf_copy_btn === نسخ
+plugin_gpt_conf_dalle_label === DALL·E Image Generation
+plugin_gpt_conf_description_label === Description
+plugin_gpt_conf_description_p === انسخ والصق ما يلي في حقل <strong>Description</strong>. لا تتردد في تعديل هذا كما يناسبك.
+plugin_gpt_conf_description_value === أرسل رسائل نصية وواتساب باستخدام
+plugin_gpt_conf_editsettings_btn === الإعدادات
+plugin_gpt_conf_editsettings_title === تعديل إعدادات Bridge
+plugin_gpt_conf_important === مهم!
+plugin_gpt_conf_important_p === قبل أن تبدأ هنا، يُرجى التأكد من أنك قد عدّلت بالفعل إعدادات الإضافة في لوحة الإدارة. إذا لم تفعل ذلك بعد، فيُرجى التعديل باستخدام الزر أدناه ثم تحديث الصفحة.
+plugin_gpt_conf_info_h === معلومات GPT
+plugin_gpt_conf_info_p === يُرجى إدخال المعلومات التالية في إعدادات GPT الخاص بك.
+plugin_gpt_conf_name_label === Name
+plugin_gpt_conf_name_p === انسخ والصق ما يلي في حقل <strong>Name</strong>. يجب أن يطابق هذا الاسم الذي حددته في إعدادات الإضافة.
+plugin_gpt_conf_privacypolicy_label === Privacy Policy
+plugin_gpt_conf_privacypolicy_p === انسخ الرابط التالي والصقه في حقل <strong>Privacy policy</strong> أسفل إعدادات الإجراء.
+plugin_gpt_conf_publish_anyonelink === <strong>Anyone with the link</strong> - مرئي لأشخاص محددين تختار منحهم رابط GPT.
+plugin_gpt_conf_publish_gptstore === <strong>GPT Store</strong> - مرئي للجميع، بمن فيهم مستخدمو ChatGPT المجانيون.
+plugin_gpt_conf_publish_gptstore_warning === إذا اخترت النشر في <strong>GPT Store</strong>، فتأكد من إكمال ملف منشئ المحتوى الخاص بك والتحقق من نطاقك في إعدادات ملفك الشخصي على ChatGPT.
+plugin_gpt_conf_publish_h === نشر GPT
+plugin_gpt_conf_publish_onlyme === <strong>Only Me</strong> - مرئي لك فقط.
+plugin_gpt_conf_publish_step1 === 1. في الزاوية العلوية اليمنى، انقر على زر <strong>Share</strong>. يجب أن ترى ما يلي.
+plugin_gpt_conf_publish_step2 === 2. اختر الجمهور الذي تفضله، هناك ثلاثة خيارات.
+plugin_gpt_conf_publish_step3 === 3. انقر على <strong>Save</strong> لنشر GPT الخاص بك.
+plugin_gpt_conf_publish_step4 === 4. اكتمل الأمر، يمكنك الآن إغلاق هذه الصفحة.
+plugin_gpt_conf_schema_label === Schema
+plugin_gpt_conf_schema_p === انسخ الرابط التالي والصقه في حقل <strong>Import from URL</strong>، ثم اضغط على <strong>Import</strong>.
+plugin_gpt_conf_title === إعدادات GPT
+plugin_gpt_conf_webbrowsing_label === Web Browsing
+plugin_gpt_privacy_email_label === البريد الإلكتروني:
+plugin_gpt_privacy_lastupdated === <strong>آخر تحديث:</strong>
+plugin_gpt_privacy_s1_h === 1. المعلومات التي نجمعها
+plugin_gpt_privacy_s1_p1 === عندما تتفاعل مع
+plugin_gpt_privacy_s1_p2 === ، قد نجمع بعض المعلومات لتحسين تجربتك وضمان الاستخدام الآمن لخدمتنا. تشمل هذه المعلومات:
+plugin_gpt_privacy_s1a_h === أ) المعلومات الشخصية
+plugin_gpt_privacy_s1a_li1 === API Key (لأغراض المصادقة والتكامل)
+plugin_gpt_privacy_s1a_li2 === عنوان البريد الإلكتروني (للدعم والتواصل المتعلق بالحساب)
+plugin_gpt_privacy_s1a_p1 === للوصول إلى خدمة
+plugin_gpt_privacy_s1a_p2 === ، قد نطلب منك تقديم بعض المعلومات الشخصية التي يمكن التعرف عليها، بما في ذلك:
+plugin_gpt_privacy_s1b_h === ب) محتوى الرسائل
+plugin_gpt_privacy_s1b_li1 === أرقام هواتف المستلمين
+plugin_gpt_privacy_s1b_li2 === نص الرسالة
+plugin_gpt_privacy_s1b_li3 === المرفقات الوسائطية (لرسائل واتساب)
+plugin_gpt_privacy_s1b_note === لا يخزّن محتوى الرسائل بعد معالجة طلبك.
+plugin_gpt_privacy_s1b_p1 === لإرسال الرسائل نيابةً عنك، تقوم خدمة
+plugin_gpt_privacy_s1b_p2 === بمعالجة المحتوى الذي تقدمه، بما في ذلك:
+plugin_gpt_privacy_s2_h === 2. كيف نستخدم معلوماتك
+plugin_gpt_privacy_s2_li1a === لتسهيل وتشغيل خدمة
+plugin_gpt_privacy_s2_li1b === لعملائنا
+plugin_gpt_privacy_s2_li2 === لمصادقة طلبات المستخدمين وضمان الاستخدام المصرح به لخدمات API
+plugin_gpt_privacy_s2_li3 === لتحسين خدمتنا من خلال تحليل أنماط الاستخدام
+plugin_gpt_privacy_s2_li4 === لاستكشاف المشكلات وإصلاحها وتقديم الدعم
+plugin_gpt_privacy_s2_li5 === لحماية خدمتنا ومستخدمينا من إساءة الاستخدام
+plugin_gpt_privacy_s2_p === نستخدم المعلومات التي نجمعها لأغراض متنوعة، بما في ذلك:
+plugin_gpt_privacy_s3_h === 3. أمن البيانات والاحتفاظ بها
+plugin_gpt_privacy_s3_li1 === <strong>تخزين البيانات:</strong> لا نحتفظ بمحتوى الرسائل أو بيانات المستلمين بعد معالجة الطلب بنجاح.
+plugin_gpt_privacy_s3_li2 === <strong>الاحتفاظ بالبيانات:</strong> يتم تخزين المعلومات الشخصية القابلة للتعريف، مثل مفاتيح API، طوال مدة جلستك ثم تُحذف بعد ذلك.
+plugin_gpt_privacy_s3_p1 === نحن ملتزمون بضمان أمان معلوماتك.
+plugin_gpt_privacy_s3_p2 === يستخدم تدابير أمنية معقولة تجاريًا لحماية معلوماتك الشخصية من الوصول غير المصرح به، أو التعديل، أو الإفصاح، أو الإتلاف.
+plugin_gpt_privacy_s4_h === 4. مشاركة البيانات والإفصاح عنها
+plugin_gpt_privacy_s4_li1 === <strong>مع مزودي الخدمات من طرف ثالث:</strong> قد نستخدم أدوات من طرف ثالث لمعالجة البيانات أو تحليلها نيابةً عنا.
+plugin_gpt_privacy_s4_li2 === <strong>للمتطلبات القانونية:</strong> قد نكشف عن المعلومات إذا كان ذلك مطلوبًا قانونيًا، أو إذا اعتقدنا بحسن نية أن مثل هذا الإجراء ضروري للامتثال للالتزامات القانونية، أو حماية الحقوق، أو التحقيق في مخالفات متعلقة بخدمتنا.
+plugin_gpt_privacy_s4_p1 === لا نشارك المعلومات إلا عندما يكون ذلك ضروريًا لتوفير خدمة
+plugin_gpt_privacy_s4_p2 === ، وفي ظروف معينة:
+plugin_gpt_privacy_s5_h === 5. حقوق المستخدم وخياراته
+plugin_gpt_privacy_s5_li1 === <strong>الوصول والتصحيح:</strong> يمكنك طلب الوصول إلى بياناتك الشخصية التي نحتفظ بها، وأن تطلب منا تصحيح أي أخطاء.
+plugin_gpt_privacy_s5_li2 === <strong>حذف البيانات:</strong> يمكنك طلب حذف بياناتك الشخصية من أنظمتنا، بما يخضع لالتزاماتنا القانونية.
+plugin_gpt_privacy_s5_li3 === <strong>قابلية نقل البيانات:</strong> حيثما ينطبق ذلك، يحق لك الحصول على نسخة من بياناتك بتنسيق منظم وشائع الاستخدام وقابل للقراءة آليًا.
+plugin_gpt_privacy_s5_p === لديك الحقوق التالية فيما يتعلق بالمعلومات التي نحتفظ بها عنك:
+plugin_gpt_privacy_s6_h === 6. خصوصية الأطفال
+plugin_gpt_privacy_s6_p === غير مخصص للاستخدام من قِبل الأفراد دون سن 13 عامًا. نحن لا نجمع أو نطلب عمدًا بيانات شخصية من الأطفال. إذا اكتشفنا أننا جمعنا عن غير قصد معلومات شخصية من طفل دون سن 13 عامًا، فسنتخذ خطوات لحذف هذه المعلومات في أقرب وقت ممكن.
+plugin_gpt_privacy_s7_h === 7. التغييرات على سياسة الخصوصية هذه
+plugin_gpt_privacy_s7_p === قد نقوم بتحديث سياسة الخصوصية الخاصة بنا من وقت لآخر. سنُخطرك بأي تغييرات من خلال نشر سياسة الخصوصية الجديدة على هذه الصفحة. نشجعك على مراجعة سياسة الخصوصية هذه بشكل دوري لمعرفة أي تغييرات.
+plugin_gpt_privacy_s8_h === 8. اتصل بنا
+plugin_gpt_privacy_s8_p === إذا كان لديك أي أسئلة أو مخاوف بشأن سياسة الخصوصية هذه أو ممارساتنا المتعلقة بالبيانات، فيُرجى الاتصال بنا على:
+plugin_gpt_privacy_title === سياسة الخصوصية لـ
+plugin_gpt_privacy_website_label === الموقع الإلكتروني:

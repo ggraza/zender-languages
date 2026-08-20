@@ -2974,3 +2974,95 @@ provider_credentials_label === Διαπιστευτήρια παρόχου
 provider_manifest_label === Μανιφέστο (JSON)
 provider_manifest_help === Επικολλήστε εδώ το μανιφέστο .json του παρόχου. Κατεβάστε το από το αποθετήριο παρόχων, ή γράψτε το δικό σας χρησιμοποιώντας το boilerplate.json.
 provider_manifest_unreadable === Αυτός ο πάροχος δεν ήταν δυνατό να διαβαστεί. Επιλέξτε άλλον, ή επικολλήστε το μανιφέστο του χειροκίνητα.
+plugin_gpt_conf_actions_h === Ενέργειες
+plugin_gpt_conf_actions_p === Μετακινηθείτε προς τα κάτω και κάντε κλικ στο <strong>Create new action</strong>, στη συνέχεια διαβάστε τις παρακάτω οδηγίες.
+plugin_gpt_conf_auth_h === Ταυτοποίηση
+plugin_gpt_conf_auth_screenshot_note === <small>Αυτό το στιγμιότυπο οθόνης είναι προγενέστερο της παρακάτω απαίτησης Custom Header και εξακολουθεί να εμφανίζει επιλεγμένο το Bearer -- ακολουθήστε τα γραπτά βήματα, όχι την εικόνα.</small>
+plugin_gpt_conf_auth_step1 === 1. Επιλέξτε <strong>API Key</strong>, ορίστε το <strong>Auth Type</strong> σε <strong>Custom</strong>, στη συνέχεια ορίστε το <strong>Custom Header Name</strong> σε <code>X-Zender-Token</code>.
+plugin_gpt_conf_auth_step2 === 2. Αντιγράψτε το <strong>Authentication Token</strong> παρακάτω και επικολλήστε το στο πεδίο εισαγωγής, στη συνέχεια αποθηκεύστε.
+plugin_gpt_conf_capabilities_label === Δυνατότητες
+plugin_gpt_conf_capabilities_p === Επιλέξτε τις δυνατότητες όπως στο παρακάτω παράδειγμα.
+plugin_gpt_conf_codeinterp_label === Code Interpreter & Data Analysis
+plugin_gpt_conf_conv1 === Τι μπορείς να κάνεις για μένα;
+plugin_gpt_conf_conv2 === Στείλε ένα μήνυμα WhatsApp
+plugin_gpt_conf_conv3 === Έλεγξε τις εναπομείνασες πιστώσεις SMS μου
+plugin_gpt_conf_conv4 === Δώσε μου τους τρέχοντες λογαριασμούς WhatsApp μου
+plugin_gpt_conf_conv5 === Στείλε ένα μήνυμα SMS σε έναν αριθμό τηλεφώνου
+plugin_gpt_conf_convstarters_label === Αφορμές Συνομιλίας
+plugin_gpt_conf_convstarters_p === Αντιγράψτε και επικολλήστε τις παρακάτω αφορμές συνομιλίας, μπορείτε να τις τροποποιήσετε κατά βούληση.
+plugin_gpt_conf_copy_btn === Αντιγραφή
+plugin_gpt_conf_dalle_label === DALL·E Image Generation
+plugin_gpt_conf_description_label === Description
+plugin_gpt_conf_description_p === Αντιγράψτε και επικολλήστε το παρακάτω στο πεδίο <strong>Description</strong>. Μπορείτε να το τροποποιήσετε κατά βούληση.
+plugin_gpt_conf_description_value === Στείλτε μηνύματα SMS και WhatsApp με το
+plugin_gpt_conf_editsettings_btn === Ρυθμίσεις
+plugin_gpt_conf_editsettings_title === Επεξεργασία Ρυθμίσεων Γέφυρας
+plugin_gpt_conf_important === Σημαντικό!
+plugin_gpt_conf_important_p === Πριν ξεκινήσετε εδώ, βεβαιωθείτε ότι έχετε ήδη επεξεργαστεί τις ρυθμίσεις του πρόσθετου στον πίνακα διαχείρισης. Αν δεν το έχετε κάνει, επεξεργαστείτε τις χρησιμοποιώντας το παρακάτω κουμπί και έπειτα ανανεώστε τη σελίδα.
+plugin_gpt_conf_info_h === Πληροφορίες GPT
+plugin_gpt_conf_info_p === Εισαγάγετε τις παρακάτω πληροφορίες στη διαμόρφωση του GPT σας.
+plugin_gpt_conf_name_label === Name
+plugin_gpt_conf_name_p === Αντιγράψτε και επικολλήστε το παρακάτω στο πεδίο <strong>Name</strong>. Αυτό πρέπει να ταιριάζει με αυτό που ορίσατε στις ρυθμίσεις του πρόσθετου.
+plugin_gpt_conf_privacypolicy_label === Πολιτική Απορρήτου
+plugin_gpt_conf_privacypolicy_p === Αντιγράψτε το παρακάτω URL και επικολλήστε το στο πεδίο <strong>Privacy policy</strong> στο κάτω μέρος των ρυθμίσεων ενέργειας.
+plugin_gpt_conf_publish_anyonelink === <strong>Anyone with the link</strong> - Ορατό στα συγκεκριμένα άτομα στα οποία επιλέγετε να δώσετε τον σύνδεσμο του GPT.
+plugin_gpt_conf_publish_gptstore === <strong>GPT Store</strong> - Ορατό σε όλους, συμπεριλαμβανομένων των δωρεάν χρηστών του ChatGPT.
+plugin_gpt_conf_publish_gptstore_warning === Αν επιλέξετε να δημοσιεύσετε στο <strong>GPT Store</strong>, βεβαιωθείτε ότι έχετε ολοκληρώσει το προφίλ δημιουργού σας και έχετε επαληθεύσει τον τομέα σας στις ρυθμίσεις του προφίλ ChatGPT.
+plugin_gpt_conf_publish_h === Δημοσίευση GPT
+plugin_gpt_conf_publish_onlyme === <strong>Only Me</strong> - Ορατό μόνο σε εσάς.
+plugin_gpt_conf_publish_step1 === 1. Στην πάνω δεξιά γωνία, κάντε κλικ στο κουμπί <strong>Share</strong>. Θα δείτε το εξής.
+plugin_gpt_conf_publish_step2 === 2. Επιλέξτε το κοινό που προτιμάτε, υπάρχουν τρεις επιλογές.
+plugin_gpt_conf_publish_step3 === 3. Κάντε κλικ στο <strong>Save</strong> για να δημοσιεύσετε το GPT σας.
+plugin_gpt_conf_publish_step4 === 4. Όλα έτοιμα, μπορείτε τώρα να κλείσετε αυτή τη σελίδα.
+plugin_gpt_conf_schema_label === Σχήμα
+plugin_gpt_conf_schema_p === Αντιγράψτε το παρακάτω URL και επικολλήστε το στο πεδίο <strong>Import from URL</strong>, στη συνέχεια πατήστε <strong>Import</strong>.
+plugin_gpt_conf_title === Διαμόρφωση GPT
+plugin_gpt_conf_webbrowsing_label === Web Browsing
+plugin_gpt_privacy_email_label === Email:
+plugin_gpt_privacy_lastupdated === <strong>Τελευταία Ενημέρωση:</strong>
+plugin_gpt_privacy_s1_h === 1. Πληροφορίες που Συλλέγουμε
+plugin_gpt_privacy_s1_p1 === Όταν αλληλεπιδράτε με το
+plugin_gpt_privacy_s1_p2 === , ενδέχεται να συλλέξουμε ορισμένες πληροφορίες για να βελτιώσουμε την εμπειρία σας και να διασφαλίσουμε την ασφαλή χρήση της υπηρεσίας μας. Αυτές οι πληροφορίες περιλαμβάνουν:
+plugin_gpt_privacy_s1a_h === α) Προσωπικές Πληροφορίες
+plugin_gpt_privacy_s1a_li1 === API Key (για σκοπούς ταυτοποίησης και ενσωμάτωσης)
+plugin_gpt_privacy_s1a_li2 === Διεύθυνση email (για επικοινωνία υποστήριξης και σχετική με τον λογαριασμό)
+plugin_gpt_privacy_s1a_p1 === Για να αποκτήσετε πρόσβαση στην
+plugin_gpt_privacy_s1a_p2 === υπηρεσία, ενδέχεται να σας ζητήσουμε να παράσχετε ορισμένες προσωπικά αναγνωρίσιμες πληροφορίες, όπως:
+plugin_gpt_privacy_s1b_h === β) Περιεχόμενο Μηνυμάτων
+plugin_gpt_privacy_s1b_li1 === Αριθμοί τηλεφώνου παραληπτών
+plugin_gpt_privacy_s1b_li2 === Κείμενο μηνύματος
+plugin_gpt_privacy_s1b_li3 === Συνημμένα πολυμέσων (για μηνύματα WhatsApp)
+plugin_gpt_privacy_s1b_note === δεν αποθηκεύει το περιεχόμενο των μηνυμάτων μετά την επεξεργασία του αιτήματός σας.
+plugin_gpt_privacy_s1b_p1 === Για να στείλει μηνύματα εκ μέρους σας, η
+plugin_gpt_privacy_s1b_p2 === υπηρεσία επεξεργάζεται το περιεχόμενο που παρέχετε, συμπεριλαμβανομένων:
+plugin_gpt_privacy_s2_h === 2. Πώς Χρησιμοποιούμε τις Πληροφορίες σας
+plugin_gpt_privacy_s2_li1a === Για τη διευκόλυνση και λειτουργία της
+plugin_gpt_privacy_s2_li1b === υπηρεσίας
+plugin_gpt_privacy_s2_li2 === Για την ταυτοποίηση αιτημάτων χρηστών και τη διασφάλιση εξουσιοδοτημένης χρήσης των υπηρεσιών API
+plugin_gpt_privacy_s2_li3 === Για τη βελτίωση της υπηρεσίας μας μέσω ανάλυσης προτύπων χρήσης
+plugin_gpt_privacy_s2_li4 === Για την αντιμετώπιση προβλημάτων και την παροχή υποστήριξης
+plugin_gpt_privacy_s2_li5 === Για την προστασία της υπηρεσίας και των χρηστών μας από κατάχρηση
+plugin_gpt_privacy_s2_p === Χρησιμοποιούμε τις πληροφορίες που συλλέγουμε για διάφορους σκοπούς, όπως:
+plugin_gpt_privacy_s3_h === 3. Ασφάλεια και Διατήρηση Δεδομένων
+plugin_gpt_privacy_s3_li1 === <strong>Αποθήκευση Δεδομένων:</strong> Δεν διατηρούμε το περιεχόμενο μηνυμάτων ή τα δεδομένα παραληπτών μετά την επιτυχή επεξεργασία ενός αιτήματος.
+plugin_gpt_privacy_s3_li2 === <strong>Διατήρηση Δεδομένων:</strong> Προσωπικά αναγνωρίσιμες πληροφορίες, όπως τα API keys, αποθηκεύονται για τη διάρκεια της συνεδρίας σας και διαγράφονται στη συνέχεια.
+plugin_gpt_privacy_s3_p1 === Δεσμευόμαστε να διασφαλίζουμε ότι οι πληροφορίες σας είναι ασφαλείς.
+plugin_gpt_privacy_s3_p2 === χρησιμοποιεί εμπορικά λογικά μέτρα ασφαλείας για την προστασία των προσωπικών σας πληροφοριών από μη εξουσιοδοτημένη πρόσβαση, τροποποίηση, αποκάλυψη ή καταστροφή.
+plugin_gpt_privacy_s4_h === 4. Κοινοποίηση και Αποκάλυψη Δεδομένων
+plugin_gpt_privacy_s4_li1 === <strong>Με Τρίτους Παρόχους Υπηρεσιών:</strong> Ενδέχεται να χρησιμοποιήσουμε εργαλεία τρίτων για την επεξεργασία ή ανάλυση δεδομένων εκ μέρους μας.
+plugin_gpt_privacy_s4_li2 === <strong>Για Νομικές Απαιτήσεις:</strong> Ενδέχεται να αποκαλύψουμε πληροφορίες εάν απαιτείται νομικά ή εάν πιστεύουμε με καλή πίστη ότι μια τέτοια ενέργεια είναι απαραίτητη για τη συμμόρφωση με νομικές υποχρεώσεις, την προστασία δικαιωμάτων ή τη διερεύνηση παράνομων ενεργειών σχετικών με την υπηρεσία μας.
+plugin_gpt_privacy_s4_p1 === Μοιραζόμαστε πληροφορίες μόνο όταν είναι απαραίτητο για την παροχή της
+plugin_gpt_privacy_s4_p2 === υπηρεσίας και υπό συγκεκριμένες περιστάσεις:
+plugin_gpt_privacy_s5_h === 5. Δικαιώματα και Επιλογές Χρήστη
+plugin_gpt_privacy_s5_li1 === <strong>Πρόσβαση και Διόρθωση:</strong> Μπορείτε να ζητήσετε πρόσβαση στα προσωπικά δεδομένα που διατηρούμε για εσάς και να μας ζητήσετε να διορθώσουμε ανακρίβειες.
+plugin_gpt_privacy_s5_li2 === <strong>Διαγραφή Δεδομένων:</strong> Μπορείτε να ζητήσετε τη διαγραφή των προσωπικών σας δεδομένων από τα συστήματά μας, με την επιφύλαξη των νομικών μας υποχρεώσεων.
+plugin_gpt_privacy_s5_li3 === <strong>Φορητότητα Δεδομένων:</strong> Όπου ισχύει, έχετε το δικαίωμα να λάβετε αντίγραφο των δεδομένων σας σε δομημένη, ευρέως χρησιμοποιούμενη και αναγνώσιμη από μηχανή μορφή.
+plugin_gpt_privacy_s5_p === Έχετε τα ακόλουθα δικαιώματα όσον αφορά τις πληροφορίες που διατηρούμε για εσάς:
+plugin_gpt_privacy_s6_h === 6. Απόρρητο Παιδιών
+plugin_gpt_privacy_s6_p === Δεν προορίζεται για χρήση από άτομα κάτω των 13 ετών. Δεν συλλέγουμε ή ζητάμε εν γνώσει μας προσωπικά δεδομένα από παιδιά. Εάν ανακαλύψουμε ότι έχουμε συλλέξει ακούσια προσωπικές πληροφορίες από παιδί κάτω των 13 ετών, θα λάβουμε μέτρα για τη διαγραφή των πληροφοριών το συντομότερο δυνατό.
+plugin_gpt_privacy_s7_h === 7. Αλλαγές σε Αυτήν την Πολιτική Απορρήτου
+plugin_gpt_privacy_s7_p === Ενδέχεται να ενημερώνουμε την Πολιτική Απορρήτου μας κατά καιρούς. Θα σας ειδοποιούμε για τυχόν αλλαγές δημοσιεύοντας τη νέα Πολιτική Απορρήτου σε αυτή τη σελίδα. Σας ενθαρρύνουμε να επανεξετάζετε περιοδικά αυτήν την Πολιτική Απορρήτου για τυχόν αλλαγές.
+plugin_gpt_privacy_s8_h === 8. Επικοινωνήστε Μαζί μας
+plugin_gpt_privacy_s8_p === Εάν έχετε οποιεσδήποτε ερωτήσεις ή ανησυχίες σχετικά με αυτήν την Πολιτική Απορρήτου ή τις πρακτικές δεδομένων μας, επικοινωνήστε μαζί μας στο:
+plugin_gpt_privacy_title === Πολιτική Απορρήτου για το
+plugin_gpt_privacy_website_label === Ιστότοπος:
