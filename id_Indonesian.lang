@@ -3004,7 +3004,7 @@ plugin_gpt_conf_info_p === Silakan masukkan informasi berikut ke konfigurasi GPT
 plugin_gpt_conf_name_label === Name
 plugin_gpt_conf_name_p === Salin dan tempelkan yang berikut ke kolom <strong>Name</strong>. Ini harus sama dengan yang Anda tetapkan di pengaturan plugin.
 plugin_gpt_conf_privacypolicy_label === Kebijakan Privasi
-plugin_gpt_conf_privacypolicy_p === Salin URL berikut dan tempelkan di kolom <strong>Privacy policy</strong> di bagian bawah pengaturan action.
+plugin_gpt_conf_privacypolicy_p === Salin URL berikut dan tempelkan di kolom <strong>Privacy policy</strong> di bagian bawah pengaturan tindakan.
 plugin_gpt_conf_publish_anyonelink === <strong>Anyone with the link</strong> - Terlihat oleh orang tertentu yang Anda pilih untuk diberikan tautan GPT.
 plugin_gpt_conf_publish_gptstore === <strong>GPT Store</strong> - Terlihat oleh semua orang termasuk pengguna gratis ChatGPT.
 plugin_gpt_conf_publish_gptstore_warning === Jika Anda memilih untuk memublikasikan di <strong>GPT Store</strong>, pastikan Anda telah melengkapi profil pembuat dan memverifikasi domain Anda di pengaturan profil ChatGPT.
