@@ -3001,6 +3001,8 @@ plugin_gpt_conf_important === Важно!
 plugin_gpt_conf_important_p === Пре него што почнете, проверите да ли сте већ изменили подешавања додатка у административном панелу. Ако то нисте урадили, измените их помоћу дугмета испод, а затим освежите страницу.
 plugin_gpt_conf_info_h === Информације о GPT-у
 plugin_gpt_conf_info_p === Унесите следеће информације у конфигурацију вашег GPT-а.
+plugin_gpt_conf_instructions_label === Упутства
+plugin_gpt_conf_instructions_p === Копирајте и налепите следеће у поље <strong>Instructions</strong>.
 plugin_gpt_conf_name_label === Име
 plugin_gpt_conf_name_p === Копирајте и налепите следеће у поље <strong>Name</strong>. Ово треба да се поклапа са именом које сте поставили у подешавањима додатка.
 plugin_gpt_conf_privacypolicy_label === Privacy Policy

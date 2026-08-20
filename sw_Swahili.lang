@@ -3001,6 +3001,8 @@ plugin_gpt_conf_important === Muhimu!
 plugin_gpt_conf_important_p === Kabla ya kuanza hapa, hakikisha tayari umehariri mipangilio ya programu-jalizi kwenye jopo la msimamizi. Kama hujafanya hivyo, tafadhali hariri kwa kutumia kitufe kilicho hapa chini kisha uonyeshe upya ukurasa.
 plugin_gpt_conf_info_h === Taarifa za GPT
 plugin_gpt_conf_info_p === Tafadhali weka taarifa zifuatazo kwenye usanidi wako wa GPT.
+plugin_gpt_conf_instructions_label === Maelekezo
+plugin_gpt_conf_instructions_p === Nakili na ubandike yafuatayo kwenye sehemu ya <strong>Instructions</strong>.
 plugin_gpt_conf_name_label === Jina
 plugin_gpt_conf_name_p === Nakili na ubandike yafuatayo kwenye sehemu ya <strong>Name</strong>. Hii inapaswa kuendana na ile uliyoweka kwenye mipangilio ya programu-jalizi.
 plugin_gpt_conf_privacypolicy_label === Privacy Policy

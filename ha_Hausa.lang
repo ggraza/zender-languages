@@ -3001,6 +3001,8 @@ plugin_gpt_conf_important === Muhimmi!
 plugin_gpt_conf_important_p === Kafin ka fara nan, da fatan za a tabbatar ka riga ka gyara saitunan plugin a cikin panel na admin. Idan ba ka yi ba tukuna, da fatan za a yi amfani da maɓallin da ke ƙasa don gyarawa sannan ka sabunta shafin.
 plugin_gpt_conf_info_h === Bayanin GPT
 plugin_gpt_conf_info_p === Da fatan za a shigar da wannan bayani cikin tsarin GPT ɗinka.
+plugin_gpt_conf_instructions_label === Umarni
+plugin_gpt_conf_instructions_p === Kwafi ka manna wannan a filin <strong>Instructions</strong>.
 plugin_gpt_conf_name_label === Suna
 plugin_gpt_conf_name_p === Kwafi ka manna wannan a filin <strong>Name</strong>. Wannan ya kamata ya yi daidai da wanda ka saita a saitunan plugin.
 plugin_gpt_conf_privacypolicy_label === Manufar Sirri

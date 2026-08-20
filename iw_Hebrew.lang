@@ -3001,6 +3001,8 @@ plugin_gpt_conf_important === חשוב!
 plugin_gpt_conf_important_p === לפני שתתחילו כאן, אנא ודאו שכבר ערכתם את הגדרות התוסף בפאנל הניהול. אם טרם עשיתם זאת, ערכו אותן באמצעות הכפתור שלמטה ולאחר מכן רעננו את הדף.
 plugin_gpt_conf_info_h === מידע על ה-GPT
 plugin_gpt_conf_info_p === אנא הזינו את המידע הבא בתצורת ה-GPT שלכם.
+plugin_gpt_conf_instructions_label === הוראות
+plugin_gpt_conf_instructions_p === העתיקו והדביקו את הטקסט הבא לשדה <strong>Instructions</strong>.
 plugin_gpt_conf_name_label === שם
 plugin_gpt_conf_name_p === העתיקו והדביקו את הטקסט הבא לשדה <strong>Name</strong>. יש להתאים אותו לשם שהגדרתם בהגדרות התוסף.
 plugin_gpt_conf_privacypolicy_label === מדיניות פרטיות

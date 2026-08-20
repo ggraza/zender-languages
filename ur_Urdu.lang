@@ -3001,6 +3001,8 @@ plugin_gpt_conf_important === اہم!
 plugin_gpt_conf_important_p === یہاں سے شروع کرنے سے پہلے، براہ کرم یقینی بنائیں کہ آپ ایڈمن پینل میں پہلے ہی پلگ ان کی ترتیبات میں ترمیم کر چکے ہیں۔ اگر آپ نے ابھی تک ایسا نہیں کیا تو، براہ کرم نیچے دیے گئے بٹن کا استعمال کرتے ہوئے ترمیم کریں اور پھر صفحہ ریفریش کریں۔
 plugin_gpt_conf_info_h === GPT کی معلومات
 plugin_gpt_conf_info_p === براہ کرم درج ذیل معلومات اپنی GPT کنفیگریشن میں درج کریں۔
+plugin_gpt_conf_instructions_label === Instructions
+plugin_gpt_conf_instructions_p === درج ذیل کو <strong>Instructions</strong> فیلڈ میں کاپی اور پیسٹ کریں۔
 plugin_gpt_conf_name_label === Name
 plugin_gpt_conf_name_p === درج ذیل کو <strong>Name</strong> فیلڈ میں کاپی اور پیسٹ کریں۔ یہ اس نام سے مماثل ہونا چاہیے جو آپ نے پلگ ان کی ترتیبات میں سیٹ کیا ہے۔
 plugin_gpt_conf_privacypolicy_label === رازداری کی پالیسی

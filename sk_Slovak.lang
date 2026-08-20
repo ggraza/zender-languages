@@ -3001,6 +3001,8 @@ plugin_gpt_conf_important === Dôležité!
 plugin_gpt_conf_important_p === Skôr než začnete, uistite sa, že ste už upravili nastavenia doplnku v paneli správcu. Ak ste to ešte neurobili, upravte ich pomocou tlačidla nižšie a potom obnovte stránku.
 plugin_gpt_conf_info_h === Informácie o GPT
 plugin_gpt_conf_info_p === Zadajte nasledujúce informácie do konfigurácie svojho GPT.
+plugin_gpt_conf_instructions_label === Pokyny
+plugin_gpt_conf_instructions_p === Skopírujte a vložte nasledujúci text do poľa <strong>Instructions</strong>.
 plugin_gpt_conf_name_label === Meno
 plugin_gpt_conf_name_p === Skopírujte a vložte nasledujúci text do poľa <strong>Name</strong>. Malo by sa zhodovať s tým, ktoré ste nastavili v nastaveniach doplnku.
 plugin_gpt_conf_privacypolicy_label === Privacy Policy

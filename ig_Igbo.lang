@@ -3001,6 +3001,8 @@ plugin_gpt_conf_important === Ihe Dị Mkpa!
 plugin_gpt_conf_important_p === Tupu ị malite ebe a, jide n'aka na ị edeziela ntọala plugin na admin panel. Ọ bụrụ na ị emebeghị ya, biko jiri bọtịnụ dị n'okpuru dozie ya, wee megharịa ibe ahụ.
 plugin_gpt_conf_info_h === Ozi GPT
 plugin_gpt_conf_info_p === Biko tinye ozi ndị a dị n'okpuru na nhazi GPT gị.
+plugin_gpt_conf_instructions_label === Instructions
+plugin_gpt_conf_instructions_p === Detuo ma tinye ihe dị n'okpuru n'ubi <strong>Instructions</strong>.
 plugin_gpt_conf_name_label === Name
 plugin_gpt_conf_name_p === Detuo ma tinye ihe dị n'okpuru n'ubi <strong>Name</strong>. Nke a kwesịrị ịdaba n'aha ị họpụtara na ntọala plugin.
 plugin_gpt_conf_privacypolicy_label === Iwu Nzuzo

@@ -3001,6 +3001,8 @@ plugin_gpt_conf_important === Important !
 plugin_gpt_conf_important_p === Avant de commencer ici, veuillez vous assurer d'avoir déjà modifié les paramètres du plugin dans le panneau d'administration. Si ce n'est pas fait, modifiez-les à l'aide du bouton ci-dessous, puis actualisez la page.
 plugin_gpt_conf_info_h === Informations du GPT
 plugin_gpt_conf_info_p === Veuillez saisir les informations suivantes dans la configuration de votre GPT.
+plugin_gpt_conf_instructions_label === Instructions
+plugin_gpt_conf_instructions_p === Copiez-collez le texte suivant dans le champ <strong>Instructions</strong>.
 plugin_gpt_conf_name_label === Name
 plugin_gpt_conf_name_p === Copiez-collez le texte suivant dans le champ <strong>Name</strong>. Il doit correspondre à celui défini dans les paramètres du plugin.
 plugin_gpt_conf_privacypolicy_label === Privacy Policy

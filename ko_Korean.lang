@@ -3001,6 +3001,8 @@ plugin_gpt_conf_important === 중요!
 plugin_gpt_conf_important_p === 시작하기 전에 관리자 패널에서 플러그인 설정을 이미 편집했는지 확인해주세요. 아직 편집하지 않았다면 아래 버튼을 사용해 편집한 후 페이지를 새로고침해주세요.
 plugin_gpt_conf_info_h === GPT 정보
 plugin_gpt_conf_info_p === 다음 정보를 GPT 설정에 입력해주세요.
+plugin_gpt_conf_instructions_label === 지침
+plugin_gpt_conf_instructions_p === 아래 내용을 <strong>Instructions</strong> 필드에 복사하여 붙여넣으세요.
 plugin_gpt_conf_name_label === 이름
 plugin_gpt_conf_name_p === 아래 내용을 <strong>Name</strong> 필드에 복사하여 붙여넣으세요. 플러그인 설정에서 지정한 이름과 일치해야 합니다.
 plugin_gpt_conf_privacypolicy_label === 개인정보처리방침

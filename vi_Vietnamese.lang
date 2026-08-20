@@ -3001,6 +3001,8 @@ plugin_gpt_conf_important === Quan trọng!
 plugin_gpt_conf_important_p === Trước khi bắt đầu ở đây, vui lòng đảm bảo bạn đã chỉnh sửa cài đặt plugin trong bảng quản trị. Nếu chưa thực hiện, vui lòng chỉnh sửa bằng nút bên dưới rồi tải lại trang.
 plugin_gpt_conf_info_h === Thông tin GPT
 plugin_gpt_conf_info_p === Vui lòng nhập thông tin sau vào cấu hình GPT của bạn.
+plugin_gpt_conf_instructions_label === Instructions
+plugin_gpt_conf_instructions_p === Sao chép và dán nội dung sau vào trường <strong>Instructions</strong>.
 plugin_gpt_conf_name_label === Name
 plugin_gpt_conf_name_p === Sao chép và dán nội dung sau vào trường <strong>Name</strong>. Nội dung này phải khớp với nội dung bạn đã đặt trong cài đặt plugin.
 plugin_gpt_conf_privacypolicy_label === Chính sách Bảo mật
