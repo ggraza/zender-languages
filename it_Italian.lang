@@ -3044,19 +3044,19 @@ plugin_gpt_privacy_s2_li4 === Per risolvere problemi e fornire assistenza
 plugin_gpt_privacy_s2_li5 === Per proteggere il nostro servizio e i nostri utenti da usi impropri
 plugin_gpt_privacy_s2_p === Utilizziamo le informazioni raccolte per diversi scopi, tra cui:
 plugin_gpt_privacy_s3_h === 3. Sicurezza e conservazione dei dati
-plugin_gpt_privacy_s3_li1 === <strong>Data Storage:</strong> Non conserviamo il contenuto dei messaggi né i dati dei destinatari dopo aver elaborato con successo una richiesta.
-plugin_gpt_privacy_s3_li2 === <strong>Data Retention:</strong> Le informazioni personali identificabili, come le chiavi API, vengono conservate per la durata della tua sessione e successivamente eliminate.
+plugin_gpt_privacy_s3_li1 === <strong>Archiviazione dei dati:</strong> Non conserviamo il contenuto dei messaggi né i dati dei destinatari dopo aver elaborato con successo una richiesta.
+plugin_gpt_privacy_s3_li2 === <strong>Conservazione dei dati:</strong> Le informazioni personali identificabili, come le chiavi API, vengono conservate per la durata della tua sessione e successivamente eliminate.
 plugin_gpt_privacy_s3_p1 === Ci impegniamo a garantire la sicurezza delle tue informazioni.
 plugin_gpt_privacy_s3_p2 === utilizza misure di sicurezza ragionevoli dal punto di vista commerciale per proteggere le tue informazioni personali da accessi non autorizzati, alterazioni, divulgazioni o distruzioni.
 plugin_gpt_privacy_s4_h === 4. Condivisione e divulgazione dei dati
-plugin_gpt_privacy_s4_li1 === <strong>With Third-Party Service Providers:</strong> Potremmo utilizzare strumenti di terze parti per elaborare o analizzare i dati per nostro conto.
-plugin_gpt_privacy_s4_li2 === <strong>For Legal Requirements:</strong> Potremmo divulgare informazioni se legalmente richiesto o se riteniamo in buona fede che tale azione sia necessaria per rispettare obblighi legali, tutelare diritti o indagare su condotte illecite relative al nostro servizio.
+plugin_gpt_privacy_s4_li1 === <strong>Con fornitori di servizi terzi:</strong> Potremmo utilizzare strumenti di terze parti per elaborare o analizzare i dati per nostro conto.
+plugin_gpt_privacy_s4_li2 === <strong>Per requisiti legali:</strong> Potremmo divulgare informazioni se legalmente richiesto o se riteniamo in buona fede che tale azione sia necessaria per rispettare obblighi legali, tutelare diritti o indagare su condotte illecite relative al nostro servizio.
 plugin_gpt_privacy_s4_p1 === Condividiamo le informazioni solo quando è necessario per fornire il servizio
 plugin_gpt_privacy_s4_p2 === e in circostanze specifiche:
 plugin_gpt_privacy_s5_h === 5. Diritti e scelte dell'utente
-plugin_gpt_privacy_s5_li1 === <strong>Access and Correction:</strong> Puoi richiedere l'accesso ai dati personali che conserviamo su di te e chiederci di correggere eventuali imprecisioni.
-plugin_gpt_privacy_s5_li2 === <strong>Data Deletion:</strong> Puoi richiedere la cancellazione dei tuoi dati personali dai nostri sistemi, nel rispetto dei nostri obblighi legali.
-plugin_gpt_privacy_s5_li3 === <strong>Data Portability:</strong> Ove applicabile, hai il diritto di ricevere una copia dei tuoi dati in un formato strutturato, di uso comune e leggibile da dispositivo automatico.
+plugin_gpt_privacy_s5_li1 === <strong>Accesso e correzione:</strong> Puoi richiedere l'accesso ai dati personali che conserviamo su di te e chiederci di correggere eventuali imprecisioni.
+plugin_gpt_privacy_s5_li2 === <strong>Cancellazione dei dati:</strong> Puoi richiedere la cancellazione dei tuoi dati personali dai nostri sistemi, nel rispetto dei nostri obblighi legali.
+plugin_gpt_privacy_s5_li3 === <strong>Portabilità dei dati:</strong> Ove applicabile, hai il diritto di ricevere una copia dei tuoi dati in un formato strutturato, di uso comune e leggibile da dispositivo automatico.
 plugin_gpt_privacy_s5_p === Hai i seguenti diritti in relazione alle informazioni che conserviamo su di te:
 plugin_gpt_privacy_s6_h === 6. Privacy dei minori
 plugin_gpt_privacy_s6_p === non è destinato all'uso da parte di persone di età inferiore ai 13 anni. Non raccogliamo né sollecitiamo consapevolmente dati personali da minori. Se scopriamo di aver involontariamente raccolto informazioni personali da un minore di 13 anni, adotteremo le misure necessarie per eliminare tali informazioni il prima possibile.

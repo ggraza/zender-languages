@@ -3021,13 +3021,13 @@ plugin_gpt_conf_webbrowsing_label === Web Browsing
 plugin_gpt_privacy_email_label === E-posta:
 plugin_gpt_privacy_lastupdated === <strong>Son Güncelleme:</strong>
 plugin_gpt_privacy_s1_h === 1. Topladığımız Bilgiler
-plugin_gpt_privacy_s1_p1 === ile etkileşime girdiğinizde
+plugin_gpt_privacy_s1_p1 === Bu hizmetle etkileşime girdiğinizde,
 plugin_gpt_privacy_s1_p2 === , deneyiminizi geliştirmek ve hizmetimizin güvenli kullanımını sağlamak için belirli bilgiler toplayabiliriz. Bu bilgiler şunları içerir:
 plugin_gpt_privacy_s1a_h === a) Kişisel Bilgiler
 plugin_gpt_privacy_s1a_li1 === API Key (kimlik doğrulama ve entegrasyon amaçları için)
 plugin_gpt_privacy_s1a_li2 === E-posta adresi (destek ve hesapla ilgili iletişim için)
-plugin_gpt_privacy_s1a_p1 === hizmetine erişmek için,
-plugin_gpt_privacy_s1a_p2 === sizden aşağıdakiler dahil belirli kişisel olarak tanımlanabilir bilgiler sağlamanızı isteyebiliriz:
+plugin_gpt_privacy_s1a_p1 === Bu
+plugin_gpt_privacy_s1a_p2 === hizmetine erişmek için, sizden aşağıdakiler dahil belirli kişisel olarak tanımlanabilir bilgiler sağlamanızı isteyebiliriz:
 plugin_gpt_privacy_s1b_h === b) Mesajlaşma İçeriği
 plugin_gpt_privacy_s1b_li1 === Alıcı telefon numaraları
 plugin_gpt_privacy_s1b_li2 === Mesaj metni
@@ -3036,8 +3036,8 @@ plugin_gpt_privacy_s1b_note === isteğinizi işledikten sonra mesaj içeriğini 
 plugin_gpt_privacy_s1b_p1 === Sizin adınıza mesaj göndermek için,
 plugin_gpt_privacy_s1b_p2 === hizmeti, aşağıdakiler dahil sağladığınız içeriği işler:
 plugin_gpt_privacy_s2_h === 2. Bilgilerinizi Nasıl Kullanıyoruz
-plugin_gpt_privacy_s2_li1a === Hizmeti kolaylaştırmak ve işletmek için:
-plugin_gpt_privacy_s2_li1b === hizmet
+plugin_gpt_privacy_s2_li1a === Bu
+plugin_gpt_privacy_s2_li1b === hizmetini kolaylaştırmak ve işletmek için
 plugin_gpt_privacy_s2_li2 === Kullanıcı isteklerini doğrulamak ve API hizmetlerinin yetkili kullanımını sağlamak için
 plugin_gpt_privacy_s2_li3 === Kullanım kalıplarını analiz ederek hizmetimizi iyileştirmek için
 plugin_gpt_privacy_s2_li4 === Sorunları gidermek ve destek sağlamak için

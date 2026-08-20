@@ -3044,19 +3044,19 @@ plugin_gpt_privacy_s2_li4 === 問題のトラブルシューティングとサ�
 plugin_gpt_privacy_s2_li5 === 不正利用からサービスおよびユーザーを保護するため
 plugin_gpt_privacy_s2_p === 収集した情報は、以下を含むさまざまな目的で使用します:
 plugin_gpt_privacy_s3_h === 3. データのセキュリティと保持
-plugin_gpt_privacy_s3_li1 === <strong>Data Storage:</strong> リクエストの処理が完了した後は、メッセージの内容や受信者データを保持しません。
-plugin_gpt_privacy_s3_li2 === <strong>Data Retention:</strong> APIキーなどの個人を特定できる情報は、セッション中のみ保持され、その後削除されます。
+plugin_gpt_privacy_s3_li1 === <strong>データの保存:</strong> リクエストの処理が完了した後は、メッセージの内容や受信者データを保持しません。
+plugin_gpt_privacy_s3_li2 === <strong>データの保持:</strong> APIキーなどの個人を特定できる情報は、セッション中のみ保持され、その後削除されます。
 plugin_gpt_privacy_s3_p1 === お客様の情報の安全性を確保することをお約束します。
 plugin_gpt_privacy_s3_p2 === は、お客様の個人情報を不正アクセス、改ざん、開示、破壊から保護するため、商業上妥当なセキュリティ対策を講じています。
 plugin_gpt_privacy_s4_h === 4. データの共有と開示
-plugin_gpt_privacy_s4_li1 === <strong>With Third-Party Service Providers:</strong> 当社に代わってデータを処理・分析するために、第三者のツールを利用する場合があります。
-plugin_gpt_privacy_s4_li2 === <strong>For Legal Requirements:</strong> 法的に要求される場合、または法的義務の遵守、権利の保護、もしくは当サービスに関連する不正行為の調査のために必要であると誠実に判断した場合、情報を開示することがあります。
+plugin_gpt_privacy_s4_li1 === <strong>第三者サービスプロバイダーとの連携:</strong> 当社に代わってデータを処理・分析するために、第三者のツールを利用する場合があります。
+plugin_gpt_privacy_s4_li2 === <strong>法的要件のため:</strong> 法的に要求される場合、または法的義務の遵守、権利の保護、もしくは当サービスに関連する不正行為の調査のために必要であると誠実に判断した場合、情報を開示することがあります。
 plugin_gpt_privacy_s4_p1 === 情報を共有するのは、
 plugin_gpt_privacy_s4_p2 === サービスの提供に必要な場合、かつ次のような特定の状況に限られます:
 plugin_gpt_privacy_s5_h === 5. ユーザーの権利と選択肢
-plugin_gpt_privacy_s5_li1 === <strong>Access and Correction:</strong> 当社が保有するお客様の個人データへのアクセスを要求し、不正確な内容の訂正を依頼することができます。
-plugin_gpt_privacy_s5_li2 === <strong>Data Deletion:</strong> 法的義務が許す範囲で、当社のシステムからお客様の個人データを削除するよう要求することができます。
-plugin_gpt_privacy_s5_li3 === <strong>Data Portability:</strong> 該当する場合、構造化され一般的に利用され、機械が読み取り可能な形式でお客様のデータのコピーを受け取る権利があります。
+plugin_gpt_privacy_s5_li1 === <strong>アクセスと訂正:</strong> 当社が保有するお客様の個人データへのアクセスを要求し、不正確な内容の訂正を依頼することができます。
+plugin_gpt_privacy_s5_li2 === <strong>データの削除:</strong> 法的義務が許す範囲で、当社のシステムからお客様の個人データを削除するよう要求することができます。
+plugin_gpt_privacy_s5_li3 === <strong>データの可搬性:</strong> 該当する場合、構造化され一般的に利用され、機械が読み取り可能な形式でお客様のデータのコピーを受け取る権利があります。
 plugin_gpt_privacy_s5_p === お客様は、当社が保有する情報について以下の権利を有します:
 plugin_gpt_privacy_s6_h === 6. お子様のプライバシー
 plugin_gpt_privacy_s6_p === は13歳未満の方の利用を想定していません。当社は子供から意図的に個人データを収集または勧誘することはありません。13歳未満のお子様から誤って個人情報を収集したことが判明した場合、速やかにその情報を削除するための措置を講じます。

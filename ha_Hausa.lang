@@ -2977,7 +2977,7 @@ provider_manifest_unreadable === An kasa karanta wannan mai bayarwa. Zaɓi wani,
 plugin_gpt_conf_actions_h === Ayyuka
 plugin_gpt_conf_actions_p === Gungura ƙasa sannan ka danna <strong>Create new action</strong>, sannan ka karanta umarnin da ke ƙasa.
 plugin_gpt_conf_auth_h === Tabbatarwa
-plugin_gpt_conf_auth_screenshot_note === <small>Wannan hoton allo ya gabaci buƙatar Custom Header da ke ƙasa kuma har yanzu yana nuna Bearer a matsayin zaɓi -- bi matakan da aka rubuta, ba hoton ba.</small>
+plugin_gpt_conf_auth_screenshot_note === <small>Wannan hoton allo ya gabaci buƙatar kanun labarin keɓaɓɓe da ke ƙasa kuma har yanzu yana nuna Bearer a matsayin zaɓi -- bi matakan da aka rubuta, ba hoton ba.</small>
 plugin_gpt_conf_auth_step1 === 1. Zaɓi <strong>API Key</strong>, saita <strong>Auth Type</strong> zuwa <strong>Custom</strong>, sannan saita <strong>Custom Header Name</strong> zuwa <code>X-Zender-Token</code>.
 plugin_gpt_conf_auth_step2 === 2. Kwafi <strong>Alamar Tabbatarwa</strong> da ke ƙasa sannan ka manna ta a filin shigarwa sai ka ajiye.
 plugin_gpt_conf_capabilities_label === Iyawa
@@ -2985,7 +2985,7 @@ plugin_gpt_conf_capabilities_p === Duba iyawan kamar yadda aka nuna a misalin da
 plugin_gpt_conf_codeinterp_label === Code Interpreter & Data Analysis
 plugin_gpt_conf_conv1 === Me za ka iya yi mini?
 plugin_gpt_conf_conv2 === Aika saƙon WhatsApp
-plugin_gpt_conf_conv3 === Duba sauran adadin SMS credits na
+plugin_gpt_conf_conv3 === Duba sauran adadin SMS kiredit na
 plugin_gpt_conf_conv4 === Samo asusun WhatsApp na yanzu
 plugin_gpt_conf_conv5 === Aika saƙon SMS zuwa lambar waya
 plugin_gpt_conf_convstarters_label === Masu Fara Tattaunawa
@@ -3004,7 +3004,7 @@ plugin_gpt_conf_info_p === Da fatan za a shigar da wannan bayani cikin tsarin GP
 plugin_gpt_conf_name_label === Suna
 plugin_gpt_conf_name_p === Kwafi ka manna wannan a filin <strong>Name</strong>. Wannan ya kamata ya yi daidai da wanda ka saita a saitunan plugin.
 plugin_gpt_conf_privacypolicy_label === Manufar Sirri
-plugin_gpt_conf_privacypolicy_p === Kwafi wannan URL ka manna a filin <strong>Privacy policy</strong> a ƙasan saitunan action.
+plugin_gpt_conf_privacypolicy_p === Kwafi wannan URL ka manna a filin <strong>Privacy policy</strong> a ƙasan saitunan aikin.
 plugin_gpt_conf_publish_anyonelink === <strong>Anyone with the link</strong> - Ana iya gani ga takamaiman mutanen da ka zaɓa ka ba su hanyar sadarwar GPT.
 plugin_gpt_conf_publish_gptstore === <strong>GPT Store</strong> - Ana iya gani ga kowa har da masu amfani da ChatGPT kyauta.
 plugin_gpt_conf_publish_gptstore_warning === Idan ka zaɓi wallafawa a <strong>GPT Store</strong>, da fatan za a tabbatar ka cika bayanan profile ɗinka na builder kuma ka tabbatar da domain ɗinka a saitunan profile na ChatGPT.
@@ -3044,19 +3044,19 @@ plugin_gpt_privacy_s2_li4 === Domin gyara matsaloli da bayar da tallafi
 plugin_gpt_privacy_s2_li5 === Domin kare sabis ɗinmu da masu amfani daga cin zarafi
 plugin_gpt_privacy_s2_p === Muna amfani da bayanan da muke tarawa domin dalilai daban-daban, waɗanda suka haɗa da:
 plugin_gpt_privacy_s3_h === 3. Tsaro da Ajiyar Bayanai
-plugin_gpt_privacy_s3_li1 === <strong>Data Storage:</strong> Ba ma ajiye abin da ke cikin saƙo ko bayanan mai karɓa bayan sarrafa buƙata cikin nasara.
-plugin_gpt_privacy_s3_li2 === <strong>Data Retention:</strong> Ana ajiye bayanan kai da za a iya gane su, kamar makullan API, na tsawon lokacin zamanka sannan a share su bayan haka.
+plugin_gpt_privacy_s3_li1 === <strong>Ajiyar Bayanai:</strong> Ba ma ajiye abin da ke cikin saƙo ko bayanan mai karɓa bayan sarrafa buƙata cikin nasara.
+plugin_gpt_privacy_s3_li2 === <strong>Rikon Bayanai:</strong> Ana ajiye bayanan kai da za a iya gane su, kamar makullan API, na tsawon lokacin zamanka sannan a share su bayan haka.
 plugin_gpt_privacy_s3_p1 === Mun himmatu wajen tabbatar da tsaron bayananka.
 plugin_gpt_privacy_s3_p2 === yana amfani da matakan tsaro masu dacewa ta fuskar kasuwanci domin kare bayananka daga shiga ba tare da izini ba, gyara, bayyanawa, ko lalatawa.
 plugin_gpt_privacy_s4_h === 4. Raba da Bayyana Bayanai
-plugin_gpt_privacy_s4_li1 === <strong>With Third-Party Service Providers:</strong> Za mu iya amfani da kayan aikin ɓangare na uku domin sarrafa ko nazarin bayanai a madadinmu.
-plugin_gpt_privacy_s4_li2 === <strong>For Legal Requirements:</strong> Za mu iya bayyana bayanai idan doka ta buƙaci hakan ko kuma mun yi imani cikin gaskiya cewa irin wannan mataki ya zama dole domin bin dokoki, kare haƙƙoƙi, ko binciken laifukan da suka shafi sabis ɗinmu.
+plugin_gpt_privacy_s4_li1 === <strong>Tare da Masu Bayar da Sabis na Bangare na Uku:</strong> Za mu iya amfani da kayan aikin ɓangare na uku domin sarrafa ko nazarin bayanai a madadinmu.
+plugin_gpt_privacy_s4_li2 === <strong>Domin Bukatun Doka:</strong> Za mu iya bayyana bayanai idan doka ta buƙaci hakan ko kuma mun yi imani cikin gaskiya cewa irin wannan mataki ya zama dole domin bin dokoki, kare haƙƙoƙi, ko binciken laifukan da suka shafi sabis ɗinmu.
 plugin_gpt_privacy_s4_p1 === Muna raba bayanai ne kawai idan ya zama dole domin bayar da sabis na
 plugin_gpt_privacy_s4_p2 === kuma cikin takamaiman yanayi:
 plugin_gpt_privacy_s5_h === 5. Haƙƙoƙin Mai Amfani da Zaɓuɓɓuka
-plugin_gpt_privacy_s5_li1 === <strong>Access and Correction:</strong> Kana da damar neman samun bayanan kai da muke rikewa game da kai da kuma neman mu gyara kurakurai.
-plugin_gpt_privacy_s5_li2 === <strong>Data Deletion:</strong> Kana da damar neman a share bayanan kai daga tsarinmu, cikin tsarin da ya dace da dokokinmu.
-plugin_gpt_privacy_s5_li3 === <strong>Data Portability:</strong> Inda ya dace, kana da haƙƙin karɓar kwafin bayananka a tsari mai tsari, wanda ake amfani da shi sosai kuma na'ura za ta iya karantawa.
+plugin_gpt_privacy_s5_li1 === <strong>Samun Dama da Gyara:</strong> Kana da damar neman samun bayanan kai da muke rikewa game da kai da kuma neman mu gyara kurakurai.
+plugin_gpt_privacy_s5_li2 === <strong>Share Bayanai:</strong> Kana da damar neman a share bayanan kai daga tsarinmu, cikin tsarin da ya dace da dokokinmu.
+plugin_gpt_privacy_s5_li3 === <strong>Iya Canja Wurin Bayanai:</strong> Inda ya dace, kana da haƙƙin karɓar kwafin bayananka a tsari mai tsari, wanda ake amfani da shi sosai kuma na'ura za ta iya karantawa.
 plugin_gpt_privacy_s5_p === Kana da waɗannan haƙƙoƙin dangane da bayanan da muke riƙewa game da kai:
 plugin_gpt_privacy_s6_h === 6. Sirrin Yara
 plugin_gpt_privacy_s6_p === ba a nufi don amfani da mutanen da ba su kai shekaru 13 ba. Ba ma tarawa ko neman bayanan kai da gangan daga yara. Idan mun gano cewa mun taras da bayanan kai ba da gangan ba daga yaro ƙasa da shekaru 13, za mu ɗauki matakan share bayanan nan da nan.

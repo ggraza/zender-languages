@@ -2977,7 +2977,7 @@ provider_manifest_unreadable === 이 공급자를 읽을 수 없습니다. 다�
 plugin_gpt_conf_actions_h === 작업
 plugin_gpt_conf_actions_p === 아래로 스크롤하여 <strong>Create new action</strong>을 클릭한 다음, 아래 안내를 읽어주세요.
 plugin_gpt_conf_auth_h === 인증
-plugin_gpt_conf_auth_screenshot_note === <small>이 스크린샷은 아래의 Custom Header 요구 사항이 추가되기 전의 것으로, 여전히 Bearer가 선택된 상태로 표시되어 있습니다 -- 이미지가 아닌 아래 작성된 단계를 따라주세요.</small>
+plugin_gpt_conf_auth_screenshot_note === <small>이 스크린샷은 아래의 커스텀 헤더 요구 사항이 추가되기 전의 것으로, 여전히 Bearer가 선택된 상태로 표시되어 있습니다 -- 이미지가 아닌 아래 작성된 단계를 따라주세요.</small>
 plugin_gpt_conf_auth_step1 === 1. <strong>API Key</strong>를 선택하고 <strong>Auth Type</strong>을 <strong>Custom</strong>으로 설정한 다음, <strong>Custom Header Name</strong>을 <code>X-Zender-Token</code>으로 설정하세요.
 plugin_gpt_conf_auth_step2 === 2. 아래의 <strong>인증 토큰</strong>을 복사하여 입력란에 붙여넣은 후 저장하세요.
 plugin_gpt_conf_capabilities_label === 기능
@@ -3004,7 +3004,7 @@ plugin_gpt_conf_info_p === 다음 정보를 GPT 설정에 입력해주세요.
 plugin_gpt_conf_name_label === 이름
 plugin_gpt_conf_name_p === 아래 내용을 <strong>Name</strong> 필드에 복사하여 붙여넣으세요. 플러그인 설정에서 지정한 이름과 일치해야 합니다.
 plugin_gpt_conf_privacypolicy_label === 개인정보처리방침
-plugin_gpt_conf_privacypolicy_p === 아래 URL을 복사하여 작업(action) 설정 하단의 <strong>Privacy policy</strong> 필드에 붙여넣으세요.
+plugin_gpt_conf_privacypolicy_p === 아래 URL을 복사하여 작업 설정 하단의 <strong>Privacy policy</strong> 필드에 붙여넣으세요.
 plugin_gpt_conf_publish_anyonelink === <strong>Anyone with the link</strong> - GPT 링크를 전달받은 특정 사용자에게만 표시됩니다.
 plugin_gpt_conf_publish_gptstore === <strong>GPT Store</strong> - ChatGPT의 무료 사용자를 포함한 모든 사람에게 표시됩니다.
 plugin_gpt_conf_publish_gptstore_warning === <strong>GPT Store</strong>에 게시하려면 빌더 프로필을 완성하고 ChatGPT 프로필 설정에서 도메인을 인증했는지 확인하세요.
@@ -3044,19 +3044,19 @@ plugin_gpt_privacy_s2_li4 === 문제를 해결하고 지원을 제공하기 위�
 plugin_gpt_privacy_s2_li5 === 오남용으로부터 서비스와 사용자를 보호하기 위해
 plugin_gpt_privacy_s2_p === 수집한 정보는 다음을 포함한 다양한 목적으로 사용됩니다:
 plugin_gpt_privacy_s3_h === 3. 데이터 보안 및 보존
-plugin_gpt_privacy_s3_li1 === <strong>Data Storage:</strong> 요청을 성공적으로 처리한 후에는 메시지 콘텐츠나 수신자 데이터를 보관하지 않습니다.
-plugin_gpt_privacy_s3_li2 === <strong>Data Retention:</strong> API 키와 같은 개인 식별 정보는 세션이 지속되는 동안만 저장되며 이후 삭제됩니다.
+plugin_gpt_privacy_s3_li1 === <strong>데이터 저장:</strong> 요청을 성공적으로 처리한 후에는 메시지 콘텐츠나 수신자 데이터를 보관하지 않습니다.
+plugin_gpt_privacy_s3_li2 === <strong>데이터 보관:</strong> API 키와 같은 개인 식별 정보는 세션이 지속되는 동안만 저장되며 이후 삭제됩니다.
 plugin_gpt_privacy_s3_p1 === 저희는 고객님의 정보를 안전하게 보호하기 위해 최선을 다하고 있습니다.
 plugin_gpt_privacy_s3_p2 === 는 고객님의 개인정보를 무단 접근, 변경, 공개 또는 파기로부터 보호하기 위해 상업적으로 합리적인 보안 조치를 사용합니다.
 plugin_gpt_privacy_s4_h === 4. 데이터 공유 및 공개
-plugin_gpt_privacy_s4_li1 === <strong>With Third-Party Service Providers:</strong> 당사를 대신하여 데이터를 처리하거나 분석하기 위해 제3자 도구를 사용할 수 있습니다.
-plugin_gpt_privacy_s4_li2 === <strong>For Legal Requirements:</strong> 법적으로 요구되거나, 법적 의무 준수, 권리 보호, 또는 본 서비스와 관련된 부정행위 조사를 위해 필요하다고 선의로 판단하는 경우 정보를 공개할 수 있습니다.
+plugin_gpt_privacy_s4_li1 === <strong>제3자 서비스 제공업체와 함께:</strong> 당사를 대신하여 데이터를 처리하거나 분석하기 위해 제3자 도구를 사용할 수 있습니다.
+plugin_gpt_privacy_s4_li2 === <strong>법적 요건을 위해:</strong> 법적으로 요구되거나, 법적 의무 준수, 권리 보호, 또는 본 서비스와 관련된 부정행위 조사를 위해 필요하다고 선의로 판단하는 경우 정보를 공개할 수 있습니다.
 plugin_gpt_privacy_s4_p1 === 정보를 공유하는 경우는
 plugin_gpt_privacy_s4_p2 === 서비스 제공에 필요한 경우 및 다음과 같은 특정 상황으로 한정됩니다:
 plugin_gpt_privacy_s5_h === 5. 사용자의 권리와 선택
-plugin_gpt_privacy_s5_li1 === <strong>Access and Correction:</strong> 당사가 보유한 고객님의 개인 데이터에 대한 접근을 요청하고 부정확한 정보의 수정을 요청할 수 있습니다.
-plugin_gpt_privacy_s5_li2 === <strong>Data Deletion:</strong> 당사의 법적 의무 범위 내에서 당사 시스템에서 고객님의 개인 데이터 삭제를 요청할 수 있습니다.
-plugin_gpt_privacy_s5_li3 === <strong>Data Portability:</strong> 해당되는 경우, 구조화되고 널리 사용되며 기계 판독이 가능한 형식으로 데이터 사본을 받을 권리가 있습니다.
+plugin_gpt_privacy_s5_li1 === <strong>접근 및 수정:</strong> 당사가 보유한 고객님의 개인 데이터에 대한 접근을 요청하고 부정확한 정보의 수정을 요청할 수 있습니다.
+plugin_gpt_privacy_s5_li2 === <strong>데이터 삭제:</strong> 당사의 법적 의무 범위 내에서 당사 시스템에서 고객님의 개인 데이터 삭제를 요청할 수 있습니다.
+plugin_gpt_privacy_s5_li3 === <strong>데이터 이동성:</strong> 해당되는 경우, 구조화되고 널리 사용되며 기계 판독이 가능한 형식으로 데이터 사본을 받을 권리가 있습니다.
 plugin_gpt_privacy_s5_p === 당사가 보유한 고객님에 관한 정보와 관련하여 고객님은 다음과 같은 권리를 가집니다:
 plugin_gpt_privacy_s6_h === 6. 아동의 개인정보 보호
 plugin_gpt_privacy_s6_p === 는 만 13세 미만 개인의 이용을 위한 것이 아닙니다. 당사는 아동으로부터 고의로 개인 데이터를 수집하거나 요청하지 않습니다. 만 13세 미만 아동으로부터 본의 아니게 개인정보를 수집한 사실을 발견할 경우, 가능한 한 빨리 해당 정보를 삭제하기 위한 조치를 취하겠습니다.
