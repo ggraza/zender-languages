@@ -2979,7 +2979,7 @@ plugin_gpt_conf_actions_p === Görgessen le, és kattintson a <strong>Create new
 plugin_gpt_conf_auth_h === Hitelesítés
 plugin_gpt_conf_auth_screenshot_note === <small>Ez a képernyőkép a lenti Custom Header követelmény előttről származik, és még mindig a Bearer kiválasztását mutatja -- kövesse a leírt lépéseket, ne a képet.</small>
 plugin_gpt_conf_auth_step1 === 1. Válassza az <strong>API Key</strong> lehetőséget, állítsa az <strong>Auth Type</strong> értékét <strong>Custom</strong>-ra, majd a <strong>Custom Header Name</strong> értékét állítsa <code>X-Zender-Token</code>-re.
-plugin_gpt_conf_auth_step2 === 2. Másolja ki az alábbi <strong>Authentication Token</strong>-t, illessze be a beviteli mezőbe, majd mentse el.
+plugin_gpt_conf_auth_step2 === 2. Másolja ki az alábbi <strong>hitelesítési token</strong>-t, illessze be a beviteli mezőbe, majd mentse el.
 plugin_gpt_conf_capabilities_label === Képességek
 plugin_gpt_conf_capabilities_p === Jelölje be a képességeket az alábbi példa szerint.
 plugin_gpt_conf_codeinterp_label === Code Interpreter & Data Analysis

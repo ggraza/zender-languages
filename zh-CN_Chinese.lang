@@ -2979,7 +2979,7 @@ plugin_gpt_conf_actions_p === 向下滚动并点击<strong>Create new action</st
 plugin_gpt_conf_auth_h === 身份验证
 plugin_gpt_conf_auth_screenshot_note === <small>此截图早于下方的 Custom Header 要求，图中仍显示选中的是 Bearer——请按照文字步骤操作，而非参照图片。</small>
 plugin_gpt_conf_auth_step1 === 1. 选择<strong>API Key</strong>，将<strong>Auth Type</strong>设置为<strong>Custom</strong>，然后将<strong>Custom Header Name</strong>设置为<code>X-Zender-Token</code>。
-plugin_gpt_conf_auth_step2 === 2. 复制下方的<strong>Authentication Token</strong>，粘贴到输入框中并保存。
+plugin_gpt_conf_auth_step2 === 2. 复制下方的<strong>身份验证令牌</strong>，粘贴到输入框中并保存。
 plugin_gpt_conf_capabilities_label === 功能
 plugin_gpt_conf_capabilities_p === 按照下方示例勾选相应功能。
 plugin_gpt_conf_codeinterp_label === Code Interpreter & Data Analysis

@@ -2979,7 +2979,7 @@ plugin_gpt_conf_actions_p === Aşağı kaydırın ve <strong>Create new action</
 plugin_gpt_conf_auth_h === Kimlik Doğrulama
 plugin_gpt_conf_auth_screenshot_note === <small>Bu ekran görüntüsü, aşağıdaki Custom Header gerekliliğinden öncesine aittir ve hâlâ Bearer seçili görünmektedir -- görseli değil, yazılı adımları izleyin.</small>
 plugin_gpt_conf_auth_step1 === 1. <strong>API Key</strong> öğesini seçin, <strong>Auth Type</strong> alanını <strong>Custom</strong> olarak ayarlayın, ardından <strong>Custom Header Name</strong> alanını <code>X-Zender-Token</code> olarak ayarlayın.
-plugin_gpt_conf_auth_step2 === 2. Aşağıdaki <strong>Authentication Token</strong> değerini kopyalayın, giriş alanına yapıştırın ve kaydedin.
+plugin_gpt_conf_auth_step2 === 2. Aşağıdaki <strong>Kimlik Doğrulama Simgesi</strong> değerini kopyalayın, giriş alanına yapıştırın ve kaydedin.
 plugin_gpt_conf_capabilities_label === Yetenekler
 plugin_gpt_conf_capabilities_p === Yetenekleri aşağıdaki örnekte olduğu gibi işaretleyin.
 plugin_gpt_conf_codeinterp_label === Code Interpreter & Data Analysis

@@ -2979,7 +2979,7 @@ plugin_gpt_conf_actions_p === Померите се надоле и кликни
 plugin_gpt_conf_auth_h === Аутентификација
 plugin_gpt_conf_auth_screenshot_note === <small>Овај снимак екрана претходи доле наведеном захтеву за Custom Header и и даље приказује изабрано Bearer -- пратите писана упутства, а не слику.</small>
 plugin_gpt_conf_auth_step1 === 1. Изаберите <strong>API Key</strong>, поставите <strong>Auth Type</strong> на <strong>Custom</strong>, затим поставите <strong>Custom Header Name</strong> на <code>X-Zender-Token</code>.
-plugin_gpt_conf_auth_step2 === 2. Копирајте <strong>Authentication Token</strong> испод и налепите га у поље за унос, а затим сачувајте.
+plugin_gpt_conf_auth_step2 === 2. Копирајте <strong>Токен за аутентификацију</strong> испод и налепите га у поље за унос, а затим сачувајте.
 plugin_gpt_conf_capabilities_label === Могућности
 plugin_gpt_conf_capabilities_p === Означите могућности као у следећем примеру испод.
 plugin_gpt_conf_codeinterp_label === Code Interpreter & Data Analysis

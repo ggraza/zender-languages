@@ -3007,7 +3007,7 @@ plugin_gpt_conf_privacypolicy_label === Informativa sulla privacy
 plugin_gpt_conf_privacypolicy_p === Copia il seguente URL e incollalo nel campo <strong>Privacy policy</strong>, in fondo alle impostazioni dell'azione.
 plugin_gpt_conf_publish_anyonelink === <strong>Anyone with the link</strong> - Visibile alle persone specifiche a cui scegli di dare il link del GPT.
 plugin_gpt_conf_publish_gptstore === <strong>GPT Store</strong> - Visibile a chiunque, compresi gli utenti gratuiti di ChatGPT.
-plugin_gpt_conf_publish_gptstore_warning === Se scegli di pubblicare nel <strong>GPT Store</strong>, assicurati di aver completato il tuo profilo builder e verificato il tuo dominio nelle impostazioni del profilo ChatGPT.
+plugin_gpt_conf_publish_gptstore_warning === Se scegli di pubblicare nel <strong>GPT Store</strong>, assicurati di aver completato il tuo profilo creatore e verificato il tuo dominio nelle impostazioni del profilo ChatGPT.
 plugin_gpt_conf_publish_h === Pubblica GPT
 plugin_gpt_conf_publish_onlyme === <strong>Only Me</strong> - Visibile solo a te.
 plugin_gpt_conf_publish_step1 === 1. Nell'angolo in alto a destra, clicca sul pulsante <strong>Share</strong>. Dovresti vedere quanto segue.

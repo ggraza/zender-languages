@@ -2979,7 +2979,7 @@ plugin_gpt_conf_actions_p === Yí lọ sí ìsàlẹ̀ kí o sì tẹ <strong>Cr
 plugin_gpt_conf_auth_h === Ìjẹ́rìísí
 plugin_gpt_conf_auth_screenshot_note === <small>Àwòrán ìhọ̀hò yìí ti ṣáájú ohun tí a béèrè fún Custom Header nísàlẹ̀ yìí, ó sì ṣì ń fi Bearer hàn gẹ́gẹ́ bí a ti yàn -- tẹ̀lé àwọn ìṣísẹ̀ tí a kọ, kì í ṣe àwòrán náà.</small>
 plugin_gpt_conf_auth_step1 === 1. Yan <strong>API Key</strong>, tẹ <strong>Auth Type</strong> sí <strong>Custom</strong>, lẹ́yìn náà tẹ <strong>Custom Header Name</strong> sí <code>X-Zender-Token</code>.
-plugin_gpt_conf_auth_step2 === 2. Dá <strong>Authentication Token</strong> tí ó wà nísàlẹ̀ kọ, kí o sì fi sí àyè ìkọ̀wé náà lẹ́yìn náà kí o fi pamọ́.
+plugin_gpt_conf_auth_step2 === 2. Dá <strong>Àmi Ìjẹ́rìísí</strong> tí ó wà nísàlẹ̀ kọ, kí o sì fi sí àyè ìkọ̀wé náà lẹ́yìn náà kí o fi pamọ́.
 plugin_gpt_conf_capabilities_label === Àwọn Agbára
 plugin_gpt_conf_capabilities_p === Ṣàyẹ̀wò àwọn agbára náà gẹ́gẹ́ bí àpẹẹrẹ tí ó tẹ̀lé e nísàlẹ̀.
 plugin_gpt_conf_codeinterp_label === Code Interpreter & Data Analysis
@@ -3014,7 +3014,7 @@ plugin_gpt_conf_publish_step1 === 1. Ní igun òkè ọ̀tún, tẹ bọ́tìnn�
 plugin_gpt_conf_publish_step2 === 2. Yan àwọn olùgbọ́ tí o fẹ́, àṣàyàn mẹ́ta ni ó wà.
 plugin_gpt_conf_publish_step3 === 3. Tẹ <strong>Save</strong> láti tẹ̀ GPT rẹ jáde.
 plugin_gpt_conf_publish_step4 === 4. Gbogbo rẹ̀ ti parí, o lè ti ojú-ìwé yìí báyìí.
-plugin_gpt_conf_schema_label === Ìlànà Data (Schema)
+plugin_gpt_conf_schema_label === Ìlànà Data
 plugin_gpt_conf_schema_p === Dá URL tí ó tẹ̀lé e kọ, kí o sì fi sí àyè <strong>Import from URL</strong>, lẹ́yìn náà tẹ <strong>Import</strong>.
 plugin_gpt_conf_title === Ìṣàtúnṣe GPT
 plugin_gpt_conf_webbrowsing_label === Web Browsing

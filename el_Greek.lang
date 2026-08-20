@@ -2979,7 +2979,7 @@ plugin_gpt_conf_actions_p === Μετακινηθείτε προς τα κάτω 
 plugin_gpt_conf_auth_h === Ταυτοποίηση
 plugin_gpt_conf_auth_screenshot_note === <small>Αυτό το στιγμιότυπο οθόνης είναι προγενέστερο της παρακάτω απαίτησης Custom Header και εξακολουθεί να εμφανίζει επιλεγμένο το Bearer -- ακολουθήστε τα γραπτά βήματα, όχι την εικόνα.</small>
 plugin_gpt_conf_auth_step1 === 1. Επιλέξτε <strong>API Key</strong>, ορίστε το <strong>Auth Type</strong> σε <strong>Custom</strong>, στη συνέχεια ορίστε το <strong>Custom Header Name</strong> σε <code>X-Zender-Token</code>.
-plugin_gpt_conf_auth_step2 === 2. Αντιγράψτε το <strong>Authentication Token</strong> παρακάτω και επικολλήστε το στο πεδίο εισαγωγής, στη συνέχεια αποθηκεύστε.
+plugin_gpt_conf_auth_step2 === 2. Αντιγράψτε το <strong>Token Ταυτοποίησης</strong> παρακάτω και επικολλήστε το στο πεδίο εισαγωγής, στη συνέχεια αποθηκεύστε.
 plugin_gpt_conf_capabilities_label === Δυνατότητες
 plugin_gpt_conf_capabilities_p === Επιλέξτε τις δυνατότητες όπως στο παρακάτω παράδειγμα.
 plugin_gpt_conf_codeinterp_label === Code Interpreter & Data Analysis
@@ -3018,14 +3018,14 @@ plugin_gpt_conf_schema_label === Σχήμα
 plugin_gpt_conf_schema_p === Αντιγράψτε το παρακάτω URL και επικολλήστε το στο πεδίο <strong>Import from URL</strong>, στη συνέχεια πατήστε <strong>Import</strong>.
 plugin_gpt_conf_title === Διαμόρφωση GPT
 plugin_gpt_conf_webbrowsing_label === Web Browsing
-plugin_gpt_privacy_email_label === Email:
+plugin_gpt_privacy_email_label === Ηλεκτρονική Διεύθυνση:
 plugin_gpt_privacy_lastupdated === <strong>Τελευταία Ενημέρωση:</strong>
 plugin_gpt_privacy_s1_h === 1. Πληροφορίες που Συλλέγουμε
 plugin_gpt_privacy_s1_p1 === Όταν αλληλεπιδράτε με το
 plugin_gpt_privacy_s1_p2 === , ενδέχεται να συλλέξουμε ορισμένες πληροφορίες για να βελτιώσουμε την εμπειρία σας και να διασφαλίσουμε την ασφαλή χρήση της υπηρεσίας μας. Αυτές οι πληροφορίες περιλαμβάνουν:
 plugin_gpt_privacy_s1a_h === α) Προσωπικές Πληροφορίες
 plugin_gpt_privacy_s1a_li1 === κλειδί API (για σκοπούς ταυτοποίησης και ενσωμάτωσης)
-plugin_gpt_privacy_s1a_li2 === Διεύθυνση email (για επικοινωνία υποστήριξης και σχετική με τον λογαριασμό)
+plugin_gpt_privacy_s1a_li2 === Διεύθυνση ηλεκτρονικού ταχυδρομείου (για επικοινωνία υποστήριξης και σχετική με τον λογαριασμό)
 plugin_gpt_privacy_s1a_p1 === Για να αποκτήσετε πρόσβαση στην
 plugin_gpt_privacy_s1a_p2 === υπηρεσία, ενδέχεται να σας ζητήσουμε να παράσχετε ορισμένες προσωπικά αναγνωρίσιμες πληροφορίες, όπως:
 plugin_gpt_privacy_s1b_h === β) Περιεχόμενο Μηνυμάτων

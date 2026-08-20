@@ -3007,7 +3007,7 @@ plugin_gpt_conf_privacypolicy_label === Manufar Sirri
 plugin_gpt_conf_privacypolicy_p === Kwafi wannan URL ka manna a filin <strong>Privacy policy</strong> a ƙasan saitunan aikin.
 plugin_gpt_conf_publish_anyonelink === <strong>Anyone with the link</strong> - Ana iya gani ga takamaiman mutanen da ka zaɓa ka ba su hanyar sadarwar GPT.
 plugin_gpt_conf_publish_gptstore === <strong>GPT Store</strong> - Ana iya gani ga kowa har da masu amfani da ChatGPT kyauta.
-plugin_gpt_conf_publish_gptstore_warning === Idan ka zaɓi wallafawa a <strong>GPT Store</strong>, da fatan za a tabbatar ka cika bayanan profile ɗinka na builder kuma ka tabbatar da domain ɗinka a saitunan profile na ChatGPT.
+plugin_gpt_conf_publish_gptstore_warning === Idan ka zaɓi wallafawa a <strong>GPT Store</strong>, da fatan za a tabbatar ka cika bayanan profile ɗinka na mai ƙirƙira kuma ka tabbatar da yankinka a saitunan profile na ChatGPT.
 plugin_gpt_conf_publish_h === Wallafa GPT
 plugin_gpt_conf_publish_onlyme === <strong>Only Me</strong> - Ana iya gani ga kai kaɗai.
 plugin_gpt_conf_publish_step1 === 1. A kusurwar sama-dama, danna maɓallin <strong>Share</strong>. Za ka ga abin da ke ƙasa.

@@ -2979,7 +2979,7 @@ plugin_gpt_conf_actions_p === نیچے سکرول کریں اور <strong>Create
 plugin_gpt_conf_auth_h === توثیق
 plugin_gpt_conf_auth_screenshot_note === <small>یہ اسکرین شاٹ نیچے دیے گئے Custom Header کی ضرورت سے پہلے کا ہے اور اب بھی Bearer منتخب دکھاتا ہے -- تصویر کے بجائے تحریری مراحل پر عمل کریں۔</small>
 plugin_gpt_conf_auth_step1 === 1. <strong>API Key</strong> منتخب کریں، <strong>Auth Type</strong> کو <strong>Custom</strong> پر سیٹ کریں، پھر <strong>Custom Header Name</strong> کو <code>X-Zender-Token</code> پر سیٹ کریں۔
-plugin_gpt_conf_auth_step2 === 2. نیچے دیا گیا <strong>Authentication Token</strong> کاپی کریں اور اسے ان پٹ فیلڈ میں پیسٹ کرکے محفوظ کریں۔
+plugin_gpt_conf_auth_step2 === 2. نیچے دیا گیا <strong>توثیق کا ٹوکن</strong> کاپی کریں اور اسے ان پٹ فیلڈ میں پیسٹ کرکے محفوظ کریں۔
 plugin_gpt_conf_capabilities_label === صلاحیتیں
 plugin_gpt_conf_capabilities_p === صلاحیتوں کو ذیل کی مثال کی طرح چیک کریں۔
 plugin_gpt_conf_codeinterp_label === Code Interpreter & Data Analysis

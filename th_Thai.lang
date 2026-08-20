@@ -2974,12 +2974,12 @@ provider_credentials_label === ข้อมูลรับรองผู้ใ�
 provider_manifest_label === Manifest (JSON)
 provider_manifest_help === วางไฟล์ manifest .json ของผู้ให้บริการที่นี่ ดาวน์โหลดจากที่เก็บผู้ให้บริการ หรือเขียนของคุณเองโดยใช้ boilerplate.json
 provider_manifest_unreadable === ไม่สามารถอ่านผู้ให้บริการรายนี้ได้ เลือกรายอื่น หรือวาง manifest ด้วยตนเอง
-plugin_gpt_conf_actions_h === การดำเนินการ (Actions)
+plugin_gpt_conf_actions_h === การดำเนินการ
 plugin_gpt_conf_actions_p === เลื่อนลงแล้วคลิก <strong>Create new action</strong> จากนั้นอ่านคำแนะนำด้านล่างนี้
 plugin_gpt_conf_auth_h === การยืนยันตัวตน
 plugin_gpt_conf_auth_screenshot_note === <small>ภาพหน้าจอนี้ถ่ายไว้ก่อนมีข้อกำหนดเรื่อง Custom Header ด้านล่าง และยังคงแสดงตัวเลือก Bearer ไว้ -- โปรดทำตามขั้นตอนที่เขียนไว้ ไม่ใช่ตามภาพ</small>
 plugin_gpt_conf_auth_step1 === 1. เลือก <strong>API Key</strong> ตั้งค่า <strong>Auth Type</strong> เป็น <strong>Custom</strong> จากนั้นตั้งค่า <strong>Custom Header Name</strong> เป็น <code>X-Zender-Token</code>
-plugin_gpt_conf_auth_step2 === 2. คัดลอก <strong>Authentication Token</strong> ด้านล่างนี้ แล้ววางลงในช่องกรอกข้อมูล จากนั้นบันทึก
+plugin_gpt_conf_auth_step2 === 2. คัดลอก <strong>โทเค็นยืนยันตัวตน</strong> ด้านล่างนี้ แล้ววางลงในช่องกรอกข้อมูล จากนั้นบันทึก
 plugin_gpt_conf_capabilities_label === ความสามารถ
 plugin_gpt_conf_capabilities_p === ทำเครื่องหมายความสามารถตามตัวอย่างด้านล่างนี้
 plugin_gpt_conf_codeinterp_label === Code Interpreter & Data Analysis
@@ -3004,7 +3004,7 @@ plugin_gpt_conf_info_p === โปรดกรอกข้อมูลต่อ�
 plugin_gpt_conf_name_label === ชื่อ
 plugin_gpt_conf_name_p === คัดลอกและวางข้อความต่อไปนี้ลงในช่อง <strong>Name</strong> ควรตรงกับชื่อที่คุณตั้งไว้ในการตั้งค่าปลั๊กอิน
 plugin_gpt_conf_privacypolicy_label === Privacy Policy
-plugin_gpt_conf_privacypolicy_p === คัดลอก URL ต่อไปนี้ แล้ววางลงในช่อง <strong>Privacy policy</strong> ที่ด้านล่างของการตั้งค่า action
+plugin_gpt_conf_privacypolicy_p === คัดลอก URL ต่อไปนี้ แล้ววางลงในช่อง <strong>Privacy policy</strong> ที่ด้านล่างของการตั้งค่าการดำเนินการ
 plugin_gpt_conf_publish_anyonelink === <strong>Anyone with the link</strong> - แสดงให้เฉพาะบุคคลที่คุณเลือกให้ลิงก์ GPT เท่านั้น
 plugin_gpt_conf_publish_gptstore === <strong>GPT Store</strong> - แสดงให้ทุกคนเห็น รวมถึงผู้ใช้ ChatGPT แบบฟรีด้วย
 plugin_gpt_conf_publish_gptstore_warning === หากคุณเลือกเผยแพร่ใน <strong>GPT Store</strong> โปรดตรวจสอบให้แน่ใจว่าคุณกรอกโปรไฟล์ผู้สร้างและยืนยันโดเมนในการตั้งค่าโปรไฟล์ ChatGPT ของคุณเรียบร้อยแล้ว

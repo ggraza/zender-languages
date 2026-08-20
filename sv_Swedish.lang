@@ -2979,7 +2979,7 @@ plugin_gpt_conf_actions_p === Skrolla ner och klicka på <strong>Create new acti
 plugin_gpt_conf_auth_h === Autentisering
 plugin_gpt_conf_auth_screenshot_note === <small>Denna skärmbild är från innan kravet på Custom Header nedan infördes och visar fortfarande Bearer valt -- följ de skriftliga stegen, inte bilden.</small>
 plugin_gpt_conf_auth_step1 === 1. Välj <strong>API Key</strong>, sätt <strong>Auth Type</strong> till <strong>Custom</strong>, ställ sedan in <strong>Custom Header Name</strong> till <code>X-Zender-Token</code>.
-plugin_gpt_conf_auth_step2 === 2. Kopiera <strong>Authentication Token</strong> nedan och klistra in den i inmatningsfältet, spara sedan.
+plugin_gpt_conf_auth_step2 === 2. Kopiera <strong>Autentiseringstoken</strong> nedan och klistra in den i inmatningsfältet, spara sedan.
 plugin_gpt_conf_capabilities_label === Funktioner
 plugin_gpt_conf_capabilities_p === Kryssa i funktionerna som i exemplet nedan.
 plugin_gpt_conf_codeinterp_label === Code Interpreter & Data Analysis
