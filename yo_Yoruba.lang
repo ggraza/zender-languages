@@ -3024,7 +3024,7 @@ plugin_gpt_privacy_s1_h === 1. Àlàyé Tí A Ń Kójọ
 plugin_gpt_privacy_s1_p1 === Nígbà tí o bá ń bá
 plugin_gpt_privacy_s1_p2 === lò, a lè kó àwọn àlàyé kan jọ láti gbé ìrírí rẹ ga àti láti rí i dájú pé lílò iṣẹ́ wa jẹ́ ààbò. Àlàyé yìí ní nínú:
 plugin_gpt_privacy_s1a_h === a) Àlàyé Ìdálẹ́kọ̀ọ́
-plugin_gpt_privacy_s1a_li1 === API Key (fún àwọn ète ìjẹ́rìísí àti ìṣọ̀kan)
+plugin_gpt_privacy_s1a_li1 === bọtini API (fún àwọn ète ìjẹ́rìísí àti ìṣọ̀kan)
 plugin_gpt_privacy_s1a_li2 === Àdírẹ́sì ímeèlì (fún àwọn ète ìrànlọ́wọ́ àti ìbánisọ̀rọ̀ tí ó ní í ṣe pẹ̀lú àkántì)
 plugin_gpt_privacy_s1a_p1 === Láti wọlé sí iṣẹ́
 plugin_gpt_privacy_s1a_p2 === , a lè béèrè lọ́wọ́ rẹ láti pèsè àwọn àlàyé kan tí a fi ń dá ẹnì kan mọ̀, títí kan:
@@ -3045,7 +3045,7 @@ plugin_gpt_privacy_s2_li5 === Láti dáàbò bo iṣẹ́ wa àti àwọn olùl�
 plugin_gpt_privacy_s2_p === A ń lo àlàyé tí a kójọ fún oríṣiríṣi ète, títí kan:
 plugin_gpt_privacy_s3_h === 3. Ààbò àti Ìpamọ́ Dátà
 plugin_gpt_privacy_s3_li1 === <strong>Ìpamọ́ Dátà:</strong> A kì í fi àkóónú ìránṣẹ́ tàbí dátà olùgbà pamọ́ lẹ́yìn tí a bá ti ṣe iṣẹ́ tí a béèrè fún ní àṣeyọrí.
-plugin_gpt_privacy_s3_li2 === <strong>Àkókò Ìpamọ́ Dátà:</strong> Àwọn àlàyé tí a fi ń dá ẹnì kan mọ̀, bí i API keys, ni a máa ń pa mọ́ fún àkókò tí ìjókòó rẹ bá pé, a ó sì parẹ́ lẹ́yìn náà.
+plugin_gpt_privacy_s3_li2 === <strong>Àkókò Ìpamọ́ Dátà:</strong> Àwọn àlàyé tí a fi ń dá ẹnì kan mọ̀, bí i àwọn bọtini API, ni a máa ń pa mọ́ fún àkókò tí ìjókòó rẹ bá pé, a ó sì parẹ́ lẹ́yìn náà.
 plugin_gpt_privacy_s3_p1 === A ti dúró ṣinṣin láti rí i dájú pé àlàyé rẹ jẹ́ ààbò.
 plugin_gpt_privacy_s3_p2 === ń lo àwọn ìlànà ààbò tí ó bójú mu ní ti òwò láti dáàbò bo àlàyé ìdálẹ́kọ̀ọ́ rẹ kúrò lọ́wọ́ ìwọlé, ìyípadà, ìtẹ̀jáde, tàbí ìparun tí a kò fọwọ́sí.
 plugin_gpt_privacy_s4_h === 4. Pínpín àti Ìtẹ̀jáde Dátà

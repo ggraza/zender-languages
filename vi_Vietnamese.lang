@@ -3024,7 +3024,7 @@ plugin_gpt_privacy_s1_h === 1. Thông tin chúng tôi thu thập
 plugin_gpt_privacy_s1_p1 === Khi bạn tương tác với
 plugin_gpt_privacy_s1_p2 === , chúng tôi có thể thu thập một số thông tin nhất định để nâng cao trải nghiệm của bạn và đảm bảo việc sử dụng dịch vụ của chúng tôi an toàn. Thông tin này bao gồm:
 plugin_gpt_privacy_s1a_h === a) Thông tin cá nhân
-plugin_gpt_privacy_s1a_li1 === API Key (cho mục đích xác thực và tích hợp)
+plugin_gpt_privacy_s1a_li1 === khóa API (cho mục đích xác thực và tích hợp)
 plugin_gpt_privacy_s1a_li2 === Địa chỉ email (cho mục đích hỗ trợ và liên lạc liên quan đến tài khoản)
 plugin_gpt_privacy_s1a_p1 === Để truy cập dịch vụ
 plugin_gpt_privacy_s1a_p2 === , chúng tôi có thể yêu cầu bạn cung cấp một số thông tin nhận dạng cá nhân, bao gồm:
@@ -3045,7 +3045,7 @@ plugin_gpt_privacy_s2_li5 === Để bảo vệ dịch vụ và người dùng c�
 plugin_gpt_privacy_s2_p === Chúng tôi sử dụng thông tin thu thập được cho nhiều mục đích khác nhau, bao gồm:
 plugin_gpt_privacy_s3_h === 3. Bảo mật và Lưu trữ Dữ liệu
 plugin_gpt_privacy_s3_li1 === <strong>Lưu trữ Dữ liệu:</strong> Chúng tôi không giữ lại nội dung tin nhắn hoặc dữ liệu người nhận sau khi xử lý thành công một yêu cầu.
-plugin_gpt_privacy_s3_li2 === <strong>Thời gian Lưu trữ Dữ liệu:</strong> Thông tin nhận dạng cá nhân, chẳng hạn như API keys, được lưu trữ trong suốt thời gian phiên làm việc của bạn và bị xóa sau đó.
+plugin_gpt_privacy_s3_li2 === <strong>Thời gian Lưu trữ Dữ liệu:</strong> Thông tin nhận dạng cá nhân, chẳng hạn như khóa API, được lưu trữ trong suốt thời gian phiên làm việc của bạn và bị xóa sau đó.
 plugin_gpt_privacy_s3_p1 === Chúng tôi cam kết đảm bảo thông tin của bạn được bảo mật.
 plugin_gpt_privacy_s3_p2 === sử dụng các biện pháp bảo mật hợp lý về mặt thương mại để bảo vệ thông tin cá nhân của bạn khỏi truy cập, thay đổi, tiết lộ hoặc phá hủy trái phép.
 plugin_gpt_privacy_s4_h === 4. Chia sẻ và Tiết lộ Dữ liệu

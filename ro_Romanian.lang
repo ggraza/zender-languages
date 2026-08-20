@@ -3024,7 +3024,7 @@ plugin_gpt_privacy_s1_h === 1. Informațiile pe care le colectăm
 plugin_gpt_privacy_s1_p1 === Atunci când interacționați cu
 plugin_gpt_privacy_s1_p2 === , este posibil să colectăm anumite informații pentru a vă îmbunătăți experiența și a asigura utilizarea sigură a serviciului nostru. Aceste informații includ:
 plugin_gpt_privacy_s1a_h === a) Informații Personale
-plugin_gpt_privacy_s1a_li1 === API Key (în scopuri de autentificare și integrare)
+plugin_gpt_privacy_s1a_li1 === cheie API (în scopuri de autentificare și integrare)
 plugin_gpt_privacy_s1a_li2 === Adresa de email (pentru asistență și comunicare legată de cont)
 plugin_gpt_privacy_s1a_p1 === Pentru a accesa serviciul
 plugin_gpt_privacy_s1a_p2 === , este posibil să vă cerem să furnizați anumite informații personale identificabile, inclusiv:

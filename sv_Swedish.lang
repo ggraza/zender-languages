@@ -3024,7 +3024,7 @@ plugin_gpt_privacy_s1_h === 1. Information vi samlar in
 plugin_gpt_privacy_s1_p1 === När du interagerar med
 plugin_gpt_privacy_s1_p2 === , kan vi samla in viss information för att förbättra din upplevelse och säkerställa säker användning av vår tjänst. Denna information inkluderar:
 plugin_gpt_privacy_s1a_h === a) Personlig information
-plugin_gpt_privacy_s1a_li1 === API Key (för autentisering och integrationsändamål)
+plugin_gpt_privacy_s1a_li1 === API-nyckel (för autentisering och integrationsändamål)
 plugin_gpt_privacy_s1a_li2 === E-postadress (för support och kontorelaterad kommunikation)
 plugin_gpt_privacy_s1a_p1 === För att få tillgång till
 plugin_gpt_privacy_s1a_p2 === -tjänsten kan vi be dig att lämna viss personligt identifierbar information, inklusive:

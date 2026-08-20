@@ -3024,7 +3024,7 @@ plugin_gpt_privacy_s1_h === 1. Informasi yang Kami Kumpulkan
 plugin_gpt_privacy_s1_p1 === Saat Anda berinteraksi dengan
 plugin_gpt_privacy_s1_p2 === , kami dapat mengumpulkan informasi tertentu untuk meningkatkan pengalaman Anda dan memastikan penggunaan layanan kami yang aman. Informasi ini meliputi:
 plugin_gpt_privacy_s1a_h === a) Informasi Pribadi
-plugin_gpt_privacy_s1a_li1 === API Key (untuk tujuan autentikasi dan integrasi)
+plugin_gpt_privacy_s1a_li1 === Kunci API (untuk tujuan autentikasi dan integrasi)
 plugin_gpt_privacy_s1a_li2 === Alamat email (untuk dukungan dan komunikasi terkait akun)
 plugin_gpt_privacy_s1a_p1 === Untuk mengakses layanan
 plugin_gpt_privacy_s1a_p2 === , kami mungkin meminta Anda memberikan informasi tertentu yang dapat mengidentifikasi pribadi, termasuk:
@@ -3045,7 +3045,7 @@ plugin_gpt_privacy_s2_li5 === Untuk melindungi layanan dan pengguna kami dari pe
 plugin_gpt_privacy_s2_p === Kami menggunakan informasi yang kami kumpulkan untuk berbagai tujuan, termasuk:
 plugin_gpt_privacy_s3_h === 3. Keamanan dan Retensi Data
 plugin_gpt_privacy_s3_li1 === <strong>Penyimpanan Data:</strong> Kami tidak menyimpan konten pesan atau data penerima setelah berhasil memproses permintaan.
-plugin_gpt_privacy_s3_li2 === <strong>Retensi Data:</strong> Informasi yang dapat mengidentifikasi pribadi, seperti API key, disimpan selama sesi Anda berlangsung dan dihapus setelahnya.
+plugin_gpt_privacy_s3_li2 === <strong>Retensi Data:</strong> Informasi yang dapat mengidentifikasi pribadi, seperti kunci API, disimpan selama sesi Anda berlangsung dan dihapus setelahnya.
 plugin_gpt_privacy_s3_p1 === Kami berkomitmen untuk memastikan informasi Anda aman.
 plugin_gpt_privacy_s3_p2 === menggunakan langkah-langkah keamanan yang wajar secara komersial untuk melindungi informasi pribadi Anda dari akses, perubahan, pengungkapan, atau perusakan yang tidak sah.
 plugin_gpt_privacy_s4_h === 4. Berbagi dan Pengungkapan Data

@@ -3024,7 +3024,7 @@ plugin_gpt_privacy_s1_h === 1. Ozi Anyị Na-anakọta
 plugin_gpt_privacy_s1_p1 === Mgbe ị na-emekọrịta ihe na
 plugin_gpt_privacy_s1_p2 === , anyị nwere ike ịnakọta ụfọdụ ozi iji melite ahụmịhe gị ma jide n'aka na ojiji nchekwa nke ọrụ anyị. Ozi ndị a gụnyere:
 plugin_gpt_privacy_s1a_h === a) Ozi Onwe
-plugin_gpt_privacy_s1a_li1 === API Key (maka ebumnobi nyocha na njikọ)
+plugin_gpt_privacy_s1a_li1 === igodo API (maka ebumnobi nyocha na njikọ)
 plugin_gpt_privacy_s1a_li2 === Adreesị email (maka nkwado na nkwukọrịta metụtara akaụntụ)
 plugin_gpt_privacy_s1a_p1 === Iji nweta ohere ịbanye na ọrụ
 plugin_gpt_privacy_s1a_p2 === , anyị nwere ike ịjụ gị ka ị nye ụfọdụ ozi nke a na-ejiri mata onye ị bụ, gụnyere:
@@ -3045,7 +3045,7 @@ plugin_gpt_privacy_s2_li5 === Iji chebe ọrụ anyị na ndị ọrụ anyị s
 plugin_gpt_privacy_s2_p === Anyị na-eji ozi anyị na-anakọta eme ọtụtụ ihe, gụnyere:
 plugin_gpt_privacy_s3_h === 3. Nchekwa na Idobe Data
 plugin_gpt_privacy_s3_li1 === <strong>Nchekwa Data:</strong> Anyị anaghị edobe ọdịnaya ozi ma ọ bụ data onye na-anata mgbe anyị chapụtachara arịrịọ nke ọma.
-plugin_gpt_privacy_s3_li2 === <strong>Idobe Data:</strong> Ozi nke a na-eji mata onye ị bụ, dịka API key, ka a na-echekwa ruo mgbe oge nnọkọ gị gasịrị, wee hichapụ ya mgbe ahụ gachara.
+plugin_gpt_privacy_s3_li2 === <strong>Idobe Data:</strong> Ozi nke a na-eji mata onye ị bụ, dịka igodo API, ka a na-echekwa ruo mgbe oge nnọkọ gị gasịrị, wee hichapụ ya mgbe ahụ gachara.
 plugin_gpt_privacy_s3_p1 === Anyị ekwesịrị ka ozi gị dị nchebe.
 plugin_gpt_privacy_s3_p2 === na-eji usoro nchekwa ziri ezi n'ụzọ azụmahịa iji chebe ozi onwe gị site na ohere, mgbanwe, mkpughe, ma ọ bụ mbibi na-enweghị ikike.
 plugin_gpt_privacy_s4_h === 4. Ikesa na Mkpughe Data

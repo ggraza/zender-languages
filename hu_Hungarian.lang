@@ -3024,7 +3024,7 @@ plugin_gpt_privacy_s1_h === 1. Az Általunk Gyűjtött Információk
 plugin_gpt_privacy_s1_p1 === Amikor kapcsolatba lép a
 plugin_gpt_privacy_s1_p2 === szolgáltatással, bizonyos információkat gyűjthetünk az élmény javítása és szolgáltatásunk biztonságos használatának biztosítása érdekében. Ezek az információk a következőket tartalmazzák:
 plugin_gpt_privacy_s1a_h === a) Személyes Adatok
-plugin_gpt_privacy_s1a_li1 === API Key (hitelesítési és integrációs célokra)
+plugin_gpt_privacy_s1a_li1 === API kulcs (hitelesítési és integrációs célokra)
 plugin_gpt_privacy_s1a_li2 === E-mail cím (támogatással és fiókkal kapcsolatos kommunikációhoz)
 plugin_gpt_privacy_s1a_p1 === A
 plugin_gpt_privacy_s1a_p2 === szolgáltatás eléréséhez kérhetjük Öntől bizonyos személyazonosításra alkalmas információk megadását, például:
@@ -3045,7 +3045,7 @@ plugin_gpt_privacy_s2_li5 === Szolgáltatásunk és felhasználóink védelméhe
 plugin_gpt_privacy_s2_p === Az általunk gyűjtött információkat különféle célokra használjuk, például:
 plugin_gpt_privacy_s3_h === 3. Adatbiztonság és Megőrzés
 plugin_gpt_privacy_s3_li1 === <strong>Adattárolás:</strong> Nem őrizzük meg az üzenet tartalmát vagy a címzett adatait a kérés sikeres feldolgozása után.
-plugin_gpt_privacy_s3_li2 === <strong>Adatmegőrzés:</strong> A személyazonosításra alkalmas információkat, mint például az API key-eket, a munkamenet időtartamára tároljuk, majd töröljük.
+plugin_gpt_privacy_s3_li2 === <strong>Adatmegőrzés:</strong> A személyazonosításra alkalmas információkat, mint például az API kulcsokat, a munkamenet időtartamára tároljuk, majd töröljük.
 plugin_gpt_privacy_s3_p1 === Elkötelezettek vagyunk amellett, hogy az Ön adatai biztonságosak legyenek.
 plugin_gpt_privacy_s3_p2 === kereskedelmi szempontból ésszerű biztonsági intézkedéseket alkalmaz az Ön személyes adatainak jogosulatlan hozzáféréstől, módosítástól, nyilvánosságra hozataltól vagy megsemmisítéstől való védelmére.
 plugin_gpt_privacy_s4_h === 4. Adatmegosztás és Nyilvánosságra Hozatal

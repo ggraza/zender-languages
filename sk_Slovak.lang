@@ -3024,7 +3024,7 @@ plugin_gpt_privacy_s1_h === 1. Informácie, ktoré zhromažďujeme
 plugin_gpt_privacy_s1_p1 === Keď komunikujete s
 plugin_gpt_privacy_s1_p2 === , môžeme zhromažďovať určité informácie na zlepšenie vášho zážitku a zaistenie bezpečného používania našej služby. Tieto informácie zahŕňajú:
 plugin_gpt_privacy_s1a_h === a) Osobné údaje
-plugin_gpt_privacy_s1a_li1 === API Key (na účely overenia a integrácie)
+plugin_gpt_privacy_s1a_li1 === API kľúč (na účely overenia a integrácie)
 plugin_gpt_privacy_s1a_li2 === E-mailová adresa (na účely podpory a komunikácie súvisiacej s účtom)
 plugin_gpt_privacy_s1a_p1 === Na prístup k službe
 plugin_gpt_privacy_s1a_p2 === vás môžeme požiadať o poskytnutie určitých osobne identifikovateľných údajov, vrátane:
