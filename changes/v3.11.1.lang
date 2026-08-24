@@ -1,0 +1,94 @@
+plugin_gpt_conf_actions_h === Actions
+plugin_gpt_conf_actions_p === Scroll down and click <strong>Create new action</strong>, then read the following instructions below.
+plugin_gpt_conf_auth_h === Authentication
+plugin_gpt_conf_auth_screenshot_note === <small>This screenshot predates the Custom Header requirement below and still shows Bearer selected -- follow the written steps, not the image.</small>
+plugin_gpt_conf_auth_step1 === 1. Select <strong>API Key</strong>, set <strong>Auth Type</strong> to <strong>Custom</strong>, then set <strong>Custom Header Name</strong> to <code>X-Zender-Token</code>.
+plugin_gpt_conf_auth_step2 === 2. Copy the <strong>Authentication Token</strong> below and paste it to the input field then save.
+plugin_gpt_conf_capabilities_label === Capabilities
+plugin_gpt_conf_capabilities_p === Check the capabilities like in the following example below.
+plugin_gpt_conf_codeinterp_label === Code Interpreter & Data Analysis
+plugin_gpt_conf_conv1 === What can you do for me?
+plugin_gpt_conf_conv2 === Send a WhatsApp message
+plugin_gpt_conf_conv3 === Check my remaining SMS credits
+plugin_gpt_conf_conv4 === Get my current WhatsApp accounts
+plugin_gpt_conf_conv5 === Send an SMS message to a phone number
+plugin_gpt_conf_convstarters_label === Conversation Starters
+plugin_gpt_conf_convstarters_p === Copy and paste the following conversation starters, feel free to change them to your liking.
+plugin_gpt_conf_copy_btn === Copy
+plugin_gpt_conf_dalle_label === DALL·E Image Generation
+plugin_gpt_conf_description_label === Description
+plugin_gpt_conf_description_p === Copy and paste the following to the <strong>Description</strong> field. Feel free to change this to your liking.
+plugin_gpt_conf_description_value === Send SMS and WhatsApp messages with
+plugin_gpt_conf_editsettings_btn === Settings
+plugin_gpt_conf_editsettings_title === Edit Bridge Settings
+plugin_gpt_conf_important === Important!
+plugin_gpt_conf_important_p === Before you start here, please make sure that you have already edited the plugin settings in the admin panel. If you haven't done it, please edit using the button below then refresh the page.
+plugin_gpt_conf_info_h === GPT Information
+plugin_gpt_conf_info_p === Please enter the following information to your GPT configuration.
+plugin_gpt_conf_instructions_label === Instructions
+plugin_gpt_conf_instructions_p === Copy and paste the following to the <strong>Instructions</strong> field.
+plugin_gpt_conf_name_label === Name
+plugin_gpt_conf_name_p === Copy and paste the following to the <strong>Name</strong> field. This should match the one you set in the plugin settings.
+plugin_gpt_conf_privacypolicy_label === Privacy Policy
+plugin_gpt_conf_privacypolicy_p === Copy the following URL and paste it in the <strong>Privacy policy</strong> field at the bottom of the action settings.
+plugin_gpt_conf_publish_anyonelink === <strong>Anyone with the link</strong> - Visible to specific people you choose to give the GPT link.
+plugin_gpt_conf_publish_gptstore === <strong>GPT Store</strong> - Visible to everyone including free users of ChatGPT.
+plugin_gpt_conf_publish_gptstore_warning === If you choose to publish in <strong>GPT Store</strong>, make sure you have completed your builder profile and verified your domain in your ChatGPT profile settings.
+plugin_gpt_conf_publish_h === Publish GPT
+plugin_gpt_conf_publish_onlyme === <strong>Only Me</strong> - Visible on to you.
+plugin_gpt_conf_publish_step1 === 1. On the top right corner, click the <strong>Share</strong> button. You should see the following.
+plugin_gpt_conf_publish_step2 === 2. Select the audience your prefer, there are three options.
+plugin_gpt_conf_publish_step3 === 3. Click <strong>Save</strong> to publish your GPT.
+plugin_gpt_conf_publish_step4 === 4. All done, you can now close this page.
+plugin_gpt_conf_schema_label === Schema
+plugin_gpt_conf_schema_p === Copy the following URL and paste it in the <strong>Import from URL</strong> field then press <strong>Import</strong>.
+plugin_gpt_conf_title === GPT Configuration
+plugin_gpt_conf_webbrowsing_label === Web Browsing
+plugin_gpt_privacy_email_label === Email:
+plugin_gpt_privacy_lastupdated === <strong>Last Updated:</strong>
+plugin_gpt_privacy_s1_h === 1. Information We Collect
+plugin_gpt_privacy_s1_p1 === When you interact with
+plugin_gpt_privacy_s1_p2 === , we may collect certain information to enhance your experience and ensure the secure use of our service. This information includes:
+plugin_gpt_privacy_s1a_h === a) Personal Information
+plugin_gpt_privacy_s1a_li1 === API Key (for authentication and integration purposes)
+plugin_gpt_privacy_s1a_li2 === Email address (for support and account-related communication)
+plugin_gpt_privacy_s1a_p1 === To access the
+plugin_gpt_privacy_s1a_p2 === service, we may ask you to provide certain personally identifiable information, including:
+plugin_gpt_privacy_s1b_h === b) Messaging Content
+plugin_gpt_privacy_s1b_li1 === Recipient phone numbers
+plugin_gpt_privacy_s1b_li2 === Message text
+plugin_gpt_privacy_s1b_li3 === Media attachments (for WhatsApp messages)
+plugin_gpt_privacy_s1b_note === does not store message content after processing your request.
+plugin_gpt_privacy_s1b_p1 === To send messages on your behalf, the
+plugin_gpt_privacy_s1b_p2 === service processes the content you provide, including:
+plugin_gpt_privacy_s2_h === 2. How We Use Your Information
+plugin_gpt_privacy_s2_li1a === To facilitate and operate the
+plugin_gpt_privacy_s2_li1b === service
+plugin_gpt_privacy_s2_li2 === To authenticate user requests and ensure authorized use of API services
+plugin_gpt_privacy_s2_li3 === To improve our service by analyzing usage patterns
+plugin_gpt_privacy_s2_li4 === To troubleshoot issues and provide support
+plugin_gpt_privacy_s2_li5 === To protect our service and users against misuse
+plugin_gpt_privacy_s2_p === We use the information we collect for a variety of purposes, including:
+plugin_gpt_privacy_s3_h === 3. Data Security and Retention
+plugin_gpt_privacy_s3_li1 === <strong>Data Storage:</strong> We do not retain message content or recipient data after successfully processing a request.
+plugin_gpt_privacy_s3_li2 === <strong>Data Retention:</strong> Personally identifiable information, such as API keys, is stored for the duration of your session and deleted thereafter.
+plugin_gpt_privacy_s3_p1 === We are committed to ensuring that your information is secure.
+plugin_gpt_privacy_s3_p2 === uses commercially reasonable security measures to protect your personal information from unauthorized access, alteration, disclosure, or destruction.
+plugin_gpt_privacy_s4_h === 4. Data Sharing and Disclosure
+plugin_gpt_privacy_s4_li1 === <strong>With Third-Party Service Providers:</strong> We may use third-party tools to process or analyze data on our behalf.
+plugin_gpt_privacy_s4_li2 === <strong>For Legal Requirements:</strong> We may disclose information if legally required to do so or if we believe in good faith that such action is necessary to comply with legal obligations, protect rights, or investigate wrongdoing related to our service.
+plugin_gpt_privacy_s4_p1 === We only share information when it is necessary to provide the
+plugin_gpt_privacy_s4_p2 === service and under specific circumstances:
+plugin_gpt_privacy_s5_h === 5. User Rights and Choices
+plugin_gpt_privacy_s5_li1 === <strong>Access and Correction:</strong> You may request access to the personal data we hold about you and ask us to correct inaccuracies.
+plugin_gpt_privacy_s5_li2 === <strong>Data Deletion:</strong> You may request deletion of your personal data from our systems, subject to our legal obligations.
+plugin_gpt_privacy_s5_li3 === <strong>Data Portability:</strong> Where applicable, you have the right to receive a copy of your data in a structured, commonly used, and machine-readable format.
+plugin_gpt_privacy_s5_p === You have the following rights with respect to the information we hold about you:
+plugin_gpt_privacy_s6_h === 6. Children's Privacy
+plugin_gpt_privacy_s6_p === is not intended for use by individuals under the age of 13. We do not knowingly collect or solicit personal data from children. If we discover that we have unintentionally collected personal information from a child under the age of 13, we will take steps to delete the information as soon as possible.
+plugin_gpt_privacy_s7_h === 7. Changes to This Privacy Policy
+plugin_gpt_privacy_s7_p === We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. We encourage you to review this Privacy Policy periodically for any changes.
+plugin_gpt_privacy_s8_h === 8. Contact Us
+plugin_gpt_privacy_s8_p === If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at:
+plugin_gpt_privacy_title === Privacy Policy for
+plugin_gpt_privacy_website_label === Website:
